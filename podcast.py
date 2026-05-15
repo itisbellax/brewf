@@ -20,23 +20,19 @@ def generate_script(articles):
         angle = f" {student_angle}" if student_angle else ""
         stories += f"\nStory {i}: {title}. {bullets}.{angle}\n"
 
-    prompt = f"""You are the host of BREWF, a daily tech podcast for CS university students. Think NPR meets a sharp tech newsletter — informed, engaging, clear. Not stiff, not silly.
+    prompt = f"""You are the host of BREWF, a daily 5-minute tech podcast for CS students. Your style: direct, smart, a little dry. Like a friend who actually read the news so you don't have to.
 
-Here are today's stories:
+Today's stories:
 {stories}
 
-Write a 5-minute broadcast script with:
-- Open with "Welcome to BREWF" and today's date feel
-- Each story delivered with clarity and one brief personal take — no fluff, no forced jokes
-- Natural transitions that keep momentum
-- Short, punchy sentences easy to follow while commuting
-- A grounded sign-off mentioning BREWF
-
-STRICT RULES:
-- No stage directions, no music cues, no brackets like [music], [pause], [intro]
-- No labels like "Story 1:" or "Host:"
-- Just the exact words to be spoken aloud, nothing else
-- Under 700 words"""
+Rules:
+- Open with a one-liner that hooks the listener, mention BREWF
+- Cover each story in 2-4 sentences max: what happened, why it matters. No filler.
+- One quick personal take per story — opinionated, not neutral
+- Transitions should feel natural, not scripted ("Next up...", "Meanwhile...", "And this one's interesting...")
+- Close in one sentence, sign off as BREWF
+- NOTHING but spoken words. No brackets, no labels, no stage directions, no music cues.
+- Under 500 words. Every sentence must earn its place."""
 
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
@@ -63,7 +59,7 @@ def generate_podcast(max_articles=8):
 
     print("Converting to audio...")
     async def synthesize():
-        communicate = edge_tts.Communicate(script, voice="en-US-AriaNeural")
+        communicate = edge_tts.Communicate(script, voice="en-US-JennyNeural")
         await communicate.save(AUDIO_PATH)
     asyncio.run(synthesize())
 
