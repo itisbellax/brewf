@@ -1,8 +1,8 @@
 from groq import Groq
 import edge_tts
 import asyncio
+import json
 from dotenv import load_dotenv
-from db import get_all_processed
 import os
 
 load_dotenv()
@@ -40,8 +40,17 @@ Tone: like a smart friend who keeps you informed. Occasional dry wit is fine, bu
     )
     return response.choices[0].message.content.strip()
 
+def load_articles():
+    if os.path.exists("articles.json"):
+        with open("articles.json") as f:
+            data = json.load(f)
+        return [(a["source"], a["title"], a["ai_summary"], a["student_angle"],
+                 a["link"], a["published"], a["category"], a["tags"]) for a in data]
+    from db import get_all_processed
+    return get_all_processed()
+
 def generate_podcast(max_articles=8):
-    articles = get_all_processed()[:max_articles]
+    articles = load_articles()[:max_articles]
     if not articles:
         return None, "No articles available."
 
