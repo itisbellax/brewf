@@ -1,3 +1,6 @@
 feedparser
-google-generativeai
+groq
 streamlit
+python-dotenv
+edge-tts
+gTTS
