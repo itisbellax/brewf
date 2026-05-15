@@ -20,19 +20,23 @@ def generate_script(articles):
         angle = f" {student_angle}" if student_angle else ""
         stories += f"\nStory {i}: {title}. {bullets}.{angle}\n"
 
-    prompt = f"""You are the host of a daily tech podcast for CS university students — think NPR meets a sharp tech newsletter. Informed, engaging, and clear. Not stiff, not silly.
+    prompt = f"""You are the host of BREWF, a daily tech podcast for CS university students. Think NPR meets a sharp tech newsletter — informed, engaging, clear. Not stiff, not silly.
 
 Here are today's stories:
 {stories}
 
 Write a 5-minute broadcast script with:
-- A confident, warm opener that sets the tone
-- Each story delivered with clarity and one brief personal take or insight — no fluff, no forced jokes
-- Natural transitions that keep momentum without sounding scripted
-- Short, punchy sentences that are easy to follow
-- A grounded, forward-looking sign-off
+- Open with "Welcome to BREWF" and today's date feel
+- Each story delivered with clarity and one brief personal take — no fluff, no forced jokes
+- Natural transitions that keep momentum
+- Short, punchy sentences easy to follow while commuting
+- A grounded sign-off mentioning BREWF
 
-Tone: like a smart friend who keeps you informed. Occasional dry wit is fine, but keep it mostly straight. Under 700 words. No bullet points, no labels, no stage directions — just the words spoken aloud."""
+STRICT RULES:
+- No stage directions, no music cues, no brackets like [music], [pause], [intro]
+- No labels like "Story 1:" or "Host:"
+- Just the exact words to be spoken aloud, nothing else
+- Under 700 words"""
 
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
