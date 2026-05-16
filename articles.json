@@ -1,6 +1,96 @@
 [
   {
     "source": "HackerNews",
+    "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+    "ai_summary": "• Researchers introduce Δ-Mem, a efficient online memory system for large language models, reducing computational cost.\n• Δ-Mem achieves this through a novel compression and retrieval mechanism for contextualized embeddings.\n• This improves performance and reduces memory usage by leveraging temporal locality.",
+    "student_angle": "",
+    "link": "https://arxiv.org/abs/2605.12357",
+    "published": "Sat, 16 May 2026 09:30:06 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Accelerando (2005)",
+    "ai_summary": "• Accelerando is a novel by Charles Stross, exploring AI and its potential impact on society.\n• The story is set in a world where artificial intelligence rapidly improves and changes human civilization.\n• Accelerando is a seminal work in the sci-fi genre, discussing themes of exponential growth, consciousness, and the Singularity.",
+    "student_angle": "",
+    "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+    "published": "Sat, 16 May 2026 11:36:32 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Fecal transplants for autism deliver success in clinical trials",
+    "ai_summary": "• Fecal transplants show promise reducing autism symptoms in clinical trials.\n• Patients exhibit improvements in social interaction and language skills after treatment.\n• Researchers identify key gut microbiome changes associated with Autism Spectrum Disorder.",
+    "student_angle": "NONE.",
+    "link": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
+    "published": "Sat, 16 May 2026 09:27:59 +0000",
+    "category": "Industry News",
+    "tags": "Health Tech, Medical Innovation"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Futhark by Example",
+    "ai_summary": "• Futhark is a modern, purely functional programming language for GPUs and other parallel architectures.\n• Futhark's syntax is designed to be simple and familiar, even for users without prior experience in parallel programming languages.\n• The language provides an extensive library of functions for scientific computing and data analysis.",
+    "student_angle": "Worth learning to explore modern parallel programming techniques and GPU-accelerated development.",
+    "link": "https://futhark-lang.org/examples.html",
+    "published": "Sat, 16 May 2026 09:50:10 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+    "ai_summary": "• REI's Anniversary Sale has arrived, offering discounts on outdoor essentials.\n• The sale includes deals on camping gear, such as tents and stoves.\n• Students interested in outdoor activities can stock up on gear at discounted prices.",
+    "student_angle": "None – no relevance to CS students seeking internships.",
+    "link": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+    "published": "2026-05-16T09:00:00-04:00",
+    "category": "Industry News",
+    "tags": "NONE"
+  },
+  {
+    "source": "The Verge",
+    "title": "Mixtape is a musical portrait of teenage life",
+    "ai_summary": "• New video game Mixtape offers interactive musical portrait of teenage life.\n• Game's relatable narrative focuses on high school party culture, relationships, and identity.\n• Developers aim to recreate nostalgic experiences for gamers and nostalgic players.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+    "published": "2026-05-16T08:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM, Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "The app you need to clean up your computer",
+    "ai_summary": "• CCleaner app helps remove unwanted software, updates, and files from PCs.\n• Customizable options allow users to choose what gets cleaned each time.\n• Free trial and in-app purchases for premium features available.",
+    "student_angle": "None.",
+    "link": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+    "published": "2026-05-16T08:00:00-04:00",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "These are the laptops I recommend for pretty much anyone",
+    "ai_summary": "• Portable 14-inch laptops recommended for ease of use and portability on-the-go.\n• High-performance laptops suitable for demanding tasks such as coding and video editing.\n• Laptops with robust cooling systems, efficient power management for extended usage without overheating.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
+    "published": "2026-05-16T08:00:00-04:00",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Xbox is now XBOX",
+    "ai_summary": "• Microsoft's Xbox is rebranding to all-caps XBOX after fan poll results.\n• Asha Sharma's Xbox division initiated the change to XBOX brand identity overhaul.\n• Renaming of the Xbox account now mirrors XBOX branding.",
+    "student_angle": "Possibly new internship opportunities arise from major rebranding efforts.",
+    "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+    "published": "2026-05-15T19:10:13-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "HackerNews",
     "title": "Project Gutenberg – keeps getting better",
     "ai_summary": "• Project Gutenberg, the largest digital library of free eBooks, surpasses 70,000 available titles.\n• A new mobile app, 'EPUBs and eBooks', allows users to customize reading preferences.\n• A modernized donation system and simplified browsing experience enhance user engagement.",
     "student_angle": "With an increasing digital presence, potential internship opportunities in e-publishing and digital libraries may grow in the coming years.",
