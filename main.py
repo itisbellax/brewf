@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 from datetime import datetime, timedelta
 from fetcher import fetch_articles
 from db import init_db, save_articles, DB_PATH, get_all_processed
@@ -32,6 +33,7 @@ def export_to_json():
     print(f"Exported {len(data)} articles to articles.json")
 
 if __name__ == "__main__":
+    import subprocess
     print("=== BREWF Daily Refresh ===")
     init_db()
     cleanup_old_articles()
@@ -40,4 +42,7 @@ if __name__ == "__main__":
     print(f"Fetched {len(articles)} articles, {saved} new")
     process_all()
     export_to_json()
+    subprocess.run(["git", "add", "articles.json"], cwd=os.path.dirname(os.path.abspath(__file__)))
+    subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=os.path.dirname(os.path.abspath(__file__)))
+    subprocess.run(["git", "push"], cwd=os.path.dirname(os.path.abspath(__file__)))
     print("Done.")
