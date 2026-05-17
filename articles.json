@@ -1,6 +1,156 @@
 [
   {
     "source": "HackerNews",
+    "title": "Native all the way, until you need text",
+    "ai_summary": "• Facebook and Google recommend using native mobile features to optimize app performance.\n• Native integration reduces development complexity and improves user experience significantly.\n• However, native integration often lacks text support and customization options.",
+    "student_angle": "Worth considering learning native mobile development, but text customization might limit its applicability.",
+    "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "published": "Sun, 17 May 2026 11:49:46 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "I don't think AI will make your processes go faster",
+    "ai_summary": "• Recent studies show AI implementation often leads to increased complexity, not efficiency.\n• Over-reliance on AI can hinder teamwork and communication, potentially delaying processes.\n• Automating tasks without human oversight can lead to errors and additional work.",
+    "student_angle": "Be wary of AI's potential to slow processes, prioritize collaboration and clear communication.",
+    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "published": "Sun, 17 May 2026 12:13:45 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "ai_summary": "• The reliance on AI subscriptions poses a significant security risks for enterprises worldwide.\n• AI-powered services often lack transparency in decision-making processes, making it difficult to debug issues.\n• Companies may struggle to maintain compliance and data ownership with multiple AI service subscriptions.",
+    "student_angle": "Learning about AI security and compliance can be valuable, preparing you for potential concerns in future projects.",
+    "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "published": "Sun, 17 May 2026 11:49:31 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Apple Silicon costs more than OpenRouter",
+    "ai_summary": "• Apple Silicon MacBooks cost around $2,000, significantly higher than OpenRouter devices.\n• OpenRouter's lower costs are due to open-source hardware and software design.\n• Apple Silicon's performance edge may outweigh higher prices for some users.",
+    "student_angle": "If interested in Mac development or Apple ecosystem, learn Apple Silicon; otherwise, focus on cross-platform development.",
+    "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "published": "Sun, 17 May 2026 12:09:23 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "ai_summary": "• Zerostack is a coding agent inspired by Unix, written in pure Rust for building and deploying code.\n• This project focuses on providing a flexible development environment through its Unix-inspired architecture.\n• The open-source project's main goal is to serve as a robust development foundation.",
+    "student_angle": "Consider familiarizing yourself with Rust and Unix-inspired coding to expand your development toolkit.",
+    "link": "https://crates.io/crates/zerostack/1.0.0",
+    "published": "Sat, 16 May 2026 22:23:50 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The haves and have nots of the AI gold rush",
+    "ai_summary": "• AI boom sparks concern over widening skills gap and AI-generated job displacement.\n• Some companies are leveraging AI to automate tasks, further reducing human jobs.\n• As AI advancements continue, the risk of bias, security vulnerabilities, and social harm grows.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "published": "Sat, 16 May 2026 20:17:16 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+    "ai_summary": "• AI-powered marketing platform Nectar Social raised $30M in Series A funding led by Menlo Ventures.\n• Nectar Social focuses on developing AI-driven tools for businesses to enhance their marketing strategies.\n• The funding round values Nectar Social at an undisclosed amount, enabling the company to expand its operations.",
+    "student_angle": "Worth applying to - AI-powered marketing platform presents opportunities for internship and entry-level roles.",
+    "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+    "published": "Sat, 16 May 2026 19:26:14 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "ai_summary": "• ArXiv, popular research repository, takes strict stance on AI-authored content.\n• Penalties include one-year ban on authors who use AI without significant human input.\n• This move aims to preserve authenticity and originality in scientific research papers.",
+    "student_angle": "NONE.",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "published": "Sat, 16 May 2026 18:54:28 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The offline desk gadget that actually got me to sit up straight",
+    "ai_summary": "• Deep Care introduces offline desk gadget to help improve users' posture and movement habits.\n• Device costs $350 and runs self-contained, eliminating need for app connectivity or data sharing.\n• Users can track progress and set goals using an integrated companion app.",
+    "student_angle": "Consider learning product development for this growing field of health and wellness tech.",
+    "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+    "published": "Sat, 16 May 2026 16:00:00 +0000",
+    "category": "Product & PM",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "ai_summary": "• OpenAI co-founder Greg Brockman takes charge of product strategy to drive innovation and growth.\n• Company reportedly plans to integrate ChatGPT and Codex, marking a significant move in AI development.\n• Integration of AI and programming tools may lead to enhanced capabilities and user experience.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "published": "Sat, 16 May 2026 15:33:33 +0000",
+    "category": "Company Updates",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+    "ai_summary": "• Fujifilm reduced the MSRP of its X Half digital camera to $649.99 through June 28th.\n• The X Half is now available for $300 less than its previous price.\n• This price cut may indicate growth in the camera technology industry.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+    "published": "2026-05-17T09:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+    "ai_summary": "• Research on ElliQ, a companion robot, highlights its potential for helping older adults.\n• ElliQ assists with managing Parkinson's disease through socialization and engaging activities.\n• ElliQ may pave the way for more AI-powered healthcare solutions for seniors.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+    "published": "2026-05-17T09:00:00-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML, Robotics"
+  },
+  {
+    "source": "The Verge",
+    "title": "Chatbots at the drive-thru are just the beginning",
+    "ai_summary": "• McDonald's started using AI-powered chatbots for drive-thru ordering in 2021.\n• This marks the first instance of AI tech being integrated into fast food drive-thrus.\n• The pilot program aimed to increase order speed and efficiency.",
+    "student_angle": "With growth of AI in customer service, learning chatbots and conversational AI can boost job prospects.",
+    "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+    "published": "2026-05-17T08:00:00-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "The Verge",
+    "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+    "ai_summary": "• Social media giants Snapchat, YouTube, and TikTok settle lawsuit over student mental health costs.\n• Allegations claim social media addiction disrupts learning and strains school budgets.\n• Settlement terms remain confidential.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+    "published": "2026-05-16T14:34:23-04:00",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+    "ai_summary": "• Sony clarifies AI Camera Assistant works by suggesting edits based on lighting and subject.\n• Feature automatically provides four photo edit options without actual image editing.\n• Assistant focuses on depth, lighting, and subject to enhance photography experience.",
+    "student_angle": "Learning image processing and AI-powered tools can open up job opportunities in photography-related industries.",
+    "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+    "published": "2026-05-16T11:37:05-04:00",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
     "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
     "ai_summary": "• Researchers introduce Δ-Mem, a efficient online memory system for large language models, reducing computational cost.\n• Δ-Mem achieves this through a novel compression and retrieval mechanism for contextualized embeddings.\n• This improves performance and reduces memory usage by leveraging temporal locality.",
     "student_angle": "",
