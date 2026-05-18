@@ -1,6 +1,156 @@
 [
   {
     "source": "HackerNews",
+    "title": "I automated opt-outs for 500 data broker sites (open source)",
+    "ai_summary": "• A developer open-sourced a tool for automatically opting out of 500 data broker sites.\n• This tool can save users from tedious opt-out processes, protecting their online data.\n• The project also highlights issues with data brokerage and the importance of user consent.",
+    "student_angle": "Learning data science can help in developing tools for data protection, a growing field in industry.",
+    "link": "https://github.com/stephenlthorn/auto-identity-remove",
+    "published": "Mon, 18 May 2026 11:32:42 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "ai_summary": "• A research paper from 1979 proposes building provably secure operating systems (PSOS) using formal methods.\n• This concept aims to ensure the operating system's security through mathematical proofs.\n• The paper presents a theoretical foundation for secure operating systems, but no practical implementation.",
+    "student_angle": "",
+    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "published": "Mon, 18 May 2026 09:40:51 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Dogme 25 – Vow of Chastity",
+    "ai_summary": "• Dogme 95's Lars von Trier launched a new filmmaking manifesto, Dogme 25 – Vow of Chastity.\n• The manifesto focuses on filmmaking with 25 rules to create more genuine and realistic storytelling.\n• Dogme 25 emphasizes the importance of location shooting and natural lighting for cinematic authenticity.",
+    "student_angle": "",
+    "link": "https://dogma25.dk/",
+    "published": "Mon, 18 May 2026 10:05:52 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "GenCAD",
+    "ai_summary": "• GenCAD, a revolutionary AI-assisted architecture design tool, emerges from stealth mode.\n• The platform utilizes generative models to automate building design and construction processes.\n• GenCAD's cutting-edge tech has garnered significant interest from AEC industry leaders.",
+    "student_angle": "Worth exploring GenCAD as they likely need interns in AI & ML to refine their models.",
+    "link": "https://gencad.github.io/",
+    "published": "Sun, 17 May 2026 21:40:35 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "ai_summary": "• Researchers argue that dualistic thinking may hinder AI progress in understanding consciousness.\n• This dualism stems from the mind-body problem's long-standing philosophical and scientific debate.\n• A more unified, holistic perspective is suggested for advancements in the field of consciousness and AI.",
+    "student_angle": "This article provides a philosophical context, but doesn't directly impact internship opportunities.",
+    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "published": "Mon, 18 May 2026 02:59:34 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "ai_summary": "• Korean startup LetinAR develops ultra-compact, precision-crafted lenses for AI-enhanced glasses.\n• Lens technology is designed to improve data transmission speed and efficiency for AI-assisted applications.\n• South Korean government supports LetinAR's innovation through technology transfer and commercialization programs.",
+    "student_angle": "Consider learning about advancements in computer vision and optics, as AI glasses tech expands.",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "published": "Mon, 18 May 2026 11:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple’s Siri revamp could include auto-deleting chats",
+    "ai_summary": "• Apple's new Siri revamp may include auto-deleting chats for enhanced user privacy.\n• Improved AI capabilities expected to be part of the revamped digital assistant.\n• Increased focus on user data protection amidst growing concerns over personal data.",
+    "student_angle": "This revamp could impact future internship opportunities in AI, ML, and security research.",
+    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "published": "Sun, 17 May 2026 20:15:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "ai_summary": "• OpenAI CEO Sam Altman's trustworthiness is questioned during the Elon Musk trial.\n• Altman's leadership under scrutiny amid disagreements and disputes with Musk.\n• Trial highlights concerns about AI safety and potential consequences of its development.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "published": "Sun, 17 May 2026 19:46:34 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "ai_summary": "• Recent commencement speeches highlight the AI-fueled future of work, sparking concerns among graduating students.\n• Experts question whether AI-centric messages resonate with students still weighing internship and job opportunities.\n• Industry experts warn that too much focus on AI may scare students away from tech-related fields.",
+    "student_angle": "Learn AI and ML basics to increase job prospects, but don't stress too much about AI-dominated jobs immediately.",
+    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "published": "Sun, 17 May 2026 16:32:04 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "ai_summary": "• Automotive companies must adapt to the AI skills arms race in the sector, investing in ML capabilities.\n• Major car manufacturers are partnering with AI and autonomous driving startups to stay ahead.\n• The industry shift will require engineers to develop and integrate AI into vehicle systems.",
+    "student_angle": "Learning ML fundamentals is essential for future careers in AI-driven automotive sectors.",
+    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "published": "Sun, 17 May 2026 16:05:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "The Verge",
+    "title": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
+    "ai_summary": "• Leaked images showcase Sony's 10th anniversary \"ColleXion\" headphones with upgraded design.\n• Headphones feature thicker leatherette padding and \"generously sized\" earcups compared to WH-1000XM6.\n• Sony's new headphones are expected to launch tomorrow.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
+    "published": "2026-05-18T08:10:03-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM, Company Updates"
+  },
+  {
+    "source": "The Verge",
+    "title": "Bad, Bad, Bad, Bad Roommate",
+    "ai_summary": "• Frankee Grove's roommate search in January 2025 coincides with LA wildfires' early stages.\n• Grove's personal life is impacted by a recent breakup with her six-year boyfriend.\n• Search for roommate becomes essential due to financial constraints and housing needs.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+    "published": "2026-05-18T07:00:31-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+    "ai_summary": "• Zero Parades: For Dead Spies, a game about questioning forgiveness and its consequences, is in development.\n• The game has a spiritual connection to Disco Elysium, a popular choice among gamers and game developers.\n• Cascade, the protagonist, is on a mission to reestablish contact with her friends and fellow agents.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+    "published": "2026-05-18T06:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Game Development"
+  },
+  {
+    "source": "The Verge",
+    "title": "Microsoft is retiring Teams’ Together Mode",
+    "ai_summary": "• Microsoft Teams' Together Mode feature is being retired after pandemic usage spike.\n• The feature will be replaced by a simplified Teams experience and new features.\n• Together Mode utilized AI technology to create virtual conference room environment.",
+    "student_angle": "None; product retirement does not typically impact internship opportunities.",
+    "link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "published": "2026-05-17T17:15:28-04:00",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Revamped Siri will reportedly offer autodeleting chats",
+    "ai_summary": "• Apple revamps Siri to prioritize user privacy with autodeletion functionality.\n• Autodeleting chat histories may be a differentiator in AI competition and a move to reassure users.\n• iOS 27 to include new, more chatbot-like Siri features, potentially shifting focus to user privacy.",
+    "student_angle": "This may signal growing opportunities in AI research and security for CS students looking into iOS development.",
+    "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "published": "2026-05-17T14:40:28-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
     "title": "Native all the way, until you need text",
     "ai_summary": "• Facebook and Google recommend using native mobile features to optimize app performance.\n• Native integration reduces development complexity and improves user experience significantly.\n• However, native integration often lacks text support and customization options.",
     "student_angle": "Worth considering learning native mobile development, but text customization might limit its applicability.",
