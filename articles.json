@@ -1,6 +1,156 @@
 [
   {
     "source": "HackerNews",
+    "title": "Flipper One – we need your help",
+    "ai_summary": "• Flipper One, an innovative software company, is facing challenges and needs student help.\n• Their popular product has reached a plateau, and they are seeking fresh perspectives.\n• They are looking for CS students to contribute to their development team.",
+    "student_angle": "Worth applying to, as they offer hands-on experience and can lead to full-time positions.",
+    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "published": "Thu, 21 May 2026 11:03:38 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Python 3.15: features that didn't make the headlines",
+    "ai_summary": "• Python 3.15 includes improved error messages, reducing debugging time by up to 30%.\n• The new version offers enhanced compatibility with macOS Monterey, boosting developer productivity.\n• A new warning system has been added for deprecated import statements to prevent breaking changes.",
+    "student_angle": "Worth noting, but no immediate impact on internships or job prospects for CS students.",
+    "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "published": "Thu, 21 May 2026 11:10:11 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "ai_summary": "• Introducing Rmux, a programmable terminal multiplexer that simplifies DevOps tasks.\n• Rmux SDK offers a Playwright-style API for automating terminal tasks.\n• Developers can create custom tools and workflows with Rmux's extensibility features.",
+    "student_angle": "Consider learning Rmux for improving productivity and workflow automation skills.",
+    "link": "https://github.com/helvesec/rmux",
+    "published": "Thu, 21 May 2026 09:22:00 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Google officially announces that ads will be included in AI Mode search results",
+    "ai_summary": "• Google confirms ads will be integrated into AI Mode search results for revenue growth.\n• Users may experience a mix of organic and sponsored results in the search feature.\n• AI Mode previously focused on eliminating ads for more precise search results.",
+    "student_angle": "",
+    "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "published": "Thu, 21 May 2026 09:49:46 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "ai_summary": "• Artificially intelligent model developed by OpenAI disproves a longstanding conjecture in discrete geometry.\n• The model analyzed millions of geometric shapes to identify a counterexample.\n• Researchers believe this breakthrough has implications for various fields including data storage and communication.",
+    "student_angle": "",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "published": "Wed, 20 May 2026 19:05:30 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "ai_summary": "• Hackers are abusing a legitimate Microsoft account to send spam emails, appearing as genuine alerts.\n• The loophole allows scammers to impersonate Microsoft, making recipients more likely to fall for the scam.\n• Microsoft is working to address the issue and prevent further abuse of its internal accounts.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "published": "Thu, 21 May 2026 11:42:57 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "ai_summary": "• Beauty and wellness booking platform Fresha hits $1 billion valuation with KKR investment.\n• Fresha raises $80 million from KKR's Next Generation Technology Growth fund for growth initiatives.\n• Investment supports expansion of global presence and new product features development for beauty services.",
+    "student_angle": "This company worth applying to for those interested in Product Management and growth initiatives in the wellness industry.",
+    "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+    "published": "Thu, 21 May 2026 11:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
+    "ai_summary": "• Truecaller expands into eSIM business to diversify revenue streams and enhance digital presence.\n• Initially available in 29 countries, range starts from 1 GB to 20 GB data plans.\n• Launch expected to increase company's presence in telecommunications services.",
+    "student_angle": "Product development and mobile services could see growing internship opportunities.",
+    "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
+    "published": "Thu, 21 May 2026 06:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "General Catalyst just led a $63M bet on India’s travel payments market",
+    "ai_summary": "• General Catalyst leads $63M funding in Scapia, India’s travel payments startup.\n• Deal doubles Scapia’s valuation, indicating growth in travel tech industry.\n• Partnership with credit card companies expands Scapia's offerings.",
+    "student_angle": "Worth applying to for internships in product development or fintech.",
+    "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
+    "published": "Thu, 21 May 2026 05:52:38 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+    "ai_summary": "• Biotech company Imperagen raises £5 million in seed funding for enzyme engineering.\n• Investment will leverage quantum physics and AI for innovative enzyme discovery and development.\n• Imperagen's technology aims to enhance industrial enzyme production, improve yields, and reduce costs.",
+    "student_angle": "This company's focus on AI and enzyme engineering might be worth applying to for internships in bioinformatics and data science.",
+    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+    "published": "Thu, 21 May 2026 04:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "The Verge",
+    "title": "I review robot vacuums for a living, ask me anything!",
+    "ai_summary": "• The Verge's smart home reviewer to host AMA on robot vacuums at 10 AM PT / 1 PM ET today.\n• Opportunity for subscribers to ask questions about connected gadgets and robot vacuums specifically.\n• Exclusive AMA session provides insights into smart home technology and testing processes.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+    "published": "2026-05-21T09:00:20-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "The Verge",
+    "title": "I can’t believe how fast Google vibe coded my first Android app",
+    "ai_summary": "• Google's \"Vibe\" coding tool enables rapid app development for Android phones.\n• The tool reportedly generates full apps from minimal user input in ten minutes.\n• Prep work required includes enabling Google's Vibe app on the Android device.",
+    "student_angle": "Google Vibe simplifies Android app development; learn it for internship opportunities, especially in software engineering.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+    "published": "2026-05-21T09:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
+    "ai_summary": "• NYC Mayor Zohran Mamdani launching Twitch series \"Talk with the People\" for public engagement.\n• Series kicks off today at 4PM ET with questions answered via chat.\n• Initiative aims to foster public dialogue and community interaction.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
+    "published": "2026-05-21T08:22:26-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+    "ai_summary": "• Bambu Lab's reputation is under siege after asking a user to delete his open-source code.\n• The 3D printing community has rallied around the user with funding and support.\n• The company's actions have caused an uproar within the 3D printing community.",
+    "student_angle": "None",
+    "link": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+    "published": "2026-05-21T06:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "Meta lays off thousands of employees to offset AI investments",
+    "ai_summary": "• Meta lays off thousands of employees due to costly AI investments to offset losses.\n• Layoffs reportedly aimed at making the company more efficient and reducing operational costs.\n• Thousands affected in the restructuring, no specific job roles mentioned.",
+    "student_angle": "Layoffs may reduce entry-level job openings, but AI demand remains high, a skill worth investing in.",
+    "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+    "published": "2026-05-21T05:20:46-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
     "title": "I automated opt-outs for 500 data broker sites (open source)",
     "ai_summary": "• A developer open-sourced a tool for automatically opting out of 500 data broker sites.\n• This tool can save users from tedious opt-out processes, protecting their online data.\n• The project also highlights issues with data brokerage and the importance of user consent.",
     "student_angle": "Learning data science can help in developing tools for data protection, a growing field in industry.",
@@ -688,155 +838,5 @@
     "published": "2026-05-14T18:21:46-04:00",
     "category": "Industry News",
     "tags": "Finance, Corporate Strategy"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-    "ai_summary": "• 2024 RAV4 hybrid owner removes modem and GPS for privacy and reduced electronic surveillance.\n• Removal process involves complex software reconfiguration and requires technical knowledge of vehicle systems.\n• Disabling modem and GPS disables Toyota's Safety Sense features, potentially impacting driver safety.",
-    "student_angle": "",
-    "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "published": "Thu, 14 May 2026 17:08:00 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "ai_summary": "• Apple unveils the M4 MacBook Air with an integrated RTX 5090 GPU for enhanced gaming performance.\n• The upgraded laptop is expected to challenge rival gaming laptops in terms of graphics quality.\n• Apple's M4 processor with RTX 5090 GPU offers improved power efficiency and cooling system design.",
-    "student_angle": "",
-    "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "published": "Thu, 14 May 2026 15:47:31 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "New Nginx Exploit",
-    "ai_summary": "• Recently discovered Nginx exploit affects web servers worldwide, potentially enabling data breaches.\n• Vulnerability is located in Nginx's HTTP/2 server implementation, allowing attackers to inject malicious code.\n• Exploit requires no prior authentication and can be easily executed using publicly available tools.",
-    "student_angle": "",
-    "link": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-    "published": "Thu, 14 May 2026 17:17:48 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "First public macOS kernel memory corruption exploit on Apple M5",
-    "ai_summary": "• Hackers release the first public exploit targeting macOS kernel memory corruption on Apple M5 processors.\n• The exploit takes advantage of a zero-day vulnerability allowing arbitrary code execution with elevated privileges.\n• Researchers emphasize the importance of kernel memory protection in modern operating systems.",
-    "student_angle": "This highlights the importance of secure coding practices; review kernel exploit prevention techniques.",
-    "link": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-    "published": "Thu, 14 May 2026 18:25:09 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The AI Zombification of Universities",
-    "ai_summary": "• AI-driven content delivery platforms are transforming university learning environments, shifting human teaching roles.\n• Zombification of universities through AI adoption may lead to significant job displacement for professors.\n• Students will need to upskill to adapt to AI-driven classrooms and remain competitive in the job market.",
-    "student_angle": "Learn to adapt to AI-driven classrooms by focusing on soft skills and learning to work alongside AI tools.",
-    "link": "https://www.thenewcritic.com/p/the-great-zombification",
-    "published": "Thu, 14 May 2026 18:37:08 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "What happens when AI starts building itself?",
-    "ai_summary": "• Richard Socher launches $650 million AI startup that aims to build self-improving AI indefinitely.\n• Startup focuses on developing AI that can research and improve itself, potentially creating new products.\n• Socher's company may face challenges in achieving its ambitious goal of shipping products.",
-    "student_angle": "Worth applying to for those interested in AI and self-researching systems development, a new area of research.",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "published": "Thu, 14 May 2026 19:57:20 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "ai_summary": "• OpenAI reportedly hiring law firm to explore options, potentially against Apple, a long-time partner.\n• Alleged dispute centers around business arrangements and revenue sharing, sources claim.\n• Details on nature of dispute and potential lawsuit not disclosed, pending further investigation.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "published": "Thu, 14 May 2026 19:12:03 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "ai_summary": "• Clawdmeter transforms Claude Code usage metrics into an interactive desktop dashboard for power users.\n• The open-source gadget streamlines access to critical performance insights, enhancing AI coding efficiency.\n• By analyzing usage patterns and statistics, users can refine their coding workflows and optimize results.",
-    "student_angle": "None, though the growth of AI coding tools might increase opportunities in this area.",
-    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "published": "Thu, 14 May 2026 19:05:01 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "YouTube viewers watch 2 billion hours of Shorts on TVs each month",
-    "ai_summary": "• YouTube Shorts now reach 2 billion hours of viewership on TVs every month.\n• The surge in TV viewership may indicate shifting content consumption habits globally.\n• Despite being mobile-first, Shorts gain traction on the big screen.",
-    "student_angle": "Learning media streaming tech may lead to growing internship opportunities in the field.",
-    "link": "https://techcrunch.com/2026/05/14/youtube-viewers-watch-2-billion-hours-of-shorts-on-tvs-each-month/",
-    "published": "Thu, 14 May 2026 18:56:43 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "ai_summary": "• Cerebras, a leading AI chip maker, raised $5.5 billion in its massive IPO.\n• The company's stock surged 108% after its first day of trading.\n• Cerebras plans to utilize the funds for further AI hardware innovation.",
-    "student_angle": "This company's exponential growth shows immense demand for AI expertise, worth applying to.",
-    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "published": "Thu, 14 May 2026 16:30:02 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "The Verge",
-    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-    "ai_summary": "• OpenAI's Codex is accessible via ChatGPT mobile app, expanding AI coding capabilities.\n• Users can write code and interact with apps on their computer from their phone.\n• OpenAI focuses on catching up with Anthropic's Claude Code in the AI market.",
-    "student_angle": "Internship opportunities in AI-powered software development are growing rapidly.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-    "published": "2026-05-14T16:00:00-04:00",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML, Product & PM"
-  },
-  {
-    "source": "The Verge",
-    "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
-    "ai_summary": "• Ray-Ban’s Meta smart glasses are on sale during Meta's Summer Sale event, running through May 26th.\n• Prices start at $224.25, which is $74 off the original price at participating stores.\n• The sale is available on Amazon, Best Buy, and Meta’s website.",
-    "student_angle": "",
-    "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
-    "published": "2026-05-14T15:44:17-04:00",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "The Verge",
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "ai_summary": "• Microsoft ends daily access to Claude Code licenses, citing unforeseen technical issues.\n• Thousands of developers received training on the Anthropic AI coding tool in a limited capacity.\n• Unclear if cancellation affects the future of Anthropic and Microsoft's partnership.",
-    "student_angle": "This change may indicate fewer AI-related opportunities at Microsoft for this semester.",
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "published": "2026-05-14T15:00:00-04:00",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "The Verge",
-    "title": "Linux devs are fighting the new age-gated internet",
-    "ai_summary": "• Proposal to collect users' ages through operating systems sparks debate over internet age-gating.\n• Colorado lawmakers' proposed bill could force app developers to access age information.\n• Experts claim age-gating may lead to security vulnerabilities and user tracking.",
-    "student_angle": "",
-    "link": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
-    "published": "2026-05-14T14:58:00-04:00",
-    "category": "Industry News",
-    "tags": "Software Engineering, Security"
-  },
-  {
-    "source": "The Verge",
-    "title": "Use this map to find the data centers in your backyard",
-    "ai_summary": "• Oregon residents raise concerns over Google's large-scale data center expansion in The Dalles.\n• Data center construction poses environmental concerns due to large energy consumption.\n• Google denies involvement in public land acquisition for data center development.",
-    "student_angle": "Learn about data center management and sustainability to stay relevant in the industry.",
-    "link": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-    "published": "2026-05-14T13:40:00-04:00",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Data Science"
   }
 ]
