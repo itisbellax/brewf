@@ -20,19 +20,19 @@ def generate_script(articles):
         angle = f" {student_angle}" if student_angle else ""
         stories += f"\nStory {i}: {title}. {bullets}.{angle}\n"
 
-    prompt = f"""You are the host of BREWF, a daily 5-minute tech podcast for CS students. Your style: direct, smart, a little dry. Like a friend who actually read the news so you don't have to.
+    prompt = f"""You are the host of BREWF, a daily tech podcast for CS students. Style: direct, smart, a little dry. Like a friend who actually read the news so you don't have to.
 
 Today's stories:
 {stories}
 
 Rules:
-- Open with a one-liner that hooks the listener, mention BREWF
-- Cover each story in 2-4 sentences max: what happened, why it matters. No filler.
-- One quick personal take per story — opinionated, not neutral
-- Transitions should feel natural, not scripted ("Next up...", "Meanwhile...", "And this one's interesting...")
+- Open with a punchy one-liner, always say the full name "BREWF" (not "BREW")
+- Cover each story in 2-3 sentences: what happened, why it matters to CS students. Zero filler.
+- Natural transitions only: "Next up", "Meanwhile", "Here's one worth noting" — never "Story 1" or numbered labels
+- One quick opinionated take per story
 - Close in one sentence, sign off as BREWF
-- NOTHING but spoken words. No brackets, no labels, no stage directions, no music cues.
-- Under 500 words. Every sentence must earn its place."""
+- ONLY spoken words. No brackets, no labels, no stage directions, no music cues, no numbering.
+- Under 450 words. Cut anything that doesn't add value."""
 
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
@@ -49,8 +49,16 @@ def load_articles():
     from db import get_all_processed
     return get_all_processed()
 
+CS_TAGS = {"Software Engineering", "AI & ML", "Security", "Data Science", "Cloud & DevOps", "Product & PM"}
+
 def generate_podcast(max_articles=8):
-    articles = load_articles()[:max_articles]
+    all_articles = load_articles()
+    articles = [
+        a for a in all_articles
+        if a[3] and any(t.strip() in CS_TAGS for t in (a[7] or "").split(","))
+    ][:max_articles]
+    if not articles:
+        articles = [a for a in all_articles if a[3]][:max_articles]
     if not articles:
         return None, "No articles available."
 
