@@ -1,0 +1,710 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BREWF — Today's brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500&display=swap">
+<style>
+/* Cabinet Grotesk Black — served from repo */
+@font-face {
+  font-family: 'Cabinet Grotesk';
+  src: url('./CabinetGrotesk-Black.ttf') format('truetype');
+  font-weight: 900; font-style: normal; font-display: swap;
+}
+
+/* ── Design tokens ─────────────────────────────────────────── */
+:root {
+  --bg:#0A0A0A; --bg-1:#111; --bg-2:#161616; --bg-3:#1C1C1C;
+  --line:#232323; --line-2:#2E2E2E;
+  --fg:#FAFAF7; --fg-2:#B8B8B3; --fg-3:#7A7A75; --fg-4:#4A4A47;
+  --cream:#E8DFC9; --cream-dim:#A89F8B;
+  --signal:#C9A961; --signal-dim:#6B5836;
+  --ok:#6FA88A; --warn:#C9A961; --info:#7FA1C9; --danger:#C97A6F;
+  --tag-se-fg:#B8B8B3;  --tag-se-bg:rgba(255,255,255,.05);
+  --tag-ai-fg:#C9A961;  --tag-ai-bg:rgba(201,169,97,.10);
+  --tag-sec-fg:#C97A6F; --tag-sec-bg:rgba(201,122,111,.10);
+  --tag-data-fg:#7FA1C9;--tag-data-bg:rgba(127,161,201,.10);
+  --tag-cloud-fg:#9BB59F;--tag-cloud-bg:rgba(155,181,159,.10);
+  --tag-pm-fg:#C9A1B5;  --tag-pm-bg:rgba(201,161,181,.10);
+  --font-display:'Cabinet Grotesk','Geist',system-ui,sans-serif;
+  --font-sans:'Geist',system-ui,'Helvetica Neue',sans-serif;
+  --font-mono:'Geist Mono',ui-monospace,'SF Mono',monospace;
+  --ease-out:cubic-bezier(.2,.7,.2,1);
+  --dur:200ms; --dur-slow:380ms;
+  --max-w:1280px; --gutter:clamp(24px,4vw,64px);
+}
+
+/* ── Base ─────────────────────────────────────────────────── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html,body{
+  background:var(--bg);color:var(--fg);
+  font-family:var(--font-sans);font-size:15px;line-height:1.5;
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+}
+a{color:inherit;text-decoration:none;}
+ul{list-style:none;}
+button{cursor:pointer;font-family:var(--font-sans);border:none;background:none;}
+::selection{background:var(--cream);color:var(--bg);}
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-track{background:var(--bg);}
+::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:2px;}
+
+/* ── Canvas background ──────────────────────────────────────── */
+#bg-fx{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;}
+.app{position:relative;z-index:1;min-height:100vh;}
+
+/* ── Nav ────────────────────────────────────────────────────── */
+.nav{
+  position:sticky;top:0;z-index:50;
+  border-bottom:1px solid var(--line);
+  background:rgba(18,17,14,.72);
+  -webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);
+}
+.nav-inner{
+  height:64px;max-width:var(--max-w);margin:0 auto;
+  padding:0 var(--gutter);
+  display:flex;align-items:center;justify-content:space-between;
+}
+.nav-left{display:flex;align-items:center;}
+.wordmark{font:900 18px/1 var(--font-display);letter-spacing:-.03em;color:var(--fg);}
+.nav-date{
+  font-family:var(--font-mono);font-size:11px;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--fg-3);
+  padding-left:16px;border-left:1px solid var(--line);
+  white-space:nowrap;margin-left:20px;
+}
+.nav-links{display:flex;align-items:center;gap:24px;}
+.navlink{
+  color:var(--fg-3);font:400 13px/1 var(--font-sans);padding:8px 0;
+  transition:color var(--dur) var(--ease-out);
+}
+.navlink:hover,.navlink.active{color:var(--fg);}
+
+/* ── Main ────────────────────────────────────────────────────── */
+.main{max-width:var(--max-w);margin:0 auto;padding:0 var(--gutter) 96px;}
+
+/* ── Hero ────────────────────────────────────────────────────── */
+.hero{padding:120px 0 56px;text-align:center;}
+.hero-eyebrow{
+  display:inline-flex;align-items:center;gap:10px;
+  font-family:var(--font-mono);font-size:11px;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--fg-3);
+  margin-bottom:36px;padding:6px 14px;
+  border:1px solid var(--line-2);border-radius:999px;
+  background:rgba(31,28,14,.55);
+}
+.hero-eyebrow .dot{
+  width:6px;height:6px;border-radius:999px;background:var(--signal);
+  animation:pulse 2s ease-in-out infinite;
+}
+@keyframes pulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(201,169,97,.5);}
+  50%{box-shadow:0 0 0 6px rgba(201,169,97,0);}
+}
+.hero-brand{
+  margin:0 0 20px;
+  font:900 clamp(96px,16vw,220px)/.9 var(--font-display);
+  letter-spacing:-.05em;color:var(--fg);
+}
+.hero-tagline{
+  font-size:clamp(16px,1.8vw,22px);line-height:1.4;
+  color:var(--fg-2);margin:0 auto;max-width:36ch;font-weight:400;
+}
+
+/* ── Podcast player ──────────────────────────────────────────── */
+.podcast-slot{margin:32px 0 56px;}
+.player{
+  background:rgba(31,28,14,.78);border:1px solid var(--line);border-radius:8px;
+  -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);
+  padding:18px 22px;display:flex;align-items:center;gap:22px;
+  transition:border-color var(--dur) var(--ease-out);
+}
+.player:hover{border-color:var(--line-2);}
+.play-btn{
+  width:44px;height:44px;flex:none;border-radius:999px;
+  background:var(--cream);color:var(--bg);
+  display:flex;align-items:center;justify-content:center;
+  transition:background var(--dur) var(--ease-out);
+}
+.play-btn:hover{background:#f1ead7;}
+.player-meta{flex:1;min-width:0;display:flex;flex-direction:column;gap:8px;}
+.player-title{font-family:var(--font-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;}
+.player-title .strong{color:var(--fg);font-weight:500;}
+.player-title .dim{color:var(--fg-3);}
+.waveform{display:flex;align-items:flex-end;gap:2px;height:24px;}
+.waveform .bar{width:3px;background:var(--fg-4);border-radius:1px;transition:background var(--dur);}
+.waveform .bar.active{background:var(--cream-dim);}
+.waveform .bar.playing{background:var(--signal);}
+.player-time{font-family:var(--font-mono);font-size:12px;color:var(--fg-3);letter-spacing:.04em;flex:none;}
+.player-time .strong{color:var(--fg);font-weight:500;}
+.player-audio{margin-top:10px;}
+.player-audio audio{width:100%;height:32px;border-radius:4px;opacity:.85;}
+
+/* ── Interests bar ───────────────────────────────────────────── */
+.interests{
+  display:flex;align-items:center;gap:16px;flex-wrap:wrap;
+  padding:18px 0 48px;border-bottom:1px solid var(--line);margin-bottom:48px;
+}
+.interests-label{
+  font-family:var(--font-mono);font-size:11px;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--fg-3);flex:none;
+}
+.interest-pills{display:flex;gap:8px;flex-wrap:wrap;}
+.interest-pill{
+  background:transparent;color:var(--fg-2);
+  border:1px solid var(--line-2);border-radius:999px;
+  padding:6px 14px;font:400 13px/1 var(--font-sans);
+  white-space:nowrap;transition:all var(--dur) var(--ease-out);
+}
+.interest-pill:hover{border-color:var(--fg);color:var(--fg);}
+.interest-pill.on{background:var(--fg);color:var(--bg);border-color:var(--fg);}
+
+/* ── Feed layout ─────────────────────────────────────────────── */
+.feed{display:flex;flex-direction:column;gap:64px;}
+.feed-bottom{display:grid;grid-template-columns:1fr 1fr;gap:56px;}
+@media(max-width:880px){.feed-bottom{grid-template-columns:1fr;}}
+.feed-section{display:flex;flex-direction:column;gap:14px;}
+
+/* ── Section header ──────────────────────────────────────────── */
+.section-head{
+  display:flex;align-items:center;gap:14px;
+  padding-bottom:16px;border-bottom:1px solid var(--line);
+}
+.section-icon{color:var(--fg-3);display:flex;}
+.section-title{
+  font-family:var(--font-mono);font-size:11px;
+  letter-spacing:.2em;text-transform:uppercase;color:var(--fg);
+  font-weight:500;white-space:nowrap;
+}
+.section-sep{flex:1;}
+.section-count{font-family:var(--font-mono);font-size:11px;color:var(--fg-3);letter-spacing:.12em;}
+
+/* ── Article card ────────────────────────────────────────────── */
+.article-list{display:flex;flex-direction:column;gap:14px;}
+.article{
+  background:rgba(31,28,14,.78);border:1px solid var(--line);
+  border-radius:8px;padding:22px 24px;
+  -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);
+  display:flex;flex-direction:column;gap:12px;
+  transition:border-color var(--dur) var(--ease-out);
+}
+.article:hover{border-color:var(--line-2);}
+.article-meta{
+  display:flex;align-items:center;gap:10px;
+  font-family:var(--font-mono);font-size:10px;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--fg-3);
+}
+.article-dot{width:5px;height:5px;border-radius:999px;background:var(--signal);box-shadow:0 0 8px rgba(201,169,97,.5);}
+.article-meta-sep{color:var(--fg-4);}
+.article-title{margin:0;}
+.article-title a{
+  font:500 18px/1.35 var(--font-sans);letter-spacing:-.01em;
+  color:var(--fg);border:0;
+  display:inline-flex;align-items:baseline;gap:8px;
+  transition:color var(--dur) var(--ease-out);
+}
+.article-title a:hover{color:var(--cream);}
+.link-arrow{
+  opacity:0;transform:translate(-4px,0);
+  transition:all var(--dur) var(--ease-out);
+  color:var(--fg-3);
+}
+.article:hover .link-arrow{opacity:1;transform:translate(0,0);}
+.article-bullets{display:flex;flex-direction:column;gap:6px;}
+.article-bullets li{
+  color:var(--fg-2);font-size:14px;line-height:1.55;
+  padding-left:18px;position:relative;
+}
+.article-bullets li::before{content:"—";color:var(--fg-4);position:absolute;left:0;}
+.article-tags{display:flex;gap:6px;align-items:center;flex-wrap:wrap;}
+.tag{
+  font-family:var(--font-mono);font-size:10px;
+  letter-spacing:.06em;padding:3px 9px;
+  border-radius:999px;border:1px solid;white-space:nowrap;
+}
+.tag-se  {color:var(--tag-se-fg);  background:var(--tag-se-bg);  border-color:rgba(255,255,255,.08);}
+.tag-ai  {color:var(--tag-ai-fg);  background:var(--tag-ai-bg);  border-color:rgba(201,169,97,.25);}
+.tag-sec {color:var(--tag-sec-fg); background:var(--tag-sec-bg); border-color:rgba(201,122,111,.25);}
+.tag-data{color:var(--tag-data-fg);background:var(--tag-data-bg);border-color:rgba(127,161,201,.25);}
+.tag-cloud{color:var(--tag-cloud-fg);background:var(--tag-cloud-bg);border-color:rgba(155,181,159,.25);}
+.tag-pm  {color:var(--tag-pm-fg);  background:var(--tag-pm-bg);  border-color:rgba(201,161,181,.25);}
+.student-take{
+  border-left:2px solid var(--cream-dim);
+  padding:4px 0 4px 14px;
+  display:flex;flex-direction:column;gap:4px;
+}
+.take-label{
+  font-family:var(--font-mono);font-size:10px;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--cream-dim);
+  display:inline-flex;align-items:center;gap:6px;white-space:nowrap;
+}
+.take-body{color:var(--fg-2);font-size:13.5px;line-height:1.55;font-style:italic;}
+.empty{
+  padding:32px;border:1px dashed var(--line-2);border-radius:8px;
+  color:var(--fg-3);text-align:center;
+  font-family:var(--font-mono);font-size:12px;letter-spacing:.1em;
+}
+
+/* ── Loading / error states ──────────────────────────────────── */
+.loading-screen{
+  min-height:100vh;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:20px;
+}
+.loading-brand{
+  font:900 80px/.9 var(--font-display);
+  letter-spacing:-.05em;color:var(--fg);
+  opacity:.15;animation:breathe 2s ease-in-out infinite;
+}
+@keyframes breathe{0%,100%{opacity:.1;}50%{opacity:.25;}}
+.loading-label{
+  font-family:var(--font-mono);font-size:11px;
+  letter-spacing:.2em;text-transform:uppercase;color:var(--fg-4);
+}
+.error-msg{color:var(--danger);font-family:var(--font-mono);font-size:13px;letter-spacing:.08em;}
+
+/* ── Footer ──────────────────────────────────────────────────── */
+.footer{
+  margin-top:96px;padding-top:24px;border-top:1px solid var(--line);
+  display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
+}
+.footer .mono{
+  font-family:var(--font-mono);font-size:11px;
+  color:var(--fg-4);letter-spacing:.14em;text-transform:uppercase;
+}
+.footer a{border-bottom:1px solid var(--line-2);transition:border-color var(--dur);}
+.footer a:hover{border-color:var(--fg-3);}
+</style>
+</head>
+<body>
+
+<canvas id="bg-fx"></canvas>
+<div id="root">
+  <!-- inline loading state (shows before React mounts) -->
+  <div class="loading-screen">
+    <div class="loading-brand">BREWF</div>
+    <div class="loading-label">Brewing today's brief…</div>
+  </div>
+</div>
+
+<!-- ── Canvas animation ──────────────────────────────────────── -->
+<script>
+(function(){
+  var c=document.getElementById('bg-fx'),ctx=c.getContext('2d');
+  var W=0,H=0,dpr=Math.min(window.devicePixelRatio||1,2);
+  function resize(){
+    W=window.innerWidth;H=window.innerHeight;
+    c.width=W*dpr;c.height=H*dpr;
+    c.style.width=W+'px';c.style.height=H+'px';
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+  }
+  resize();window.addEventListener('resize',resize,{passive:true});
+  var blobs=[
+    {ax:.22,ay:.30,r:460,col:'84,75,57',   a:.55,fx:.00014,fy:.00018,phx:1.2,phy:2.7,axA:.14,ayA:.10},
+    {ax:.78,ay:.42,r:520,col:'66,58,40',   a:.65,fx:.00011,fy:.00021,phx:0.6,phy:3.4,axA:.12,ayA:.12},
+    {ax:.50,ay:.82,r:420,col:'54,52,48',   a:.65,fx:.00017,fy:.00013,phx:2.4,phy:1.0,axA:.16,ayA:.08},
+    {ax:.85,ay:.18,r:320,col:'149,150,141',a:.18,fx:.00019,fy:.00016,phx:0.3,phy:2.0,axA:.10,ayA:.10},
+    {ax:.15,ay:.70,r:380,col:'31,28,14',   a:.85,fx:.00013,fy:.00020,phx:1.7,phy:0.5,axA:.12,ayA:.10},
+    {ax:.35,ay:.55,r:280,col:'192,193,185',a:.10,fx:.00018,fy:.00014,phx:2.1,phy:1.6,axA:.18,ayA:.14},
+    {ax:.68,ay:.72,r:240,col:'241,242,236',a:.06,fx:.00015,fy:.00019,phx:0.9,phy:2.4,axA:.16,ayA:.12},
+  ];
+  function draw(t){
+    ctx.globalCompositeOperation='source-over';
+    ctx.fillStyle='#12110E';ctx.fillRect(0,0,W,H);
+    ctx.filter='blur(60px)';ctx.globalCompositeOperation='lighter';
+    blobs.forEach(function(b){
+      var cx=(b.ax+Math.sin(t*b.fx+b.phx)*b.axA)*W;
+      var cy=(b.ay+Math.cos(t*b.fy+b.phy)*b.ayA)*H;
+      var g=ctx.createRadialGradient(cx,cy,0,cx,cy,b.r);
+      g.addColorStop(0,'rgba('+b.col+','+b.a+')');
+      g.addColorStop(.55,'rgba('+b.col+','+(b.a*.45)+')');
+      g.addColorStop(1,'rgba('+b.col+',0)');
+      ctx.fillStyle=g;ctx.beginPath();ctx.arc(cx,cy,b.r,0,Math.PI*2);ctx.fill();
+    });
+    ctx.filter='none';ctx.globalCompositeOperation='source-over';
+    var vg=ctx.createRadialGradient(W/2,H/2,Math.min(W,H)*.35,W/2,H/2,Math.max(W,H)*.75);
+    vg.addColorStop(0,'rgba(18,17,14,0)');vg.addColorStop(1,'rgba(18,17,14,0.75)');
+    ctx.fillStyle=vg;ctx.fillRect(0,0,W,H);
+  }
+  var raf;function tick(t){draw(t);raf=requestAnimationFrame(tick);}
+  raf=requestAnimationFrame(tick);
+  document.addEventListener('visibilitychange',function(){
+    if(document.hidden)cancelAnimationFrame(raf);else raf=requestAnimationFrame(tick);
+  });
+})();
+</script>
+
+<!-- ── Data adapter ───────────────────────────────────────────── -->
+<script>
+// Fetches articles.json and transforms it into the shape React components expect.
+var BREWF_ARTICLES_URL = './articles.json';
+var BREWF_FALLBACK_URL = 'https://raw.githubusercontent.com/itisbellax/brewf/main/articles.json';
+
+function pad2(n){return String(n).padStart(2,'0');}
+
+function fmtAge(published){
+  if(!published)return'TODAY';
+  var d=new Date(published);
+  if(isNaN(d))return'TODAY';
+  var h=Math.floor((Date.now()-d)/3600000);
+  if(h<1)return'NOW';if(h<24)return h+'H';
+  if(h<48)return'1D';return Math.floor(h/24)+'D';
+}
+
+function isFresh(published){
+  if(!published)return false;
+  var d=new Date(published);
+  return!isNaN(d)&&(Date.now()-d)<8*3600000;
+}
+
+function transformArticles(raw){
+  var now=new Date();
+  var SECTIONS={
+    'Industry News' :{id:'industry', title:'Industry News',   icon:'globe',       articles:[]},
+    'Tech Trends'   :{id:'trends',   title:'Tech Trends',     icon:'trending-up', articles:[]},
+    'Company Updates':{id:'companies',title:'Company Updates',icon:'building',    articles:[]},
+  };
+  var VALID=Object.keys(SECTIONS);
+  raw.forEach(function(a){
+    var cat=VALID.indexOf(a.category)>=0?a.category:'Industry News';
+    var bullets=(a.ai_summary||'').split('\n')
+      .map(function(l){return l.replace(/^[•–—]\s*/,'').trim();})
+      .filter(Boolean).slice(0,3);
+    var tags=(a.tags||'').split(',').map(function(t){return t.trim();}).filter(Boolean);
+    SECTIONS[cat].articles.push({
+      source:(a.source||'').toUpperCase(),
+      age:fmtAge(a.published),
+      fresh:isFresh(a.published),
+      title:a.title||'',
+      bullets:bullets,
+      tags:tags,
+      take:a.student_angle||'',
+      link:a.link||'#',
+    });
+  });
+  var total=raw.length;
+  var secs=total*28;
+  return{
+    date:{
+      day:now.toLocaleDateString('en-US',{weekday:'short'}).toUpperCase(),
+      date:now.toLocaleDateString('en-US',{month:'short',day:'numeric'}).toUpperCase(),
+      time:pad2(now.getHours())+':'+pad2(now.getMinutes()),
+    },
+    brief:{count:total,label:Math.floor(secs/60)+':'+pad2(secs%60)},
+    sections:Object.values(SECTIONS),
+    interests:['Software Engineering','AI & ML','Security','Data Science','Cloud & DevOps','Product & PM'],
+  };
+}
+
+window.__brewfLoadData=function(){
+  return fetch(BREWF_ARTICLES_URL)
+    .then(function(r){
+      if(!r.ok)throw new Error('not ok');
+      return r.json();
+    })
+    .catch(function(){
+      // Fallback to GitHub raw (works when opened as file://)
+      return fetch(BREWF_FALLBACK_URL).then(function(r){return r.json();});
+    })
+    .then(transformArticles);
+};
+</script>
+
+<!-- ── React (production, CDN) ───────────────────────────────── -->
+<script src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"
+  integrity="sha384-Bkj/ATFGj+lMIlQOj/QyTN8ZrVCEFY25q/F0/Tq0v5E11eTtjBkEzgYLG7aYM7l"
+  crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"
+  integrity="sha384-9dVDSGFHlWGmODFhxHMrFRDl1zCkdcF4S4D3rR+YqBVjfSMJq5UIr8VilFNLGPX"
+  crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js"
+  crossorigin="anonymous"></script>
+
+<!-- ── React components + App ───────────────────────────────── -->
+<script type="text/babel" data-presets="react">
+const { useState, useEffect, useRef } = React;
+
+/* ─── SVG Icon ─────────────────────────────────────────────── */
+function Icon({ name, size = 16, stroke = 1.5 }) {
+  const p = {
+    width: size, height: size, viewBox: "0 0 24 24",
+    fill: "none", stroke: "currentColor", strokeWidth: stroke,
+    strokeLinecap: "round", strokeLinejoin: "round",
+    style: { display: "inline-block", verticalAlign: "middle", flexShrink: 0 }
+  };
+  const paths = {
+    globe:        <><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></>,
+    "trending-up":<><path d="m3 17 6-6 4 4 8-8"/><path d="M14 7h7v7"/></>,
+    building:     <><path d="M3 21V7l6-4 6 4v14"/><path d="M15 11h6v10"/><path d="M7 9v.01M7 13v.01M7 17v.01M11 9v.01M11 13v.01M11 17v.01"/></>,
+    play:         <path d="M7 5v14l12-7z" fill="currentColor" stroke="none"/>,
+    pause:        <><path d="M9 5v14M15 5v14"/></>,
+    cap:          <><path d="m2 10 10-5 10 5-10 5z"/><path d="M6 12v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/></>,
+    out:          <><path d="M7 17 17 7M9 7h8v8"/></>,
+  };
+  return <svg {...p}>{paths[name] || null}</svg>;
+}
+
+/* ─── Tag ──────────────────────────────────────────────────── */
+const TAG_CLS = {
+  "Software Engineering": "tag tag-se",
+  "AI & ML":              "tag tag-ai",
+  "Security":             "tag tag-sec",
+  "Data Science":         "tag tag-data",
+  "Cloud & DevOps":       "tag tag-cloud",
+  "Product & PM":         "tag tag-pm",
+};
+function Tag({ name }) {
+  return <span className={TAG_CLS[name] || "tag"}>{name}</span>;
+}
+
+/* ─── TopNav ────────────────────────────────────────────────── */
+function TopNav({ date }) {
+  return (
+    <nav className="nav">
+      <div className="nav-inner">
+        <div className="nav-left">
+          <span className="wordmark">BREWF</span>
+          <span className="nav-date">{date.day} · {date.date} · {date.time}</span>
+        </div>
+        <div className="nav-links">
+          <span className="navlink active">Today</span>
+          <a className="navlink" href="https://github.com/itisbellax/brewf" target="_blank" rel="noopener">Source</a>
+        </div>
+      </div>
+    </nav>
+  );
+}
+
+/* ─── Hero ──────────────────────────────────────────────────── */
+function Hero({ date, count }) {
+  return (
+    <header className="hero">
+      <div className="hero-eyebrow">
+        <span className="dot"></span>
+        <span>Brewed at 06:00 &nbsp;·&nbsp; {count} stories today</span>
+      </div>
+      <h1 className="hero-brand">BREWF</h1>
+      <p className="hero-tagline">Tech news for CS students who'd rather be coding.</p>
+    </header>
+  );
+}
+
+/* ─── Podcast player ────────────────────────────────────────── */
+function PodcastPlayer({ brief }) {
+  const [playing, setPlaying] = useState(false);
+  const audioRef = useRef(null);
+  const bars = 32;
+  const heights = Array.from({ length: bars }, (_, i) => {
+    const s = Math.sin(i * 1.7) * Math.cos(i * 0.6);
+    return 30 + Math.round((1 + s) * 32);
+  });
+
+  function toggle() {
+    const a = audioRef.current;
+    if (!a) return;
+    if (playing) { a.pause(); setPlaying(false); }
+    else { a.play(); setPlaying(true); }
+  }
+
+  // Check if podcast file exists (same-origin only)
+  const [hasAudio, setHasAudio] = useState(false);
+  useEffect(() => {
+    fetch('./podcast.mp3', { method: 'HEAD' })
+      .then(r => { if (r.ok) setHasAudio(true); })
+      .catch(() => {});
+  }, []);
+
+  return (
+    <div className="podcast-slot">
+      <div className="player">
+        <button className="play-btn" onClick={toggle} aria-label={playing ? "Pause" : "Play"}>
+          <Icon name={playing ? "pause" : "play"} size={14} />
+        </button>
+        <div className="player-meta">
+          <div className="player-title">
+            <span className="strong">Today's brief</span>
+            <span className="dim"> · {brief.count} stories · brewed at 06:00</span>
+          </div>
+          <div className="waveform">
+            {heights.map((h, i) => (
+              <span key={i} className={`bar ${playing && i < bars * 0.4 ? "active" : ""}`}
+                style={{ height: h + "%" }}/>
+            ))}
+          </div>
+          {hasAudio && (
+            <div className="player-audio">
+              <audio ref={audioRef} src="./podcast.mp3" controls
+                onEnded={() => setPlaying(false)}
+                onPause={() => setPlaying(false)}
+                onPlay={() => setPlaying(true)} />
+            </div>
+          )}
+        </div>
+        <div className="player-time">
+          <span className="strong">{brief.label}</span>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/* ─── InterestBar ───────────────────────────────────────────── */
+function InterestBar({ interests, selected, onToggle }) {
+  return (
+    <div className="interests">
+      <span className="interests-label">Your interests</span>
+      <div className="interest-pills">
+        {interests.map(name => (
+          <button key={name}
+            className={`interest-pill ${selected.has(name) ? "on" : ""}`}
+            onClick={() => onToggle(name)}>
+            {name}
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+/* ─── SectionHeader ─────────────────────────────────────────── */
+function SectionHeader({ icon, title, count }) {
+  return (
+    <header className="section-head">
+      <span className="section-icon"><Icon name={icon} size={16} /></span>
+      <span className="section-title">{title.toUpperCase()}</span>
+      <span className="section-sep" />
+      <span className="section-count">{String(count).padStart(2, "0")} STORIES</span>
+    </header>
+  );
+}
+
+/* ─── ArticleCard ───────────────────────────────────────────── */
+function ArticleCard({ article }) {
+  return (
+    <article className="article">
+      <div className="article-meta">
+        {article.fresh && <span className="article-dot" />}
+        <span>{article.source}</span>
+        <span className="article-meta-sep">·</span>
+        <span>{article.age}</span>
+      </div>
+      <h4 className="article-title">
+        <a href={article.link} target="_blank" rel="noopener">
+          {article.title}
+          <span className="link-arrow"><Icon name="out" size={12} stroke={1.6} /></span>
+        </a>
+      </h4>
+      <ul className="article-bullets">
+        {article.bullets.map((b, i) => <li key={i}>{b}</li>)}
+      </ul>
+      <div className="article-tags">
+        {article.tags.map(t => <Tag key={t} name={t} />)}
+      </div>
+      {article.take && (
+        <div className="student-take">
+          <span className="take-label">
+            <Icon name="cap" size={12} stroke={1.6} /> Student Take
+          </span>
+          <span className="take-body">{article.take}</span>
+        </div>
+      )}
+    </article>
+  );
+}
+
+/* ─── FeedSection ───────────────────────────────────────────── */
+function FeedSection({ section, matches }) {
+  const filtered = section.articles.filter(matches);
+  return (
+    <section className="feed-section">
+      <SectionHeader icon={section.icon} title={section.title} count={filtered.length} />
+      {filtered.length === 0
+        ? <div className="empty">No stories match your interests in this section.</div>
+        : <div className="article-list">
+            {filtered.map((a, i) => <ArticleCard key={i} article={a} />)}
+          </div>
+      }
+    </section>
+  );
+}
+
+/* ─── App ───────────────────────────────────────────────────── */
+function App() {
+  const [data, setData]     = useState(null);
+  const [error, setError]   = useState(null);
+  const [selected, setSelected] = useState(new Set());
+
+  useEffect(() => {
+    window.__brewfLoadData()
+      .then(setData)
+      .catch(e => setError(e.message || "Failed to load articles."));
+  }, []);
+
+  const onToggle = name => {
+    setSelected(prev => {
+      const next = new Set(prev);
+      next.has(name) ? next.delete(name) : next.add(name);
+      return next;
+    });
+  };
+
+  const matches = a => {
+    if (selected.size === 0) return true;
+    return a.tags.some(t => selected.has(t));
+  };
+
+  if (error) {
+    return (
+      <div className="loading-screen">
+        <div className="loading-brand">BREWF</div>
+        <div className="error-msg">Could not load articles — {error}</div>
+      </div>
+    );
+  }
+
+  if (!data) {
+    return (
+      <div className="loading-screen">
+        <div className="loading-brand">BREWF</div>
+        <div className="loading-label">Brewing today's brief…</div>
+      </div>
+    );
+  }
+
+  const industry  = data.sections.find(s => s.id === "industry");
+  const trends    = data.sections.find(s => s.id === "trends");
+  const companies = data.sections.find(s => s.id === "companies");
+
+  return (
+    <div className="app">
+      <TopNav date={data.date} />
+      <main className="main">
+        <Hero date={data.date} count={data.brief.count} />
+        <PodcastPlayer brief={data.brief} />
+        <InterestBar interests={data.interests} selected={selected} onToggle={onToggle} />
+        <div className="feed">
+          <FeedSection section={industry}  matches={matches} />
+          <div className="feed-bottom">
+            <FeedSection section={trends}    matches={matches} />
+            <FeedSection section={companies} matches={matches} />
+          </div>
+        </div>
+        <footer className="footer">
+          <span className="mono">
+            BREWF · {data.date.date} ·{" "}
+            <a href="https://github.com/itisbellax/brewf" target="_blank" rel="noopener">github</a>
+          </span>
+          <span className="mono">That's the brief. See you tomorrow.</span>
+        </footer>
+      </main>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+
+</body>
+</html>
