@@ -494,6 +494,7 @@ function Hero({ date, count }) {
 /* ─── Podcast player ────────────────────────────────────────── */
 function PodcastPlayer({ brief }) {
   const [playing, setPlaying] = useState(false);
+  const [duration, setDuration] = useState(null);
   const audioRef = useRef(null);
   const bars = 32;
   const heights = Array.from({ length: bars }, (_, i) => {
@@ -504,11 +505,14 @@ function PodcastPlayer({ brief }) {
   function toggle() {
     const a = audioRef.current;
     if (!a) return;
-    if (playing) { a.pause(); setPlaying(false); }
-    else { a.play(); setPlaying(true); }
+    playing ? a.pause() : a.play();
   }
 
-  // Check if podcast file exists (same-origin only)
+  function fmtDur(secs) {
+    if (!secs || isNaN(secs)) return null;
+    return Math.floor(secs / 60) + ':' + String(Math.floor(secs % 60)).padStart(2, '0');
+  }
+
   const [hasAudio, setHasAudio] = useState(false);
   useEffect(() => {
     fetch('./podcast.mp3', { method: 'HEAD' })
@@ -518,6 +522,14 @@ function PodcastPlayer({ brief }) {
 
   return (
     <div className="podcast-slot">
+      {/* Hidden audio element — controlled by the play button below */}
+      {hasAudio && (
+        <audio ref={audioRef} src="./podcast.mp3"
+          onEnded={() => setPlaying(false)}
+          onPause={() => setPlaying(false)}
+          onPlay={() => setPlaying(true)}
+          onLoadedMetadata={() => setDuration(audioRef.current?.duration)} />
+      )}
       <div className="player">
         <button className="play-btn" onClick={toggle} aria-label={playing ? "Pause" : "Play"}>
           <Icon name={playing ? "pause" : "play"} size={14} />
@@ -533,18 +545,12 @@ function PodcastPlayer({ brief }) {
                 style={{ height: h + "%" }}/>
             ))}
           </div>
-          {hasAudio && (
-            <div className="player-audio">
-              <audio ref={audioRef} src="./podcast.mp3" controls
-                onEnded={() => setPlaying(false)}
-                onPause={() => setPlaying(false)}
-                onPlay={() => setPlaying(true)} />
-            </div>
-          )}
         </div>
-        <div className="player-time">
-          <span className="strong">{brief.label}</span>
-        </div>
+        {fmtDur(duration) && (
+          <div className="player-time">
+            <span className="strong">{fmtDur(duration)}</span>
+          </div>
+        )}
       </div>
     </div>
   );
