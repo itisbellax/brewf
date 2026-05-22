@@ -61,7 +61,10 @@ if __name__ == "__main__":
     if podcast_path and os.path.exists(podcast_path):
         files_to_add.append(podcast_path)
 
+    # Pull latest remote changes first to avoid diverged-history push failures
+    subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
     subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
-    subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
-    subprocess.run(["git", "push"], cwd=CWD)
+    result = subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
+    if result.returncode == 0:
+        subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
     print("Done.")
