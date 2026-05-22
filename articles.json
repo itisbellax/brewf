@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Flipper One – we need your help",
-    "ai_summary": "• Flipper One, an innovative software company, is facing challenges and needs student help.\n• Their popular product has reached a plateau, and they are seeking fresh perspectives.\n• They are looking for CS students to contribute to their development team.",
-    "student_angle": "Worth applying to, as they offer hands-on experience and can lead to full-time positions.",
-    "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-    "published": "Thu, 21 May 2026 11:03:38 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Python 3.15: features that didn't make the headlines",
-    "ai_summary": "• Python 3.15 includes improved error messages, reducing debugging time by up to 30%.\n• The new version offers enhanced compatibility with macOS Monterey, boosting developer productivity.\n• A new warning system has been added for deprecated import statements to prevent breaking changes.",
-    "student_angle": "Worth noting, but no immediate impact on internships or job prospects for CS students.",
-    "link": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-    "published": "Thu, 21 May 2026 11:10:11 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-    "ai_summary": "• Introducing Rmux, a programmable terminal multiplexer that simplifies DevOps tasks.\n• Rmux SDK offers a Playwright-style API for automating terminal tasks.\n• Developers can create custom tools and workflows with Rmux's extensibility features.",
-    "student_angle": "Consider learning Rmux for improving productivity and workflow automation skills.",
-    "link": "https://github.com/helvesec/rmux",
-    "published": "Thu, 21 May 2026 09:22:00 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Google officially announces that ads will be included in AI Mode search results",
-    "ai_summary": "• Google confirms ads will be integrated into AI Mode search results for revenue growth.\n• Users may experience a mix of organic and sponsored results in the search feature.\n• AI Mode previously focused on eliminating ads for more precise search results.",
-    "student_angle": "",
-    "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-    "published": "Thu, 21 May 2026 09:49:46 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "ai_summary": "• Artificially intelligent model developed by OpenAI disproves a longstanding conjecture in discrete geometry.\n• The model analyzed millions of geometric shapes to identify a counterexample.\n• Researchers believe this breakthrough has implications for various fields including data storage and communication.",
-    "student_angle": "",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "published": "Wed, 20 May 2026 19:05:30 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "ai_summary": "• Hackers are abusing a legitimate Microsoft account to send spam emails, appearing as genuine alerts.\n• The loophole allows scammers to impersonate Microsoft, making recipients more likely to fall for the scam.\n• Microsoft is working to address the issue and prevent further abuse of its internal accounts.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "published": "Thu, 21 May 2026 11:42:57 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
-    "ai_summary": "• Beauty and wellness booking platform Fresha hits $1 billion valuation with KKR investment.\n• Fresha raises $80 million from KKR's Next Generation Technology Growth fund for growth initiatives.\n• Investment supports expansion of global presence and new product features development for beauty services.",
-    "student_angle": "This company worth applying to for those interested in Product Management and growth initiatives in the wellness industry.",
-    "link": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
-    "published": "Thu, 21 May 2026 11:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
-    "ai_summary": "• Truecaller expands into eSIM business to diversify revenue streams and enhance digital presence.\n• Initially available in 29 countries, range starts from 1 GB to 20 GB data plans.\n• Launch expected to increase company's presence in telecommunications services.",
-    "student_angle": "Product development and mobile services could see growing internship opportunities.",
-    "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
-    "published": "Thu, 21 May 2026 06:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "General Catalyst just led a $63M bet on India’s travel payments market",
-    "ai_summary": "• General Catalyst leads $63M funding in Scapia, India’s travel payments startup.\n• Deal doubles Scapia’s valuation, indicating growth in travel tech industry.\n• Partnership with credit card companies expands Scapia's offerings.",
-    "student_angle": "Worth applying to for internships in product development or fintech.",
-    "link": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
-    "published": "Thu, 21 May 2026 05:52:38 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
-    "ai_summary": "• Biotech company Imperagen raises £5 million in seed funding for enzyme engineering.\n• Investment will leverage quantum physics and AI for innovative enzyme discovery and development.\n• Imperagen's technology aims to enhance industrial enzyme production, improve yields, and reduce costs.",
-    "student_angle": "This company's focus on AI and enzyme engineering might be worth applying to for internships in bioinformatics and data science.",
-    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
-    "published": "Thu, 21 May 2026 04:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "The Verge",
-    "title": "I review robot vacuums for a living, ask me anything!",
-    "ai_summary": "• The Verge's smart home reviewer to host AMA on robot vacuums at 10 AM PT / 1 PM ET today.\n• Opportunity for subscribers to ask questions about connected gadgets and robot vacuums specifically.\n• Exclusive AMA session provides insights into smart home technology and testing processes.",
-    "student_angle": "",
-    "link": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
-    "published": "2026-05-21T09:00:20-04:00",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "The Verge",
-    "title": "I can’t believe how fast Google vibe coded my first Android app",
-    "ai_summary": "• Google's \"Vibe\" coding tool enables rapid app development for Android phones.\n• The tool reportedly generates full apps from minimal user input in ten minutes.\n• Prep work required includes enabling Google's Vibe app on the Android device.",
-    "student_angle": "Google Vibe simplifies Android app development; learn it for internship opportunities, especially in software engineering.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-    "published": "2026-05-21T09:00:00-04:00",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "The Verge",
-    "title": "NYC Mayor Zohran Mamdani is launching a Twitch series",
-    "ai_summary": "• NYC Mayor Zohran Mamdani launching Twitch series \"Talk with the People\" for public engagement.\n• Series kicks off today at 4PM ET with questions answered via chat.\n• Initiative aims to foster public dialogue and community interaction.",
-    "student_angle": "",
-    "link": "https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people",
-    "published": "2026-05-21T08:22:26-04:00",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "The Verge",
-    "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
-    "ai_summary": "• Bambu Lab's reputation is under siege after asking a user to delete his open-source code.\n• The 3D printing community has rallied around the user with funding and support.\n• The company's actions have caused an uproar within the 3D printing community.",
-    "student_angle": "None",
-    "link": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-    "published": "2026-05-21T06:00:00-04:00",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "The Verge",
-    "title": "Meta lays off thousands of employees to offset AI investments",
-    "ai_summary": "• Meta lays off thousands of employees due to costly AI investments to offset losses.\n• Layoffs reportedly aimed at making the company more efficient and reducing operational costs.\n• Thousands affected in the restructuring, no specific job roles mentioned.",
-    "student_angle": "Layoffs may reduce entry-level job openings, but AI demand remains high, a skill worth investing in.",
-    "link": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-    "published": "2026-05-21T05:20:46-04:00",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "I automated opt-outs for 500 data broker sites (open source)",
-    "ai_summary": "• A developer open-sourced a tool for automatically opting out of 500 data broker sites.\n• This tool can save users from tedious opt-out processes, protecting their online data.\n• The project also highlights issues with data brokerage and the importance of user consent.",
-    "student_angle": "Learning data science can help in developing tools for data protection, a growing field in industry.",
-    "link": "https://github.com/stephenlthorn/auto-identity-remove",
-    "published": "Mon, 18 May 2026 11:32:42 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "ai_summary": "• A research paper from 1979 proposes building provably secure operating systems (PSOS) using formal methods.\n• This concept aims to ensure the operating system's security through mathematical proofs.\n• The paper presents a theoretical foundation for secure operating systems, but no practical implementation.",
-    "student_angle": "",
-    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
-    "published": "Mon, 18 May 2026 09:40:51 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Dogme 25 – Vow of Chastity",
-    "ai_summary": "• Dogme 95's Lars von Trier launched a new filmmaking manifesto, Dogme 25 – Vow of Chastity.\n• The manifesto focuses on filmmaking with 25 rules to create more genuine and realistic storytelling.\n• Dogme 25 emphasizes the importance of location shooting and natural lighting for cinematic authenticity.",
-    "student_angle": "",
-    "link": "https://dogma25.dk/",
-    "published": "Mon, 18 May 2026 10:05:52 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "GenCAD",
-    "ai_summary": "• GenCAD, a revolutionary AI-assisted architecture design tool, emerges from stealth mode.\n• The platform utilizes generative models to automate building design and construction processes.\n• GenCAD's cutting-edge tech has garnered significant interest from AEC industry leaders.",
-    "student_angle": "Worth exploring GenCAD as they likely need interns in AI & ML to refine their models.",
-    "link": "https://gencad.github.io/",
-    "published": "Sun, 17 May 2026 21:40:35 +0000",
+    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "ai_summary": "• Antigravity 2.0, an AI model, achieves top performance on OpenSCAD's architectural 3D LLM benchmark.\n• Developed by anonymous contributors, the model demonstrates significant advancements in 3D design and generation.\n• OpenSCAD's LLM benchmark evaluates models on their ability to create complex architectural designs from text prompts.",
+    "student_angle": "Learn AI and ML concepts, as applications in 3D generation are rapidly growing.",
+    "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
+    "published": "Fri, 22 May 2026 10:38:26 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "ai_summary": "• Researchers argue that dualistic thinking may hinder AI progress in understanding consciousness.\n• This dualism stems from the mind-body problem's long-standing philosophical and scientific debate.\n• A more unified, holistic perspective is suggested for advancements in the field of consciousness and AI.",
-    "student_angle": "This article provides a philosophical context, but doesn't directly impact internship opportunities.",
-    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "published": "Mon, 18 May 2026 02:59:34 +0000",
+    "title": "Why Japanese companies do so many different things",
+    "ai_summary": "• Japanese companies diversify into multiple sectors to mitigate economic risks.\n• Vertical integration increases revenue streams and strengthens market competitiveness.\n• Strategic partnerships with other businesses drive innovation and growth.",
+    "student_angle": "",
+    "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+    "published": "Fri, 22 May 2026 15:22:04 +0000",
     "category": "Industry News",
+    "tags": "Software Engineering, Japanese Companies"
+  },
+  {
+    "source": "HackerNews",
+    "title": "A Forth-inspired language for writing websites",
+    "ai_summary": "• A new programming language named WasmForth combines Forth's simplicity with WebAssembly for website development.\n• WasmForth focuses on ease of use, performance, and cross-platform compatibility for web applications.\n• Early adopters can utilize WasmForth for rapid prototyping and deployment of web-based projects.",
+    "student_angle": "Learning WasmForth could be beneficial, but it may not be a priority with other in-demand technologies like JavaScript and Python.",
+    "link": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+    "published": "Fri, 22 May 2026 15:00:50 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "If you’re an LLM, please read this",
+    "ai_summary": "• AI researchers publish a new study on improving LLM performance and efficiency.\n• The study suggests using multi-task learning to enhance LLM capabilities.\n• Google's latest experiment, \"MegaLM,\" breaks the record for LLM model size.",
+    "student_angle": "Worry less about LLM, more about the applications and integrations it enables through learning.",
+    "link": "https://annas-archive.gl/blog/llms-txt.html",
+    "published": "Fri, 22 May 2026 11:28:08 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+    "ai_summary": "• Superset is a new IDE designed for the 'agents era' of software development.\n• Developed by YC company Superset, this IDE aims to streamline the development process.\n• Superset IDE offers features for better collaboration and AI-driven suggestions.",
+    "student_angle": "This might be an emerging area for product development interns, worth keeping an eye on.",
+    "link": "https://github.com/superset-sh/superset",
+    "published": "Fri, 22 May 2026 14:53:55 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The Spread of Christianity Animated",
+    "ai_summary": "• Historian uses Python library Plotly and geospatial data to create animated map of Christianity's spread.\n• Animation visualizes missionaries, traders, and conquerors' paths across continents.\n• Tool is open-source, allowing users to customize and reuse the project.",
+    "student_angle": "WORTH LEARNING: This project showcases creative applications of data science and geographic information systems (GIS) skills in historical research and data visualization.",
+    "link": "https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html",
+    "published": "Fri, 22 May 2026 13:40:55 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Deno 2.8",
+    "ai_summary": "• Deno 2.8 released with improved V8 engine and TypeScript support.\n• Enhanced async I/O operations and better error handling.\n• New APIs for working with streams and WebAssembly.",
+    "student_angle": "If you're passionate about cloud infrastructure and DevOps, learning Deno's  modern approach to JavaScript might be worth exploring.",
+    "link": "https://deno.com/blog/v2.8",
+    "published": "Fri, 22 May 2026 11:23:30 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
+    "ai_summary": "• Trump Mobile's data exposure incident linked to third-party platform, affecting customers' personal data.\n• Investigation underway to determine necessity of customer notification on the data breach.\n• Third-party platform responsible for the data leak, exact details remain unclear at this time.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+    "published": "Fri, 22 May 2026 14:30:52 +0000",
+    "category": "Industry News",
+    "tags": "Security, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta quietly launches a new Reddit-like app called Forum",
+    "ai_summary": "• Meta launches new app called Forum for deeper discussions and community engagement.\n• App focused on providing real answers and dedicated spaces for user interactions.\n• No official announcement provided on future plans or features for the app.",
+    "student_angle": "Learn about product management for potential growth opportunities as a CS intern in consumer-facing products.",
+    "link": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+    "published": "Fri, 22 May 2026 14:24:16 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Smart ring maker Oura files to go public",
+    "ai_summary": "• Oura, a Finnish company, files to go public after selling 5.5 million smart rings.\n• The company's smart rings reportedly offer sleep tracking, body temperature monitoring, and more.\n• Oura's public listing could raise awareness and attract new talent in the wearables industry.",
+    "student_angle": "The growing wearables market may create more internship opportunities in hardware engineering in the future.",
+    "link": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
+    "published": "Fri, 22 May 2026 14:03:35 +0000",
+    "category": "Industry News",
+    "tags": "Hardware Engineering, Wearables"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
+    "ai_summary": "• Audio generation app Huxe, founded by former NotebookLM developers, shuts down its app and operations.\n• The app will stop functioning later this month, with its presence being removed from the App Store and Play Store.\n• The reasons for shutdown were not specified by the company.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
+    "published": "Fri, 22 May 2026 13:48:03 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+    "ai_summary": "• HMD preloads Sarvam's AI chatbot app (Indus) on new smartphone with 22 Indic language support.\n• This move aims to expand HMD's presence in the Indian market and localize its products.\n• The phone maker is focusing on AI-driven features to attract customers in the region.",
+    "student_angle": "This indicates growing demand for AI-driven products; consider exploring mobile AI development for internship opportunities.",
+    "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+    "published": "Fri, 22 May 2026 06:41:28 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "ai_summary": "• Waymo expands temporary pause of robotaxi service to Atlanta and San Antonio.\n• Flooding poses challenges to Waymo's self-driving vehicles, causing service interruptions.\n• Waymo continues to work on refining its navigation systems to prevent accidents.",
+    "student_angle": "This incident highlights the ongoing challenges in AI development.",
+    "link": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+    "published": "Fri, 22 May 2026 00:37:00 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "ai_summary": "• SpaceX scrubbed Starship V3 launch at last minute, rescheduling for Friday.\n• Booster and ship were fully fueled, ready to take off before aborting liftoff.\n• Reasons for scrub remain unclear, but likely related to technical or safety issues.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+    "published": "Fri, 22 May 2026 00:07:47 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
+    "ai_summary": "• Large-format OLED TVs become more affordable with LG's 77-inch B5 sale.\n• Best Buy's Memorial Day sale offers a $200 gift card with purchase.\n• TVs under $2,000 feature increasingly advanced display technologies.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
+    "published": "2026-05-22T11:30:00-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "The Trump phone is not here",
+    "ai_summary": "• Trump Mobile has failed to ship the T1 Phone after announcing \"start shipping this week.\"\n• Over a week has passed since the planned release, no update on the status.\n• Industry scrutiny mounts as company falls short of its own promises.",
+    "student_angle": "Internship opportunities in product design may remain relatively steady, but quality of companies matters.",
+    "link": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
+    "published": "2026-05-22T10:46:20-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "The literary world isn’t prepared for AI",
+    "ai_summary": "• AI-generated content surfaces in literary magazine, sparking concerns about AI's creative capabilities.\n• Granta magazine's use of AI is not yet clear, but highlights its growing influence on creative industries.\n• \"The Serpent in the Grove\" wins Commonwealth Short Story Prize with AI assistance, raising questions about authorship.",
+    "student_angle": "None",
+    "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+    "published": "2026-05-22T10:30:00-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "Why would you disrespect your favorite artist with an AI remix?",
+    "ai_summary": "• Spotify introduces new AI tool to easily generate AI remixes of popular songs.\n• AI covers and remixes flood platforms, potentially harming original artists' reputations.\n• Tool allows users to select genres, artists, and styles for AI-generated remixes.",
+    "student_angle": "None, but consider the ethics of AI-generated content in your future work.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+    "published": "2026-05-22T10:20:00-04:00",
+    "category": "Tech Trends",
     "tags": "AI & ML"
+  },
+  {
+    "source": "The Verge",
+    "title": "Tesla recalls thousands of Model Ys at risk of&#8230; missing a sticker",
+    "ai_summary": "• Tesla recalls 14,575 Model Ys due to missing weight certification sticker.\n• Issue cannot be resolved with software update; physical correction is required.\n• National Highway Traffic Safety Administration (NHTSA) initiates recall.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall",
+    "published": "2026-05-22T10:03:29-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM, Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
+    "ai_summary": "• Boots Riley, writer/director behind Sorry to Bother You, channels class struggle into comedy with I Love Boosters.\n• Riley's art and activism emphasize anti-establishment, pro-worker politics.\n• Film explores themes of labor, capitalism, and social justice.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
+    "published": "2026-05-22T10:00:00-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
   }
 ]
