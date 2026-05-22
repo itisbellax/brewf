@@ -55,10 +55,13 @@ def update_ai_fields(article_id, ai_summary, student_angle, category="", tags=""
     conn.commit()
     conn.close()
 
-def get_all_processed():
+def get_all_processed(limit=20):
     conn = sqlite3.connect(DB_PATH)
     rows = conn.execute(
-        "SELECT source, title, ai_summary, student_angle, link, published, category, tags FROM articles WHERE ai_summary IS NOT NULL ORDER BY fetched_at DESC"
+        "SELECT source, title, ai_summary, student_angle, link, published, category, tags "
+        "FROM articles WHERE ai_summary IS NOT NULL "
+        "ORDER BY fetched_at DESC LIMIT ?",
+        (limit,)
     ).fetchall()
     conn.close()
     return rows

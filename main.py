@@ -34,6 +34,8 @@ def export_to_json():
 
 if __name__ == "__main__":
     import subprocess
+    CWD = os.path.dirname(os.path.abspath(__file__))
+
     print("=== BREWF Daily Refresh ===")
     init_db()
     cleanup_old_articles()
@@ -42,7 +44,24 @@ if __name__ == "__main__":
     print(f"Fetched {len(articles)} articles, {saved} new")
     process_all()
     export_to_json()
-    subprocess.run(["git", "add", "articles.json"], cwd=os.path.dirname(os.path.abspath(__file__)))
-    subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=os.path.dirname(os.path.abspath(__file__)))
-    subprocess.run(["git", "push"], cwd=os.path.dirname(os.path.abspath(__file__)))
+
+    # Generate today's podcast
+    podcast_path = None
+    try:
+        from podcast import generate_podcast, AUDIO_PATH
+        print("Generating podcast...")
+        podcast_path, script = generate_podcast()
+        if podcast_path:
+            print(f"Podcast saved: {podcast_path}")
+    except Exception as e:
+        print(f"Podcast generation skipped: {e}")
+
+    # Commit articles + podcast together
+    files_to_add = ["articles.json"]
+    if podcast_path and os.path.exists(podcast_path):
+        files_to_add.append(podcast_path)
+
+    subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
+    subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
+    subprocess.run(["git", "push"], cwd=CWD)
     print("Done.")

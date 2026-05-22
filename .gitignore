@@ -1,6 +1,5 @@
 .env
 articles.db
-podcast.mp3
 cron.log
 user_prefs.json
 __pycache__/

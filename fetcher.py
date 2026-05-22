@@ -11,7 +11,7 @@ FEEDS = {
     "The Verge": "https://www.theverge.com/rss/index.xml",
 }
 
-def fetch_articles(max_per_feed=5):
+def fetch_articles(max_per_feed=7):
     articles = []
     for source, url in FEEDS.items():
         feed = feedparser.parse(url)
