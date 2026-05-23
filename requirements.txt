@@ -1,6 +1,5 @@
 feedparser
 groq
-streamlit
 python-dotenv
 edge-tts
 gTTS
