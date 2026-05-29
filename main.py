@@ -61,11 +61,8 @@ if __name__ == "__main__":
     if podcast_path and os.path.exists(podcast_path):
         files_to_add.append(podcast_path)
 
-    in_actions = os.environ.get("GITHUB_ACTIONS") == "true"
-
-    # Pull latest remote changes first (skip in GitHub Actions — just checked out)
-    if not in_actions:
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
+    # Pull latest remote changes first to avoid diverged-history push failures
+    subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
 
     subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
     result = subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
