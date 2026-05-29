@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "source": "HackerNews",
+    "title": "Cars are trying to spy on you, and it's only just the beginning",
+    "ai_summary": "• Cars are increasingly equipped with AI-powered cameras and sensors to monitor road conditions and driver behavior.\n• This data is often linked to the vehicle's central computer, raising concerns about driver surveillance and privacy.\n• The use of this data is still unclear, fueling concerns about potential misuse for targeted advertising or insurance manipulation.",
+    "student_angle": "Learn data science and AI to stay ahead in automotive industry developments, including emerging concerns about data privacy.",
+    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "published": "Fri, 29 May 2026 03:01:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Claude Opus 4.8",
+    "ai_summary": "• Claude AI releases Opus 4.8, a significant update to their flagship language model.\n• The new version improves multimodal capabilities and enhances user interface.\n• Opus 4.8 offers improved integration with other AI tools and platforms.",
+    "student_angle": "Claude AI is worth applying to for those interested in AI research and engineering.",
+    "link": "https://www.anthropic.com/news/claude-opus-4-8",
+    "published": "Thu, 28 May 2026 16:49:14 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "ai_summary": "• Lego collector's $200,000 collection was stolen by two employees from Bricks and Minifigs store.\n• Thieves used inside information to plan and execute the heist over several months.\n• Police investigation is ongoing, with suspects yet to be arrested or charged.",
+    "student_angle": "",
+    "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "published": "Thu, 28 May 2026 19:24:09 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "ai_summary": "• Stanford student creates 1 million dollar e-commerce platform from dorm room using cloud services.\n• Platform leveraged microservices architecture and agile development methodologies for rapid growth.\n• Founder cites flexibility and scalability of cloud infrastructure as key to success.",
+    "student_angle": "Learning cloud services and microservices architecture is worth it for scalability and flexibility benefits.",
+    "link": "https://nick.winans.io/blog/nice-nano/",
+    "published": "Thu, 28 May 2026 20:25:21 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The most spectacular rocket explosion since N1 just happened in Florida",
+    "ai_summary": "• A SpaceX launch vehicle exploded during fueling at NASA's Kennedy Space Center in Florida.\n• The explosion occurred at a private launch pad on the space center's premises.\n• The incident is currently under investigation by SpaceX and the Spaceflight Safety Office.",
+    "student_angle": "",
+    "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "published": "Fri, 29 May 2026 03:32:15 +0000",
+    "category": "Industry News",
+    "tags": "Aerospace, Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Ten Basic Clouds",
+    "ai_summary": "• Amazon Web Services (AWS) is the biggest public cloud platform, offering vast storage solutions.\n• Microsoft Azure provides a flexible suite of services and tools for cloud development and deployment.\n• Google Cloud Platform (GCP) offers scalable cloud infrastructure and machine learning capabilities.\n• IBM Cloud offers scalable infrastructure, applications, and services on demand, with a focus on AI.\n• Oracle Cloud provides a broad range of cloud-based infrastructure and software services.\n• SAP Cloud offers industry-specific cloud-based applications and technologies for various business needs.\n• Salesforce Cloud focuses on customer relationship management (CRM) and customer service.\n• Alibaba Cloud serves Chinese companies with extensive cloud services and a significant partner network.\n• IBM Cloud's acquisition of The Weather Company brings weather data to AI-powered cloud services.\n• Verizon Cloud offers secure cloud storage and data transfer services.",
+    "student_angle": "NONE (This article covers multiple cloud providers with no specific job opportunities or industry impact.)",
+    "link": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+    "published": "Sun, 24 May 2026 21:52:55 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "ai_summary": "• Blue Origin's New Glenn rocket exploded during a static fire test at Cape Canaveral Air Force Station.\n• The test aimed to validate the rocket's upper stage engines before an upcoming launch attempt.\n• No casualties were reported, and the cause of the failure is currently under investigation.",
+    "student_angle": "",
+    "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "published": "Fri, 29 May 2026 01:16:38 +0000",
+    "category": "Industry News",
+    "tags": "Aerospace, Space Exploration"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
+    "ai_summary": "• Blue Origin's New Glenn rocket explodes during a test in Florida, setting back space competition.\n• Explosion could affect company partnerships and customer confidence in future launches.\n• SpaceX still leads the private space industry despite rival's setback.",
+    "student_angle": "This incident may impact job opportunities in space tech, consider alternative areas in the industry.",
+    "link": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+    "published": "Fri, 29 May 2026 01:22:16 +0000",
+    "category": "Industry News",
+    "tags": "Space Tech"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "ai_summary": "• Glean triples annual revenue to over $300M, despite increasing competition in the AI search startup space.\n• Enterprise AI search startup focuses on AI budget-cutting, a major selling point for its services.\n• Tech giants entering the AI search category have not hindered Glean's growth, instead fueling innovation.",
+    "student_angle": "Worth considering for internship, given its innovative approach to AI and budget-cutting solutions.",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "published": "Fri, 29 May 2026 00:44:37 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
+    "ai_summary": "• Texas enacts new law requiring registration of autonomous vehicles.\n• Waymo leads in registered autonomous taxis and self-driving trucks.\n• Tesla lags behind in autonomous vehicle registrations, ranking third.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
+    "published": "Fri, 29 May 2026 00:14:35 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline",
+    "ai_summary": "• Apply to Startup Battlefield by June 8, submit your innovative startup idea for a chance to win.\n• Be a part of the prestigious global competition, gaining exposure to top venture capitalists and investors.\n• Showcase your solution to a real-world problem, impress judges and network with fellow startup founders.",
+    "student_angle": "This competition can provide valuable experience and recognition, making it worth applying to.",
+    "link": "https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/",
+    "published": "Thu, 28 May 2026 23:01:52 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The internet is being rebuilt for machines",
+    "ai_summary": "• Cloud infrastructure is being redesigned to handle AI-generated internet traffic instead of human users.\n• Companies like AWS and Cloudflare are leading this shift, optimizing for machine traffic requirements.\n• AI agents are moving from experimental stages to production, driving the need for infrastructure changes.",
+    "student_angle": "The focus on cloud infrastructure indicates growing demand in DevOps and cloud engineering areas.",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "published": "Thu, 28 May 2026 21:24:01 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Slate Auto will announce pricing and take preorders for its EV on June 24",
+    "ai_summary": "• Slate Auto, backed by Bezos, announces EV preorders and pricing on June 24.\n• Pricing and preorder details yet to be revealed for the company's vehicle launch.\n• Vehicle expected to start shipping by the end of 2023.",
+    "student_angle": "INTERNSHIPS MIGHT EMERGE as the EV startup begins mass production this year.",
+    "link": "https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/",
+    "published": "Thu, 28 May 2026 20:29:00 +0000",
+    "category": "Industry News",
+    "tags": "Automotive, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "ai_summary": "• Asana acquires StackAI, expanding its AI workflow capabilities and integrations.\n• StackAI's no-code agent-building technology enhances Asana's product features and offerings.\n• This acquisition reflects Asana's continued focus on AI-powered productivity tools and solutions.",
+    "student_angle": "Consider learning no-code agent-building techniques, a growing area in AI research and development.",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "published": "Thu, 28 May 2026 20:06:07 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "The Verge",
+    "title": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+    "ai_summary": "• Nintendo is releasing a new smartphone app, WarioWare, a series of microgames.\n• The app is a spin-off of Nintendo's popular WarioWare series, first released in 2003.\n• The new app marks Nintendo's continued shift towards mobile gaming despite past setbacks.",
+    "student_angle": "This product launch might not directly translate to more internships, but keep an eye on Nintendo for possible PM or game development roles.",
+    "link": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+    "published": "2026-05-28T16:16:16-04:00",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "ai_summary": "• Microsoft 365 Copilot gets a performance boost with twice as fast loading speed.\n• The redesign offers more reliable and structured AI-powered responses for users.\n• The revamped Copilot is available on desktop and mobile devices, improving accessibility.",
+    "student_angle": "Internship opportunities in AI-powered productivity tools are likely growing as cloud demand rises.",
+    "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "published": "2026-05-28T16:14:07-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle",
+    "ai_summary": "• The last-gen Kindle Paperwhite is on sale for a lower price than Amazon's new entry-level model.\n• The device is waterproof, making it a great option for beach or pool reading.\n• The sale is limited to June 14th or until stocks last at Woot with ads.",
+    "student_angle": "If you're interested in product development and design, this trend may indicate growing opportunities in e-reader tech.",
+    "link": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
+    "published": "2026-05-28T16:10:09-04:00",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "The Verge",
+    "title": "Motorola’s last-gen Razr Ultra is almost half off",
+    "ai_summary": "• Motorola Razr Ultra’s prices drop significantly for a flip phone with evolved tech.\n• The 2025 model is now available at $699.99 with 512GB of storage.\n• The phone offers a flip foldable format and high storage capacity.",
+    "student_angle": "Learn to adapt to new design trends and emerging tech like foldable phones for a future-proof career.",
+    "link": "https://www.theverge.com/gadgets/938621/razr-ultra-roborock-qrevo-curv-2-robot-vacuum-deal-sale",
+    "published": "2026-05-28T14:33:08-04:00",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "The line between games and movies keeps getting blurrier",
+    "ai_summary": "• The tutorial in '007 First Light' is gamified, making learning fun through an engaging storyline.\n• This innovative approach redefines the traditional tutorial experience in the gaming industry.\n• Gamers are presented with a more immersive introduction to the game, rather than a boring tutorial.",
+    "student_angle": "None",
+    "link": "https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games",
+    "published": "2026-05-28T14:03:51-04:00",
+    "category": "Industry News",
+    "tags": "Game Development, Product & PM"
+  },
+  {
+    "source": "The Verge",
+    "title": "Claude’s new model is more ‘honest’ when it messes up",
+    "ai_summary": "• Anthropic releases Claude Opus 4.8 with \"honesty\" features to prevent making unsupported claims.\n• Model aims to avoid jumping to conclusions, promoting transparency and accuracy.\n• Company emphasizes importance of honesty in AI models to build user trust.",
+    "student_angle": "This product launch suggests growing demand in the AI and ML space for interns with ethics expertise.",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+    "published": "2026-05-28T13:00:00-04:00",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  }
+]
