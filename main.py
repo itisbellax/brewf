@@ -66,6 +66,7 @@ if __name__ == "__main__":
 
     subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
     result = subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
-    if result.returncode == 0:
-        subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
+    # returncode 0 = committed, 1 = nothing to commit (already up to date)
+    # push regardless so GitHub Pages always gets the latest
+    subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
     print("Done.")
