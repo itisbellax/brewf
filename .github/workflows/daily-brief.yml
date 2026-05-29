@@ -29,6 +29,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Check API key
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          if [ -z "$GROQ_API_KEY" ]; then
+            echo "ERROR: GROQ_API_KEY is not set"
+            exit 1
+          else
+            echo "GROQ_API_KEY is set (length: ${#GROQ_API_KEY})"
+          fi
+
       - name: Run daily pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
