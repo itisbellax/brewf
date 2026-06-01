@@ -414,7 +414,7 @@ function transformArticles(raw){
       title:a.title||'',
       bullets:bullets,
       tags:tags,
-      take:a.student_angle||'',
+      take:(a.student_angle&&a.student_angle.trim().toLowerCase()!=='none')?a.student_angle.trim():'',
       link:a.link||'#',
     });
   });
