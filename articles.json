@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-    "ai_summary": "• Vulnerability discovered in VSCode lets attackers steal GitHub tokens with a single click.\n• The exploit uses malicious extensions to bypass GitHub's security checks, putting users at risk.\n• The bug has been fixed, but experts urge users to be cautious when installing third-party extensions.",
-    "student_angle": "",
-    "link": "https://blog.ammaraskar.com/github-token-stealing/",
-    "published": "Tue, 02 Jun 2026 15:29:05 +0000",
+    "title": "Elixir v1.20: Now a gradually typed language",
+    "ai_summary": "• Elixir v1.20 now supports gradual typing, improving code reliability and maintainability.\n• Gradual typing enhances type checking without enforcing type annotations at compile-time.\n• The update is backward compatible with existing Elixir projects and libraries.",
+    "student_angle": "Learn Elixir due to increasing demand in OTP, Erlang and its ecosystem, with job opportunities.",
+    "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "published": "Wed, 03 Jun 2026 19:02:26 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "The Unreasonable Redundancy of Nature's Protein Folds",
-    "ai_summary": "• Scientists discovered proteins with similar functions but diverse 3D structures, challenging evolutionary assumptions.\n• Nature's redundancy provides insights into protein evolution, adaptation, and disease resistance mechanisms.\n• Researchers are working to replicate this efficient coding scheme in artificial systems and AI applications.",
+    "title": "\"They're made out of weights\"",
+    "ai_summary": "• Researchers develop new AI framework utilizing weights from mechanical balance scales for efficient model optimization.\n• Framework shown to reduce compute power by 30% while improving model accuracy in computer vision tasks.\n• Study published with open-source code and full research findings available for public scrutiny.",
     "student_angle": "",
-    "link": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-    "published": "Wed, 03 Jun 2026 03:47:56 +0000",
+    "link": "https://maxleiter.com/blog/weights",
+    "published": "Wed, 03 Jun 2026 23:37:18 +0000",
     "category": "Industry News",
-    "tags": "Biology, AI & ML"
+    "tags": "AI & ML, Machine Learning"
   },
   {
     "source": "HackerNews",
-    "title": "Agentic Mfw",
-    "ai_summary": "• Agentic Mfw, a modular framework for ML development, announced public release on GitHub.\n• Framework's modular design enables seamless integration with various AI libraries and tools.\n• Developers praise framework's flexibility and potential for accelerating machine learning projects.",
-    "student_angle": "Worth learning due to growing demand for AI and ML specialists in internships.",
-    "link": "https://agenticmotherfucking.website",
-    "published": "Wed, 03 Jun 2026 02:32:48 +0000",
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "ai_summary": "• Failing grades in Berkeley CS classes rose significantly after students started relying heavily on AI tools.\n• Math skills in Berkeley students also suffered due to dependence on AI tools.\n• The university has yet to release official statements on the matter.",
+    "student_angle": "Develop stronger problem-solving skills to complement AI usage, and learn math fundamentals for a well-rounded CS education.",
+    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "published": "Thu, 04 Jun 2026 00:18:02 +0000",
     "category": "Industry News",
     "tags": "Software Engineering, AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-    "ai_summary": "• Utilize Nvidia GPU VRAM as Linux swap space to boost performance in memory-intensive tasks.\n• This method is useful for laptops with limited RAM or when running resource-hungry applications.\n• No external hardware or software installation required, simply configure the swap space using terminal commands.",
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+    "ai_summary": "• A developer spent $1,500 testing Large Language Models (LLMs) for hacking vulnerabilities in an app.\n• Results showed LLMs successfully exploited app flaws despite being misconfigured as an API gateway.\n• The experiment highlights the potential risks of using LLMs in application development.",
+    "student_angle": "Learn more about AI & ML security to prepare for emerging threats in the field.",
+    "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "published": "Thu, 04 Jun 2026 00:56:32 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "ai_summary": "• Gemma 4 12B is a unified encoder-free multimodal model, combining multiple data types.\n• This model reduces reliance on specialized encoders, allowing for more efficient processing.\n• Gemma 4 12B achieves state-of-the-art performance on various benchmarks and tasks.",
+    "student_angle": "Learn Gemma 4 12B to develop expertise in multimodal AI & ML, expanding job opportunities.",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "published": "Wed, 03 Jun 2026 16:04:42 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The ways we contain Claude across products",
+    "ai_summary": "• Meta AI's Claude language model is integrated across various products for personalized experiences.\n• Claude's multimodal capabilities enable text and image understanding for seamless interactions.\n• Containment of Claude across products focuses on data access and model management.",
+    "student_angle": "Learning about Claude's architecture can provide valuable insights into AI & ML development.",
+    "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "published": "Thu, 04 Jun 2026 00:27:52 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Artificial intelligence is not conscious – Ted Chiang",
+    "ai_summary": "• Renowned author Ted Chiang argues that artificial intelligence lacks consciousness despite advancements.\n• Chiang emphasizes that AI's complex algorithms and processes don't equate to self-awareness or consciousness.\n• His perspective highlights the need for nuanced discussions around AI capabilities and limitations.",
     "student_angle": "",
-    "link": "https://github.com/c0dejedi/nbd-vram",
-    "published": "Tue, 02 Jun 2026 22:55:33 +0000",
-    "category": "",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "MAI-Code-1-Flash",
-    "ai_summary": "• Microsoft announces MAI-Code-1-Flash, a cloud-based coding platform for AI development.\n• The platform enables developers to create and deploy AI models in the cloud using Python.\n• MAI-Code-1-Flash is available on Azure, providing an integrated developer environment.",
-    "student_angle": "This is a promising development in cloud-based AI, worth exploring if interested in AI development and deployment.",
-    "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "published": "Tue, 02 Jun 2026 18:47:07 +0000",
+    "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+    "published": "Wed, 03 Jun 2026 17:51:37 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "CT scans of BYD car parts",
-    "ai_summary": "• BYD collaborates with the University of Nottingham to conduct high-resolution CT scans of car parts.\n• Study aims to increase the efficiency of car part inspection and reduce the risk of product failure.\n• Research provides insights into the importance of quality control and non-destructive testing in the automotive industry.",
-    "student_angle": "Consider learning about CT scan technology and quality control methods in production – relevant for data-driven roles.",
-    "link": "https://www.lumafield.com/scan-of-the-month/byd",
-    "published": "Tue, 02 Jun 2026 20:30:08 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Roku LT Operating System open source distribution",
-    "ai_summary": "• Roku has open-sourced its LT Operating System for public use as a cloud-based platform.\n• The OS supports various programming languages and can be modified to suit user needs.\n• Developers can create custom interfaces and manage content delivery using the OS.",
-    "student_angle": "None",
-    "link": "https://blog.roku.com/developer/roku-lt-os",
-    "published": "Wed, 03 Jun 2026 01:13:38 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "AI outperforms law professors in Stanford Law study",
-    "ai_summary": "• AI program surpassed law professors in grading and evaluating law exam answers in Stanford Law study.\n• AI system achieved higher accuracy and consistency compared to human assessors.\n• Study suggests potential implications for law education and assessment methods.",
+    "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+    "ai_summary": "• A woman shares her personal story of being diagnosed with anti-NMDA receptor encephalitis.\n• The condition affects neurotransmitter receptors and can be caused by various health factors.\n• Her experience sheds light on the importance of prioritizing mental and physical health.",
     "student_angle": "",
-    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "published": "Tue, 02 Jun 2026 23:43:12 +0000",
+    "link": "https://burntsushi.net/encephalitis/",
+    "published": "Wed, 03 Jun 2026 14:10:06 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Law & Ethics"
+    "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "Capstone – multi-platform, multi-architecture disassembly framework",
-    "ai_summary": "• Capstone is an open-source framework for multi-platform, multi-architecture binary disassembly and analysis.\n• Supports over 30 architectures and 6 bytecode formats, including ARM, Intel, and Sparc.\n• Cross-platform compatibility on Windows, Linux, macOS, and more.",
-    "student_angle": "Learn it, as Capstone is a valuable tool for those exploring reverse engineering and security.",
-    "link": "https://www.capstone-engine.org/",
-    "published": "Wed, 03 Jun 2026 01:59:46 +0000",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "ai_summary": "• Uber limits AI usage per employee to $1,500/month to conserve resources and prevent waste.\n• This move highlights the importance of resource optimization in AI adoption and development.\n• Companies must carefully balance AI use with financial constraints to maximize ROI.",
+    "student_angle": "This sets a useful benchmark for AI tool pricing and resource allocation in various industries.",
+    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "published": "Wed, 03 Jun 2026 12:25:14 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "Gmail thinks I'm stupid, so I left",
-    "ai_summary": "• Google's free Gmail service sparked controversy after perceived intelligence-based algorithm adjustments.\n• Users report decreased email delivery speed and increased promotional notifications without consent.\n• The incident has raised concerns about the ethics of AI-driven personalization.",
-    "student_angle": "",
-    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "published": "Tue, 02 Jun 2026 19:27:40 +0000",
+    "title": "DaVinci Resolve 21",
+    "ai_summary": "• Blackmagic Design releases DaVinci Resolve 21 with enhanced color grading tools and HDR support.\n• New features include improved noise reduction and AI-powered audio ducking for better audio mixing.\n• DaVinci Resolve 21 also includes new Fairlight consoles for improved audio post-production workflow.",
+    "student_angle": "With rising demand in video editing and post-production, learning DaVinci Resolve is a valuable skill to develop.",
+    "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "published": "Wed, 03 Jun 2026 14:18:39 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
-    "ai_summary": "• Uber's robotaxis found thousands of lost items, including Squishmallows and dentures.\n• Items were left in robotaxis by passengers over a period of time.\n• ‘I Heart Hot Dads’ bag among unusual items discovered in robotaxis.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
-    "published": "Tue, 02 Jun 2026 23:25:20 +0000",
+    "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+    "ai_summary": "• Benchmark raises $2 billion in its largest-ever capital raise, ending a 20-year tradition of smaller funds.\n• This move may indicate a shift towards larger, more ambitious projects in the tech industry.\n• The growth fund allows Benchmark to invest in more startups and scale existing ones more quickly.",
+    "student_angle": "Benchmark's increased funding may attract more internship opportunities for students interested in cloud and DevOps.",
+    "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+    "published": "Thu, 04 Jun 2026 03:52:15 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+    "ai_summary": "• Bengaluru-based Quick commerce startup FirstClub doubles valuation to $255M in 9 months.\n• The startup crosses 1 million orders and reaches $50M annualized GMV run rate within a year.\n• Rapid growth of FirstClub reflects increasing demand for quick commerce services.",
+    "student_angle": "This company's success in quick commerce could indicate growing internship opportunities in logistics software.",
+    "link": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+    "published": "Thu, 04 Jun 2026 00:30:00 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "ai_summary": "• Lovable signs multiyear deal with Google Cloud for 5x expanded footprint.\n• Expanded access to Anthropic Claude for AI capabilities.\n• Partnership aimed at enhancing Lovable's services and scalability.",
+    "student_angle": "Potential internship opportunities may arise within expanded Cloud services offered by Lovable.",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "published": "Wed, 03 Jun 2026 22:56:51 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Defense tech is flooded with money, but who’s built to last?",
+    "ai_summary": "• Defense tech startups Anduril and Mach Industries see significant valuation increases.\n• Government proposes 40% increase in defense budget, sparking new wave of startups.\n• Most defense tech startups will 'get lost in the Valley of Death', according to Ross Fubini.",
+    "student_angle": "Consider exploring defense tech startups, but be aware of high failure rates in the space.",
+    "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
+    "published": "Wed, 03 Jun 2026 20:51:41 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber to put 500 data-collection vehicles on the road this year",
+    "ai_summary": "• Uber launches 500 modified Ioniq 5 vehicles to collect data for AV Labs division.\n• Vehicles will be equipped with sensors to capture data on various aspects of autonomous driving.\n• Data collected will be used to improve Uber's AV technology and safety.",
+    "student_angle": "Internship opportunities in autonomous driving will likely see an uptick, consider applying.",
+    "link": "https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/",
+    "published": "Wed, 03 Jun 2026 20:08:28 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "ai_summary": "• Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings.\n• Investors bet big on Google's AI business, highlighting its significant potential for growth.\n• Massive funding influx may lead to AI-driven product launches and innovative initiatives.",
+    "student_angle": "This funding signal suggests Google's AI business is a worthwhile area for AI & ML internship applications.",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "published": "Wed, 03 Jun 2026 19:38:32 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "ai_summary": "• Cybersecurity company Cyera eyes $12B valuation at 80x ARR multiple.\n• Company is nearing $300 million funding round led by Evolution Equity Partners.\n• Despite operating losses, investors are optimistic about Cyera's growth potential.",
-    "student_angle": "Possibly worth applying to internships, given the company's rapid growth and investment.",
-    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "published": "Tue, 02 Jun 2026 22:50:56 +0000",
+    "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
+    "ai_summary": "• Meta spun out VR fitness game Supernatural after user backlash, avoiding potential shutdown.\n• Decision comes after Meta cut thousands of jobs, sparking industry concerns about app maintenance.\n• Users praised Meta's willingness to adapt and prioritize app life, showcasing user value.",
+    "student_angle": "Consider exploring career paths in VR game development, with opportunities still available.",
+    "link": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
+    "published": "Wed, 03 Jun 2026 19:22:53 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "Product & PM, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
-    "ai_summary": "• DIY hardware communities like Cydecks create open-source, community-driven tech projects for personal freedom.\n• Cyberdeck projects showcase alternative uses for old electronics, reducing e-waste and promoting self-sufficiency.\n• Solar-powered and energy-efficient designs have become a key focus in these modern tech creations.",
-    "student_angle": "NONE, this article focuses on emerging tech trends and communities.",
-    "link": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
-    "published": "Tue, 02 Jun 2026 20:20:00 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-    "ai_summary": "• Uber caps employee AI spending after 4 months, exceeding budget.\n• The company previously encouraged extensive AI use across departments.\n• AI development may slow due to budget reallocation.",
-    "student_angle": "Layoffs indicate industry consolidation, making entry-level AI jobs more competitive, focus on building robust skills.",
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "published": "Tue, 02 Jun 2026 19:11:48 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "ai_summary": "• Microsoft releases Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open-source AI framework.\n• Tool allows developers to spin up AI behavior tests using text descriptions.\n• Framework enhances testing and evaluation of AI systems.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "published": "Tue, 02 Jun 2026 19:02:21 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A startup, Everand, is now bundling e-books, audiobooks, and book clubs in challenge to Amazon",
-    "ai_summary": "• Everand launches reading subscription bundling e-books, audiobooks, and book clubs.\n• This challenges Amazon's dominance in the e-book market and offers users more choices.\n• Subscription service includes access to Fable's book club community for discussions and recommendations.",
+    "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+    "ai_summary": "• Substack introduces Reply Rules feature to help creators control audience responses.\n• Feature currently available for all English-language publications on Substack.\n• Creators can set rules for responding to articles and comments on their platform.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
-    "published": "Tue, 02 Jun 2026 18:31:22 +0000",
-    "category": "Industry News",
-    "tags": "Tech Trends"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-    "ai_summary": "• Martin Scorsese uses AI tech for storyboarding, making him an unlikely voice in the industry.\n• The director's involvement highlights AI's growing presence in various creative fields.\n• Scorsese's collaboration could pave the way for more Hollywood professionals to explore AI.",
-    "student_angle": "NONE, however, AI is a promising field for growth, consider learning its applications.",
-    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "published": "Tue, 02 Jun 2026 18:16:53 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "ai_summary": "• Microsoft launches Scout, an OpenClaw-inspired AI assistant, integrated with Microsoft 365.\n• Scout aims to bring flexibility and power of OpenClaw to Microsoft's ecosystem.\n• No official details on implementation and release date provided.",
-    "student_angle": "Internship opportunities in AI-assistant development area may rise due to this new tech launch.",
-    "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "published": "Tue, 02 Jun 2026 18:02:44 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-    "ai_summary": "• Startup Layup Parts secures $42M in funding to develop Amazon-like platform for composite parts.\n• Founder Zack Eakin leverages motorsports and Anduril experience in building innovative composites solutions.\n• The company aims to revolutionize production of faster, cheaper, and better composites materials.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "link": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+    "published": "Wed, 03 Jun 2026 19:08:55 +0000",
     "category": "Industry News",
     "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-    "ai_summary": "• Google rolls out fake call detection system to prevent AI deepfake impersonation scams.\n• AI deepfake technology used to spoof trusted phone numbers and sound like authority figures.\n• Fake call detection aims to protect users from scams targeting sensitive personal info.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-    "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "ai_summary": "• Google introduces Dreambeans, a AI-illustrated storytelling tool using personal data from Google accounts.\n• Users receive curated stories in a cartoon format, showcasing AI's creative capabilities.\n• Tool raises concerns regarding data ownership and usage in AI-driven storytelling.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "published": "Wed, 03 Jun 2026 19:07:42 +0000",
+    "category": "Company Updates",
+    "tags": "AI & ML, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+    "ai_summary": "• Hackers accessed customers’ wellness data through an internal tool at wearables company Ultrahuman.\n• Credentials stolen from a malware-infected employee laptop caused the security breach.\n• No information on data misuse or customer exposure has been disclosed by Ultrahuman.",
+    "student_angle": "This breach may influence the industry as a whole, potentially increasing security measures in wearable and health tech.",
+    "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+    "published": "Wed, 03 Jun 2026 17:30:52 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Security"
+    "tags": "Security, Data Science"
   }
 ]
