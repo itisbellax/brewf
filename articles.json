@@ -1,109 +1,159 @@
 [
   {
     "source": "HackerNews",
-    "title": "Valve P2P networking broken for more than 2 months",
-    "ai_summary": "• Valve's Peer-to-Peer (P2P) networking remains broken for over 2 months.\n• Users report widespread connectivity issues and disconnections.\n• No official fix or update on the issue has been announced.",
+    "title": "New drug 'functionally cures' many hepatitis B virus infections",
+    "ai_summary": "• Scientists discover new drug that functionally cures many hepatitis B virus infections.\n• Research breakthrough offers hope for millions of people suffering from the disease worldwide.\n• Study demonstrates significant improvement in liver function and viral suppression among treated patients.",
     "student_angle": "NONE.",
-    "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-    "published": "Sun, 07 Jun 2026 03:21:52 +0000",
+    "link": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+    "published": "Mon, 08 Jun 2026 01:41:42 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": "Data Science, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Field of clones: How horse replicas came to dominate polo",
-    "ai_summary": "• Horse replicas, also known as robotic horses, have taken over the polo world in recent developments.\n• These robotic horses offer unmatched consistency, speed, and control to polo players.\n• Their precision and durability revolutionize the game, changing polo forever.",
+    "title": "APC–2 – A professional record cutter for producing original playback discs",
+    "ai_summary": "• APC–2 is a professional record cutter developed for precision playback disc production.\n• This machine allows for high-quality reproduction and accurate duplication of digital content.\n• APC–2 is designed for commercial and industrial use, supporting various disc formats.",
     "student_angle": "",
-    "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-    "published": "Sun, 07 Jun 2026 02:46:37 +0000",
+    "link": "https://teenage.engineering/products/apc-2",
+    "published": "Mon, 08 Jun 2026 01:27:22 +0000",
     "category": "Industry News",
-    "tags": "None"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-    "ai_summary": "• Tokenomics explores quantitative approaches to understanding token usage in agentic software engineering frameworks.\n• Researchers apply game theory and economics to study token-based decision-making processes in blockchain systems.\n• Methodologies developed can optimize token distribution and adoption in decentralized applications.",
-    "student_angle": "Tokenomics methodologies may enhance your understanding of blockchain systems, making it a worthwhile subject to explore for internship applications in fintech and cryptocurrency.",
-    "link": "https://arxiv.org/abs/2601.14470",
-    "published": "Sun, 07 Jun 2026 01:37:11 +0000",
+    "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+    "ai_summary": "• Over 1,000 data breaches occurred in 2022, with 20% of companies still not disclosing breaches.\n• Average disclosure time has increased from 48 to 80 days, allowing more time for data exploitation.\n• Experts warn that lack of transparency and accountability hinders trust in organizations handling sensitive data.",
+    "student_angle": "NONE, however students interested in data breach response should learn about industry security protocols and compliance regulations.",
+    "link": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+    "published": "Mon, 08 Jun 2026 03:17:10 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Blockchain & Cryptocurrency"
+    "tags": "Security, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Harness engineering: Leveraging Codex in an agent-first world",
-    "ai_summary": "• Harness offers its Codex, an agent-first AI platform, to simplify software development processes.\n• Codex automates repetitive tasks and enhances collaboration among developers through AI-driven recommendations.\n• The platform uses machine learning to improve software maintenance and scalability with minimal manual intervention.",
-    "student_angle": "Learn Codex for a competitive edge in AI-driven software development roles. Its agent-first approach offers innovative solutions to traditional challenges.",
-    "link": "https://openai.com/index/harness-engineering/",
-    "published": "Fri, 05 Jun 2026 18:20:06 +0000",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "ai_summary": "• Build a basic neural network using Python and its Perceptron algorithm.\n• Learn the fundamental components of artificial neural networks.\n• Experiment with single-layer neural networks' simplicity and limitations.",
+    "student_angle": "Learn this technology to get familiar with neural networks, essential for AI & ML internships.",
+    "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "published": "Mon, 08 Jun 2026 00:28:37 +0000",
     "category": "Tech Trends",
-    "tags": "AI & ML"
+    "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-    "ai_summary": "• Ntsc-rs is an open-source video emulation framework that mimics analog TV and VHS artifacts.\n• It allows developers to add nostalgic TV and video effects to web and mobile applications.\n• Ntsc-rs can be used in a variety of projects, including video games, media players, and streaming platforms.",
-    "student_angle": "This innovative technology is worth exploring due to its potential applications in multimedia development and creative projects.",
-    "link": "https://ntsc.rs/",
-    "published": "Sat, 06 Jun 2026 19:17:46 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Public Domain Image Archive",
-    "ai_summary": "• Public Domain Image Archive (PDA) allows users to access and download high-quality images freely.\n• PDA includes diverse collections from museums, libraries, and other public domain sources worldwide.\n• Users can browse and search images by category, keyword, and contributor.",
-    "student_angle": "Internships in product development might involve leveraging user-generated content repositories like PDA.",
-    "link": "https://pdimagearchive.org/",
-    "published": "Sun, 07 Jun 2026 00:22:51 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-    "ai_summary": "• Symbolica 2.0, a new library for creating programmable symbols in Python and Rust, released.\n• Library allows developers to create and manipulate symbols programmatically and visualize complex data.\n• Symbolica 2.0 supports Rust and Python, extending its reach to more developers.",
-    "student_angle": "Consider learning Symbolica 2.0 for projects involving data visualization and scientific computing.",
-    "link": "https://symbolica.io/posts/symbolica_2_0_release/",
-    "published": "Fri, 05 Jun 2026 17:13:59 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-    "ai_summary": "• Liminalism combines elements of VR, AR, and UX design to create immersive experiences.\n• The aesthetic prioritizes exploration, experimentation, and interaction over traditional visual storytelling.\n• Liminalism enables seamless transitions between digital and physical environments.",
-    "student_angle": "Worth learning Liminalism for understanding the intersection of UX, AR, and VR in modern tech design.",
-    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-    "published": "Sun, 07 Jun 2026 02:12:19 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-    "ai_summary": "• Oproxy is a browser extension that inspects and modifies network traffic, allowing users to visualize and alter HTTP headers and requests.\n• The extension uses browser-native API permissions to access and manipulate traffic, providing a seamless user experience.\n• Oproxy also includes features for filtering, rewriting, and logging HTTP requests and responses.",
-    "student_angle": "This technology may be worth learning for those interested in network security and browser extension development, potentially expanding internship opportunities in those areas.",
-    "link": "https://github.com/sauravrao637/oproxy",
-    "published": "Sun, 07 Jun 2026 02:11:29 +0000",
+    "title": "Building from zero after addiction, prison, and a felony",
+    "ai_summary": "• Ex-con develops app to detect addiction triggers and offer personalized support.\n• The app uses machine learning to identify patterns in behavior and emotions.\n• The app's developer shares his story of overcoming addiction and incarceration.",
+    "student_angle": "None, a success story about perseverance but no direct relevance to CS internship opportunities.",
+    "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+    "published": "Sun, 07 Jun 2026 18:33:07 +0000",
     "category": "Industry News",
     "tags": "Security"
   },
   {
     "source": "HackerNews",
-    "title": "Moving beyond fork() + exec()",
-    "ai_summary": "• Understand the limitations of traditional process management using fork() and exec().\n• Explore modern alternatives such as CoRoutines, Actors, and Process Folders.\n• Implement efficient and scalable process management in real-world applications.",
-    "student_angle": "Learn these alternatives to improve your coding efficiency and scalability for growing cloud & DevOps jobs.",
-    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-    "published": "Sat, 06 Jun 2026 14:34:20 +0000",
+    "title": "Dopamine Fracking",
+    "ai_summary": "• Meta AI introduces \"Dopamine Fracking\" - a new training approach for AI agents.\n• Algorithm enables AI systems to adapt to multiple goals and environments efficiently.\n• Technique aims to enhance AI's ability to learn from real-world experiences.",
+    "student_angle": "Worth exploring the concept for future AI and ML projects - applicable to various use cases.",
+    "link": "https://igerman.cc/blog/dopamine-fracking/",
+    "published": "Mon, 08 Jun 2026 02:42:24 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "ai_summary": "• DeepSeek V4 Pro beats GPT-5.5 Pro in precision tasks, setting new AI benchmark.\n• Results show 15% improvement in accuracy for complex problem-solving scenarios.\n• Breakthrough marks significant advancement in neural network architectures.",
+    "student_angle": "Consider learning about the latest advancements in neural networks to stay competitive.",
+    "link": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "published": "Mon, 08 Jun 2026 01:39:30 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "1worldflag: A blue dot on a transparent background",
+    "ai_summary": "• 1worldflag: a new, customizable logo available on transparent backgrounds for various uses.\n• The 1worldflag logo promotes global unity, featuring a single blue dot on a clear background.\n• Users can customize size and color to use for branding or web development purposes.",
+    "student_angle": "NONE. This logo update doesn't indicate any notable changes in internship opportunities.",
+    "link": "https://1worldflag.com/",
+    "published": "Mon, 08 Jun 2026 01:37:52 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Algorithmic Monocultures in Hiring",
+    "ai_summary": "• Algorithmic hiring tools prioritize candidates based on data patterns, potentially overlooking diverse skills and experiences.\n• These algorithms can create a monoculture of applicants, favoring those who resemble a narrow ideal candidate profile.\n• This monoculture may lead to homogenous workforces and miss out on innovative ideas from underrepresented groups.",
+    "student_angle": "None, focus on developing a diverse set of skills and experiences to increase your chances in a competitive hiring market.",
+    "link": "https://algorithmichiring.github.io/",
+    "published": "Mon, 08 Jun 2026 01:54:54 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "ai_summary": "• Developers can now create a Matter Wi-Fi Light Bulb on Raspberry Pi Pico 2 W using Rust.\n• The Pico 2 W's low power consumption and Wi-Fi capability make it ideal for IoT projects.\n• Rust's memory safety and performance features simplify smart home device development.",
+    "student_angle": "Learn Rust for its growing demand in embedded systems and IoT development.",
+    "link": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+    "published": "Mon, 08 Jun 2026 00:17:45 +0000",
     "category": "Tech Trends",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "ai_summary": "• AI companies like Meta, Google, and Microsoft plan public listings and expect AI token prices to surge.\n• Token prices likely to increase as the market capitalization of these companies grows.\n• Large-scale AI model development drives demand for specialized compute and AI tokens.",
+    "student_angle": "Consider learning about crypto and AI token ecosystems, as industry growth may lead to new internship opportunities.",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "published": "Sun, 07 Jun 2026 20:26:13 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Notion restores access to Anthropic after service disruption",
+    "ai_summary": "• Notion experiences a service disruption but quickly restores access to Anthropic.\n• Users were temporarily unable to access their services due to an undisclosed reason.\n• Notion's head of product acknowledges the disruption, expressing surprise at public backlash.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "published": "Sun, 07 Jun 2026 17:56:22 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI is still working on that ‘super app’",
+    "ai_summary": "• Senior OpenAI employee claims 'chat' technology is no longer viable.\n• OpenAI still working on ambitious 'super app' concept with AI capabilities.\n• Development of 'super app' expected to take some time, according to sources.",
+    "student_angle": "This doesn't directly impact internship opportunities, but studying AI & ML fundamental principles still applies.",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "published": "Sun, 07 Jun 2026 16:23:22 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: Inside GM’s $900M EV battery gamble",
+    "ai_summary": "• General Motors invests $900M in EV battery tech with battery supplier LG Chem.\n• This move aims to reduce EV battery costs, enhancing GM's electric vehicle offerings.\n• GM plans to expand its battery production capacity in the United States.",
+    "student_angle": "This is a significant shift in the automotive industry, worth keeping an eye on from a tech perspective, but not directly impacting entry-level jobs.",
+    "link": "https://techcrunch.com/2026/06/07/inside-gms-900m-ev-battery-gamble/",
+    "published": "Sun, 07 Jun 2026 16:05:00 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+    "ai_summary": "• Massive DOGE data breach exposes user info, potentially vulnerable to phishing attacks.\n• Critical infrastructure in the US and Asia hacked, causing disruptions and economic losses.\n• FBI surveillance system hacked, compromising sensitive law enforcement data and operations.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+    "published": "Sun, 07 Jun 2026 14:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "ai_summary": "• OpenAI unveiled Lockdown Mode to protect sensitive data from prompt injection attacks.\n• Lockdown Mode limits access to data, but vulnerabilities may still exist through other routes.\n• Goal of Lockdown Mode is to reduce accidental data sharing via chat interactions.",
-    "student_angle": "Learning about vulnerabilities and countermeasures is essential; study prompt injection attacks.",
+    "ai_summary": "• OpenAI introduces Lockdown Mode to mitigate prompt injection attacks on ChatGPT.\n• This feature is designed to secure user data from potential exploitation through prompts.\n• Vulnerabilities may still exist in spite of Lockdown Mode implementation.",
+    "student_angle": "NONE.",
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "published": "Sat, 06 Jun 2026 20:32:24 +0000",
     "category": "Industry News",
@@ -112,18 +162,18 @@
   {
     "source": "TechCrunch",
     "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "ai_summary": "• Apple confirms WWDC 2026 keynote, expected to feature Siri’s highly anticipated AI-driven revamp.\n• Rumors of Apple Intelligence updates, integrating machine learning capabilities across iOS and iPadOS.\n• WWDC 2026 to showcase new advancements in Apple’s ecosystem, including iOS and macOS updates.",
-    "student_angle": "This event marks a crucial opportunity for Apple to innovate its ecosystem, but internship opportunities may not directly correlate with the keynote.",
+    "ai_summary": "• Apple set to unveil major Siri revamp, potentially changing voice AI landscape.\n• WWDC 2026 attendees can expect announcements on Apple Intelligence platform updates.\n• Event likely to highlight Apple's growing focus on AI-driven product development.",
+    "student_angle": "Internship opportunities in AI-driven software engineering may see growth, consider learning AI frameworks.",
     "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
     "published": "Sat, 06 Jun 2026 18:13:36 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
+    "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "TechCrunch",
     "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "ai_summary": "• Sriram Krishnan, former White House AI advisor, departs from his role.\n• Krishnan establishes a new institution to shape AI policy.\n• Institution's goal is to maintain Trump's legacy in AI policy.",
-    "student_angle": "",
+    "ai_summary": "• Sriram Krishnan leaves White House AI advisor role after serving during former President Trump's administration.\n• Krishnan reportedly starting institution to shape future AI policy, potentially affecting industry direction.\n• Institution's goals and focus not specified, but may impact US AI governance.",
+    "student_angle": "This news doesn't directly impact entry-level jobs, but keeps AI governance and policy in focus.",
     "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "published": "Sat, 06 Jun 2026 17:42:15 +0000",
     "category": "Industry News",
@@ -132,7 +182,7 @@
   {
     "source": "TechCrunch",
     "title": "The Trump administration might take an equity stake in OpenAI",
-    "ai_summary": "• US President Donald Trump may take an equity stake in AI company OpenAI as a deal option.\n• Discussion centers on American people benefiting from AI success through equity stake or partnerships.\n• Deal terms remain unclear, but potential implications for AI development in the US.",
+    "ai_summary": "• Trump administration might take equity stake in OpenAI, sparking concerns about AI development control.\n• OpenAI could benefit from increased funding for AI research and development.\n• Impact of government involvement in AI companies remains uncertain and requires further investigation.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "published": "Sat, 06 Jun 2026 16:17:21 +0000",
@@ -142,61 +192,11 @@
   {
     "source": "TechCrunch",
     "title": "Beyond Instagram: Introducing the next generation of social apps",
-    "ai_summary": "• Newer social apps prioritize users' interests, fostering a sense of community over algorithm-driven feeds.\n• Apps like Mastodon, CounterSocial, and Element focus on creativity and user experience design.\n• These platforms aim to provide users with more control over their data and interactions.",
-    "student_angle": "Learning about these social apps could help with developing human-centered design skills in CS.",
+    "ai_summary": "• New social apps prioritize users' interests over algorithms, promoting niche communities and creativity.\n• Apps like Mastodon, Pixelfed, and Peep focus on decentralized, user-controlled content and interactions.\n• Users can now share content with specific groups, fostering meaningful conversations and connections.",
+    "student_angle": "Consider learning about these newer social frameworks for a more nuanced understanding of social media development.",
     "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
     "published": "Sat, 06 Jun 2026 15:00:00 +0000",
     "category": "Tech Trends",
-    "tags": "Data Science, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
-    "ai_summary": "• Reid Hoffman resigns from Microsoft's board to focus on AI drug discovery startup Manus.\n• Hoffman will return to 'founder mode' after a decade serving on Microsoft's board.\n• Manus aims to accelerate AI-driven discovery of new medicines and treatments.",
-    "student_angle": "Hoffman's departure from Microsoft might impact its AI and ML projects, but unlikely to impact entry-level opportunities.",
-    "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-    "published": "Fri, 05 Jun 2026 22:35:01 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founders share VC horror stories, and some are naming names",
-    "ai_summary": "• Founders share disturbing allegations of venture capital (VC) manipulation and favoritism.\n• Several high-profile VCs named in the conversation, highlighting the controversy's broad reach.\n• X users share experiences of rejection and mistreatment, sparking concerns about VC accountability.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-    "published": "Fri, 05 Jun 2026 21:47:56 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
-    "ai_summary": "• Former IBM cybersecurity executive turned whistleblower accuses IBM of covering up data breaches.\n• Allegedly, multiple IBM subsidiaries were breached during the mid-2010s without disclosure.\n• Lawsuit filed against IBM for its handling of data breaches and failure to inform clients.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
-    "published": "Fri, 05 Jun 2026 20:31:04 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "ai_summary": "• Applications for Startup Battlefield 200 close on June 8, 11:59 p.m. PT.\n• TechCrunch Disrupt 2026 takes place this October at San Francisco's Moscone West.\n• Competition offers chance to showcase innovation on the Disrupt Stage.",
-    "student_angle": "Not directly related to hiring or technology, focus on pitching and networking opportunities instead.",
-    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "published": "Fri, 05 Jun 2026 20:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Startup Fundraising, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "ai_summary": "• Google reportedly pays SpaceX $920M per month for cloud computing services.\n• The deal is a result of unexpected demand for Google's AI products.\n• SpaceX's Starlink and Starship will be integrated with Google's cloud infrastructure.",
-    "student_angle": "With Google heavily investing in cloud infrastructure, internship opportunities in this area are likely to grow.",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "published": "Fri, 05 Jun 2026 18:57:20 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
+    "tags": "Software Engineering, Product & PM"
   }
 ]
