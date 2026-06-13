@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-    "ai_summary": "• Article highlights the importance of proactive problem-solving in the tech industry.\n• Proactive problem-solving is often overlooked, yet critical to successful software development.\n• PDF article emphasizes the value of anticipating and preventing problems.",
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+    "ai_summary": "• US government issues directive to suspend access to Fable 5 and Mythos 5 due to security concerns.\n• Companies developing games and software affected by the directive to take necessary security measures.\n• Impact on gaming industry and software development to be assessed in coming weeks.",
     "student_angle": "",
-    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-    "published": "Fri, 12 Jun 2026 00:38:11 +0000",
-    "category": "Company Updates",
+    "link": "https://www.anthropic.com/news/fable-mythos-access",
+    "published": "Sat, 13 Jun 2026 00:51:30 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Open source AI must win",
+    "ai_summary": "• Leading tech companies invest heavily in open source AI initiatives, fueling growth and innovation.\n• Open source AI models can provide better transparency, flexibility, and community engagement, driving collaboration and progress.\n• Major tech giants, including Google, Microsoft, and Facebook, increasingly rely on open source AI frameworks and tools.",
+    "student_angle": "This shift towards open source AI means more opportunities for internships and entry-level positions focused on AI development and collaboration.",
+    "link": "https://opensourceaimustwin.com/?share=v2",
+    "published": "Sat, 13 Jun 2026 02:14:24 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Electric motors with no rare earths",
+    "ai_summary": "• Researchers develop electric motors that replace rare earth magnets with more abundant alternatives.\n• New materials reduce reliance on critical minerals, minimizing environmental impact and supply chain disruption.\n• Companies see potential to increase production efficiency and lower costs with eco-friendly motor tech.",
+    "student_angle": "Learn this technology as it may lead to increased focus on sustainable innovations and growing internship opportunities.",
+    "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "published": "Fri, 12 Jun 2026 22:08:03 +0000",
+    "category": "Industry News",
+    "tags": "Hardware, Sustainability"
+  },
+  {
+    "source": "HackerNews",
+    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+    "ai_summary": "• Scientists have successfully used CRISPR technology to selectively eliminate cancer cells, especially \"undruggable\" ones.\n• This approach targets cancer cells with high precision, minimizing harm to healthy tissues.\n• CRISPR's adaptability in cancer treatment raises hopes for more effective therapies with fewer side effects.",
+    "student_angle": "None",
+    "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+    "published": "Fri, 12 Jun 2026 15:15:24 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Healthtech"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Our response to the US ban on Fable 5 and Mythos 5",
+    "ai_summary": "• US government bans the development and sale of Fable 5 and Mythos 5 in the country due to undisclosed content concerns.\n• The ban has led to a significant delay in the release of both games, affecting their developer's financial projections and reputation.\n• Xbox has announced that it will relocate its Fable 5 development team to a different location, citing the importance of the project's success.",
+    "student_angle": "This ban might lead to more opportunities for CS students in the gaming sector outside of the US.",
+    "link": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
+    "published": "Sat, 13 Jun 2026 03:59:45 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Twenty One Zero-Days in FFmpeg",
+    "ai_summary": "• FFmpeg, an open-source multimedia framework, has been discovered to have 21 zero-days.\n• The vulnerabilities are considered critical, allowing full control over systems.\n• Exploits can be used to launch malicious attacks, with no current patches available.",
+    "student_angle": "This news demonstrates the importance of security knowledge in CS, making learning about secure coding practices a valuable skill to acquire.",
+    "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "published": "Fri, 12 Jun 2026 22:13:29 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: Putt.day a daily mini golf game",
+    "ai_summary": "• Putt.day is a web-based daily mini golf game where players compete globally.\n• The game features increasingly challenging levels and a social leaderboard.\n• Developed using modern web technologies such as React and Node.js.",
+    "student_angle": "",
+    "link": "https://putt.day/",
+    "published": "Fri, 12 Jun 2026 22:56:06 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+    "ai_summary": "• Apple engineers migrate TrueType hinting interpreter to Swift for improved performance.\n• New implementation reduces codebase by 50% and increases readability.\n• Migration showcases the versatility and growing role of Swift at Apple.",
+    "student_angle": "This showcases Swift's potential for complex projects; learn it for its application in high-level tasks.",
+    "link": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+    "published": "Fri, 12 Jun 2026 19:54:27 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "On CPU Physics and CPU Cycles",
+    "ai_summary": "• Researchers explore the underlying physics of CPU architecture to optimize performance and power consumption.\n• Understanding CPU cycles helps developers optimize software for faster execution and lower energy usage.\n• Advances in CPU physics and cycles can improve AI model efficiency and reduce latency in cloud services.",
+    "student_angle": "Worth researching as optimized CPU usage can lead to higher performance and lower energy consumption in cloud services.",
+    "link": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
+    "published": "Sat, 13 Jun 2026 04:37:08 +0000",
+    "category": "Industry News",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "If you are asking for human attention, demonstrate human effort",
-    "ai_summary": "• To stand out, show that your ideas are backed by effort and human judgment, not just algorithms.\n• Demonstrate your capacity for empathy, creativity, and critical thinking in your requests.\n• Human touch in product development and design sets businesses apart and resonates with users.",
-    "student_angle": "This approach is worth cultivating, as product managers who value human effort tend to offer more meaningful internships and projects.",
-    "link": "https://tombedor.dev/human-attention-and-human-effort/",
-    "published": "Thu, 11 Jun 2026 23:01:55 +0000",
-    "category": "",
-    "tags": "Product & PM, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Homebrew 6.0.0",
-    "ai_summary": "• Homebrew, an open-source package manager for macOS, releases v6.0.0 with various improvements.\n• The update includes enhancements to formula validation and installation of command-line tools.\n• Formula validation has been improved to reduce errors and improve user experience.",
-    "student_angle": "Homebrew 6.0.0 shows growth in package management space; consider exploring open-source projects like Homebrew for internship opportunities.",
-    "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-    "published": "Thu, 11 Jun 2026 13:24:29 +0000",
-    "category": "",
-    "tags": "Software Engineering, DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Claude Fable is relentlessly proactive",
-    "ai_summary": "• Claude Fable raises $10 million for its AI-powered operations automation platform.\n• The startup plans to accelerate hiring across engineering and product teams.\n• Claude Fable aims to simplify enterprise IT infrastructure management.",
-    "student_angle": "Worth applying to, with growing internship opportunities in DevOps and cloud automation.",
-    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "published": "Fri, 12 Jun 2026 01:06:51 +0000",
-    "category": "Company Updates",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-    "ai_summary": "• FablePool is a platform where users can collectively fund and build AI projects in public.\n• FablePool aims to democratize access to AI development resources and expertise.\n• Public builds create transparency and engagement among contributors and developers.",
+    "title": "How to setup a local coding agent on macOS",
+    "ai_summary": "• Install Homebrew by running /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"\n• Configure Xcode and install Command Line Tools with a brew install command\n• Set up a local coding environment using Visual Studio Code and a coding agent like Docker",
     "student_angle": "",
-    "link": "https://fablepool.com",
-    "published": "Thu, 11 Jun 2026 21:17:30 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "MiMo Code is now released and open-source",
-    "ai_summary": "• MiMo Code is now released and open-source, available for public use and modification.\n• Developers can now contribute and collaborate on the code, enhancing its reliability and functionality.\n• The codebase is available for analysis and learning, providing valuable insights into modern software engineering practices.",
-    "student_angle": "",
-    "link": "https://mimo.xiaomi.com/mimocode",
-    "published": "Thu, 11 Jun 2026 14:27:19 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "ai_summary": "• Anthropic issues public apology for flawed Claude Fable AI test environment design.\n• Invisible guardrails compromised AI model performance and reliability, triggering apology.\n• The company acknowledged mistakes and pledged to improve AI system testing.",
-    "student_angle": "Learn from this example to design robust AI testing and validation.",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "published": "Thu, 11 Jun 2026 12:05:02 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Petition to Withdraw Canada's Bill C-22",
-    "ai_summary": "• Canadian Bill C-22 may compromise user data and online freedom with broad surveillance expansion.\n• Critics argue the Bill infringes on Charter rights and could lead to increased cyber risks.\n• Petition to withdraw the Bill has gained significant traction among Canadian citizens and advocacy groups.",
-    "student_angle": "",
-    "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-    "published": "Thu, 11 Jun 2026 15:37:23 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "A jacket that harvests drinking water from the air",
-    "ai_summary": "• A wearable jacket can extract water from the air, even in extremely dry environments.\n• The technology uses condensation to harvest up to 0.5 liters of water per day.\n• This innovative concept has the potential to address water scarcity globally.",
-    "student_angle": "This product may lead to growing internship opportunities in environmental sustainability and water-tech projects.",
-    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "published": "Thu, 11 Jun 2026 22:59:22 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Software is made between commits",
-    "ai_summary": "• Software development is often more iterative than linear, with most work happening between commits.\n• Continuous integration and deployment pipelines play a crucial role in modern software development.\n• Regular feedback and testing help ensure software quality throughout the development process.",
-    "student_angle": "",
-    "link": "https://zed.dev/blog/introducing-deltadb",
-    "published": "Thu, 11 Jun 2026 16:28:24 +0000",
+    "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "published": "Fri, 12 Jun 2026 17:34:55 +0000",
     "category": "Tech Trends",
-    "tags": "Software Engineering"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
-    "ai_summary": "• Equal AI secures $30M in funding to expand its AI-powered call assistant service.\n• The AI-powered call assistant now has over a million monthly active users globally.\n• The platform helps Indian users screen unnecessary calls, enhancing user experience.",
-    "student_angle": "This funding indicates potential for AI job opportunities; apply to Equal AI for insights into ML engineering.",
-    "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
-    "published": "Fri, 12 Jun 2026 04:30:00 +0000",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "ai_summary": "• Andrew Yang identifies housing, food, and wireless costs as areas where Americans overpay.\n• He believes lowering these costs could be the next startup gold rush opportunity.\n• Yang suggests startups can give consumers money back through innovative solutions.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "published": "Sat, 13 Jun 2026 04:14:19 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
+    "tags": "Data Science"
   },
   {
     "source": "TechCrunch",
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "ai_summary": "• Theker raises $85M to build a reconfigurable factory robot that adapts to various tasks.\n• Machines are designed for scalability and flexibility in various manufacturing settings.\n• No fixed form means robots can be easily updated as technology advances.",
-    "student_angle": "Worth considering if interested in robotics research or development – innovative ideas emerge from unconventional approaches.",
-    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-    "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "ai_summary": "• Government pulls plug on Anthropic's AI model over potential \"jailbreak\" vulnerability.\n• Anthropic expresses disagreement with decision in blog post criticizing the precautionary action.\n• Recalling model deployed to millions of users raises concerns about tech regulation and safety.",
+    "student_angle": "This development affects AI and ML research, but its direct impact on entry-level internship opportunities is unclear.",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published": "Sat, 13 Jun 2026 02:26:30 +0000",
     "category": "Industry News",
-    "tags": "Robotics"
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "ai_summary": "• Jeff Bezos's physical AI startup Prometheus raised $12 billion in new funding round.\n• New valuation of $41 billion indicates significant growth potential for the company.\n• Prometheus aims to automate heavy engineering and drug design with AI technology.",
-    "student_angle": "This AI startup shows the growing importance of machine learning in industry, learn ML for broader career opportunities.",
-    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "published": "Fri, 12 Jun 2026 01:04:38 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "ai_summary": "• SpaceX, the US-based aerospace manufacturer, files for the largest IPO ever with a share price of $135.\n• The SpaceX IPO will list shares on the New York Stock Exchange and Nasdaq.\n• Elon Musk's SpaceX has raised $157.3 billion in the initial public offering.",
-    "student_angle": "Consider applying to SpaceX, as its IPO signals significant growth in the space tech industry.",
-    "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-    "published": "Thu, 11 Jun 2026 20:33:10 +0000",
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "ai_summary": "• SpaceX files for IPO with estimated valuation up to $420 billion.\n• Company discloses pre-IPO deals with investors and financial partners.\n• S-1 document reveals company's financials and operational metrics.",
+    "student_angle": "If interested in space tech and cloud infrastructure, consider SpaceX for internships; a company of this scale may offer meaningful projects.",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "published": "Fri, 12 Jun 2026 23:15:14 +0000",
     "category": "Industry News",
     "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-    "ai_summary": "• Oracle warns of a critical security bug exploited by hackers in a mass-hacking campaign.\n• The bug has been used to breach over 100 organizations with vulnerable servers.\n• Google said it notified the affected companies of the potential security risk.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-    "published": "Thu, 11 Jun 2026 20:27:25 +0000",
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "ai_summary": "• Meta's AI unit reportedly employs 6,500 people and may be on verge of revolt.\n• Engineers working in the unit describe it as a \"soul-crushing gulag\".\n• Tensions rise among 6,500 employees amidst reports of work conditions.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "published": "Fri, 12 Jun 2026 23:00:54 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "AI & ML, Company Updates"
   },
   {
     "source": "TechCrunch",
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "ai_summary": "• Lower-tier investors in SpaceX's SPV may face hidden fees and lengthy payout delays post-IPO.\n• Investors may risk outright fraud from unknown parties in complex SPV structures.\n• Public debut of SpaceX to reveal true holdings only when post-IPO lock-ups lift.",
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "ai_summary": "• Google sues Chinese cybercrime operation \"Outsider Enterprise\" for AI-facilitated scams.\n• The group sent 2.5 million text messages to hundreds of thousands of victims.\n• AI technology was used to impersonate financial institutions for phishing.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "published": "Thu, 11 Jun 2026 19:58:01 +0000",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+    "category": "Industry News",
+    "tags": "Security, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+    "ai_summary": "• SpaceX makes successful IPO debut, trading 19% higher than initial $135 per share price.\n• Company valued over $850 billion, cementing founder Elon Musk's status as the world's first trillionaire.\n• Successful IPO marks significant milestone for private space exploration and development.",
+    "student_angle": "SpaceX is worth applying to, particularly for internship opportunities in AI, Machine Learning, and Software Engineering.",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+    "published": "Fri, 12 Jun 2026 20:20:00 +0000",
+    "category": "Industry News",
+    "tags": "Finance"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+    "ai_summary": "• SpaceX President Gwynne Shotwell hinted at a possible Tesla merger, fueling speculation.\n• The potential merger could lead to significant changes in the electric vehicle and space industries.\n• An official announcement from either company is still pending.",
+    "student_angle": "This news may not directly impact internship opportunities, but studying companies' collaborations is crucial for future data scientists.",
+    "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+    "published": "Fri, 12 Jun 2026 19:28:31 +0000",
+    "category": "Industry News",
+    "tags": "Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "ai_summary": "• Mistral, a cloud computing company, is rumored to raise €3B at €20B valuation.\n• This would more than double its previous valuation of €11.7 billion.\n• The company plans to use the funds for further growth and expansion.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "published": "Fri, 12 Jun 2026 17:38:11 +0000",
     "category": "Industry News",
     "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Bluesky launches group chats, as company shifts focus to community features",
-    "ai_summary": "• Bluesky introduces group chats as the company focuses on community features.\n• Feature development prioritizes smaller communities over individual users initially.\n• Shift may lead to new opportunities for community-driven software engineers.",
+    "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
+    "ai_summary": "• Robinhood sees 'record-breaking' traffic as SpaceX stock debuts on the platform.\n• Trading platform reports intermittent disruptions, but issues have now resolved.\n• Customers were affected by congestion during the stock's launch on June 10.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
-    "published": "Thu, 11 Jun 2026 19:41:05 +0000",
+    "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
+    "published": "Fri, 12 Jun 2026 17:05:06 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": "Financial Software"
   },
   {
     "source": "TechCrunch",
-    "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
-    "ai_summary": "• Meta's Edits app to gain an AI assistant feature for creators.\n• Desktop version will be introduced for increased content creation options.\n• Integrated AI aims to enhance user engagement on Instagram.",
-    "student_angle": "This suggests growing opportunities for internships in AI-powered social media tools.",
-    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-    "published": "Thu, 11 Jun 2026 17:30:00 +0000",
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "ai_summary": "• IPO market shifts toward a new acronym (MANGOS) with companies like OpenAI, SpaceX, and Anthropic leading the charge.\n• Companies are heading to public markets in a short window, posing a valuation stress test for investors.\n• Anthropic, OpenAI, and SpaceX are poised to test market sentiment on AI, space tech, and their valuations.",
+    "student_angle": "Worth applying to for internships in AI and space technology research due to their innovative and high-profile projects.",
+    "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "published": "Fri, 12 Jun 2026 16:23:25 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Coinbase’s new tool can help agents trade and pay for premium research",
-    "ai_summary": "• Coinbase launches x402 protocol, offering researchers access to data and APIs for premium market insights.\n• This tool enables faster, more efficient trading and payment processes for financial agents.\n• x402 protocol simplifies access to valuable market intelligence for Coinbase's agent network.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
-    "published": "Thu, 11 Jun 2026 17:00:00 +0000",
-    "category": "Company Updates",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Quantum Space’s military SPAC is trying to catch SpaceX’s IPO wave",
-    "ai_summary": "• Quantum Space is attempting a $1.2 billion SPAC deal for military spacecraft development.\n• The move aims to capitalize on SpaceX's successful IPO and enter the space industry.\n• Quantum Space will work on satellites for both commercial and military clients.",
-    "student_angle": "Worth applying to for aerospace or space-related internships with a strong PM focus.",
-    "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
-    "published": "Thu, 11 Jun 2026 16:59:28 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "AI & ML, Tech Trends"
   }
 ]
