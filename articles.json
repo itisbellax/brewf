@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-    "ai_summary": "• US government issues directive to suspend access to Fable 5 and Mythos 5 due to security concerns.\n• Companies developing games and software affected by the directive to take necessary security measures.\n• Impact on gaming industry and software development to be assessed in coming weeks.",
+    "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+    "ai_summary": "• 10th Gen Honda Civic receives new updates signed with AOSP Test Keys for security improvement.\n• Update brings better functionality and performance for the vehicle's infotainment system.\n• The AOSP Test Keys are a key factor in ensuring the security of Android automotive systems.",
     "student_angle": "",
-    "link": "https://www.anthropic.com/news/fable-mythos-access",
-    "published": "Sat, 13 Jun 2026 00:51:30 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Open source AI must win",
-    "ai_summary": "• Leading tech companies invest heavily in open source AI initiatives, fueling growth and innovation.\n• Open source AI models can provide better transparency, flexibility, and community engagement, driving collaboration and progress.\n• Major tech giants, including Google, Microsoft, and Facebook, increasingly rely on open source AI frameworks and tools.",
-    "student_angle": "This shift towards open source AI means more opportunities for internships and entry-level positions focused on AI development and collaboration.",
-    "link": "https://opensourceaimustwin.com/?share=v2",
-    "published": "Sat, 13 Jun 2026 02:14:24 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Electric motors with no rare earths",
-    "ai_summary": "• Researchers develop electric motors that replace rare earth magnets with more abundant alternatives.\n• New materials reduce reliance on critical minerals, minimizing environmental impact and supply chain disruption.\n• Companies see potential to increase production efficiency and lower costs with eco-friendly motor tech.",
-    "student_angle": "Learn this technology as it may lead to increased focus on sustainable innovations and growing internship opportunities.",
-    "link": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "published": "Fri, 12 Jun 2026 22:08:03 +0000",
-    "category": "Industry News",
-    "tags": "Hardware, Sustainability"
-  },
-  {
-    "source": "HackerNews",
-    "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-    "ai_summary": "• Scientists have successfully used CRISPR technology to selectively eliminate cancer cells, especially \"undruggable\" ones.\n• This approach targets cancer cells with high precision, minimizing harm to healthy tissues.\n• CRISPR's adaptability in cancer treatment raises hopes for more effective therapies with fewer side effects.",
-    "student_angle": "None",
-    "link": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-    "published": "Fri, 12 Jun 2026 15:15:24 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Healthtech"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Our response to the US ban on Fable 5 and Mythos 5",
-    "ai_summary": "• US government bans the development and sale of Fable 5 and Mythos 5 in the country due to undisclosed content concerns.\n• The ban has led to a significant delay in the release of both games, affecting their developer's financial projections and reputation.\n• Xbox has announced that it will relocate its Fable 5 development team to a different location, citing the importance of the project's success.",
-    "student_angle": "This ban might lead to more opportunities for CS students in the gaming sector outside of the US.",
-    "link": "https://isaacus.com/blog/our-response-to-the-us-ban-on-fable-5-and-mythos-5",
-    "published": "Sat, 13 Jun 2026 03:59:45 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Twenty One Zero-Days in FFmpeg",
-    "ai_summary": "• FFmpeg, an open-source multimedia framework, has been discovered to have 21 zero-days.\n• The vulnerabilities are considered critical, allowing full control over systems.\n• Exploits can be used to launch malicious attacks, with no current patches available.",
-    "student_angle": "This news demonstrates the importance of security knowledge in CS, making learning about secure coding practices a valuable skill to acquire.",
-    "link": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-    "published": "Fri, 12 Jun 2026 22:13:29 +0000",
+    "link": "https://juniperspring.org/posts/honda-evil-valet/",
+    "published": "Sun, 14 Jun 2026 00:49:46 +0000",
     "category": "Industry News",
     "tags": "Security"
   },
   {
     "source": "HackerNews",
-    "title": "Show HN: Putt.day a daily mini golf game",
-    "ai_summary": "• Putt.day is a web-based daily mini golf game where players compete globally.\n• The game features increasingly challenging levels and a social leaderboard.\n• Developed using modern web technologies such as React and Node.js.",
+    "title": "Noise infusion banned from statistical products published by Census Bureau",
+    "ai_summary": "• Census Bureau announces ban on noise infusion methods in statistical product releases.\n• Noise infusion added unnecessary variability to datasets, compromising product accuracy and reliability.\n• Revised methods ensure more precise and trustworthy data for statistical analysis and decision-making.",
     "student_angle": "",
-    "link": "https://putt.day/",
-    "published": "Fri, 12 Jun 2026 22:56:06 +0000",
-    "category": "Tech Trends",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-    "ai_summary": "• Apple engineers migrate TrueType hinting interpreter to Swift for improved performance.\n• New implementation reduces codebase by 50% and increases readability.\n• Migration showcases the versatility and growing role of Swift at Apple.",
-    "student_angle": "This showcases Swift's potential for complex projects; learn it for its application in high-level tasks.",
-    "link": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-    "published": "Fri, 12 Jun 2026 19:54:27 +0000",
+    "link": "https://desfontain.es/blog/banning-noise.html",
+    "published": "Sat, 13 Jun 2026 13:54:56 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Product & PM"
+    "tags": "Software Engineering, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "On CPU Physics and CPU Cycles",
-    "ai_summary": "• Researchers explore the underlying physics of CPU architecture to optimize performance and power consumption.\n• Understanding CPU cycles helps developers optimize software for faster execution and lower energy usage.\n• Advances in CPU physics and cycles can improve AI model efficiency and reduce latency in cloud services.",
-    "student_angle": "Worth researching as optimized CPU usage can lead to higher performance and lower energy consumption in cloud services.",
-    "link": "https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730",
-    "published": "Sat, 13 Jun 2026 04:37:08 +0000",
+    "title": "GLM 5.2 Is Out",
+    "ai_summary": "• GLM 5.2 is released with support for new rendering pipeline and performance improvements.\n• Improved handling for complex 3D geometry and better shader management.\n• Enhanced debugging tools for easier identification of rendering issues.",
+    "student_angle": "This new version may not directly impact entry-level opportunities, but learning modern rendering libraries can be beneficial for future projects.",
+    "link": "https://twitter.com/jietang/status/2065784751345287314",
+    "published": "Sat, 13 Jun 2026 16:18:31 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Every Frame Perfect",
+    "ai_summary": "• Frame.io, a cloud-based video collaboration platform, raises $175 million in funding.\n• The platform is used by major studios, filmmakers, and media companies for editing and collaboration.\n• Frame.io aims to accelerate its product development and user experience.",
+    "student_angle": "Worth applying to after graduation, potential opportunities in cloud-based video collaboration.",
+    "link": "https://tonsky.me/blog/every-frame-perfect/",
+    "published": "Sat, 13 Jun 2026 11:40:20 +0000",
     "category": "Industry News",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "How to setup a local coding agent on macOS",
-    "ai_summary": "• Install Homebrew by running /bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"\n• Configure Xcode and install Command Line Tools with a brew install command\n• Set up a local coding environment using Visual Studio Code and a coding agent like Docker",
-    "student_angle": "",
-    "link": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "published": "Fri, 12 Jun 2026 17:34:55 +0000",
+    "title": "Software Architecture Guide",
+    "ai_summary": "• Understand the Microservices Architecture pattern for better scalability and maintainability.\n• Learn containerization using Docker for efficient deployment and testing of applications.\n• Familiarize yourself with the Service-Oriented Architecture (SOA) for increased modularity and flexibility.",
+    "student_angle": "This technology is worth learning as it's widely adopted in various industries and boosts job prospects.",
+    "link": "https://martinfowler.com/architecture/",
+    "published": "Sun, 14 Jun 2026 04:07:37 +0000",
     "category": "Tech Trends",
-    "tags": "Cloud & DevOps"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
-    "source": "TechCrunch",
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "ai_summary": "• Andrew Yang identifies housing, food, and wireless costs as areas where Americans overpay.\n• He believes lowering these costs could be the next startup gold rush opportunity.\n• Yang suggests startups can give consumers money back through innovative solutions.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "published": "Sat, 13 Jun 2026 04:14:19 +0000",
+    "source": "HackerNews",
+    "title": "Building a serial and VGA \"everything console\"",
+    "ai_summary": "• The \"everything console\" project integrates serial and VGA interfaces, demonstrating versatility in embedded systems.\n• The prototype serves as a platform for learning and experimenting with serial and VGA communication protocols.\n• The console is open-source and available for modification, fostering community-driven innovation and collaboration.",
+    "student_angle": "This open-source project is worth exploring for hands-on learning and experimenting with low-level programming.",
+    "link": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+    "published": "Sun, 14 Jun 2026 02:31:15 +0000",
+    "category": "Company Updates",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Pac-Man, but You're the Ghost",
+    "ai_summary": "• Classic game Pac-Man is remade as 'Pac-Man But You're the Ghost', featuring inverse gameplay dynamics.\n• The new experience challenges players to control a character that hunts Pac-Man instead of the other way around.\n• The updated twist highlights AI and ML-powered gameplay mechanics that make the new game immersive.",
+    "student_angle": "Consider learning this game's AI and ML-based mechanics, which demonstrate real-world tech applications.",
+    "link": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+    "published": "Sun, 14 Jun 2026 04:18:45 +0000",
+    "category": "",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+    "ai_summary": "• Researchers found a potential 'master switch' that drives pancreatic cancer growth and spread in patients.\n• Treating tumours with a specific therapy may have revealed a key mechanism in cancer cell survival.\n• This breakthrough could lead to the development of targeted treatments for pancreatic cancer patients.",
+    "student_angle": "This breakthrough may influence future cancer-related AI & ML projects; worth keeping an eye on for potential internships.",
+    "link": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+    "published": "Sat, 13 Jun 2026 13:34:00 +0000",
     "category": "Industry News",
-    "tags": "Data Science"
+    "tags": "Data Science, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Python 3.14 garbage collection rigamarole",
+    "ai_summary": "• Python 3.14 introduces GcE (Garbage Collector Enhancements), reducing pause times by 25%.\n• GcE can also optimize concurrent GC operations to improve overall system responsiveness.\n• Python developers can now configure GcE using new flags ( -X garbageCollector).",
+    "student_angle": "Learning Python 3.14's GcE is recommended to stay up-to-date with modern best practices in software engineering.",
+    "link": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+    "published": "Fri, 12 Jun 2026 11:59:40 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Weave: Merging based on language structure and not lines",
+    "ai_summary": "• Weave introduces a novel merging approach focusing on language structure, not individual lines of code.\n• This method streamlines code review by reducing the cognitive load on developers and improving collaboration.\n• Benefits include improved team efficiency and reduced merge conflicts, leading to faster project delivery.",
+    "student_angle": "",
+    "link": "https://ataraxy-labs.github.io/weave/",
+    "published": "Sun, 14 Jun 2026 02:45:38 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "ai_summary": "• Government pulls plug on Anthropic's AI model over potential \"jailbreak\" vulnerability.\n• Anthropic expresses disagreement with decision in blog post criticizing the precautionary action.\n• Recalling model deployed to millions of users raises concerns about tech regulation and safety.",
-    "student_angle": "This development affects AI and ML research, but its direct impact on entry-level internship opportunities is unclear.",
-    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "ai_summary": "• India's AI ambitions questioned after Anthropic suspends access to new models indefinitely.\n• Debate sparks among tech leaders on country's preparedness for AI risks and opportunities.\n• Government officials face calls to strengthen AI regulations and oversight measures.",
+    "student_angle": "NONE.",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "ai_summary": "• Meta reportedly unwinds $2 billion Manus deal after receiving orders from Beijing.\n• The Manus acquisition was Meta's largest deal in the digital ad space to date.\n• Meta's reversal may affect its data science and data analytics capabilities.",
+    "student_angle": "Data Science job prospects may be affected in the long run due to deal reversal.",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "published": "Sun, 14 Jun 2026 00:03:49 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "ai_summary": "• KPMG pulled a report on AI adoption due to AI tools generating inaccurate information.\n• Apparently, AI \"hallucinations\" led to concerns about the reliability of AI-generated reports.\n• The firm plans to re-release the report once inaccuracies are rectified.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "published": "Sat, 13 Jun 2026 20:42:31 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "ai_summary": "• Amazon CEO Andy Jassy reportedly raised security concerns over Anthropic's models.\n• Anthropic cut off access to two models worldwide due to security concerns.\n• Anthropic's models are reportedly related to large language models and AI research.",
+    "student_angle": "WORTH KEEPING AN EYE ON - This could impact AI-related internships in the future.",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "published": "Sat, 13 Jun 2026 19:11:41 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI faces investigation from state attorneys general",
+    "ai_summary": "• Multiple state attorneys general launch investigation into OpenAI's business practices.\n• Concerns raised over ad policies, handling of health data, and other unspecified issues.\n• Investigation's scope remains unclear, potential impact on OpenAI uncertain.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "published": "Sat, 13 Jun 2026 16:47:18 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "This thin under-pillow speaker helped me fall asleep without earbuds",
+    "ai_summary": "• Thin under-pillow speaker allows for comfortable listening to soothing audio while sleeping.\n• Can play podcasts, YouTube compilations, or rain sounds to improve sleep quality.\n• Compact design provides discreet audio output for personal use.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
+    "published": "Sat, 13 Jun 2026 16:00:00 +0000",
+    "category": "Product & PM",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+    "ai_summary": "• FBI created a replica small town for realistic cyberattack simulations.\n• Cyberattacks can be conducted on various connected systems within the virtual town.\n• The training ground enables the FBI to stay ahead of emerging cyber threats.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+    "published": "Sat, 13 Jun 2026 11:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "ai_summary": "• Andrew Yang identifies key areas where Americans overpay, including housing and food.\n• He believes startups can capitalize on these opportunities to drive growth and innovation.\n• Lower cost of living can have a significant positive impact on society and economy.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "published": "Sat, 13 Jun 2026 04:14:19 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "ai_summary": "• Anthropic's powerful AI model recalled by government due to potential safety risks.\n• Controversy arises over narrow potential jailbreak affecting hundreds of millions of users.\n• Company expresses frustration with decision, citing disagreement with recalled model's impact assessment.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "published": "Sat, 13 Jun 2026 02:26:30 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
     "title": "SpaceX IPO: Live updates on everything you need to know",
-    "ai_summary": "• SpaceX files for IPO with estimated valuation up to $420 billion.\n• Company discloses pre-IPO deals with investors and financial partners.\n• S-1 document reveals company's financials and operational metrics.",
-    "student_angle": "If interested in space tech and cloud infrastructure, consider SpaceX for internships; a company of this scale may offer meaningful projects.",
+    "ai_summary": "• SpaceX files IPO, marking major milestone in company's 20-year history and growth.\n• S-1 registration document details financial health, risks, and potential investors' stakes.\n• Key execs to profit significantly from IPO, while others may face financial uncertainty.",
+    "student_angle": "Not directly applicable, but understanding the industry and company growth strategies is valuable for aspiring tech entrepreneurs and innovators.",
     "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
     "published": "Fri, 12 Jun 2026 23:15:14 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "ai_summary": "• Meta's AI unit reportedly employs 6,500 people and may be on verge of revolt.\n• Engineers working in the unit describe it as a \"soul-crushing gulag\".\n• Tensions rise among 6,500 employees amidst reports of work conditions.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "published": "Fri, 12 Jun 2026 23:00:54 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Company Updates"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "ai_summary": "• Google sues Chinese cybercrime operation \"Outsider Enterprise\" for AI-facilitated scams.\n• The group sent 2.5 million text messages to hundreds of thousands of victims.\n• AI technology was used to impersonate financial institutions for phishing.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-    "published": "Fri, 12 Jun 2026 20:38:09 +0000",
-    "category": "Industry News",
-    "tags": "Security, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
-    "ai_summary": "• SpaceX makes successful IPO debut, trading 19% higher than initial $135 per share price.\n• Company valued over $850 billion, cementing founder Elon Musk's status as the world's first trillionaire.\n• Successful IPO marks significant milestone for private space exploration and development.",
-    "student_angle": "SpaceX is worth applying to, particularly for internship opportunities in AI, Machine Learning, and Software Engineering.",
-    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
-    "published": "Fri, 12 Jun 2026 20:20:00 +0000",
-    "category": "Industry News",
-    "tags": "Finance"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
-    "ai_summary": "• SpaceX President Gwynne Shotwell hinted at a possible Tesla merger, fueling speculation.\n• The potential merger could lead to significant changes in the electric vehicle and space industries.\n• An official announcement from either company is still pending.",
-    "student_angle": "This news may not directly impact internship opportunities, but studying companies' collaborations is crucial for future data scientists.",
-    "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
-    "published": "Fri, 12 Jun 2026 19:28:31 +0000",
-    "category": "Industry News",
-    "tags": "Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mistral is rumored to be raising €3B at €20B valuation",
-    "ai_summary": "• Mistral, a cloud computing company, is rumored to raise €3B at €20B valuation.\n• This would more than double its previous valuation of €11.7 billion.\n• The company plans to use the funds for further growth and expansion.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "published": "Fri, 12 Jun 2026 17:38:11 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
-    "ai_summary": "• Robinhood sees 'record-breaking' traffic as SpaceX stock debuts on the platform.\n• Trading platform reports intermittent disruptions, but issues have now resolved.\n• Customers were affected by congestion during the stock's launch on June 10.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/12/robinhood-sees-record-breaking-traffic-after-spacex-stock-debuts/",
-    "published": "Fri, 12 Jun 2026 17:05:06 +0000",
-    "category": "Industry News",
-    "tags": "Financial Software"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-    "ai_summary": "• IPO market shifts toward a new acronym (MANGOS) with companies like OpenAI, SpaceX, and Anthropic leading the charge.\n• Companies are heading to public markets in a short window, posing a valuation stress test for investors.\n• Anthropic, OpenAI, and SpaceX are poised to test market sentiment on AI, space tech, and their valuations.",
-    "student_angle": "Worth applying to for internships in AI and space technology research due to their innovative and high-profile projects.",
-    "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-    "published": "Fri, 12 Jun 2026 16:23:25 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Tech Trends"
+    "tags": "Aerospace Engineering, Cloud & DevOps"
   }
 ]
