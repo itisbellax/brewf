@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Your ePub Is fine",
-    "ai_summary": "• Major ebook publishing platform announces improved ePub support for seamless digital reading experiences.\n• Integration with popular e-readers enhances user engagement and satisfaction for authors and readers alike.\n• Publishers can now focus on content creation without worrying about formatting issues.",
-    "student_angle": "",
-    "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "published": "Sun, 14 Jun 2026 22:54:55 +0000",
+    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+    "ai_summary": "• A notorious x86 emulator project was discovered with a code so bad it fixed itself.\n• During emulation, the team found and fixed the code's logic flaws and deadlocks.\n• The project's bad code was a blessing in disguise for the team's learning experience.",
+    "student_angle": "This article showcases software engineering best practices, emphasizing the importance of code quality.",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+    "published": "Tue, 16 Jun 2026 04:46:36 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Even more batteries included with Emacs",
-    "ai_summary": "• Emacs, a free and open-source text editor, has received more than 1,000 new packages and tools.\n• Many of these packages improve productivity and user experience in software development, such as debugging and testing.\n• Developers and researchers rely heavily on the community-driven nature of Emacs for continuous feature additions.",
-    "student_angle": "Learn Emacs and contribute to its community for valuable practical experience in software engineering.",
-    "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-    "published": "Mon, 15 Jun 2026 02:30:25 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-    "ai_summary": "• Kage is an open-source tool for shadowing any website to a single binary for offline viewing.\n• This binary can be easily shared or stored for later offline use.\n• Kage supports HTML5, WebGL, and other modern web technologies.",
-    "student_angle": "None",
-    "link": "https://github.com/tamnd/kage",
-    "published": "Sun, 14 Jun 2026 17:25:38 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
-    "ai_summary": "• 21st year anniversary of \"Eight Fallacies of Distributed Computing\" by Brewster Kahle and Doug Engelbart marks ongoing relevance.\n• Researchers continue to use these fallacies to emphasize common pitfalls in distributed computing system design.\n• Study of these fallacies informs the development of more robust and reliable distributed systems.",
-    "student_angle": "",
-    "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
-    "published": "Mon, 15 Jun 2026 00:07:32 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-    "ai_summary": "• Rio de Janeiro's \"homegrown\" LLM model may be a combination of existing models such as Meta LLaMA or Llama.\n• Model's architecture could not be verified due to lack of documentation provided by the city officials.\n• Unclear who exactly developed the model, but multiple developers seem to be involved.",
-    "student_angle": "None",
-    "link": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "published": "Sun, 14 Jun 2026 15:37:31 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Why does paper fold so well?",
-    "ai_summary": "• Paper's ability to fold is due to its fiber structure, which allows it to bend without tearing.\n• The fibers in paper are arranged in a specific crystalline structure, making it flexible.\n• The combination of fiber arrangement and moisture content enables paper to fold efficiently.",
-    "student_angle": "",
-    "link": "https://www.bbc.co.uk/programmes/w3ct8k70",
-    "published": "Sat, 13 Jun 2026 19:31:54 +0000",
-    "category": "Industry News",
-    "tags": "Mechanical Engineering, Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-    "ai_summary": "• Trace offers offline Mac meeting transcripts with flagging capabilities during live calls.\n• Allows users to refer back to specific moments and key points in meetings.\n• Can enhance remote work productivity and communication efficiency for teams.",
-    "student_angle": "Consider Trace as a potential area to explore for product development, internships might be emerging.",
-    "link": "https://traceapp.info",
-    "published": "Sat, 13 Jun 2026 20:41:58 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Ask HN: What are you working on? (June 2026)",
-    "ai_summary": "• Meta AI research team working on multimodal model for generating human-like synthetic conversations.\n• Researchers from UC, Stanford, and NYU collaborate on developing Explainable AI framework for fairness and transparency.\n• Microsoft announces advancements in its Large Language Model family with improved text quality and contextual understanding.",
-    "student_angle": "",
-    "link": "https://news.ycombinator.com/item?id=48528779",
-    "published": "Sun, 14 Jun 2026 16:05:28 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Formal methods and the future of programming",
-    "ai_summary": "• Formal methods are a set of techniques that use mathematical logic to prove software correctness.\n• These methods can significantly reduce bugs and improve software reliability with rigorous testing.\n• Applications of formal methods are expanding to areas like AI, cybersecurity, and blockchain development.",
-    "student_angle": "Learn formal methods, as they can enhance career prospects in rigorous software development and testing roles.",
-    "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
-    "published": "Sun, 14 Jun 2026 12:35:27 +0000",
-    "category": "Tech Trends",
     "tags": "Software Engineering, Security"
   },
   {
     "source": "HackerNews",
-    "title": "Chaosnet (1981)",
-    "ai_summary": "• Chaosnet was a pioneering local area network (LAN) developed at MIT in 1981.\n• It allowed communication between various minicomputers and allowed users to access shared files.\n• The network was the first to use a packet-switching architecture.",
-    "student_angle": "Learn Chaosnet history to understand evolution of computer networking and cloud infrastructure principles.",
-    "link": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-    "published": "Sun, 14 Jun 2026 19:14:21 +0000",
+    "title": "A backdoor in a LinkedIn job offer",
+    "ai_summary": "• A LinkedIn user discovered a backdoor in a job offer that compromised personal information.\n• The backdoor was hidden in a seemingly legit job posting from a reputable company.\n• LinkedIn responded quickly, fixing the issue and crediting the user for the find.",
+    "student_angle": "This highlights the importance of security awareness in coding, so learning secure coding practices is worth it.",
+    "link": "https://roman.pt/posts/linkedin-backdoor/",
+    "published": "Mon, 15 Jun 2026 20:00:57 +0000",
+    "category": "Industry News",
+    "tags": "Security, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "I Could've Rickrolled the FIFA World Cup. All I Needed Was My ID",
+    "ai_summary": "• A former employee claimed they could've hacked the FIFA World Cup using just their personal ID information.\n• This highlights potential security vulnerabilities in large-scale events and public data sharing.\n• ID verification systems may not be robust enough to prevent data breaches.",
+    "student_angle": "This incident doesn't directly affect internship opportunities, but demonstrates the importance of cybersecurity, making it a valuable area to learn.",
+    "link": "https://bobdahacker.com/blog/fifa-hack",
+    "published": "Tue, 16 Jun 2026 05:23:42 +0000",
+    "category": "Industry News",
+    "tags": "Technology, Business"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+    "ai_summary": "• Wi-Fi smart light bulb stores banned book digital versions, allowing users to access literary content from lamps.\n• Users can browse through e-book collection on smart light bulb display, read reviews, and mark favorites.\n• Partnership aims to make literature more accessible in homes worldwide while maintaining safety and comfort.",
+    "student_angle": "",
+    "link": "https://www.richardosgood.com/posts/banned-book-library/",
+    "published": "Mon, 15 Jun 2026 22:37:55 +0000",
+    "category": "Industry News",
+    "tags": "Internet of Things, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "John Carmack on Fabrice Bellard",
+    "ai_summary": "• Veteran game developer and engineer John Carmack praises French software developer Fabrice Bellard's accomplishments.\n• Bellard is known for creating a functional x86 emulator, an early implementation of a dynamic compiler, and other notable projects.\n• Carmack highlights the significance of Bellard's contributions to the tech industry.",
+    "student_angle": "",
+    "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "published": "Tue, 16 Jun 2026 04:58:15 +0000",
+    "category": "",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Iroh 1.0",
+    "ai_summary": "• Iroh 1.0 is an emerging tech platform providing an AI-powered project management tool for developers.\n• The platform focuses on collaboration, automated task assignment, and AI-driven workflow optimization.\n• Iroh 1.0 is available for Android, iOS, and web platforms with a free trial version.",
+    "student_angle": "Consider learning about Iroh 1.0 for internship opportunities in AI-integrated project management tools.",
+    "link": "https://www.iroh.computer/blog/v1",
+    "published": "Mon, 15 Jun 2026 15:13:06 +0000",
+    "category": "Company Updates",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
+    "ai_summary": "• \"Garden of Flowers\" is an online archive showcasing early forms of typography before ASCII art emerged.\n• This archive includes pictorial examples and historical context of pre-digital typography methods.\n• The collection offers a rare glimpse into the evolution of visual communication and information display.",
+    "student_angle": "",
+    "link": "https://garden-of-flowers.heikkilotvonen.com/",
+    "published": "Tue, 16 Jun 2026 04:25:57 +0000",
+    "category": "Industry News",
+    "tags": "Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "ai_summary": "• TinyWind game leverages real wind physics to create immersive sailing experience.\n• Game has attracted over 380,000 kilometers of player-sailed distance, demonstrating its engaging gameplay.\n• Developed by indie game studio, TinyWind showcases exceptional software engineering skills.",
+    "student_angle": "",
+    "link": "https://tinywind.io",
+    "published": "Mon, 15 Jun 2026 16:15:53 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Game Development"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "ai_summary": "• Many users look for local models due to concerns about data privacy and latency issues with cloud-based AI tools.\n• Local models can reduce reliance on cloud services and offer better control and transparency.\n• However, they often require significant computational resources and storage space.",
+    "student_angle": "Consider learning local model development to gain hands-on experience in AI and ML, enhancing employability.",
+    "link": "https://news.ycombinator.com/item?id=48542100",
+    "published": "Mon, 15 Jun 2026 14:46:53 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "I Love the Computer",
+    "ai_summary": "• Software giant releases new cloud-based service aimed at reducing code overhead.\n• Major corporations adopt this new cloud service to improve project efficiency.\n• This shift is expected to drive demand for cloud and DevOps professionals.",
+    "student_angle": "This shift might create more internship opportunities in cloud and DevOps fields.",
+    "link": "https://michaelenger.com/blog/i-love-the-computer/",
+    "published": "Mon, 15 Jun 2026 20:14:15 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "ai_summary": "• Sundar Pichai faced protests and walkouts at Stanford graduation ceremony for Google defense contracts.\n• Protesters highlighted AI use in Google's defense contracts, sparking criticism of its partnerships with ICE and Israel.\n• Google's ties to defense and ICE have raised concerns over AI's ethical implications and misuse.",
+    "student_angle": "This may signal a shift in industry hiring priorities; focus on socially responsible projects in AI & ML.",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "published": "Mon, 15 Jun 2026 23:51:44 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "ai_summary": "• The US government's ban on Anthropic's cybersecurity models isn't about preventing an AI \"jailbreak.\"\n• The ban is a sign of increasing government intervention in the AI industry.\n• Anthropic was forced to pull its cybersecurity models due to government restrictions.",
+    "student_angle": "NO IMPACT - Focus on developing AI skills; government interventions won't affect entry-level job prospects.",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "published": "Mon, 15 Jun 2026 21:50:21 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "ai_summary": "• Meta rolls out 'AI Mode' on Facebook, leveraging public info across Meta platforms.\n• New features aim to keep users engaged and boost AI capabilities on the platform.\n• The update is part of Meta's efforts to catch up in the AI development space.",
+    "student_angle": "Internships in AI and product management may see a slight uptick due to the feature launch.",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "published": "Mon, 15 Jun 2026 18:30:58 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "ai_summary": "• SpaceX becomes publicly traded through a direct listing, listing on NASDAQ under ticker symbol TSLA.\n• Pre-IPO investors include private equity funds and existing investors, including Google.\n• IPO registration document reveals financials and company operations for public scrutiny.",
+    "student_angle": "Worth applying to for aerospace engineering roles in space tech and satellite engineering.",
+    "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "published": "Mon, 15 Jun 2026 18:30:34 +0000",
+    "category": "Industry News",
+    "tags": "Aerospace Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "These are the countries moving to ban social media for children",
+    "ai_summary": "• Australia was the first country to ban social media for children in late 2025 to reduce pressures and risks.\n• Ban aims to minimize cyberbullying, social media addiction, and exposure to predators for young users.\n• Other countries may follow Australia's suit to create safer online environments for their youth.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
+    "published": "Mon, 15 Jun 2026 17:41:02 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+    "ai_summary": "• US government imposes export-control restrictions on Anthropic's Fable and Mythos models.\n• Cybersecurity experts protest restrictions, citing limitations on software and product security.\n• Export-control order could hinder cybersecurity defenders' abilities, experts warn.",
+    "student_angle": "Learning about Anthropic's models could be relevant in the field of AI and security, but not a direct impact on internship opportunities.",
+    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "published": "Mon, 15 Jun 2026 15:29:51 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
+    "ai_summary": "• SpaceX has raised $85.7 billion in its biggest-ever IPO, setting a new record.\n• The company's underwriters maxed out their share purchases, increasing the amount raised.\n• SpaceX's historic IPO shows growing investor confidence in the space industry.",
+    "student_angle": "Consider applying to SpaceX for internships in cloud-based tech infrastructure.",
+    "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
+    "published": "Mon, 15 Jun 2026 14:45:03 +0000",
     "category": "Industry News",
     "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
-    "ai_summary": "• Orbio, a hiring automation platform, raises $21 million in a Series A funding round.\n• Dawn Capital leads the round, supporting Orbio's expansion in automated hiring and onboarding.\n• The funding will drive Orbio's development of AI-powered tools for frontline worker management.",
-    "student_angle": "Possibly worth considering for internship opportunities in hiring automation.",
-    "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-    "published": "Mon, 15 Jun 2026 04:01:00 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
-    "ai_summary": "• JPMorgan reportedly unhappy with Startup CEO Charlie Javice's Trump pardon request.\n• Javice previously forged partnership with JPMorgan, sparking financial and reputational issues.\n• Investigation into Javice's business dealings could impact future partnerships with major banks.",
+    "title": "UK unveils sweeping social media ban for users under 16",
+    "ai_summary": "• The UK government introduces a social media ban for users under 16 across multiple platforms.\n• Instagram, Facebook, YouTube, TikTok, X, and Snapchat will be affected by the ban.\n• The government aims to protect children's online safety and well-being.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
-    "published": "Sun, 14 Jun 2026 21:55:34 +0000",
+    "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
+    "published": "Mon, 15 Jun 2026 14:36:56 +0000",
     "category": "Industry News",
-    "tags": "General"
+    "tags": "Security, Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "UK may ban social media for children under 16",
-    "ai_summary": "• UK government proposes banning popular social media platforms for children under 16.\n• Proposed ban follows Australia's lead in restricting social media usage among minors.\n• Potential impact on social media companies' revenue remains unclear.",
-    "student_angle": "This news affects no current or future internship opportunities directly.",
-    "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-    "published": "Sun, 14 Jun 2026 20:17:00 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "ai_summary": "• SpaceX's recent IPO sparks a wave of interest from startups in AI and cloud technologies.\n• Companies are seeking to leverage AI momentum for potential IPO opportunities in the future.\n• The competition in AI and cloud development leads to innovative solutions and increased hiring needs.",
-    "student_angle": "Worth exploring internships in AI and cloud companies, especially during this IPO wave.",
-    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "published": "Sun, 14 Jun 2026 16:38:09 +0000",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+    "ai_summary": "• Salesforce acquires AI customer service platform Fin for $3.6 billion, expanding its cloud service offerings.\n• Fin's team and technology will be used to enhance Agentforce, Salesforce's AI agent platform for businesses.\n• The acquisition aims to improve customer service through automation and personalized experiences with AI.",
+    "student_angle": "Salesforce's acquisition of Fin suggests a growing demand for AI-powered products in the cloud, making it a worthwhile company to research for internship opportunities.",
+    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "published": "Mon, 15 Jun 2026 14:34:45 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-    "ai_summary": "• SpaceX's Starship rocket to surpass Tesla's electric car range and emissions with upcoming launch.\n• Space firm edges out Tesla in mobility tech innovation with latest advancements in reusable rockets.\n• Starship's AI-powered navigation system set to disrupt space travel and reusability.",
-    "student_angle": "Consider learning about reusable rocket technology and AI applications in space travel for career growth in aerospace engineering.",
-    "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-    "published": "Sun, 14 Jun 2026 16:05:00 +0000",
+    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "ai_summary": "• HCLTech leads $234 million funding round for Bengaluru startup Sarvam, valuing it at unicorn status.\n• Indian IT services company investing $150 million in the tech venture to fuel growth.\n• Bengaluru startup Sarvam now valued at over a billion dollars following significant funding round.",
+    "student_angle": "If interested in AI and ML, Sarvam worth keeping an eye on for potential internship opportunities in the future.",
+    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "published": "Mon, 15 Jun 2026 13:46:08 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The new Sonos Play has become my go-to desk and kitchen speaker",
-    "ai_summary": "• Sonos Play is a portable, multi-room speaker for seamless indoor and outdoor music experience.\n• The speaker comes in three color options and is easy to set up.\n• Sonos Play integrates seamlessly with other Sonos devices for multi-room audio capabilities.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/",
-    "published": "Sun, 14 Jun 2026 14:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "ai_summary": "• Anthropic suspends access to new models, raising concerns about AI model reliability and safety.\n• Tech leaders debate the implications on India's AI growth ambitions amid regulatory scrutiny.\n• India's AI sector may face renewed focus on transparency, governance, and responsible AI development.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "published": "Sun, 14 Jun 2026 03:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-    "ai_summary": "• Meta acquires Manus for $2 billion in a deal that Beijing has now ordered unwound.\n• Manus acquisition reversal follows Beijing's regulatory push on Big Tech.\n• Meta reportedly moving to unwind Manus deal in compliance with Beijing's demand.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-    "published": "Sun, 14 Jun 2026 00:03:49 +0000",
-    "category": "Industry News",
-    "tags": "Company Updates"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "ai_summary": "• KPMG pulls report citing AI inaccuracies and \"hallucinations\" in AI usage analysis.\n• Report relied on AI systems to analyze AI usage, but found the systems were untrustworthy.\n• AI proved to be unreliable source of information about AI in this study.",
-    "student_angle": "Learning to mitigate AI biases might be valuable, but isn't crucial for internship opportunities.",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "published": "Sat, 13 Jun 2026 20:42:31 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "ai_summary": "• Amazon CEO reportedly expressed security concerns about Anthropic models before government crackdown.\n• Anthropic cut off access to two AI models worldwide due to security concerns.\n• The reason for the crackdown is unclear, but security fears are driving action.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "published": "Sat, 13 Jun 2026 19:11:41 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
+    "tags": "AI & ML, Company Updates"
   }
 ]
