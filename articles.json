@@ -1,118 +1,168 @@
 [
   {
     "source": "HackerNews",
-    "title": "There are no instances in ATProto",
-    "ai_summary": "• ATProto, a Rust-based alternative to gRPC, has eliminated instances for better performance and modularity.\n• No instance creation means reduced memory usage and improved concurrency in high-load environments.\n• ATProto's design facilitates easier debugging and maintenance through instance abstraction.",
+    "title": "Renting a sewing machine from the library",
+    "ai_summary": "• University libraries now offer sewing machines for rent, promoting creativity and innovation.\n• Students can borrow machines for free or at a low cost for up to three months.\n• Library provides online tutorials and workshops to help users improve their sewing skills.",
+    "student_angle": "NONE.",
+    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "published": "Sat, 20 Jun 2026 22:54:11 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Developers don't understand CORS (2019)",
+    "ai_summary": "• Developers struggle with Cross-Origin Resource Sharing (CORS) configuration, causing security vulnerabilities and errors.\n• Misconfigured CORS headers allow unauthorized access to web servers, compromising user data security.\n• The issue highlights the need for proper web development practices and attention to web security fundamentals.",
     "student_angle": "",
-    "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
-    "published": "Fri, 19 Jun 2026 15:10:02 +0000",
+    "link": "https://fosterelli.co/developers-dont-understand-cors",
+    "published": "Sun, 21 Jun 2026 01:35:40 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": "Software Engineering, Security"
   },
   {
     "source": "HackerNews",
-    "title": "Surprising economics of load-balanced systems",
-    "ai_summary": "• Load-balanced systems are proving to be expensive to maintain in large-scale applications.\n• Over-provisioning of resources is necessary to handle sudden spikes in traffic, driving costs up.\n• The economics of these systems are being reevaluated to find cost-saving measures.",
-    "student_angle": "",
-    "link": "https://brooker.co.za/blog/2020/08/06/erlang.html",
-    "published": "Fri, 19 Jun 2026 20:30:59 +0000",
+    "title": "Epoll vs. io_uring in Linux",
+    "ai_summary": "• Epoll is a Linux event-driven I/O library with high-performance capabilities.\n• io_uring is a high-performance replacement for Epoll designed for next-gen applications.\n• Both Epoll and io_uring are used to manage I/O operations efficiently in Linux systems.",
+    "student_angle": "None. Understanding Epoll and io_uring fundamentals is beneficial for software engineers working with Linux systems.",
+    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "published": "Sat, 20 Jun 2026 23:07:09 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Software Engineering"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Norway imposes near ban on AI in elementary school",
-    "ai_summary": "• Norway's government bans the use of AI tools in elementary school for educational purposes.\n• The decision aims to protect children's emotional and social development, authorities say.\n• Schools are free to use AI tools for administrative tasks only.",
-    "student_angle": "NONE, no apparent connection to entry-level job opportunities for CS students.",
-    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-    "published": "Fri, 19 Jun 2026 16:03:15 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Education & Research"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Hyundai buys Boston Dynamics",
-    "ai_summary": "• Hyundai Motor Group acquires Boston Dynamics for $1.1 billion in cash.\n• Boston Dynamics' robotic technology to be integrated into Hyundai's self-driving cars.\n• Acquisition to enhance Hyundai's presence in robotics and autonomous systems market.",
-    "student_angle": "None",
-    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-    "published": "Fri, 19 Jun 2026 16:28:20 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-    "ai_summary": "• Noted video game composer Bobby Prince, known for Doom and Wolfenstein 3D soundtracks, has passed away.\n• Prince worked on iconic 90s video game soundtracks, leaving a lasting impact on the gaming industry.\n• His compositions are still used in various gaming communities and nostalgic projects.",
-    "student_angle": "",
-    "link": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-    "published": "Fri, 19 Jun 2026 19:35:15 +0000",
-    "category": "Industry News",
-    "tags": "Gaming"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "ai_summary": "• Project Valhalla is a decade-long effort by Oracle to improve Java performance and concurrency.\n• JDK 28 introduces a new architecture, called Loom, for lightweight concurrency and improved performance.\n• The updated Java platform also includes improvements to type inference and pattern matching.",
-    "student_angle": "",
-    "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "published": "Fri, 19 Jun 2026 06:35:57 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Hey, n00b, we didn't hire you to complete tasks",
-    "ai_summary": "• Many companies struggle to adapt to new hires, resorting to micromanaging and task-lists over skill-building.\n• This approach stifles growth and innovation, making it difficult for new hires to prove their value.\n• Effective internships focus on skills development, allowing students to contribute meaningfully and learn from their experiences.",
-    "student_angle": "",
-    "link": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
-    "published": "Sat, 20 Jun 2026 00:11:07 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "How many of the 170k English words do you know?",
-    "ai_summary": "• Researchers have identified approximately 170,000 words in the English language.\n• This study highlights the complexities of language processing for AI systems.\n• The findings have implications for the development of more accurate language models.",
-    "student_angle": "",
-    "link": "https://vocabowl-870366514258.us-west1.run.app/",
-    "published": "Fri, 19 Jun 2026 13:51:36 +0000",
-    "category": "Industry News",
-    "tags": "Artificial Intelligence & Machine Learning, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "A Perceptron in Age of Empires II",
-    "ai_summary": "• Developer integrates Perceptron algorithm in Age of Empires II mod to enhance gameplay predictions.\n• The Perceptron is trained on in-game data to improve strategy planning and resource management.\n• Successful implementation demonstrates AI's potential in game development and entertainment.",
-    "student_angle": "If you're interested in combining CS and gaming, learning about Perceptron and its applications in game development could be worth exploring.",
-    "link": "https://adewynter.github.io/notes/aoe2-circuits",
-    "published": "Thu, 18 Jun 2026 07:50:12 +0000",
+    "title": "Building Reliable Agentic AI Systems",
+    "ai_summary": "• Researchers from MIT and Carnegie Mellon University are working on a new framework for developing more reliable, trustworthy AI systems.\n• This framework, called \"Trustworthy AI\", aims to create a transparent, explainable, and safe AI system.\n• The project focuses on building reliable agentic AI systems that prioritize human values and minimize harm.",
+    "student_angle": "Learn Trustworthy AI fundamentals to stay ahead in the industry, especially with the increasing demand for explainable AI models.",
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "published": "Sun, 21 Jun 2026 04:28:39 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "How to feed a dictator",
-    "ai_summary": "• A dictator refers to a model in AI that maximizes a given objective, but may cause harm.\n• Understanding how to feed a dictator is essential in developing and training AI models.\n• Overfitting, a common issue in machine learning, can occur when a dictator model is not properly constrained.",
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "ai_summary": "• Loupe, an iOS app, raises awareness about native app access to user device features and data.\n• The app visualizes and categorizes data requested by apps, enabling users to make informed decisions.\n• By providing transparency, Loupe encourages developers to rethink their data collection practices.",
+    "student_angle": "NONE.",
+    "link": "https://github.com/mysk-research/loupe",
+    "published": "Sat, 20 Jun 2026 12:08:23 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: TownSquare, a tiny presence layer for websites",
+    "ai_summary": "• TownSquare, an open-source presence layer, provides real-time engagement metrics for websites.\n• Allows developers to track user interactions and presence without server-side code modifications.\n• Tiny footprint, under 10KB, suitable for resource-constrained web applications.",
+    "student_angle": "This innovation could grow internship opportunities in web development, especially in presence-layer engineering.",
+    "link": "https://townsquare.cauenapier.com/",
+    "published": "Sat, 20 Jun 2026 11:55:03 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "ai_summary": "• Research shows slow breathing regulates brain activity, influencing decision-making and impulsivity in individuals.\n• Scientists discovered a correlation between slow breathing and reduced risk-taking behavior in both humans and animals.\n• This study emphasizes the interplay between respiratory function and cognitive processes in the brain.",
     "student_angle": "",
-    "link": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-    "published": "Sat, 20 Jun 2026 01:16:56 +0000",
+    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "published": "Sat, 20 Jun 2026 22:22:52 +0000",
+    "category": "Industry News",
+    "tags": "Healthtech"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Your brain was never designed for this much bad news",
+    "ai_summary": "• Brain overloads from excessive news consumption can lead to mental fatigue and decreased productivity.\n• Social media platforms prioritize alarming headlines for engagement, increasing stress in users.\n• News organizations often sensationalize stories to attract viewers, furthering the problem.",
+    "student_angle": "Industry contraction is inevitable, but don't be discouraged – still pursue internships and build skills.",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "published": "Sun, 21 Jun 2026 04:02:08 +0000",
+    "category": "Industry News",
+    "tags": "Layoffs, Tech Trends"
+  },
+  {
+    "source": "HackerNews",
+    "title": "When I reject AI code even if it works",
+    "ai_summary": "• AI code may not always be better; human judgment and oversight remain essential.\n• Machine learning models can be flawed, perpetuating biases and errors.\n• Developers must weigh AI efficiency against the potential for technical debt.",
+    "student_angle": "",
+    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "published": "Sun, 21 Jun 2026 00:58:13 +0000",
     "category": "Tech Trends",
-    "tags": "AI & ML, Machine Learning"
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "SMPTE Makes Its Standards Freely Accessible",
+    "ai_summary": "• SMPTE releases its standards for free, increasing access to audiovisual industry knowledge.\n• Industry experts can contribute to and benefit from freely accessible standards documentation.\n• Free access aims to standardize global audiovisual content production and delivery.",
+    "student_angle": "None",
+    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "published": "Sat, 20 Jun 2026 17:01:36 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "ai_summary": "• Signal's Meredith Whittaker stresses the importance of understanding AI chatbots' limitations.\n• AI chatbots are not conscious beings and should be treated as tools, not friends.\n• Recognize the differences between human relationships and interactions with AI systems.",
+    "student_angle": "Don't get too excited about making \"friends\" with AI; apply technical skills to develop responsible AI solutions instead.",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "published": "Sat, 20 Jun 2026 20:32:29 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "ai_summary": "• In the Weights is a new AI-powered platform assessing vanity metrics for social media influencers.\n• The platform uses algorithms to calculate users' scores based on likes, comments, and engagement rates.\n• The scores can be used to analyze a user's online presence and track changes over time.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "published": "Sat, 20 Jun 2026 19:41:11 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Founders Fund’s outlier bet on humanely killed fish",
+    "ai_summary": "• Founders Fund invested in Shinkei, developer of humanely killed fish robot Poseidon.\n• Robot uses machine learning to quickly kill fish, aiming for more sustainable fisheries.\n• Poseidon is a refrigerator-sized robot designed for commercial fishing industries.",
+    "student_angle": "Consider applying to Shinkei for internship opportunities in product development and AI.",
+    "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+    "published": "Sat, 20 Jun 2026 18:26:02 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "ai_summary": "• Nobel laureate John Jumper joins rival Anthropic, leaving Google DeepMind.\n• Jumper's departure marks the second high-profile scientist to leave Google DeepMind recently.\n• Anthropic aims to develop more advanced AI models, competing with Google DeepMind's research.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "published": "Sat, 20 Jun 2026 16:39:57 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Every new iOS 27 feature that’s worth knowing about",
+    "ai_summary": "• iOS 27 introduces a redesigned notification system with greater customization options.\n• Users can now schedule and send audio messages with more precise timing control.\n• New features in iOS 27 are more accessibility-focused, including live transcriptions for real-time captioning.",
+    "student_angle": "Consider learning iOS development skills as Apple's products continue growing in popularity.",
+    "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+    "published": "Sat, 20 Jun 2026 15:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "He made your free video player run smoothly. Now he’s doing that for robots.",
-    "ai_summary": "• Jean-Baptiste Kempf, a French serial entrepreneur, has been building Kyber, an infrastructure layer for real-time remote device control.\n• Kyber is designed to improve performance and reliability for various devices and applications, including video players and robots.\n• The Kyber infrastructure can be applied to a wide range of industries and use cases, from IoT to robotics and automation.",
-    "student_angle": "NONE.",
+    "ai_summary": "• Jean-Baptiste Kempf's Kyber aims to provide real-time control over remote devices through a unified infrastructure layer.\n• This project follows his earlier work on VLC, a widely-used open-source video player.\n• The open-source nature of Kyber allows developers to collaborate and contribute to its growth.",
+    "student_angle": "This project demonstrates innovative application of software engineering principles; familiarizing yourself with its architecture is worth considering.",
     "link": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
     "published": "Sat, 20 Jun 2026 00:47:44 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
     "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-    "ai_summary": "• US export controls have been in place since 1992, limiting cybersecurity software exports.\n• Despite these controls, illicit software flows continued, often via proxy countries.\n• Recent controversy surrounding Anthropic's Mythos model raises questions about its control.",
+    "ai_summary": "• Export controls have failed to hinder cybersecurity software transfers for 30 years.\n• Governments attempted to limit access to PGP encryption, but were met with resistance.\n• Despite this, Anthropic's latest model, Mythos, sparks concerns it may be next targeted.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
     "published": "Fri, 19 Jun 2026 22:40:14 +0000",
@@ -121,82 +171,32 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-    "ai_summary": "• Go, Japan's largest taxi-hailing app, lists on stock market for ¥88.6 billion.\n• The capital raised will help address Japan's driver shortage and expand services.\n• Go eyes investments in robotaxis and acquisitions post-IPO.",
-    "student_angle": "Worth applying to – Go's expansion into AI and tech sectors may create new internship opportunities.",
+    "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026 — here’s why it matters",
+    "ai_summary": "• Go, formerly known as SoftBank's mobility unit, has successfully completed Japan's biggest IPO of 2026.\n• The taxi-hailing app aims to address Japan's shortage of drivers with its new capital influx.\n• Go's IPO is expected to boost Japan's listing season and support further expansion in the region.",
+    "student_angle": "Worth applying to, especially for internships in robotics or autonomous vehicle development.",
     "link": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
     "published": "Fri, 19 Jun 2026 21:45:00 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "Technology Trends"
   },
   {
     "source": "TechCrunch",
     "title": "Aura’s impressive e-ink photo frame doesn’t even look digital",
-    "ai_summary": "• Aura's new e-ink photo frame, Aura Ink, refreshes digital frame product space with a unique display.\n• The frame uses electronic ink to create a display that resembles traditional printed photos, not digital screens.\n• Aura Ink's high-quality visuals and minimalistic design appeal to users seeking a unique gift.",
-    "student_angle": "Consider exploring internships in product management or UX design related to innovative consumer electronics.",
+    "ai_summary": "• Aura's e-ink photo frames connect seamlessly to the Aura app for easy photo uploads.\n• Devices can sync photos from phone, web, email, iCloud, or Google Photos accounts.\n• Frame's non-digital appearance maintains aesthetics, making it perfect for interior decor.",
+    "student_angle": "",
     "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
     "published": "Fri, 19 Jun 2026 21:00:34 +0000",
-    "category": "Company Updates",
-    "tags": "Product & PM"
+    "category": "Product Updates",
+    "tags": "UI/UX Design, Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Every fusion startup that has raised over $100M",
-    "ai_summary": "• Major fusion startups have raised $7.1 billion in funding, with most going to a few companies.\n• Private companies like Commonwealth Fusion Systems, General Fusion, and Lockheed Martin's Compact Fusion have secured over $100M.\n• These companies are pushing advancements in nuclear fusion technology for cleaner energy.",
-    "student_angle": "Worth learning about potential internship opportunities and innovations in fusion technology.",
+    "ai_summary": "• Fusion startups have raised over $7.1 billion to date, with a handful of companies securing most of the funding.\n• Majority of funding is concentrated in few companies, with the largest being Commonwealth Fusion Systems and General Fusion.\n• These companies are working on commercializing nuclear fusion, a nearly limitless source of clean energy.",
+    "student_angle": "These companies are worth applying to for internships in data science and research roles.",
     "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
     "published": "Fri, 19 Jun 2026 16:50:58 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "ai_summary": "• US government forces Anthropic to pull AI models Fable 5 and Mythos 5.\n• Open letter criticizes move, stating ban could create a competitive edge for other models.\n• Anthropic notes jailbreaks exist in other models, not exclusive to Fable 5.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "ai_summary": "• Reliance, an Indian conglomerate, aims to integrate AI in its telecom services.\n• The initiative will benefit over 500 million users, including Jio subscribers.\n• AI-powered services will enhance customer experience in India and beyond.",
-    "student_angle": "This development might lead to increased demand for AI engineers, making it a worthwhile area to consider for internships.",
-    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "published": "Fri, 19 Jun 2026 15:23:28 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-    "ai_summary": "• Allbirds' AI CEO plans to build a team and grow a startup with $30 million in funding.\n• The executive team is missing from the new business venture, raising questions about operations.\n• The CEO emphasizes the importance of data in driving innovation and growth.",
-    "student_angle": "None. However, understanding AI and ML basics could be beneficial in various future career paths.",
-    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "published": "Fri, 19 Jun 2026 13:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The US says ASML’s top chip tool may be in China, but how?",
-    "ai_summary": "• US claims ASML's top chip tool may be in China, sparking export license concerns.\n• ASML's business strategy and potential Chinese customers' needs are still unclear.\n• The Dutch company's export rules require customers to prevent nuclear, chemical weapons use.",
-    "student_angle": "None, the article is focused on industry news and does not directly impact internship opportunities.",
-    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-    "published": "Fri, 19 Jun 2026 07:59:12 +0000",
-    "category": "Industry News",
-    "tags": "Security, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
-    "ai_summary": "• India's ban on Telegram forces users to explore alternatives for secure communication.\n• Rival messaging apps see a surge in downloads and new user registrations.\n• Telegram claims blanket ban on platform is excessive and targets innocent users.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
-    "published": "Fri, 19 Jun 2026 01:01:00 +0000",
-    "category": "Industry News",
-    "tags": "Security"
+    "tags": "Energy, Data Science"
   }
 ]
