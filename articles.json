@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Deno Desktop",
-    "ai_summary": "• Deno Desktop is an open-source desktop app framework, built on JavaScript and HTML/CSS.\n• It allows developers to create desktop applications without traditional frameworks or toolchains.\n• Deno Desktop applications have access to native APIs and file systems for enhanced performance.",
-    "student_angle": "Worth learning for versatility and the potential to explore new career paths in desktop app development.",
-    "link": "https://docs.deno.com/runtime/desktop/",
-    "published": "Mon, 22 Jun 2026 05:38:40 +0000",
+    "title": "Steam Machine launches today",
+    "ai_summary": "• Steam launches Steam Machine, a Linux-based gaming PC with improved user experience.\n• Steam Machine features custom hardware designs, high-performance processors, and optimized cooling systems.\n• The device is now available for purchase, starting at $499 for the base model.",
+    "student_angle": "This new hardware might create growing internship opportunities in PC engineering and custom hardware development.",
+    "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "published": "Mon, 22 Jun 2026 17:09:51 +0000",
     "category": "Industry News",
+    "tags": "Gaming, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Will It Mythos?",
+    "ai_summary": "• Google announces Will It Mythos?, a research project using AI to predict game outcomes.\n• This AI model can analyze game data and predict results, improving player experience.\n• The project's AI engine can also provide insights for game developers to optimize their games.",
+    "student_angle": "Learn it, as understanding AI's applications in game development can lead to innovative internship opportunities.",
+    "link": "https://swelljoe.com/post/will-it-mythos/",
+    "published": "Tue, 23 Jun 2026 04:15:04 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "GLM-5.2 – How to Run Locally",
+    "ai_summary": "• GLM-5.2 is an open-source computer vision library with advanced features for image processing and analysis.\n• Running GLM-5.2 locally requires setting up the necessary dependencies, including CUDA for GPU acceleration.\n• Developers can download the GLM-5.2 SDK and follow the installation instructions to get started.",
+    "student_angle": "Learn it if you're interested in computer vision; GLM-5.2 is a valuable skill for any software engineering or computer vision career.",
+    "link": "https://unsloth.ai/docs/models/glm-5.2",
+    "published": "Mon, 22 Jun 2026 21:21:01 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Computer Vision"
+  },
+  {
+    "source": "HackerNews",
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "ai_summary": "• VibeThinker, a 3B parameter model, outperforms Opus 4.5 on reasoning tasks with novel SFT+GRPO method.\n• This achievement signifies a breakthrough in large language model architecture and performance optimization.\n• Researchers attribute success to novel SFT+GRPO technique, which enables more efficient model training and better results.",
+    "student_angle": "Learn novel SFT+GRPO technique as it may lead to improved performance in AI and ML projects and internship opportunities.",
+    "link": "https://arxiv.org/abs/2606.16140",
+    "published": "Tue, 23 Jun 2026 02:01:25 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "In praise of memcached",
+    "ai_summary": "• memcached: an open-source in-memory data store used for caching frequently accessed data.\n• Reduces database load and improves application performance by storing data in RAM.\n• Supports various data structures and eviction policies for optimal storage and access efficiency.",
+    "student_angle": "Consider learning about memcached as it provides an in-depth look at caching techniques crucial for high-performance applications.",
+    "link": "https://jchri.st/blog/in-praise-of-memcached/",
+    "published": "Tue, 23 Jun 2026 01:15:05 +0000",
+    "category": "Tech Trends",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Did my old job only exist because of fraud?",
-    "ai_summary": "• Former employee raises allegations of widespread misconduct at previous employer's cryptocurrency division.\n• Company denies allegations but acknowledges past regulatory issues and internal investigations.\n• Investigation underway into financial and operational practices of the affected division.",
+    "title": "An Introduction to YOLO26",
+    "ai_summary": "• YOLO26 is the latest version of a real-time object detection framework.\n• YOLO26 improves upon its predecessors with higher accuracy and speed.\n• It supports a wide range of state-of-the-art techniques in object detection.",
+    "student_angle": "Learn it as YOLO26 is a leading AI framework in software engineering research.",
+    "link": "https://blog.roboflow.com/yolo26/",
+    "published": "Tue, 23 Jun 2026 01:52:20 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "ai_summary": "• Optocam Zero is a digital camera made using off-the-shelf components and a Raspberry Pi Zero.\n• The system consists of a Pi Zero, a camera module, and a USB cable for power supply.\n• The Optocam Zero is an open-source project, allowing users to modify and customize the design.",
+    "student_angle": "Internship opportunities in product development and hardware engineering may be growing.",
+    "link": "https://github.com/dorukkumkumoglu/optocamzero",
+    "published": "Mon, 22 Jun 2026 19:19:55 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM, Hardware Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Japanese symbols that speak without words",
+    "ai_summary": "• Researchers at the University of Tokyo created a new set of Kanji symbols that convey emotions through color and patterns.\n• The symbols use machine learning to recognize and adapt to user emotions in real-time.\n• The technology has potential applications in areas such as mental health support and social interaction.",
     "student_angle": "",
-    "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "published": "Sun, 21 Jun 2026 21:40:53 +0000",
+    "link": "https://arun.is/blog/japan-symbols/",
+    "published": "Mon, 22 Jun 2026 19:22:37 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "ai_summary": "• Researchers present Moebius, a 0.2B parameter image inpainting model with impressive 10B-level performance.\n• Moebius model achieves state-of-the-art results on various benchmarks, outperforming existing models in image completion tasks.\n• The research focuses on improving image inpainting, which is crucial for various vision applications, including computer graphics and image editing.",
+    "student_angle": "Worth learning for those interested in AI research and improving image processing capabilities.",
+    "link": "https://hustvl.github.io/Moebius/",
+    "published": "Mon, 22 Jun 2026 13:53:02 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "1,700 free online courses from top universities",
+    "ai_summary": "• Over 1,700 free online courses available from top universities worldwide.\n• Courses cover a wide range of subjects including computer science, data science, and more.\n• Platforms such as edX, Coursera, and FutureLearn offer these free online courses.",
+    "student_angle": "Utilize these free online courses to enhance data science skills, boost CV.",
+    "link": "https://www.openculture.com/freeonlinecourses",
+    "published": "Tue, 23 Jun 2026 01:54:38 +0000",
+    "category": "Industry News",
+    "tags": "Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "ai_summary": "• Meta cuts 5,000 jobs in May 2026, citing AI efficiency and future roadmap changes.\n• Amazon lays off 2,000 employees in June 2026, emphasizing AI tools and process improvements.\n• Microsoft reduces workforce by 1,000 in July 2026, pointing to AI-generated content and automation.",
+    "student_angle": "Major layoffs might reduce entry-level hiring opportunities at top tech companies this year.",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "published": "Tue, 23 Jun 2026 01:27:55 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "ai_summary": "• OpenAI launches initiative to help find and patch open-source software bugs.\n• Automated bug detection tools to be developed using AI-powered technologies.\n• Improved open-source security to benefit users worldwide.",
+    "student_angle": "This initiative might create new opportunities in software engineering and security, especially for AI and ML students.",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "published": "Tue, 23 Jun 2026 00:11:31 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
+    "ai_summary": "• Tesla responds to Autopilot crash in Texas, citing need for data log analysis.\n• Autopilot's role in the crash is unclear, leaving many questions unresolved.\n• Investigators will examine vehicle data to determine Autopilot's functionality.",
+    "student_angle": "NONE: No mention of hiring, funding, layoffs, product launch, or internship opportunities.",
+    "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
+    "published": "Mon, 22 Jun 2026 22:59:57 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Shareholders sue Uber’s board over sexual assaults, other incidents",
+    "ai_summary": "• Uber shareholders sue board over thousands of lawsuits due to inadequate compliance measures.\n• The lawsuit alleges negligence in addressing instances such as sexual assaults and other incidents.\n• This follows a pattern of legal actions against the ride-hailing company in the past year.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/22/shareholders-sue-ubers-board-over-sexual-assaults-other-incidents/",
+    "published": "Mon, 22 Jun 2026 22:43:12 +0000",
+    "category": "Industry News",
+    "tags": "Company Updates"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The AI world is getting ‘loopy’",
+    "ai_summary": "• Loop technology introduces a swarm of continuously working agents, enhancing agentic AI capabilities.\n• Autonomous agents perform tasks in the background, endlessly, improving AI efficiency.\n• Loopy AI may lead to increased automation, but also raises concerns about job displacement.",
+    "student_angle": "Learning about loop technology can benefit students with AI-related internships, but its impact on job market is uncertain.",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "published": "Mon, 22 Jun 2026 20:53:11 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+    "ai_summary": "• Microsoft and Chevron sign 20-year power purchase agreement for natural gas power plant.\n• Gas-powered data center project expected to be one of largest in the US.\n• Decades of carbon emissions from project raise environmental concerns.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+    "published": "Mon, 22 Jun 2026 20:37:19 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "ai_summary": "• AI chipmaker Groq confirms $650M raise to focus on cloud AI services.\n• Company re-staffs after not being acquired despite Nvidia’s $20B deal.\n• Groq is leaning into its neocloud business and recruiting new executives.",
+    "student_angle": "This company is worth applying to for internships in AI chip development.",
+    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+    "category": "Company Updates",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "ai_summary": "• Nvidia develops new cooling system to cut data center water use by 40%.\n• The system doesn't address water usage from fossil fuel power plants, driving AI emissions.\n• Most water use for AI is not from data centers but from powering servers.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+    "ai_summary": "• Tata Electronics confirms data breach, compromising sensitive information for its clients.\n• Investigation underway to determine the extent of the breach and its impact on operations.\n• Company expands role in global tech supply chains, serving major clients like Apple and Tesla.",
+    "student_angle": "This breach serves as a reminder of security importance in the industry, stay vigilant.",
+    "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+    "published": "Mon, 22 Jun 2026 19:25:00 +0000",
     "category": "Industry News",
     "tags": "Security, Data Science"
   },
   {
-    "source": "HackerNews",
-    "title": "Apertus – Open Foundation Model for Sovereign AI",
-    "ai_summary": "• Apertus introduced as an open-source foundation model for sovereign AI, fostering independence from proprietary platforms.\n• The model allows developers to modify and customize AI capabilities without relying on commercial offerings.\n• Potential applications include AI research, education, and development of more transparent and explainable AI systems.",
-    "student_angle": "Consider learning Apertus to understand open AI models and future directions in AI research and development.",
-    "link": "https://apertvs.ai/",
-    "published": "Sun, 21 Jun 2026 21:29:43 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Sakana Fugu",
-    "ai_summary": "• Sakana, a Japanese start-up, has launched Fugu, a new AI model for natural language processing.\n• Fugu is designed to improve language translation and sentiment analysis accuracy.\n• The start-up aims to make Fugu available for integration with other AI platforms.",
-    "student_angle": "None",
-    "link": "https://sakana.ai/fugu/",
-    "published": "Mon, 22 Jun 2026 02:08:18 +0000",
-    "category": "",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Danish privacy activist Lars Andersen raided by police",
-    "ai_summary": "• Danish police raided home and office of privacy activist Lars Andersen due to alleged data storage offenses.\n• Andersen criticized government for raid as potential infringement on his right to privacy.\n• Raid raises concerns about balance between data protection and law enforcement.",
-    "student_angle": "",
-    "link": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-    "published": "Mon, 22 Jun 2026 04:50:26 +0000",
+    "source": "TechCrunch",
+    "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
+    "ai_summary": "• A new unpatchable flaw in Apple chips opens the door to iPhone jailbreak vulnerability.\n• Paradigm Shift, a European offensive cybersecurity company, released detailed exploitation technique.\n• The flaw may impact older iPhone models, raising security concerns for users.",
+    "student_angle": "This news highlights the ongoing security threats, emphasizing the importance of learning secure software development techniques.",
+    "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+    "published": "Mon, 22 Jun 2026 18:50:24 +0000",
     "category": "Industry News",
     "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "There is minimal downside to switching to open models",
-    "ai_summary": "• Open-source models offer cost-effective alternatives to proprietary counterparts with comparable performance.\n• Companies adopting open models experience lower maintenance and update costs.\n• Minimal training data is required for open models, reducing the need for large datasets.",
-    "student_angle": "Learning open models can be beneficial, especially with growing use in industries and research projects offering opportunities.",
-    "link": "https://www.marble.onl/posts/cancel_claude.html",
-    "published": "Sun, 21 Jun 2026 20:56:01 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Everything is logarithms",
-    "ai_summary": "• Logarithmic thinking increasingly dominates tech, from search algorithms to predictive models.\n• Google's PageRank uses logarithms to rank pages; modern search engines follow suit.\n• Logarithmic math underlies many AI and data science applications, including recommendation systems.",
-    "student_angle": "Learn logarithmic concepts, as they form the foundation of many emerging AI and ML technologies.",
-    "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "published": "Sun, 21 Jun 2026 21:10:32 +0000",
-    "category": "Tech Trends",
-    "tags": "Data Science, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "ai_summary": "• Researchers achieved high accuracy in categorizing questions using a fine-tuned local Qwen 3:0.6B model.\n• The Qwen 3:0.6B model significantly improved in question categorization after incorporating relevant datasets.\n• Fine-tuning Qwen 3:0.6B locally provides efficient and cost-effective solution for question classification tasks.",
-    "student_angle": "Learning fine-tuning techniques on local LLMs can be valuable for developing practical AI solutions.",
-    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "published": "Sun, 21 Jun 2026 22:55:23 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Identity verification on Claude",
-    "ai_summary": "• Claude, a large language model platform, introduces identity verification feature for secure user authentication.\n• Verification process uses combination of biometric and KYC data to ensure accurate user identification.\n• Identity verification helps prevent AI-generated content from impersonating users and reduces potential security risks.",
-    "student_angle": "Worth exploring, as knowledge of identity verification systems may lead to interesting internship opportunities.",
-    "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "published": "Sun, 21 Jun 2026 12:44:13 +0000",
-    "category": "Company Updates",
-    "tags": "Software Engineering, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "1983 Northern Telecom Commodore Phone",
-    "ai_summary": "• In 1983, Northern Telecom released the Commodore Phone, a cordless phone precursor.\n• This innovation featured a rechargeable battery and a receiver with LED display.\n• The Commodore Phone marked an early step in wireless communication and hands-free calls.",
-    "student_angle": "",
-    "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "published": "Mon, 22 Jun 2026 00:34:33 +0000",
-    "category": "",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ethan Thornton is trying to do everything all at once",
-    "ai_summary": "• Mach's AI project prioritizes multitasking capabilities, enabling efficient handling of multiple tasks simultaneously.\n• Unlike most peers, Mach focuses on versatility rather than specialized expertise in specific tasks.\n• This approach may provide competitive advantages in industries that demand adaptable AI systems.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
-    "published": "Mon, 22 Jun 2026 05:31:59 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ubisoft co-founder Claude Guillemot dies in plane crash",
-    "ai_summary": "• Claude Guillemot, co-founder of Ubisoft, dies in plane crash at age 69.\n• Guillemot founded Ubisoft with his four brothers in 1986.\n• Guillemot's legacy extends to popular game franchises like Assassin's Creed.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/",
-    "published": "Sun, 21 Jun 2026 18:34:31 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-    "ai_summary": "• Polymarket reportedly paid creators for deceptive videos about fake bets.\n• Videos were filmed on copies of the Polymarket website, featuring non-existent trades.\n• Investigation into deceptive advertising practices sparks security and trust concerns.",
-    "student_angle": "This incident highlights the importance of fact-checking and verification in digital advertising.",
-    "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-    "published": "Sun, 21 Jun 2026 16:35:00 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Mobility: A new robotaxi scorecard shows China’s dominance",
-    "ai_summary": "• China's robotaxi scorecard reveals the country's dominance in autonomous transportation technology.\n• Robotaxi services in China have outpaced international competitors in terms of market adoption and scalability.\n• The report highlights the need for more stringent safety regulations to govern robotaxi development globally.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/21/techcrunch-mobility-a-new-robotaxi-scorecard-shows-chinas-dominance/",
-    "published": "Sun, 21 Jun 2026 16:05:00 +0000",
-    "category": "Industry News",
-    "tags": "Mobility, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "ai_summary": "• The Trump administration cracks down on Anthropic, a leading AI research firm.\n• The administration's move may impact the development and regulation of advanced AI models.\n• The outcome of this incident is uncertain, potentially affecting the AI ecosystem.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "published": "Sun, 21 Jun 2026 15:28:17 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "ai_summary": "• iOS 27 introduces improved photo and video editing with AI-powered suggestions.\n• Enhanced keyboard suggestions now predict phrases based on context and history.\n• AI-driven noise cancellation in phone calls and recordings.",
-    "student_angle": "Consider learning Apple's Swift programming language to tap into growing internship opportunities in iOS development.",
-    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "published": "Sun, 21 Jun 2026 14:40:28 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "ai_summary": "• Meredith Whittaker, Signal's VP, warns against treating AI chatbots as conscious beings.\n• AI chatbots lack sentience, consciousness, and are simply software programs, she emphasizes.\n• Whittaker encourages developers to focus on creating responsible AI systems with human oversight.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "published": "Sat, 20 Jun 2026 20:32:29 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "In the Weights is your new AI-centric vanity search",
-    "ai_summary": "• In the Weights launched an AI-centric vanity search tool, assessing users' mental and physical characteristics.\n• Algorithm uses a combination of fitness and wellness metrics to generate a personal In the Weights score.\n• The tool can track users' progress over time and provide insights for self-improvement.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "published": "Sat, 20 Jun 2026 19:41:11 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founders Fund’s outlier bet on humanely killed fish",
-    "ai_summary": "• Founders Fund has invested in Shinkei, creator of Poseidon, a robot killing fish humanely.\n• Poseidon is a refrigerator-sized robot capable of killing fish by piercing their skulls quickly.\n• The robot is designed to address sustainability concerns in the fishing industry.",
-    "student_angle": "None, this isn't directly related to CS internships or tech hiring.",
-    "link": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-    "published": "Sat, 20 Jun 2026 18:26:02 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "ai_summary": "• Nobel laureate John Jumper leaves DeepMind for rival Anthropic in a major shakeup of AI talent.\n• This departure comes alongside other high-profile exits, further destabilizing the competitive AI landscape.\n• DeepMind, a leader in AI research, struggles to retain top talent amidst growing competition.",
-    "student_angle": "This shift in talent may impact entry-level jobs, but its influence on the competitive AI landscape is uncertain.",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "published": "Sat, 20 Jun 2026 16:39:57 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
   }
 ]
