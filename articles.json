@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "ai_summary": "• Anthropic accuses Alibaba of illicitly extracting capabilities from its Claude AI model.\n• Alibaba allegedly used cloned Claude model without permission or proper licensing.\n• Anthropic demands Alibaba cease and desist from using its AI technology.",
+    "title": "Om Malik has died",
+    "ai_summary": "• Renowned tech journalist and Gigaom founder, Om Malik, has passed away at the age of 55.\n• Malik was a prominent figure in the tech industry, providing insightful commentary on various topics.\n• He leaves behind a legacy of thought-provoking journalism that continues to inspire and educate.",
     "student_angle": "",
-    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "published": "Wed, 24 Jun 2026 19:48:01 +0000",
+    "link": "https://om.co/2026/06/24/1966-2026/",
+    "published": "Thu, 25 Jun 2026 20:33:37 +0000",
+    "category": "Industry News",
+    "tags": "Gadgetry"
+  },
+  {
+    "source": "HackerNews",
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "ai_summary": "• Herculaneum scroll read for the first time using cutting-edge machine learning and computer vision techniques.\n• Ancient scroll deciphered after years of research and collaboration with experts in classics and computer science.\n• Groundbreaking work in digital humanities demonstrates potential of AI in preserving historical artifacts.",
+    "student_angle": "",
+    "link": "https://scrollprize.org/firstscroll",
+    "published": "Thu, 25 Jun 2026 15:48:07 +0000",
+    "category": "Industry News",
+    "tags": "Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Libre Barcode Project",
+    "ai_summary": "• Libre Barcode Project is an open-source barcode reader and generator software.\n• It supports over 100 barcode symbologies and multiple platforms.\n• The project uses C++ and has an active community.",
+    "student_angle": "",
+    "link": "https://graphicore.github.io/librebarcode/",
+    "published": "Fri, 26 Jun 2026 03:12:42 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "ai_summary": "• Framework, a modular laptop maker, releases 10G Ethernet module for USB-C ports.\n• Module requires complex USB-C Power Delivery (PD) configuration for high-speed Ethernet.\n• Limited support for 10G Ethernet functionality on USB-C ports highlights industry challenges.",
+    "student_angle": "Consider learning about USB-C's complexities and Ethernet protocols for potential internship in hardware development.",
+    "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "published": "Fri, 26 Jun 2026 01:10:52 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "ai_summary": "• Apple reportedly skipping high-end M6 Mac chips in favor of AI-focused M7 line.\n• M7 chips expected to enhance AI capabilities in future Mac models.\n• Shift towards M7 line signals increased importance of AI in Apple's hardware roadmap.",
+    "student_angle": "Consider learning about AI-focused chip architecture, as this trend may shape the industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "published": "Thu, 25 Jun 2026 17:38:44 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "ai_summary": "• Rise of online authentication services threatens users' right to online anonymity.\n• Data brokers are buying and selling personal information without users' consent.\n• Companies will store and analyze metadata for advertising and security purposes.",
+    "student_angle": "None",
+    "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "published": "Thu, 25 Jun 2026 21:44:55 +0000",
+    "category": "Industry News",
+    "tags": "Security, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+    "ai_summary": "• Second edition of The Garbage Collection Handbook updates automatic memory management techniques for modern systems.\n• Comprehensive guide covers algorithms, trade-offs, and performance implications of garbage collection.\n• Authors provide expert insights on optimizing memory management for distributed and cloud-based applications.",
+    "student_angle": "Learn this to stay competitive in software engineering, especially in cloud and distributed system environments.",
+    "link": "https://gchandbook.org/",
+    "published": "Thu, 25 Jun 2026 23:10:30 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "ai_summary": "• 2,000 individuals attempted to breach a cutting-edge AI assistant for vulnerabilities and weaknesses.\n• The results highlighted significant improvements in AI security and defense mechanisms.\n• The AI's performance remained intact, demonstrating robustness and adaptability under stress.",
+    "student_angle": "Learning from the AI assistant's robust defense mechanisms is crucial for entry-level roles in AI security.",
+    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "published": "Fri, 26 Jun 2026 02:29:23 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Security"
   },
   {
     "source": "HackerNews",
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "ai_summary": "• OpenAI unveils its first custom chip, named 'Codex,' designed to accelerate AI workloads.\n• Chip is built by Broadcom and optimized for large-scale AI model training.\n• Codex is expected to be more power-efficient and performant than existing solutions.",
-    "student_angle": "This technology innovation may lead to increasing internship opportunities in AI and DevOps areas.",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "published": "Wed, 24 Jun 2026 17:47:00 +0000",
+    "title": "Un-0: Generating Images with Coupled Oscillators",
+    "ai_summary": "• Researchers use coupled oscillators to generate images with unique patterns and textures on a wide range of scales.\n• This technique combines the fields of computer graphics, physics, and neuroscience to achieve novel visual effects.\n• Applications include real-time rendering and video production, where rapid generation of unique visual elements is crucial.",
+    "student_angle": "Learn this technology if you're interested in pushing the boundaries of computer graphics and visual effects in film and gaming industries.",
+    "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "published": "Thu, 25 Jun 2026 20:50:02 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
+    "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "LuaJIT 3.0 proposed syntax extensions",
-    "ai_summary": "• LuaJIT 3.0 proposes syntax extensions aimed at improving code readability and performance.\n• New features include pattern matching, type inference, and improved module system.\n• LuaJIT 3.0's proposals are open to community feedback for finalization.",
-    "student_angle": "None",
-    "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-    "published": "Thu, 25 Jun 2026 00:41:43 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Cloudflare launched self-managed OAuth for all",
-    "ai_summary": "• Cloudflare introduced self-managed OAuth allowing developers to control user authentication.\n• This feature enhances application security and reduces reliance on third-party providers.\n• Self-managed OAuth enables granular access controls for sensitive user data.",
-    "student_angle": "Learning about cloud security is crucial, with growing internship opportunities in this area due to rising demand.",
-    "link": "https://blog.cloudflare.com/oauth-for-all/",
-    "published": "Thu, 25 Jun 2026 02:18:10 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Blogging can just be stating the obvious",
-    "ai_summary": "• Blogging can be a simple, straightforward way to share knowledge and experiences.\n• It allows for easy documentation and dissemination of existing technology information.\n• However, overemphasizing blogging's importance can overlook complexities and nuances.",
-    "student_angle": "Learning to blog is useful for documenting projects and experiences, but not critical.",
-    "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "published": "Wed, 24 Jun 2026 23:46:37 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Zombie unicorns are haunting Silicon Valley",
-    "ai_summary": "• Zombie unicorns are companies with unrealistic growth expectations and low chances of survival in Silicon Valley.\n• These companies often burn through cash quickly, raising fears of a future market correction.\n• Investors are now exercising caution, scrutinizing startup valuations and financial projections closely.",
-    "student_angle": "None, though this might offer a sobering view of startup reality and the importance of careful financial planning.",
-    "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-    "published": "Thu, 25 Jun 2026 02:16:15 +0000",
-    "category": "Industry News",
-    "tags": "Startups, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Qualcomm to Acquire Modular",
-    "ai_summary": "• Qualcomm is set to acquire Modular, a US-based chip design company, for undisclosed amount.\n• Acquisition aims to strengthen Qualcomm's position in the 5G and semiconductor market.\n• Transaction is expected to be completed in the second half of 2024.",
-    "student_angle": "Worth applying as Qualcomm offers various internship opportunities in software engineering and AI development.",
-    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-    "published": "Wed, 24 Jun 2026 13:49:16 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Mixing Visual and Textual Code",
-    "ai_summary": "• Visual and textual code can be mixed using graphical user interfaces and command-line interfaces.\n• Developers can choose from libraries like Pygame and wxPython to build GUIs in Python.\n• Mixing code types can improve productivity and collaboration among team members.",
-    "student_angle": "None",
-    "link": "https://arxiv.org/abs/2603.15855",
-    "published": "Thu, 25 Jun 2026 01:11:10 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "ai_summary": "• RubyLLM is a Ruby framework that simplifies integration with major AI providers.\n• It supports multiple AI services, including Google, Amazon, and Azure.\n• Developers can easily access AI models and generate code using RubyLLM.",
-    "student_angle": "Worth learning, as it broadens AI and software engineering skillset opportunities.",
-    "link": "https://rubyllm.com/",
-    "published": "Wed, 24 Jun 2026 14:41:41 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "45°C cooling design cuts data center water use to near zero",
-    "ai_summary": "• Data center operators achieve near-zero water usage with innovative 45°C cooling design.\n• This new approach reduces cooling costs and minimizes environmental impact.\n• The design uses advanced air cooling systems to minimize water consumption.",
-    "student_angle": "",
-    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "published": "Wed, 24 Jun 2026 14:10:11 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Europe is pushing back on Washington’s chip war",
-    "ai_summary": "• Europe is pushing back against US restrictions on deep ultraviolet chip tools exports.\n• China can currently acquire older-generation tools, but newer ones are off-limits under the MATCH Act.\n• ASML CEO Christophe Fouquet comments on the implications of US export controls for the chip industry.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "published": "Thu, 25 Jun 2026 00:08:36 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-    "ai_summary": "• Vishal Sikka's new startup, backed by Mayfield and Aramco Ventures, plans to challenge IT services landscape.\n• Veteran team consists of members from SAP, Infosys, and VianAI, bringing diverse expertise.\n• Startup aims to innovate in the industry, but specific details are currently unclear.",
-    "student_angle": "NOT WORTH APPLYING – startup is too early-stage for meaningful internships.",
-    "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-    "published": "Wed, 24 Jun 2026 23:26:52 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Elon suffers another day short of trillionaire status",
-    "ai_summary": "• Elon Musk's personal wealth fell short of $1 trillion as of today, according to Bloomberg.\n• Musk continues to add value to his companies like Tesla and SpaceX.\n• The Bloomberg Billionaires Index provides real-time estimates of billionaires' wealth.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-    "published": "Wed, 24 Jun 2026 23:09:39 +0000",
-    "category": "Industry News",
-    "tags": "Company Updates"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-    "ai_summary": "• Cerebras stock drops after first public earnings as investors fear narrowed core business margins.\n• Strong AI chip performance expected but investors focus on gross margin forecast in core business.\n• Company's margin outlook and earnings may still be a good indicator for AI chip industry trends.",
-    "student_angle": "No clear impact on internships, however staying up-to-date with industry trends is beneficial.",
-    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-    "published": "Wed, 24 Jun 2026 22:41:41 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "ai_summary": "• Engineers making up a larger share of new hires, contradicting AI job loss narrative.\n• SignalFire data reveals increasing demand for engineers, despite AI advancements.\n• AI layoffs overshadow hidden trend, new hires are largely engineering positions.",
-    "student_angle": "Learn emerging AI & ML skills to remain competitive in resilient engineering job market.",
-    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "published": "Wed, 24 Jun 2026 21:56:41 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI researchers continue to leave Google for its rivals",
-    "ai_summary": "• Top AI researchers Jonas Adler and Alexander Pritzel join Anthropic after leaving Google.\n• Departures follow Noam Shazeer and John Jumper, raising concerns about talent retention at Google.\n• Anthropic attracts top talent in the AI space for its AI research initiatives.",
-    "student_angle": "Anthropic might be worth exploring as its AI initiatives grow.",
-    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "published": "Wed, 24 Jun 2026 21:42:07 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The memory chip crunch is paying off for this US company",
-    "ai_summary": "• US company's revenue quadrupled to $41.45 billion year-over-year.\n• Profits rose from $1.88 billion to $28.2 billion year-over-year.\n• Financial success attributed to demand for memory chips.",
-    "student_angle": "Worth exploring potential internships in data science or engineering for memory optimization.",
-    "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-    "published": "Wed, 24 Jun 2026 21:30:55 +0000",
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "ai_summary": "• IBM announces sub-1 nanometer chip technology, potentially doubling computing density.\n• Breakthrough uses 10nm gate length and advanced materials to achieve unprecedented miniaturization.\n• Technology enables new computing paradigms in AI and cloud-based services.",
+    "student_angle": "Learning this technology could enhance your understanding of semiconductor manufacturing and its applications in AI and cloud computing.",
+    "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "published": "Thu, 25 Jun 2026 15:33:37 +0000",
     "category": "Industry News",
     "tags": "Data Science, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "New website names and shames companies that still don’t offer passkeys to users",
-    "ai_summary": "• New website, PasskeyIndex, tracks companies still using traditional password authentication globally.\n• 24% of popular websites lack support for passkeys, despite their increased security.\n• Passkey adoption rate remains low, with companies like Google and Apple prioritizing implementation.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
-    "published": "Wed, 24 Jun 2026 21:04:04 +0000",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "ai_summary": "• The White House is reportedly pressuring OpenAI to delay GPT 5.6 model release.\n• GPT 5.6 was initially planned for public sharing, now only for select partners.\n• Safety concerns and government intervention led to OpenAI's decision to slow roll the release.",
+    "student_angle": "None, this development has no direct impact on CS internships or job opportunities.",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "published": "Thu, 25 Jun 2026 23:34:39 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
-    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "ai_summary": "• Companies are cracking down on AI misuse, limiting user access to high-performance models.\n• Token rationing is becoming the norm, forcing developers to rethink project prioritization strategies.\n• AI budgets are shrinking due to overuse for small tasks, causing inefficiencies in resource allocation.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "published": "Wed, 24 Jun 2026 20:09:45 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
+    "title": "YouTube Shorts are getting even shorter with an update that lets you double the playback speed",
+    "ai_summary": "• YouTube Shorts users can now double playback speed, increasing content consumption.\n• Update enables developers to optimize content for faster consumption.\n• Feature expected to improve user engagement and reduce video watch time.",
+    "student_angle": "None, but it's worth keeping an eye on Google as it explores video consumption trends for potential internships.",
+    "link": "https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/",
+    "published": "Thu, 25 Jun 2026 22:02:12 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Here’s why Slate changed the battery in its cheap EV truck",
-    "ai_summary": "• Slate's leadership made a strategic decision to switch battery types, driven by momentum and years of research.\n• The shift from one battery type to another may impact EV manufacturing and consumer choices.\n• No financial details were provided on the switch or its potential impact on production costs.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/",
-    "published": "Wed, 24 Jun 2026 19:27:56 +0000",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "ai_summary": "• AI testing firm Patronus receives $50 million investment for digital world development.\n• Former Meta researchers lead startup amid increasing demand for agent-testing solutions.\n• Investor cites Patronus’ nearly insatiable demand for AI stress-testing capabilities.",
+    "student_angle": "This well-funded startup may offer opportunities for AI and software engineering students.",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "published": "Thu, 25 Jun 2026 20:19:25 +0000",
     "category": "Industry News",
-    "tags": "Automotive, Product & PM"
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Polymarket says hackers stole users’ funds",
+    "ai_summary": "• Polymarket suffers third-party breach, with user funds potentially stolen.\n• Users being refunded by the platform in response to the breach.\n• Investigation into the incident is ongoing by Polymarket's security team.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/",
+    "published": "Thu, 25 Jun 2026 19:58:46 +0000",
+    "category": "Industry News",
+    "tags": "Security, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Xbox follows Apple with price increases",
+    "ai_summary": "• Xbox, following Apple, raises console prices due to memory and storage cost increases.\n• Prices rise 2.5 times higher than previous levels, affecting console sales and revenue.\n• Company cites supply and demand factors amidst rising tech costs.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+    "published": "Thu, 25 Jun 2026 19:39:55 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Notion Mail shuts down amid agent takeover",
+    "ai_summary": "• Notion Mail email inbox shutting down due to increased user adoption of AI email agents.\n• Notion Mail AI agent features will continue to be developed and improved in the coming months.\n• AI takeover of email services raises questions about job security and automation in the workforce.",
+    "student_angle": "Increased automation in the industry, but potential for AI-related internship opportunities in development and maintenance.",
+    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "published": "Thu, 25 Jun 2026 19:14:46 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "a16z-backed Base Power is offering cheaper electricity to the power grid that needs it most",
+    "ai_summary": "• Base Power, an a16z-backed startup, offers cheaper backup electricity to the power grid.\n• Batteries are installed at homes in exchange for providing backup services.\n• Saves time and money by skipping PJM's troubled interconnection queue.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/",
+    "published": "Thu, 25 Jun 2026 17:52:05 +0000",
+    "category": "Industry News",
+    "tags": "Energy & Sustainability, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "ai_summary": "• Consumer demand shifts, with Anthropic's Claude gaining traction in paid AI market ahead of ChatGPT.\n• Data suggests increased adoption of Claude by consumers willing to pay for AI services.\n• Claude's winning over a market dominated by ChatGPT, offering competitive advantage.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "published": "Thu, 25 Jun 2026 17:38:27 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "ai_summary": "• General Intuition raises $320 million for AI training using video game data.\n• AI trained on gameplay aims to develop 'human-like intuition.'\n• AI company bets action data can translate to real-world AI applications.",
+    "student_angle": "This AI company developing human-like intuition could lead to new internship opportunities.",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "published": "Thu, 25 Jun 2026 16:55:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "ai_summary": "• Databricks' former AI chief proposes reducing AI power consumption by 1,000x.\n• Image-generation system Un-0 showcases the company's technology for replicating conventional AI.\n• Un-0 demonstrates how to scale AI systems more efficiently and reduce costs.",
+    "student_angle": "Learn about Un-0, an innovative tool for image generation and AI system optimization.",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "published": "Thu, 25 Jun 2026 16:48:11 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
   }
 ]
