@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Marfa Public Radio Puts You to Sleep",
-    "ai_summary": "• Marfa Public Radio recently launched a sleep-inducing AI radio station, \"Somnium\".\n• The station generates soothing stories and sounds to help users fall asleep.\n• Developed in collaboration with AI startup, \"Dreamscaper\".",
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "ai_summary": "• GLM 5.2 outperforms Claude in various tasks, including language translation and text generation.\n• The benchmark results show significant performance improvements in model efficiency and accuracy.\n• GLM 5.2's architecture is designed to leverage modern hardware capabilities for increased speed.",
+    "student_angle": "Consider learning about GLM 5.2, especially if you're interested in research or development roles.",
+    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "published": "Sun, 28 Jun 2026 17:50:47 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Age verification is just a precursor to automated attribution of speech",
+    "ai_summary": "• Researchers explore the use of age verification techniques to automate speech attribution.\n• This could enable law enforcement to identify culprits in online hate speech incidents.\n• The technology may have significant implications for digital forensics and cybersecurity.",
     "student_angle": "",
-    "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "published": "Sun, 28 Jun 2026 02:23:08 +0000",
-    "category": "Company Updates",
-    "tags": "Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-    "ai_summary": "• Decomp Academy introduces open-source decompilation tool for GameCube games.\n• Tool translates binary code into C, allowing developers to modify and learn from games.\n• Project aims to improve reverse engineering skills and promote open-source game development.",
-    "student_angle": "Learning decompilation and reverse engineering can enhance coding skills and problem-solving abilities.",
-    "link": "https://decomp-academy.dev",
-    "published": "Sun, 28 Jun 2026 01:21:20 +0000",
+    "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "published": "Mon, 29 Jun 2026 03:42:07 +0000",
     "category": "Industry News",
-    "tags": "Security, Software Engineering"
+    "tags": "AI & ML, Security, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-    "ai_summary": "• Wayfinder Router: a new tech enables deterministic routing of queries between local and hosted Large Language Models.\n• Designed for efficient and scalable integration, Wayfinder Router optimizes query processing and reduces latency.\n• Built with scalability in mind, Wayfinder Router can handle a high volume of concurrent queries.",
-    "student_angle": "Consider learning Wayfinder Router as it's a crucial skill for LLM development and integration in industry jobs.",
-    "link": "https://github.com/itsthelore/wayfinder-router",
-    "published": "Sun, 28 Jun 2026 04:31:18 +0000",
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "ai_summary": "• HackerRank open sources its ATS, allowing developers to improve resume parsing algorithms.\n• The ATS scores resumes differently for the same content, highlighting its complexities.\n• The move could lead to more efficient hiring processes in tech companies.",
+    "student_angle": "This move could open up more internship opportunities in AI and software engineering, especially related to resume screening and ATS development.",
+    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "published": "Mon, 29 Jun 2026 01:44:40 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-    "ai_summary": "• AMD Strix Halo supports high-performance RDMA clustering for cloud and enterprise workloads.\n• The setup guide focuses on configuring and optimizing the Halo RDMA cluster architecture.\n• Integration with AMD's EPYC processors offers enhanced data transfer and scalability.",
-    "student_angle": "If you are interested in Cloud & DevOps, consider learning about this emerging technology, but it's not directly related to typical internship opportunities.",
-    "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-    "published": "Sun, 28 Jun 2026 00:46:52 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-    "ai_summary": "• Anonymous GitHub user discloses 0-day vulnerabilities, leaving affected developers to scramble for patches.\n• Mass-disclosures raise concerns about uncoordinated release of sensitive security information.\n• Impact of unconfirmed 0-days unknown, but may lead to further exploitation and potential harm.",
-    "student_angle": "This mass-dropping of 0-days doesn't directly influence entry-level job opportunities; focus on staying informed about ongoing security threats.",
-    "link": "https://github.com/bikini/exploitarium",
-    "published": "Sat, 27 Jun 2026 14:31:00 +0000",
-    "category": "Industry News",
-    "tags": "Security, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "OpenRA",
-    "ai_summary": "• OpenRA is an open-source software framework for real-time strategy games built using C#.\n• It allows developers to create games with similar gameplay to classic RTS games like Age of Empires.\n• OpenRA provides a free and open alternative to proprietary game engines.",
-    "student_angle": "Consider exploring OpenRA for game development experience, potentially applicable to DevOps or software engineering roles.",
-    "link": "https://www.openra.net/",
-    "published": "Sat, 27 Jun 2026 12:10:27 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Choosing a Public DNS Resolver",
-    "ai_summary": "• A public DNS resolver can provide faster and more secure internet connectivity.\n• Top DNS resolvers, including Google, Cloudflare, and OpenDNS, have varying features and speeds.\n• Choosing the right public DNS resolver depends on individual needs and network setup.",
+    "title": "Historical memory prices 1960-2026",
+    "ai_summary": "• The first commercial computer memory was a vacuum tube-based system, costing around $10,000 per byte in 1959.\n• By 1969, integrated circuit memory prices dropped to $1.20 per byte, a significant reduction.\n• Since then, memory prices have continued to decline, reaching $0.032 per byte in 2026.",
     "student_angle": "",
-    "link": "https://evilbit.de/dns-resolver-guide.html",
-    "published": "Sat, 27 Jun 2026 22:11:28 +0000",
+    "link": "https://dam.stanford.edu/memory-prices.html",
+    "published": "Sun, 28 Jun 2026 18:32:53 +0000",
+    "category": "Industry News",
+    "tags": "Hardware, Computing"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Some Simple Economics of AGI",
+    "ai_summary": "• Artificial General Intelligence (AGI) poses significant economic, social, and philosophical challenges.\n• Developing AGI could create immense productivity gains, but also risks job displacement.\n• AGI's integration with traditional industries could spark innovation, but also exacerbate disparities.",
+    "student_angle": "Learning about AGI's concepts and implications can help students understand the future of work, but is not directly related to internship opportunities for now.",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6298838",
+    "published": "Mon, 29 Jun 2026 04:47:53 +0000",
     "category": "Tech Trends",
-    "tags": "Cloud & DevOps, Security"
+    "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "Ford hired AI and sacked humans. It backfired badly",
-    "ai_summary": "• Ford Motor Company laid off 3,800 employees, replacing some roles with AI and automation.\n• The massive job cuts occurred despite significant investments in artificial intelligence and robotics.\n• Workers, including union representatives, blamed the company's over-reliance on technology for the cuts.",
-    "student_angle": "This raises concerns about AI job displacement, but may spark opportunities in retraining and reskilling.",
-    "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-    "published": "Sun, 28 Jun 2026 03:09:13 +0000",
+    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+    "ai_summary": "• New York Public Library releases 5k historical menus from 1880 to 1920.\n• Menus provide insight into food trends and social history of the US.\n• The collection spans over four decades, offering valuable historical context.",
+    "student_angle": "This industry news highlights historical context, but has limited internship relevance.",
+    "link": "https://pudding.cool/2026/06/menu-story/",
+    "published": "Sun, 28 Jun 2026 14:44:56 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
+    "tags": "Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Space Shuttle Endeavour's 20-story vertical display",
-    "ai_summary": "• Space Shuttle Endeavour is now displayed vertically at 20 stories high in downtown LA.\n• The Endeavour is lifted with the help of a 65-foot tall move rig.\n• The display is part of the California Science Center's exhibits.",
-    "student_angle": "",
-    "link": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-    "published": "Fri, 26 Jun 2026 12:49:48 +0000",
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "ai_summary": "• Claude Code, a large language model, is being used for medical imaging analysis.\n• The model provided a second opinion on MRI scans, increasing diagnostic accuracy.\n• This application showcases the potential for AI in healthcare.",
+    "student_angle": "This article doesn't directly relate to available internships but showcases AI advancements, worth learning for future applications.",
+    "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "published": "Sun, 28 Jun 2026 16:35:19 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": "AI & ML, Healthcare"
   },
   {
     "source": "HackerNews",
-    "title": "Fintech Engineering Handbook",
-    "ai_summary": "• Fintech Engineering Handbook provides comprehensive guidance for fintech professionals on emerging technologies and best practices.\n• The handbook focuses on fintech trends, innovations, and success stories in a rapidly changing landscape.\n• Key areas covered include payments, lending, investments, and cybersecurity in fintech applications.",
-    "student_angle": "This handbook will become a valuable resource for anyone interested in a fintech career, worth exploring for insights.",
-    "link": "https://w.pitula.me/fintech-engineering-handbook/",
-    "published": "Sat, 27 Jun 2026 10:28:53 +0000",
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "ai_summary": "• Researchers propose a technique, Knowledge Distillation, to extract knowledge from black-box large language models.\n• This method simplifies the learning process, improving model efficiency and reducing computational requirements.\n• By training smaller models on distilled information, developers reduce the need for high computational resources.",
+    "student_angle": "Learn Knowledge Distillation for better understanding of neural network functionality and AI efficiency.",
+    "link": "https://arxiv.org/abs/2401.07013",
+    "published": "Sun, 28 Jun 2026 22:32:04 +0000",
     "category": "Industry News",
-    "tags": "Fintech"
+    "tags": "AI & ML"
   },
   {
-    "source": "TechCrunch",
-    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-    "ai_summary": "• Indian payments chief Dilip Asbe anticipates AI to play a significant role in digital payment growth.\n• New UPI apps with viable commercial models may become more competitive in the market.\n• Asbe suggests AI-driven innovations as crucial for the next era of digital payments.",
-    "student_angle": "NONE.",
-    "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-    "published": "Sun, 28 Jun 2026 05:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-    "ai_summary": "• Instagram is testing new options for users to customize their 'Your Algorithm' feed.\n• The feature will enable users to set specific preferences for their content.\n• This move aims to enhance user experience and increase engagement.",
-    "student_angle": "This development might open up new internship opportunities in user experience design and product management.",
-    "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-    "published": "Sat, 27 Jun 2026 21:27:37 +0000",
+    "source": "HackerNews",
+    "title": "Show HN: Zanagrams",
+    "ai_summary": "• Zanagrams, a new anagram-based word game, has been showcased on Hacker News.\n• The game generates anagrams with adjustable difficulty levels using JavaScript and HTML5.\n• It aims to engage users in a fun, intellectual challenge.",
+    "student_angle": "If you're skilled in JavaScript and interested in game development, consider applying to this space for a unique project experience.",
+    "link": "https://zanagrams.com/",
+    "published": "Sun, 28 Jun 2026 15:26:14 +0000",
     "category": "Company Updates",
     "tags": "Software Engineering, Product & PM"
   },
   {
-    "source": "TechCrunch",
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "ai_summary": "• SoftBank CEO expresses skepticism about Elon Musk's orbital data center concept.\n• Critics raise concerns about the feasibility and practicality of such data centers.\n• Companies like SpaceX have already begun testing orbital internet services.",
-    "student_angle": "None, article discusses industry opinions, no direct impact on internship opportunities.",
-    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "published": "Sat, 27 Jun 2026 20:42:36 +0000",
+    "source": "HackerNews",
+    "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+    "ai_summary": "• The newly installed Frontier supercomputer takes the top spot in the TOP500 rankings, marking a new era in high-performance computing.\n• China's national research university, Shanghai Jiao Tong, operates the Frontier for scientific research and computational tasks.\n• The massive system features 9,190 nodes, over 69,000 X86 CPU cores, and 10.6 exaflops of peak performance.",
+    "student_angle": "",
+    "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+    "published": "Sun, 28 Jun 2026 19:38:00 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Data Science"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "ai_summary": "• Apple Vision Pro executive vice president reportedly leaving for OpenAI's hardware team.\n• Mead's departure likely impacts Apple's plans for the Vision Pro headset's future.\n• OpenAI hires experienced executive, possibly indicating expansion of its hardware division.",
-    "student_angle": "Worth learning about companies expanding their hardware capabilities, especially AI-powered devices.",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "published": "Sat, 27 Jun 2026 16:45:09 +0000",
-    "category": "Company Updates",
+    "title": "California law targeting loud streaming ads takes effect on July 1",
+    "ai_summary": "• New California law aims to cap loud streaming ads to protect users' audio well-being.\n• Advertisers must keep audio levels below the 70-decibel mark to comply with regulations.\n• Non-compliance will result in fines ranging from $2,000 to $10,000.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+    "published": "Sun, 28 Jun 2026 21:34:14 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "ai_summary": "• Ford Motors rehires experienced engineers after AI-powered project falls behind.\n• The return highlights the need for human expertise and collaboration with AI.\n• Experience and adaptability remain key to success in the AI-driven industry.",
+    "student_angle": "The resurgence of experienced engineers at Ford might indicate a shift in focus towards human-AI collaboration, making it a unique workplace to consider for internships.",
+    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "published": "Sun, 28 Jun 2026 19:05:39 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+    "ai_summary": "• Writer Ian Bogost critiques Silicon Valley's priorities, suggesting a focus on convenience is misguided.\n• Bogost argues that the 'small stuff' can help individuals reclaim control over their lives and time.\n• He calls for a shift towards products that promote well-being and quality over convenience and speed.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+    "published": "Sun, 28 Jun 2026 17:03:16 +0000",
+    "category": "Industry News",
+    "tags": "Tech Trends, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+    "ai_summary": "• Tesla's Full Self-Driving (FSD) technology has raised questions on its reliability and regulatory scrutiny.\n• Autonomous vehicle industry leaders have expressed concerns about the impact of FSD on public trust.\n• Regulators are tightening rules for FSD deployments, citing safety and liability concerns.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+    "published": "Sun, 28 Jun 2026 16:05:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Autonomous Vehicles"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "ai_summary": "• Wall Street investors are bullish on Micron, predicting its success rivaling Nvidia.\n• Micron's pivot to AI-focused hardware and software has garnered significant attention.\n• Investors see opportunity in Micron's expanded presence in the AI ecosystem.",
+    "student_angle": "Micron's expansion into AI could mean growing internship opportunities in this area.",
+    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "published": "Sun, 28 Jun 2026 15:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+    "ai_summary": "• GoveeLife Smart Nugget Ice Maker Pro is a $500 smart home device making premium ice at home.\n• The device creates soft, chewable nugget ice, often preferred by coffee and cocktail enthusiasts.\n• Govee's new product offers a unique home appliance experience with premium features and design.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+    "published": "Sun, 28 Jun 2026 14:00:00 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+    "ai_summary": "• Dilip Asbe, Indian payments chief, foresees AI playing a significant role in future digital payment growth.\n• New UPI apps could be competitive with a viable commercial model, Asbe suggests.\n• Asbe's statement highlights the increasing importance of AI in digital payment systems development.",
+    "student_angle": "Learning AI fundamentals is worthwhile for a career in payments, financial tech, or banking.",
+    "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+    "published": "Sun, 28 Jun 2026 05:00:00 +0000",
+    "category": "Industry News",
     "tags": "AI & ML, Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "ai_summary": "• Connor Christou, a cancer patient, uses AI to personalize treatment with Claude.\n• AI helps analyze blood results, scan data, wearable output, and journal entries for insights.\n• Christou leverages Claude's advanced natural language processing capabilities for effective treatment.",
-    "student_angle": "Learn about Claude's capabilities to stay up-to-date with AI-powered healthtech innovations.",
-    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "published": "Sat, 27 Jun 2026 14:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Healthtech"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "ai_summary": "• Asian AI startups launch models rivaling Anthropic's Mythos capabilities, bypassing U.S. export restrictions.\n• Companies like AI4D and Meta AI spinoffs tap Asia's vast talent pool for innovative AI advancements.\n• New models promise improved efficiency, scalability, and reliability, challenging Western dominance in AI development.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "published": "Sat, 27 Jun 2026 12:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-    "ai_summary": "• Trump Administration releases Anthropic Mythos 5 to over 100 US companies and agencies.\n• Mythos 5 reportedly authorized for use by non-American employees in those companies and agencies.\n• Companies and agencies can now utilize advanced AI and security features within Mythos 5 framework.",
+    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
+    "ai_summary": "• Instagram users may customize their \"Your Algorithm\" experience with more features.\n• The platform is testing new ways to personalize content for users.\n• Enhanced customization aims to address user concerns about content diversity.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "published": "Sat, 27 Jun 2026 01:01:37 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
+    "link": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+    "published": "Sat, 27 Jun 2026 21:27:37 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-    "ai_summary": "• Elon Musk gets approval to acquire SpaceX alumni startup Mesh, valued at $50 million.\n• Acquisition signals Musk's continued support for space-tech innovation.\n• Mesh aims to disrupt satellite internet with new communication technology.",
-    "student_angle": "This company acquisition doesn't directly relate to internship opportunities, but it might open up related roles in future.",
-    "link": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-    "published": "Sat, 27 Jun 2026 00:38:34 +0000",
-    "category": "Industry News",
-    "tags": "Tech, Business"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
-    "ai_summary": "• Corgi, the Y Combinator-backed insurance tech startup, denies allegations of stealing open source product.\n• Corgi cites 'vibe coding' as the reason for similarity between its product and Papermark's software.\n• The case raises questions about ownership and attribution in collaborative coding environments.",
-    "student_angle": "It's uncertain if Corgi will open up internship positions after this controversy erupts",
-    "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
-    "published": "Fri, 26 Jun 2026 22:00:37 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-    "ai_summary": "• Novak Djokovic joins General Atlantic as global strategic advisor.\n• Firm known for investments in growth-stage companies worldwide.\n• No direct industry impact on CS university students.",
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "ai_summary": "• SoftBank's CEO questioned Elon Musk's orbital data center feasibility.\n• Industry experts raise concerns about environmental impact and technical viability.\n• Potential high costs and regulatory obstacles may hinder orbital data center adoption.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-    "published": "Fri, 26 Jun 2026 19:13:40 +0000",
+    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "published": "Sat, 27 Jun 2026 20:42:36 +0000",
     "category": "Industry News",
-    "tags": "None"
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "ai_summary": "• Paul Meade, Apple's Vision Pro VP, exits company to join OpenAI's hardware team.\n• Meade's departure comes amidst Apple's Vision Pro development and launch phase.\n• Meade's new role at OpenAI will focus on AI-driven hardware solutions.",
+    "student_angle": "This hiring move is worth monitoring for future AI hardware roles; follow AI & ML industry advancements.",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "published": "Sat, 27 Jun 2026 16:45:09 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Hardware Engineering"
   }
 ]
