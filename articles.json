@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Claude Sonnet 5",
-    "ai_summary": "• Claude Sonnet 5 is a cutting-edge AI assistant that generates human-like poetry.\n• Integrates natural language processing and machine learning algorithms for creative output.\n• Currently available in beta testing phase for select developers.",
-    "student_angle": "Learn the basics of NLP and ML to stay competitive in the field and explore its applications.",
-    "link": "https://www.anthropic.com/news/claude-sonnet-5",
-    "published": "Tue, 30 Jun 2026 17:59:52 +0000",
+    "title": "ZCode – Harness for GLM-5.2",
+    "ai_summary": "• ZCode – a tool for harnessing GLM-5.2 – has been released as an open-source project.\n• It is built for performance and ease of use, supporting various GPU architectures.\n• ZCode is designed for developers and researchers working on high-performance computing projects.",
+    "student_angle": "Worth learning if you'll be working with graphics or machine learning models in your job.",
+    "link": "https://zcode.z.ai/en",
+    "published": "Wed, 01 Jul 2026 22:03:36 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "ai_summary": "• Senior SWE-Bench is an open-source benchmark that evaluates senior software engineers based on real-world tasks.\n• The benchmark assesses technical skills, problem-solving abilities, and communication expertise in a simulated work environment.\n• Senior SWE-Bench provides a standardized and unbiased evaluation framework for senior software engineer positions.",
+    "student_angle": "",
+    "link": "https://senior-swe-bench.snorkel.ai/",
+    "published": "Thu, 02 Jul 2026 02:55:16 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Oomwoo, an open-source robot vacuum you build yourself",
+    "ai_summary": "• Open-source robot vacuum Oomwoo allows users to build and customize their own robot vacuum systems.\n• The platform includes a comprehensive set of hardware and software instructions for assembly.\n• Community-driven design and development enable users to contribute to and learn from others.",
+    "student_angle": "Consider learning about Oomwoo's modular design principles to expand knowledge in product engineering and AI-integrated systems.",
+    "link": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+    "published": "Thu, 02 Jul 2026 00:48:01 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "For first time, a cell built from scratch grows and divides",
+    "ai_summary": "• Researchers built a cell from scratch using basic biological components, demonstrating cell development and division.\n• The achievement advances our understanding of cellular biology and development.\n• Potential applications in regenerative medicine and biotechnology have been proposed.",
+    "student_angle": "",
+    "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "published": "Wed, 01 Jul 2026 14:20:52 +0000",
+    "category": "Industry News",
+    "tags": "Bioinformatics"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
+    "ai_summary": "• Global health experts confirm mRNA vaccines are safe and effective.\n• Studies highlight the promising potential of mRNA technology for various diseases.\n• mRNA vaccine trials demonstrate improved immune response compared to traditional vaccines.",
+    "student_angle": "",
+    "link": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+    "published": "Thu, 02 Jul 2026 00:40:14 +0000",
+    "category": "Industry News",
+    "tags": "Healthtech, COVID-19 Response"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Bring back crappy forums",
+    "ai_summary": "• Crappy forums can provide raw, unfiltered discussions, offering insights into community problems and needs.\n• Decentralized, community-driven platforms facilitate free speech and authentic feedback from users.\n• Reviving old forum structures can foster collaboration, innovation, and knowledge sharing among developers.",
+    "student_angle": "",
+    "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+    "published": "Thu, 02 Jul 2026 02:30:16 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "What to learn to be a graphics programmer",
+    "ai_summary": "• Familiarize yourself with graphics APIs: DirectX, Vulkan, and OpenGL for Windows and Linux respectively.\n• Learn data-driven programming, shading languages like HLSL and GLSL, and computer graphics math.\n• Understand the concepts of game development pipelines, data serialization, and graphics rendering techniques.",
+    "student_angle": "Learn the latest graphics APIs and programming languages to increase internship and job prospects in the gaming and animation industries.",
+    "link": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+    "published": "Wed, 01 Jul 2026 17:53:44 +0000",
     "category": "Tech Trends",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Claude Code is steganographically marking requests",
-    "ai_summary": "• Claude Code, an AI platform, is embedding steganographic markers in user requests for analysis.\n• The technique allows for anomaly detection, improving overall security and integrity of requests.\n• This innovative method enhances data protection, shielding against potential data breaches.",
-    "student_angle": "Learn about steganography in AI to stay competitive in the growing field of AI security.",
-    "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "published": "Tue, 30 Jun 2026 15:44:24 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Google copybara: moving code between repositories",
-    "ai_summary": "• Google introduces Copybara, an extension for moving code between repositories efficiently.\n• Copybara supports multiple repository platforms, including GitHub and GitLab, for seamless code transfer.\n• This tool can be integrated into various workflows to improve collaboration and development efficiency.",
-    "student_angle": "Copybara seems like a useful tool for collaborative projects; consider learning it for future development tasks.",
-    "link": "https://github.com/google/copybara",
-    "published": "Tue, 30 Jun 2026 23:45:39 +0000",
-    "category": "Industry News",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-    "ai_summary": "• US export controls lifted for Claude Fable 5 and Mythos 5 AI chips.\n• Decision aims to promote US chip manufacturers' global market competitiveness.\n• Lifting of controls expected to open new trade opportunities for US companies.",
-    "student_angle": "NONE.",
-    "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "published": "Tue, 30 Jun 2026 23:55:12 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Forestiere Underground Gardens",
-    "ai_summary": "• The Forestiere Underground Gardens is an unusual underground tunnel network in California, USA.\n• Built from 1906 to 1940, it features unique architectural designs and a secret world beneath.\n• The complex boasts 10 acres of subterranean tunnels, rooms, and gardens, all hand excavated.",
+    "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+    "ai_summary": "• Physical disc production for new games on PlayStation will cease in January 2028.\n• This shift to digital-only distribution follows Sony's previous adoption of cloud gaming services.\n• PlayStation may focus on subscription-based model with increased digital game offerings.",
     "student_angle": "",
-    "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
-    "published": "Wed, 01 Jul 2026 01:23:09 +0000",
+    "link": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+    "published": "Wed, 01 Jul 2026 12:13:34 +0000",
     "category": "Industry News",
-    "tags": "Data Science"
+    "tags": "Cloud & DevOps, Product & PM"
   },
   {
     "source": "HackerNews",
-    "title": "Claude Science",
-    "ai_summary": "• Claude Science raises $5 million to develop AI-powered science research platform.\n• Claude Science aims to democratize scientific discoveries through AI-driven research tools.\n• The platform utilizes machine learning to analyze and provide insights on scientific data.",
-    "student_angle": "This company is worth applying to for AI & ML internship opportunities, as it's involved in cutting-edge research in data science.",
-    "link": "https://claude.com/product/claude-science",
-    "published": "Tue, 30 Jun 2026 17:07:41 +0000",
+    "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+    "ai_summary": "• Researchers open-sourced Zero-Knowledge Proof (ZKP) technology for age assurance with enhanced user privacy.\n• This technology verifies individual's age without revealing their personal data, ensuring anonymity and security.\n• ZKP's application is expected to promote widespread use in age-sensitive sectors such as education and e-commerce.",
+    "student_angle": "Learn Zero-Knowledge Proof technology for potential internship opportunities in secure data management.",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+    "published": "Wed, 01 Jul 2026 22:27:47 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Data Science"
+    "tags": "Security, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Nano Banana 2 Lite",
-    "ai_summary": "• Researchers at the University of California develop a simplified AI model called Nano Banana 2 Lite.\n• The model is designed for edge computing, reducing latency in AI-powered applications by 30%.\n• Initial tests show a 25% improvement in AI-driven task completion times compared to previous models.",
-    "student_angle": "Learn the basic principles of edge AI, a rapidly growing field, but don't expect direct internship opportunities from this specific research.",
-    "link": "https://deepmind.google/models/gemini-image/flash-lite/",
-    "published": "Tue, 30 Jun 2026 16:48:37 +0000",
+    "title": "FFmpeg 9.1's new AAC encoder",
+    "ai_summary": "• FFmpeg 9.1 now features an improved native AAC encoder, reducing dependencies on external codecs.\n• This upgrade brings efficiency gains in streaming and audio processing tasks within the open-source framework.\n• Users can look forward to better support for multi-threading, speeding up processing.",
+    "student_angle": "None, but learning FFmpeg can be valuable for hands-on experience in media processing and software engineering.",
+    "link": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+    "published": "Wed, 01 Jul 2026 14:10:28 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Data Science"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
-    "source": "HackerNews",
-    "title": "Leanstral 1.5",
-    "ai_summary": "• Leanstral 1.5 is a cloud-native platform for enterprise infrastructure management.\n• The update focuses on improved scalability and reduced latency for large deployments.\n• Leanstral 1.5 features enhanced visibility and control for DevOps teams.",
-    "student_angle": "This update in the cloud industry may lead to growing internship opportunities in DevOps.",
-    "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
-    "published": "Tue, 30 Jun 2026 20:44:56 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "From brain waves to words: a new path to communication without surgery",
-    "ai_summary": "• Brain-computer interface (BCI) technology translates brain waves into text without surgery, enabling people with paralysis to communicate.\n• BCI uses electrocorticography (ECoG) sensors to detect neural activity in the brain, decoding signals for computer interfaces.\n• This breakthrough has opened new avenues for people with severe neurological disorders to interact with the world around them.",
-    "student_angle": "Worth learning, as advancements in AI & ML can lead to innovative applications in neurotech and assistive technologies.",
-    "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-    "published": "Tue, 30 Jun 2026 21:29:13 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Neural Networks"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Segmenting Robot Video into Actionable Subtasks",
-    "ai_summary": "• Researchers develop algorithm to segment robot videos into actionable subtasks for better analysis.\n• System utilizes computer vision techniques and machine learning models for efficient task segmentation.\n• Method enables humans to review and correct segmented tasks for improved performance metrics.",
+    "source": "TechCrunch",
+    "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+    "ai_summary": "• Apple reportedly planning new iPad Pro and budget-friendly MacBook Pro releases for early next year.\n• New devices expected to feature improved hardware and possibly enhanced software capabilities.\n• No official details available, but rumored features hint at enhanced user experience and performance.",
     "student_angle": "",
-    "link": "https://macrodata.co/blog/annotating-robot-video-subtasks",
-    "published": "Mon, 29 Jun 2026 19:52:51 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The “Father of the Internet” is finally retiring",
-    "ai_summary": "• Vinton Cerf, 'Father of the Internet,' retires as Google's chief internet evangelist.\n• Cerf will continue his internet development work outside of Google.\n• Google's leadership expresses gratitude for Cerf's contributions to internet growth.",
-    "student_angle": "This news may lead to job openings for internet security experts and Cloud & DevOps professionals at Google and other organizations.",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "published": "Wed, 01 Jul 2026 03:15:37 +0000",
+    "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+    "published": "Wed, 01 Jul 2026 23:57:55 +0000",
     "category": "Industry News",
-    "tags": "Internet & Network Security, Cloud & DevOps"
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "ai_summary": "• Anthropic's Fable model restrictions dropped by US government.\n• Fable access restored on July 1 as per company's announcement.\n• This move could accelerate AI research with more accessible tools.",
-    "student_angle": "None.",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "published": "Wed, 01 Jul 2026 02:16:06 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "ai_summary": "• Wayve, a UK-based startup, launches $85M employee stock tender offer at $8.5B valuation.\n• This strategic move aims to retain talent in competitive AI space with high valuation.\n• Wayve's valuation showcases growth of AI startups in the industry.",
-    "student_angle": "This indicates potential opportunities for AI engineers; consider applying to Wayve for internships or entry-level positions.",
-    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-    "published": "Wed, 01 Jul 2026 02:04:40 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Startup Battlefield Australia application closes in days: Apply before July 6",
-    "ai_summary": "• Application for Startup Battlefield Australia closes on July 6, with top startups to be revealed.\n• Entrepreneurs have the chance to showcase their business ideas and get global recognition.\n• Top startups will gain access to mentorship, funding, and networking opportunities.",
-    "student_angle": "Apply for the opportunity to boost your startup career through mentorship and global exposure.",
-    "link": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
-    "published": "Tue, 30 Jun 2026 23:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Startup, Entrepreneurship"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenClaw is finally available on Android and iOS",
-    "ai_summary": "• OpenClaw, an agentic program, expands its reach to Android and iOS devices.\n• Developers can now access this free, open-source platform without restrictions.\n• Users can utilize features like natural language processing and decision-making tools.",
-    "student_angle": "Learn OpenClaw for its potential application in AI-powered apps and projects, enhancing portfolio value.",
-    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-    "published": "Tue, 30 Jun 2026 21:53:28 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "ai_summary": "• EquiLibre Technologies, a Prague-based AI lab, founded by ex-DeepMind researchers, valued at over $500 million.\n• The trio's work on poker AI led to their new venture providing AI-backed services to quant hedge funds.\n• AI-powered services are in high demand in the finance sector, leading to significant growth for EquiLibre Technologies.",
-    "student_angle": "Consider applying to EquiLibre Technologies, as the company offers AI-driven roles and is expanding rapidly.",
-    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "published": "Tue, 30 Jun 2026 20:33:48 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Realta Fusion generates electricity directly from a fusion reaction, an apparent first",
-    "ai_summary": "• Realta Fusion achieved a historic breakthrough in electricity generation from fusion reaction.\n• The company's technology harnesses energy directly from a plasma state.\n• CEO Kieran Furlong calls this milestone \"what's possible.\"",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/06/30/realta-fusion-generates-electricity-directly-from-a-fusion-reaction-an-apparent-first/",
-    "published": "Tue, 30 Jun 2026 19:12:43 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "ai_summary": "• Google upgrades image generator, \"Nano Banana 2 Lite,\" for improved speed and cost efficiency.\n• Faster performance accelerates AI content creation, meeting rising user demand for visual content.\n• Lower costs make image generator more accessible to startups and individual creators.",
-    "student_angle": "Increased demand for AI content creation may lead to growing internship opportunities in this area.",
-    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-    "published": "Tue, 30 Jun 2026 19:02:38 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Clicks shows off its BlackBerry-inspired phone in a new hands-on video",
-    "ai_summary": "• Clicks showcases final production version of the Communicator, a BlackBerry-inspired smartphone.\n• The phone runs modern apps, suggesting a blend of traditional and modern features.\n• Details on release date and pricing are still unknown.",
-    "student_angle": "Possibly relevant for internship opportunities in software engineering for mobile devices; keep an eye on Clicks for future job openings.",
-    "link": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/",
-    "published": "Tue, 30 Jun 2026 18:34:22 +0000",
+    "title": "Bending Spoons defies SaaS slump, surges 40% on first day of trading",
+    "ai_summary": "• Bending Spoons, a company acquired former SaaS giants like AOL and Evernote, experiences market success.\n• Revamped tech brands report significant growth in customer acquisition and retention rates.\n• Company valuation surges 40% following initial trading day listings.",
+    "student_angle": "Worth applying to, for entry-level software engineering roles as the company scales up.",
+    "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+    "published": "Wed, 01 Jul 2026 22:47:04 +0000",
     "category": "Industry News",
     "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "ai_summary": "• Etched, an Nvidia AI chip competitor, reaches $5 billion valuation.\n• The company already has $1 billion in sales for its AI chip-powered inference systems.\n• Etched's growth indicates a significant demand for AI processing technology.",
-    "student_angle": "This is a promising sign for internships in AI chip engineering, consider exploring opportunities in the field.",
-    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+    "title": "After $18B IPO, Bending Spoons founder says success comes from minimizing luck",
+    "ai_summary": "• Bending Spoons' $18B IPO prompts founder to share lessons learned from startup failure.\n• Quietly buying ailing brands has been key to Bending Spoons' success.\n• Founders reflect on minimizing luck factor in business decisions.",
+    "student_angle": "This success story from Bending Spoons suggests perseverance and strategic decisions can lead to success, but doesn't directly indicate opportunities for interns.",
+    "link": "https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/",
+    "published": "Wed, 01 Jul 2026 22:28:35 +0000",
     "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "WhatsApp usernames are already raising impersonation red flags",
+    "ai_summary": "• WhatsApp introduces usernames to supposedly improve user privacy, but critics remain skeptical.\n• Impersonation risks associated with usernames are being flagged as a major concern.\n• Meta claims new feature will enhance user control over identity on the platform.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+    "published": "Wed, 01 Jul 2026 22:02:24 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+    "ai_summary": "• Bug in Apple's Hide My Email feature exposes real email addresses to third parties.\n• Users reported unexpected disclosure of email addresses despite intended protection.\n• Research suggests Apple failed to effectively shield user identities from exploitation.",
+    "student_angle": "This finding in the security sphere serves as a reminder of the importance of robust testing before launch.",
+    "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+    "published": "Wed, 01 Jul 2026 19:18:07 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "ai_summary": "• SpaceX unveiled a device resembling a smartphone that reportedly runs on AI technology.\n• This move sparks speculation about potential expansion into the wireless sector.\n• Investors are intrigued by the prospects of integrating AI into mobile devices.",
+    "student_angle": "NONE, but consider AI development in mobile tech for future projects or internships.",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "published": "Wed, 01 Jul 2026 18:54:18 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "ai_summary": "• Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller.\n• New fund focuses on infrastructure and energy powering category-leading AI labs.\n• Sound Ventures built reputation on AI lab investments.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "published": "Wed, 01 Jul 2026 18:47:22 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "ai_summary": "• Neocloud, an AI provider, has closed an $800M funding round to reach a valuation of $8.3B.\n• The company specializes in hosting open-source AI models on its cloud platform.\n• Neocloud's valuation has quadrupled since its last raise in early 2025, marking significant growth.",
+    "student_angle": "This company is worth applying to for internships and potential future job opportunities.",
+    "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "published": "Wed, 01 Jul 2026 18:29:14 +0000",
+    "category": "Company Updates",
     "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lime begins life as a public company after years of uncertainty",
+    "ai_summary": "• Lime scooter and bike-share company goes public after 9 years of uncertainty.\n• Raises funds to pay down estimated $1 billion in liabilities.\n• Aims to expand services and reduce financial burden.",
+    "student_angle": "This move indicates potential for growth and increased focus on data-driven operations, making it a decent consideration for interns interested in Data Science and Cloud & DevOps.",
+    "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+    "published": "Wed, 01 Jul 2026 18:24:00 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "ai_summary": "• Cloudflare imposes September 15 deadline on AI companies to separate web crawlers from AI training agents.\n• Failure to comply will result in default blocking on many publisher sites by Cloudflare.\n• This move aims to protect publishers' content from AI-powered scraping and training.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "published": "Wed, 01 Jul 2026 17:48:37 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Security"
   }
 ]
