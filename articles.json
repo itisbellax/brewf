@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Giant trees have no trouble pumping water to top branches: new research",
-    "ai_summary": "• Research finds that giant trees have efficient mechanisms to transport water to their top branches.\n• This ability is crucial for the survival of the trees in dry environments.\n• Scientists study the internal networks of trees to improve water management systems.",
-    "student_angle": "",
-    "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-    "published": "Fri, 03 Jul 2026 22:40:29 +0000",
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+    "ai_summary": "• Command & Conquer Generals is natively ported to macOS, iPhone, and iPad.\n• The port is achieved using Fable, a game development engine.\n• The game retains its original performance on various Apple devices.",
+    "student_angle": "This tech demonstrates Fable's capabilities; learning Fable for game development internships might be valuable.",
+    "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "published": "Sat, 04 Jul 2026 19:41:10 +0000",
     "category": "Industry News",
-    "tags": "Data Science, Cloud & DevOps"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-    "ai_summary": "• AMD's MI355X accelerates GLM5.2 compute to 2626 tok/s/node at unprecedented efficiency.\n• This marks a significant milestone for high-performance machine learning on AMD hardware.\n• The achievement is achieved at over 2x lower cost than competing Blackwell solutions.",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "ai_summary": "• Researchers identify potential issue with GPT-5.5 Codex's token clustering technique causing degraded performance.\n• This may affect model's ability to produce accurate results, particularly in high-stakes applications.\n• Investigation into optimal clustering strategies is ongoing to mitigate performance degradation.",
     "student_angle": "None",
-    "link": "https://www.wafer.ai/blog/glm52-amd",
-    "published": "Fri, 03 Jul 2026 21:49:06 +0000",
+    "link": "https://github.com/openai/codex/issues/30364",
+    "published": "Sat, 04 Jul 2026 21:51:09 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+    "ai_summary": "• Scientists studying jellyfish's rapid wound-healing abilities, seeking breakthroughs in human medicine.\n• Research aims to replicate jellyfish's unique skin cells that regenerate tissue in minutes.\n• Discoveries could contribute to advanced wound care treatments, tissue engineering, and regenerative medicine.",
+    "student_angle": "",
+    "link": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+    "published": "Sat, 04 Jul 2026 22:36:28 +0000",
+    "category": "Industry News",
+    "tags": "Biotechnology"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+    "ai_summary": "• Google announces $200,000 bounty to scan all books worldwide, expanding digital library.\n• Project aims to preserve cultural heritage through mass digitization and AI-driven processing.\n• Challenge leverages ML and computer vision to improve book scanning accuracy and speed.",
+    "student_angle": "Worth applying to, if your skills align with AI, ML, and software engineering, as you'll be working on a large-scale data-intensive project.",
+    "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+    "published": "Sat, 04 Jul 2026 16:51:26 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "If you're a button, you have one job",
+    "ai_summary": "• Company emphasizes minimal codebases as key to maintaining high-quality software products.\n• Focus on simplicity leads to reduced bugs and increased software reliability.\n• Engineers prioritize doing fewer things better, fostering collaboration and efficiency.",
+    "student_angle": "This is a valuable approach for CS students to learn; simplification techniques can improve coding skills, making you more competitive.",
+    "link": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "published": "Sun, 05 Jul 2026 02:01:03 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Leaking YouTube creators' private videos",
+    "ai_summary": "• Private YouTube videos of creators leaked due to data exposure on Google Cloud.\n• Leaked videos contained sensitive and personal information of the affected creators.\n• Data breach occurred due to misconfigured bucket on Google Cloud storage system.",
+    "student_angle": "",
+    "link": "https://javoriuski.com/post/youtube",
+    "published": "Sat, 04 Jul 2026 16:45:10 +0000",
+    "category": "Industry News",
+    "tags": "Security, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+    "ai_summary": "• View CPU usage, memory, and disk usage with a color-coded display in htop.\n• Sort processes by different criteria, including CPU usage, memory usage, and more.\n• Interactively kill, renice, or suspend individual processes with a single key press.",
+    "student_angle": "NONE, this article is relevant to system administration skills, not internships.",
+    "link": "https://peteris.rocks/blog/htop/",
+    "published": "Sat, 04 Jul 2026 12:00:57 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Better Models: Worse Tools",
+    "ai_summary": "• Recent advancements in AI have led to better model accuracy and efficiency.\n• However, these gains come at the expense of increasingly complex and difficult-to-use tools.\n• Developers struggling to keep pace with rapidly evolving AI models face growing stress and frustration levels.",
+    "student_angle": "",
+    "link": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "published": "Sat, 04 Jul 2026 20:16:22 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Leanstral 1.5: Proof abundance for all",
-    "ai_summary": "• Leanstral 1.5 released with improved resource allocation and distribution algorithms.\n• Enhanced scalability enables the platform to support larger user bases and applications.\n• The open-source release sparks community interest in collaborative development and innovation.",
-    "student_angle": "This release creates potential internship opportunities in software engineering and product management to work with Leanstral's scalable solutions.",
-    "link": "https://mistral.ai/news/leanstral-1-5/",
-    "published": "Fri, 03 Jul 2026 22:33:10 +0000",
+    "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams (2025)",
+    "ai_summary": "• Scammers revive classic tactics, this time targeting book clubs and book reviews with phishing attacks.\n• New wave of book review scams exploits trust in online communities to extract sensitive information.\n• Victims are tricked into downloading malware or sending money to scammers posing as book club members.",
+    "student_angle": "BEWARE: These scams are common and can lead to identity theft, so be cautious online.",
+    "link": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+    "published": "Sun, 05 Jul 2026 00:22:25 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Synthesis is harder than analysis",
-    "ai_summary": "• Synthesis challenges surpass analysis due to complex decision-making under time and resource constraints.\n• Analysis tends to focus on specific problems, whereas synthesis involves comprehensive solution design.\n• Effective synthesis requires deep understanding of both technical and non-technical aspects of a system.",
-    "student_angle": "Learn synthesis techniques, as this skill is highly valued in tech internships and entry-level positions.",
-    "link": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
-    "published": "Sat, 04 Jul 2026 02:45:24 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-    "ai_summary": "• MSI Center allows users to gain SYSTEM privileges in seconds.\n• This is achieved through modifying system registry settings and configurations.\n• The process involves bypassing security measures for administrative access.",
-    "student_angle": "None",
-    "link": "https://mrbruh.com/msicenter/",
-    "published": "Sat, 04 Jul 2026 00:57:44 +0000",
-    "category": "Tech Trends",
     "tags": "Security"
   },
   {
     "source": "HackerNews",
-    "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-    "ai_summary": "• Steam introduces an innovative magnetic charging puck for the Steam Controller, powered by CV (capacitive voltage).\n• This solution eliminates the need for USB ports and reduces clutter.\n• The auto-charge feature enables seamless gaming experiences without interruptions.",
-    "student_angle": "",
-    "link": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-    "published": "Fri, 03 Jul 2026 22:39:50 +0000",
+    "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+    "ai_summary": "• Insufficient session management between workspace instances or consumer accounts may lead to security vulnerabilities.\n• Potential data exposure through leaked session IDs can happen even with multi-factor authentication.\n• Improper cache management between accounts may compromise sensitive data stored in memory.",
+    "student_angle": "This issue may impact security-conscious job roles, learn more about secure coding practices to stay relevant.",
+    "link": "https://github.com/anthropics/claude-code/issues/74066",
+    "published": "Sat, 04 Jul 2026 14:03:40 +0000",
     "category": "Tech Trends",
-    "tags": "Hardware Engineering, IoT"
+    "tags": "Cloud & DevOps, Software Engineering"
   },
   {
-    "source": "HackerNews",
-    "title": "Odin, Wikipedia and engagement farming",
-    "ai_summary": "• Odin, an AI-powered writing assistant, helps Wikipedia users improve article quality and engagement.\n• Odin uses machine learning to suggest edits and track community feedback on Wikipedia articles.\n• The collaboration aims to increase user engagement and improve the overall Wikipedia experience.",
+    "source": "TechCrunch",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "ai_summary": "• Google imagines alternative history where Founding Fathers use Workspace for Declaration of Independence.\n• Commercial highlights AI collaboration and organizational tools, emphasizing productivity gains.\n• Google Workspace plays a prominent role in reimagining the document and history's outcome.",
     "student_angle": "NONE.",
-    "link": "https://katamari64.se/posts/2026/odin-wikipedia/",
-    "published": "Fri, 03 Jul 2026 23:24:35 +0000",
+    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "published": "Sat, 04 Jul 2026 20:55:25 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Product & PM"
+    "tags": "AI & ML, Cloud & DevOps"
   },
   {
-    "source": "HackerNews",
-    "title": "SearXNG: A free internet metasearch engine",
-    "ai_summary": "• SearXNG is a free, open-source internet metasearch engine that collects and aggregates search results from various search engines.\n• It allows users to search multiple indexing services at once, providing a more comprehensive search experience.\n• The engine has a modular design, making it easier to customize and extend with new search services and plugins.",
+    "source": "TechCrunch",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "ai_summary": "• Midjourney is suing three Hollywood studios for allegedly infringing on its AI-generated image patents.\n• The company is seeking details of the studios' AI usage, sparking controversy and debate.\n• The studio's response to Midjourney's claims is likely to have significant implications for AI regulations.",
+    "student_angle": "NONE.",
+    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "published": "Sat, 04 Jul 2026 18:00:05 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Legal & Ethics"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "ai_summary": "• Alibaba reportedly bans employees from using Claude Code due to high-risk classification.\n• Employees must use approved AI tools to minimize security and compliance risks.\n• Alibaba's move may impact the adoption and development of Claude Code.",
     "student_angle": "",
-    "link": "https://github.com/searxng/searxng",
-    "published": "Fri, 03 Jul 2026 20:15:49 +0000",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "published": "Sat, 04 Jul 2026 16:32:08 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
+    "tags": "AI & ML, Software Engineering"
   },
   {
-    "source": "HackerNews",
-    "title": "The circuit that lets your brain think and see",
-    "ai_summary": "• Scientists discover neural circuit called 'loop 5' crucial for combining sensory and cognitive experiences.\n• Research highlights loop 5's involvement in brain's spatial navigation and memory formation processes.\n• Breakthrough study identifies neural pathways underlying brain's ability to integrate diverse sensory inputs.",
-    "student_angle": "None",
-    "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-    "published": "Fri, 03 Jul 2026 22:56:17 +0000",
+    "source": "TechCrunch",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "ai_summary": "• Mistral AI is an OpenAI competitor founded in 2023 with ambitious goals to democratize frontier AI.\n• The company has raised significant funding to develop and offer open-source AI models.\n• Mistral AI seeks to put cutting-edge AI technology in the hands of everyone and institutions.",
+    "student_angle": "Worth applying to for internship opportunities in AI & ML.",
+    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "published": "Sat, 04 Jul 2026 15:51:32 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-    "ai_summary": "• The firefighting system of 17th-century Amsterdam, developed by the Van der Heyden brothers, featured a network of bucket brigades and water pumps.\n• This system allowed for coordinated response and rapid fire extinguishing in densely populated urban areas.\n• The system's design and organization served as a precursor to modern urban firefighting networks.",
-    "student_angle": "",
-    "link": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-    "published": "Fri, 03 Jul 2026 22:46:18 +0000",
-    "category": "Industry News",
-    "tags": "History"
+    "tags": "AI & ML, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
     "title": "The only AI glossary you’ll need this year",
-    "ai_summary": "• Activation Function: A mathematical function mapping inputs to an output in neural networks, used in deep learning.\n• Deep Learning: A subset of machine learning where neural networks learn complex patterns in data, like images or speech.\n• Reinforcement Learning: A machine learning approach where agents learn from interactions and environment feedback to make decisions.",
-    "student_angle": "Learn AI fundamentals like activation functions and understand the basics of machine learning to increase job prospects.",
+    "ai_summary": "• **Algorithm**: A series of instructions solving a complex problem in computer applications efficiently.\n• **Deep learning**: A subset of AI that mimics human learning patterns with layered neural networks.\n• **Overfitting**: A model learning too much from data and failing to predict new inputs accurately.",
+    "student_angle": "Consider studying AI fundamentals, especially deep learning, for future job opportunities in ML engineering.",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "published": "Fri, 03 Jul 2026 21:20:00 +0000",
     "category": "Tech Trends",
-    "tags": "AI & ML"
+    "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "TechCrunch",
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "ai_summary": "• Explore alternative browsers like Brave, Vivaldi, and Firefox, which prioritize user data security.\n• Microsoft Edge and Opera are gaining traction with innovative features and seamless integrations.\n• New browser, Puma Browser, offers robust performance and battery-efficient features.",
-    "student_angle": "Explore alternative browsers to learn about UI/UX design, cross-platform development, and innovative security features.",
+    "ai_summary": "• Firefox offers superior privacy and ad-blocking features to Chrome and Safari.\n• Brave takes a stand against tracking and ads with built-in features.\n• Microsoft Edge improves browsing experience with improved performance.",
+    "student_angle": "Consider learning about alternative browsers for a deeper understanding of user experience, but its direct impact on CS internships is limited.",
     "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "published": "Fri, 03 Jul 2026 18:43:00 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
     "title": "The Dune keypad device can be your meeting controller and more",
-    "ai_summary": "• The Dune keypad device adapts context based on user activity in different apps.\n• It features three buttons for common tasks like toggling mic and bringing windows to front.\n• The device supports seamless control of meetings and presentations.",
-    "student_angle": "Internship opportunities in product management and user experience design may be growing with new device launches.",
+    "ai_summary": "• Dune keypad device offers an intuitive meeting control experience with context-based functionality.\n• Integrate seamlessly with meeting apps and websites through a simple three-button design.\n• Enhances remote collaboration by streamlining common actions and minimizing distractions.",
+    "student_angle": "Integrate it into your workflow to gain familiarity with cutting-edge product design; no internship opportunities directly related.",
     "link": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
     "published": "Fri, 03 Jul 2026 18:28:30 +0000",
     "category": "Industry News",
-    "tags": "Product & PM, Software Engineering"
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Chevy built an all-American EV truck — why is nobody buying it?",
-    "ai_summary": "• Chevy Silverado EV, a solid first draft of an EV pickup truck with decent performance.\n• High price and limited charging options hinder mainstream consumer adoption, affecting sales.\n• Chevy could enhance EV truck's value by improving accessibility and reducing costs.",
+    "ai_summary": "• Chevy Silverado EV pickup truck launched but receives lukewarm sales and mixed reviews.\n• EV truck lacks features from rival electric trucks, affecting consumer choice and preference.\n• Chevy can leverage data analysis and product improvements to enhance user experience and boost sales.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/",
     "published": "Fri, 03 Jul 2026 16:30:00 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "Data Science, Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
-    "ai_summary": "• NSO Group's Pegasus spyware was used by a government to hack a European politician's phone.\n• The hack targeted an EU committee member investigating the spyware industry's abuses.\n• This incident highlights the risks of surveillance software used by governments worldwide.",
-    "student_angle": "",
+    "ai_summary": "• Politician investigating spyware industry hacked with Pegasus spyware, raising security concerns.\n• NSO Group's spyware product used against government official, highlighting industry risks.\n• EU committee member targeted by sophisticated cyberattack, threatening data protection.",
+    "student_angle": "THIS HAS NONE",
     "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
     "published": "Fri, 03 Jul 2026 05:05:00 +0000",
     "category": "Industry News",
     "tags": "Security"
   },
   {
-    "source": "TechCrunch",
-    "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-    "ai_summary": "• Applications for Startup Battlefield Australia close on July 6, after which the opportunity is no longer available.\n• The event aims to discover and nurture top Australian startups in various fields like software and cloud solutions.\n• Participating startups will have access to networking opportunities and mentorship from successful entrepreneurs and investors.",
-    "student_angle": "This opportunity is worth applying to if your skills align with their focus on startup innovation.",
-    "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-    "published": "Fri, 03 Jul 2026 00:00:00 +0000",
+    "source": "The Verge",
+    "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
+    "ai_summary": "• NASA enlisted Katalyst Space Technologies to salvage Swift Observatory crashing to Earth.\n• Link spacecraft launched to intercept and possibly repair the aging satellite.\n• Mission goal is to ensure the Swift Observatory's data continues uninterrupted.",
+    "student_angle": "None, but space technology projects might offer unique internship opportunities in data science.",
+    "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
+    "published": "2026-07-04T15:06:27-04:00",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "ai_summary": "• Meta CEO Mark Zuckerberg expressed disappointment with slower-than-anticipated AI progress during an internal meeting.\n• AI development efforts at Meta are reportedly not moving as quickly as the company's leaders had hoped.\n• AI advancements were a key focus for Meta's future growth plans, but its pace is being criticized.",
-    "student_angle": "This news doesn't directly impact entry-level job opportunities for CS students.",
-    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "published": "Thu, 02 Jul 2026 23:38:10 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Private space pilots are flying orbital missions for the US Space Force",
-    "ai_summary": "• Private space companies True Anomaly and Rocket Lab partner with US Space Force for orbital missions.\n• Satellites perform Top Gun-style fly-bys, enhancing military surveillance and operations capabilities.\n• Companies leverage advanced space technology for secure and high-fidelity data transmission.",
-    "student_angle": "This has nothing to do with job openings directly but is indicative of growing space tech industry opportunities.",
-    "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
-    "published": "Thu, 02 Jul 2026 23:01:06 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
-    "ai_summary": "• Jack Selby's VC firm Copper Sky Capital raises $300 million for second fund.\n• Copper Sky Capital is investing in hot startups like Etched through Arizona connections.\n• Copper Sky Capital's regulatory filing marks the start of its fundraising efforts.",
-    "student_angle": "None.",
-    "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-    "published": "Thu, 02 Jul 2026 21:57:10 +0000",
-    "category": "Industry News",
-    "tags": "Venture Capital"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
-    "ai_summary": "• IQM, Europe's first public quantum company, lists on Nasdaq with $1.9 billion valuation.\n• Quantum technology's future uncertain amidst rapid advancements in the field.\n• Company's listing expected to boost Finland's quantum tech ecosystem.",
-    "student_angle": "With quantum computing on the rise, consider learning about its applications and technologies to stay ahead in the job market.",
-    "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
-    "published": "Thu, 02 Jul 2026 20:42:48 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Quantum Computing"
+    "tags": "Space Technology, Data Science, Cloud & DevOps"
   }
 ]
