@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-    "ai_summary": "• Former Federal Reserve Chair Ben Bernanke joins Anthropic's oversight trust board.\n• Anthropic's AI development is expanding despite rising AI scrutiny concerns.\n• Company's goal is to develop advanced AI systems that safely benefit society.",
-    "student_angle": "Possibly worth applying to for AI internship opportunities with a focus on AI safety.",
-    "link": "https://www.anthropic.com/news/ben-bernanke",
-    "published": "Fri, 10 Jul 2026 02:39:07 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "ai_summary": "• Programmer successfully ran GLM 5.2 on a slow computer with several optimizations.\n• GLM 5.2 rendering was improved by using a custom-built GPU in the computer setup.\n• The article focuses on custom-built computer solutions for rendering-intensive tasks.",
-    "student_angle": "Learning custom-built computer solutions and GPU optimization can be useful for data science and software engineering internships.",
-    "link": "https://github.com/JustVugg/colibri",
-    "published": "Thu, 09 Jul 2026 08:05:04 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "EU Parliament greenlights Chat Control 1.0",
-    "ai_summary": "• EU Parliament approves Chat Control 1.0, regulating AI-generated content in the European Union.\n• Chat Control 1.0 aims to prevent misinformation and promote online responsibility among chatbot developers.\n• The regulation is set to be implemented by the end of 2024, with compliance required from all relevant parties.",
-    "student_angle": "None, but be aware of AI and security regulations as you'll encounter them in real-world tech applications.",
-    "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "published": "Thu, 09 Jul 2026 11:03:54 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: 18 Words",
-    "ai_summary": "• Hacker News user launches a new platform called 18 Words, allowing users share thoughts in 18-word blurbs.\n• Platform aims to simplify text sharing and provide users with a unique writing experience.\n• Users can write, publish, and discover 18-word pieces on the platform.",
-    "student_angle": "Worth applying to, as 18 Words may offer entry-level positions in product development and PM.",
-    "link": "https://18words.com/",
-    "published": "Thu, 09 Jul 2026 12:48:52 +0000",
-    "category": "Company Updates",
-    "tags": "Software Engineering, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "GPT-5.6",
-    "ai_summary": "• OpenAI announces GPT-5.6, an improved version of its existing language model with increased capabilities.\n• This new AI model boasts improved reasoning and dialogue capabilities compared to its predecessors.\n• OpenAI has not released specific details about its implementation strategies for the new GPT-5.6.",
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "ai_summary": "• Research shows Einstein's relativity plays a crucial role in chemical bond formation in heavy elements\n• Study applies the laws of relativity to predict chemical bond strength and stability\n• Breakthrough may have significant implications for materials science and materials engineering research",
     "student_angle": "",
-    "link": "https://openai.com/index/gpt-5-6/",
-    "published": "Thu, 09 Jul 2026 17:04:14 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Hy3",
-    "ai_summary": "• Google announces a program to support and fund open-source projects.\n• The initiative aims to promote collaboration and innovation in software development.\n• This move aims to improve quality and security of open-source software.",
-    "student_angle": "This company is a top pick for entry-level jobs, especially in software engineering.",
-    "link": "https://hy.tencent.com/research/hy3",
-    "published": "Thu, 09 Jul 2026 15:27:48 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-    "ai_summary": "• Postgres rewritten in Rust has achieved 100% of Postgres regression tests, marking significant progress in database technology.\n• The project demonstrates Rust's potential as a viable alternative for database programming languages, outperforming C and C++.\n• This achievement highlights the collaborative efforts between Rust and Postgres communities, driving innovation in open-source technology.",
-    "student_angle": "Learn Rust if you're interested in database engineering and want to contribute to an exciting project, expanding your skill set.",
-    "link": "https://github.com/malisper/pgrust",
-    "published": "Thu, 09 Jul 2026 06:18:19 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
-    "ai_summary": "• Mitchell Hashimoto discusses Ghostty, a next-gen terminal built with WebAssembly and the Zig programming language.\n• Hashimoto shares insights on the benefits of using WebAssembly and the Zig language for building high-performance applications.\n• Ghostty aims to provide a fast and secure terminal experience for developers with a modular architecture.",
-    "student_angle": "Learn Zig language for building high-performance applications, its growing adoption supports future career prospects.",
-    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-    "published": "Thu, 09 Jul 2026 17:17:16 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Focus",
-    "ai_summary": "• Focus on quality over quantity in code reviews improves code maintainability and collaboration.\n• Regular code reviews reduce bugs by 50% and improve team productivity by 30%.\n• Effective code review processes are essential for ensuring software reliability and scalability.",
-    "student_angle": "None",
-    "link": "https://boz.com/articles/focus",
-    "published": "Fri, 10 Jul 2026 00:40:33 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Study: \"Mommy, do you love your phone more than me?\"",
-    "ai_summary": "• Researchers studied phone dependency on mothers, finding alarming rates of phone usage among children.\n• Moms reported checking their phones up to 137 times daily, often in front of their children.\n• Increased phone dependency could lead to issues with attachment and self-esteem in children.",
-    "student_angle": "",
-    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
-    "published": "Fri, 10 Jul 2026 00:20:28 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
-    "ai_summary": "• China's Vivo joins forces with Indian company to create joint venture for smartphone production in India.\n• New manufacturing plant will be constructed near Delhi, creating potential jobs and growth hub.\n• Joint venture may serve as a model for other Chinese smartphone makers to expand in India.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
-    "published": "Fri, 10 Jul 2026 04:36:20 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "ai_summary": "• OpenAI's GPT 5.6 model becomes preferred for Microsoft's Copilot 365 suite of workplace apps.\n• Partnership to continue providing AI-powered tools for Microsoft's productivity and workplace apps.\n• No mention of changes in model accessibility or integration for developers.",
-    "student_angle": "Learning about new AI models like GPT 5.6 is worth exploring for its applications in natural language processing and AI development.",
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "published": "Fri, 10 Jul 2026 00:16:54 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Don’t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-    "ai_summary": "• Two new exchanged-traded funds (ETFs) exclude companies founded, controlled, or led by Elon Musk.\n• These ETFs, known as the \"Elon Tracker ETF\" and \"Elon-Exclusive ETF,\" target Musk's business ventures.\n• The exclusion means SpaceX and Tesla shares are not included in the ETFs, affecting investors' diversification.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-    "published": "Fri, 10 Jul 2026 00:13:00 +0000",
+    "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+    "published": "Fri, 10 Jul 2026 22:30:44 +0000",
     "category": "Industry News",
     "tags": "Data Science, Cloud & DevOps"
   },
   {
-    "source": "TechCrunch",
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "ai_summary": "• Fidji Simo, No. 2 executive at OpenAI, steps down from her full-time role.\n• Leadership vacuum at OpenAI comes at a tricky time before possible IPO.\n• Company racing to catch Anthropic in the enterprise market.",
-    "student_angle": "None, external executive leadership changes do not impact intern opportunities.",
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "published": "Thu, 09 Jul 2026 23:38:00 +0000",
+    "source": "HackerNews",
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "ai_summary": "• QuadRF, a cutting-edge RF scanner, can detect drones from 10 km away.\n• Device can also see through walls to identify and map internal WiFi networks.\n• This tech could find its way into security, surveillance, and smart building applications.",
+    "student_angle": "Learn RF sensing for potential use in cybersecurity and smart home IoT development.",
+    "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+    "published": "Fri, 10 Jul 2026 15:59:53 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Product & PM"
+    "tags": "Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "ai_summary": "• Apple sues OpenAI over alleged theft of trade secrets by ex-employees from Apple.\n• The lawsuit claims the theft compromised sensitive information about Apple's research and development.\n• Ex-employees worked on AI-related projects during their time at Apple before joining OpenAI.",
+    "student_angle": "Consider avoiding working with AI-focused projects if possible, as they may involve sensitive research and data.",
+    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "published": "Fri, 10 Jul 2026 20:47:09 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "An update on residential proxies and the scraper situation",
+    "ai_summary": "• Residential proxies continue to be a target for scrapers in online marketplaces.\n• Increased use of residential proxies may lead to IP blocking services.\n• Companies scramble to prevent bot and scraper attacks on their platforms.",
+    "student_angle": "Learn about IP rotation and residential proxy management to stay ahead in cybersecurity.",
+    "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+    "published": "Fri, 10 Jul 2026 19:38:34 +0000",
+    "category": "Industry News",
+    "tags": "Security, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "ai_summary": "• GPT-5.6 Sol Ultra, a variant of the language model GPT-5, has proven the Cycle Double Cover Conjecture.\n• Researchers used GPT-5.6 Sol Ultra to find a proof for the Cycle Double Cover Conjecture in graph theory.\n• The proof has been published in a research paper available for download as a PDF.",
+    "student_angle": "",
+    "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+    "published": "Fri, 10 Jul 2026 18:29:19 +0000",
+    "category": "Industry News",
+    "tags": "Mathematics, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "ai_summary": "• SpaceX to launch 100,000 additional Starlink satellites for enhanced global internet connectivity and bandwidth.\n• Increased satellite capacity aims to provide 100 times more bandwidth to users worldwide.\n• Expanded Starlink fleet expected to enhance internet connectivity in remote areas.",
+    "student_angle": "This expansion in space technology may create internship opportunities in areas like satellite engineering and telecommunications.",
+    "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+    "published": "Fri, 10 Jul 2026 17:51:07 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)",
+    "ai_summary": "• The 1991 film \"Terminator 2: Judgment Day\" was a showcase for early CGI and tech advancements.\n• Visual Effects supervisors used Amiga computers and custom software to create on-screen effects.\n• The film's tech legacy continues to influence the film and gaming industries today.",
+    "student_angle": "This oral history offers insight into early computer graphics and software development - worth learning as a historical context.",
+    "link": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+    "published": "Fri, 10 Jul 2026 16:48:41 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Good Tools Are Invisible",
+    "ai_summary": "• Invisible tools can simplify workflows, reduce friction, and improve developer productivity.\n• Custom-built tools can be more effective than generic software, offering tailored solutions and better integration.\n• Companies value tool quality, investing in development and testing to minimize errors and downtime.",
+    "student_angle": "",
+    "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+    "published": "Fri, 10 Jul 2026 10:32:41 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Late Bronze Age Collapse",
+    "ai_summary": "• Archaeological findings from Middle Eastern and Eastern Mediterranean cities reveal widespread destruction circa 1200 BCE\n• Collapse of major powers in the region led to a prolonged period of cultural and economic decline\n• Trade networks and urban centers severely impacted, with some areas taking up to a century to recover",
+    "student_angle": "",
+    "link": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+    "published": "Fri, 10 Jul 2026 11:59:55 +0000",
+    "category": "Industry News",
+    "tags": "History, Humanities, Academic Research"
+  },
+  {
+    "source": "HackerNews",
+    "title": "New York City to ban deceptive subscription practices",
+    "ai_summary": "• New York City to implement new laws against misleading subscription services.\n• Fines range from $1,000 to $57,000 for non-compliance with the regulations.\n• Targeted at companies providing digital music, software, and other services.",
+    "student_angle": "",
+    "link": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "published": "Fri, 10 Jul 2026 18:26:24 +0000",
+    "category": "Industry News",
+    "tags": "Security, Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "ai_summary": "• OpenAI launches GPT-5.6, the latest model in its family of improved AI assistants.\n• The new models promise enhanced cybersecurity features and capabilities to users worldwide.\n• The GPT-5.6 models are designed to improve performance across various use cases, including security.",
-    "student_angle": "Learning GPT-5.6's architecture and its applications in AI and security can open up new career paths.",
-    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "published": "Thu, 09 Jul 2026 22:24:24 +0000",
+    "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+    "ai_summary": "• CISA's incident playbook development indicates a reactive rather than proactive approach to cybersecurity.\n• Public exposure of sensitive data, including passwords, via a contractor's GitHub repository caused the incident.\n• The cybersecurity agency's internal investigation revealed the need for a more detailed incident response plan.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+    "published": "Sat, 11 Jul 2026 01:01:28 +0000",
+    "category": "Industry News",
+    "tags": "Security, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "ai_summary": "• Phia, a shopping startup founded by Bill Gates’ daughter, accused of “cookie stuffing” in sales tracking.\n• Practice allowed Phia to receive commissions and credit for sales it did not actually generate, reports Bloomberg.\n• Investigation casts doubt on transparency and trustworthiness of affiliate marketing in e-commerce.",
+    "student_angle": "NONE.",
+    "link": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "published": "Sat, 11 Jul 2026 00:29:25 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "ai_summary": "• Instagram's new AI feature, \"Collaborations,\" allowed users to reference public content from other accounts.\n• The feature has been removed due to backlash from users and Instagram's blog post statement.\n• The company aims to provide more relevant creative tools for users while taking feedback into consideration.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
+    "ai_summary": "• Bluesky's interim CEO, Toni Schneider, drops the 'interim' title, reaffirming commitment.\n• Schneider says Bluesky is a platform he's \"all in\" on, indicating long-term focus.\n• Bluesky is an unconventional social media platform backed by various investors.",
+    "student_angle": "Bluesky is worth researching for possible future internship or job opportunities due to its rapid growth potential in the social media space.",
+    "link": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
+    "published": "Fri, 10 Jul 2026 21:51:55 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "ai_summary": "• Apple sues OpenAI for alleged theft of trade secrets, citing misconduct by senior leadership.\n• Former longtime Apple employee linked to the misconduct, allegedly directing the actions.\n• OpenAI denies the allegations, stating they will cooperate with the investigation.",
+    "student_angle": "NONE, article impact on CS students unclear without more details.",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "published": "Fri, 10 Jul 2026 21:00:29 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "ai_summary": "• Startup Lyzr uses AI agent to raise $100 million in funding.\n• AI agent demonstrates its capabilities, proving product's effectiveness.\n• Venture capital firms invest in Lyzr, acknowledging AI agent's value.",
-    "student_angle": "If interested in AI/ML, consider applying to Lyzr for an entry-level role or internship in its AI department.",
-    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "published": "Thu, 09 Jul 2026 22:08:58 +0000",
+    "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
+    "ai_summary": "• Fizz expands lawsuit against Sidechat, accusing VC of sharing confidential startup information.\n• Allegations involve Maveron VC during a fundraising meeting with Fizz.\n• Confidential information allegedly used by Sidechat to gain competitive advantage.",
+    "student_angle": "Fizz and Sidechat's dispute may be relevant for students studying software engineering, law, or computer ethics.",
+    "link": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
+    "published": "Fri, 10 Jul 2026 17:42:36 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Law and Ethics"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "ai_summary": "• SK Hynix completes record-breaking foreign IPO in the US, raising $26.5B.\n• Company is urged to use funds to build new US fabrication factories.\n• Move fuels growing demand for AI chips in the US market.",
+    "student_angle": "Worth applying to for tech internships and possible future job opportunities.",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "published": "Fri, 10 Jul 2026 17:17:12 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "ai_summary": "• OpenAI is shutting down its AI-powered browser \"Atlas\" after less than a year of operation.\n• Atlas's features will be moved to OpenAI's desktop app and a Chrome extension.\n• This shift indicates OpenAI's focus remains on agentic browsing and AI capabilities.",
+    "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+    "ai_summary": "• HyperTexting app transforms open web into scrollable social media feed.\n• Users can seamlessly post content to their own websites.\n• Enhanced discoverability of web content through algorithmic feeds.",
+    "student_angle": "With a growing focus on user experience, learning about product development will be beneficial.",
+    "link": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+    "published": "Fri, 10 Jul 2026 17:11:51 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "China is catching up to Elon Musk’s reusable rockets",
+    "ai_summary": "• China's state-owned space company, China National Space Administration, successfully recovered its first orbital rocket booster.\n• The recovery marks a significant milestone in China's efforts to develop reusable rockets, potentially lowering the cost of access to space.\n• This achievement puts China in competition with Elon Musk's reusable rockets and may lead to faster private spaceflight development.\n• The technology has the potential to be applied in various areas, including satellite deployment, space tourism, and commercial launches.",
+    "student_angle": "None. However, this development highlights the increasing investment in space technology and may create opportunities for internships and research collaborations in aerospace engineering.",
+    "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+    "published": "Fri, 10 Jul 2026 16:51:07 +0000",
+    "category": "Industry News",
+    "tags": "Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Disney+ is considering a free streaming tier, report says",
+    "ai_summary": "• Disney+ reportedly considering free streaming tier to compete with YouTube and Tubi.\n• Free tier might attract more viewers, increasing content consumption and advertising revenue.\n• Streaming services face rising competition in the entertainment industry.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "published": "Thu, 09 Jul 2026 22:03:54 +0000",
+    "link": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+    "published": "Fri, 10 Jul 2026 16:29:05 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
-    "ai_summary": "• Elon Musk announces continued support for AI startup Anthropic, despite revenue pressure.\n• Musk promises not to \"cut off\" Anthropic, despite its models being hosted on his platform Fable/Mythos.\n• Anthropic's $40 billion revenue at stake hinges on partnership with Musk's AI technology.",
-    "student_angle": "It's uncertain whether Anthropic is worth an internship application now, given Musk's influence.",
-    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-    "published": "Thu, 09 Jul 2026 21:57:42 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Can AI answer the $3 trillion question?",
-    "ai_summary": "• The ROI debate on AI investments has resurfaced with estimated returns reaching $3 trillion.\n• Companies are urged to scrutinize AI expenditures to ensure tangible results are being achieved.\n• Industry leaders predict significant consequences for organizations unable to demonstrate AI value.",
-    "student_angle": "Learn to analyze AI ROI calculations to improve portfolio projects' value.",
-    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "published": "Thu, 09 Jul 2026 21:47:50 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "ai_summary": "• Meta introduces Muse Spark 1.1, an AI platform handling large coding workloads.\n• Spark automates bug fixing and large code migrations, benefiting enterprises.\n• AI-driven solution aims to increase coding efficiency and reduce workload.",
-    "student_angle": "Explore AI & ML for relevance in job market, but Muse Spark's internship opportunities unknown.",
-    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "published": "Thu, 09 Jul 2026 19:40:45 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
+    "tags": "Cloud & DevOps, Product & PM"
   }
 ]
