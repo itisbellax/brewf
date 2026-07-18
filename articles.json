@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Kimi K3: Open Frontier Intelligence",
-    "ai_summary": "• Kimi K3 is an open-source AI framework for building enterprise-grade decision-making systems.\n• It features advanced computer vision, natural language processing, and predictive analytics capabilities.\n• The platform is designed for scalability, security, and reliability.",
-    "student_angle": "Consider learning Kimi K3, as it's a popular AI framework worth knowing for career prospects in software engineering.",
-    "link": "https://www.kimi.com/blog/kimi-k3",
-    "published": "Thu, 16 Jul 2026 14:46:05 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML, Software Engineering"
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "ai_summary": "• Kaiser Permanente nurses criticize AI and workplace surveillance for diminishing care quality.\n• Over-reliance on AI hinders human interaction and judgment in patient care decisions.\n• Surveillance technology in the workplace creates anxiety and decreased job satisfaction.",
+    "student_angle": "",
+    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "published": "Fri, 17 Jul 2026 22:26:30 +0000",
+    "category": "Industry News",
+    "tags": "Industry, Healthcare, AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "Microsoft Comic Chat is now open source",
-    "ai_summary": "• Microsoft Comic Chat, a 90s-era chat room, is now open-sourced.\n• Users can contribute to the codebase and help maintain the platform.\n• The move aims to preserve the chat room's nostalgic experience.",
-    "student_angle": "This open source could potentially attract students to learn about legacy development.",
-    "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-    "published": "Thu, 16 Jul 2026 16:06:27 +0000",
+    "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+    "ai_summary": "• Amazon Web Services (AWS) estimated billing errors affected users with a total loss of $1.7 billion in 2021.\n• Errors were caused by misconfigured billing and data inaccuracies on AWS' side, not user error.\n• Users may now have the option to review their previous bills to assess potential losses.",
+    "student_angle": "None",
+    "link": "https://news.ycombinator.com/item?id=48945241",
+    "published": "Fri, 17 Jul 2026 09:42:05 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "ai_summary": "• Reddit's Hacker News celebrates its 15th anniversary, marking a significant milestone\n• The platform has provided a space for discussion and discovery for many tech professionals\n• Its impact on the tech industry and the lives of users and writers is undeniable",
+    "student_angle": "This news is notable, but it won't directly affect internship opportunities.",
+    "link": "https://news.ycombinator.com/item?id=48949551",
+    "published": "Fri, 17 Jul 2026 16:57:27 +0000",
     "category": "Industry News",
     "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "ai_summary": "• LM Studio Bionic is an AI agent developed for open models, enhancing collaboration and innovation.\n• The AI agent leverages machine learning algorithms to streamline model development and deployment.\n• LM Studio Bionic is designed to support multiple open models, fostering a collaborative ecosystem.",
-    "student_angle": "This could be a future area to learn, considering the increasing adoption of open models in tech.",
-    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "published": "Thu, 16 Jul 2026 20:18:15 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Decoy Font",
-    "ai_summary": "• Researchers at Google unveil Decoy Font as a new text-based obfuscation technique to prevent OCR scanning.\n• Decoy Font uses a customized font design to confuse AI-powered text recognition systems and scanners.\n• This technique is primarily designed for sensitive information such as confidential documents or images.",
-    "student_angle": "This new technique may have indirect implications on entry-level jobs in AI and software engineering, but its immediate impact is negligible on CS students.",
-    "link": "https://www.mixfont.com/experiments/decoy-font",
-    "published": "Thu, 16 Jul 2026 16:18:21 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "ai_summary": "• New AI music generators compete with $100 music video challenge.\n• Claude Fable 5 and GPT-5.6 Sol showcase advancements in AI audio synthesis.\n• Both models display impressive creativity and versatility in music composition.",
+    "title": "The Zilog Z80 has turned 50",
+    "ai_summary": "• The Zilog Z80, a widely used microprocessor in the 1970s and 1980s, has turned 50 years old.\n• It was first released in 1976 and found in various home computers, such as the Sinclair ZX80.\n• The Z80's impact on the development of early personal computers cannot be overstated.",
     "student_angle": "",
-    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "published": "Thu, 16 Jul 2026 20:03:23 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
+    "link": "https://goliath32.com/blog/z80.html",
+    "published": "Fri, 17 Jul 2026 19:41:02 +0000",
+    "category": "Industry News",
+    "tags": "Legacy Hardware, Retro Computing"
   },
   {
     "source": "HackerNews",
-    "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
-    "ai_summary": "• A controlled M 3.9 experimental explosion was conducted 147 Km ENE of Ponce Inlet, Florida.\n• The purpose of the explosion is not mentioned in the report.\n• This incident might not have a direct impact on internship opportunities for CS students.",
-    "student_angle": "",
-    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-    "published": "Fri, 17 Jul 2026 00:45:05 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The Human-in-the-Loop Is Tired",
-    "ai_summary": "• Human-in-the-Loop (HiT) applications are increasingly relying on manual oversight for accurate decision-making.\n• Fatigue from repetitive, mundane tasks is affecting human workers' productivity and job satisfaction.\n• Companies are seeking AI solutions to automate tasks and reduce HiT burnout.",
-    "student_angle": "Industry reliance on HiT workers may decrease demand for entry-level AI & ML jobs.",
-    "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
-    "published": "Fri, 17 Jul 2026 00:21:09 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "NotebookLM is now Gemini Notebook",
-    "ai_summary": "• NotebookLM, an AI-focused note-taking app, has rebranded as Gemini Notebook.\n• The rebranding includes new features and improved performance enhancements.\n• The app now offers a more streamlined user interface and better organization tools.",
-    "student_angle": "Consider learning Gemini Notebook as a case study for AI-focused note-taking applications.",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-    "published": "Thu, 16 Jul 2026 16:08:13 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The Little Book of Reinforcement Learning",
-    "ai_summary": "• Researchers at Columbia University release open-source book on reinforcement learning principles.\n• The book covers Q-learning, SARSA, Deep Q-Networks and more in a concise manner.\n• Aimed at beginners and intermediate learners, the book features interactive examples.",
-    "student_angle": "This book isn't directly related to a job or startup; however, it offers useful knowledge for those exploring AI & ML.",
-    "link": "https://github.com/alxndrTL/little-book-rl/",
-    "published": "Thu, 16 Jul 2026 22:27:22 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Mathematics of Data Science",
-    "ai_summary": "• Mathematics is crucial in data science, enabling modeling, pattern recognition, and prediction accuracy.\n• Calculus, linear algebra, and probability form the foundation of data science mathematics concepts.\n• Statistical inference and machine learning algorithms rely heavily on mathematical concepts and theories.",
-    "student_angle": "",
-    "link": "https://arxiv.org/abs/2607.11938",
-    "published": "Thu, 16 Jul 2026 20:38:48 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-    "ai_summary": "• San Francisco mayor Daniel Lurie pushes for tougher rules on robotaxi operators like Waymo.\n• State regulators under pressure to implement stricter regulations on robotaxi services.\n• Waymo traffic fiasco leads to calls for increased oversight in the industry.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-    "published": "Thu, 16 Jul 2026 23:25:22 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
-    "ai_summary": "• SpaceX's Starship V3 launch was suddenly aborted after ignition without explanation.\n• Second launch of V3 prototype ends in failure, affecting SpaceX's stock price.\n• After-hours trading saw stock plunge over 4% before partial recovery.",
-    "student_angle": "Possibly impacted by industry disruptions; stay updated on space sector development.",
-    "link": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
-    "published": "Thu, 16 Jul 2026 23:01:27 +0000",
-    "category": "Industry News",
-    "tags": "Space & Aeronautics"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-    "ai_summary": "• Coca-Cola's Fairlife dairy production in the US remains suspended due to a ransomware attack.\n• The hack's impact on dairy production and operations is currently unknown.\n• The incident highlights the growing risk of cyberattacks in the food industry.",
-    "student_angle": "NONE.",
-    "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-    "published": "Thu, 16 Jul 2026 21:22:31 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-    "ai_summary": "• Ryan Beiermeister joins Founders Fund as partner, contributing AI expertise.\n• Former OpenAI executive's hiring indicates growing importance of AI at venture firms.\n• Founders Fund YouTube series 'Mafia' highlighted Beiermeister's analytical skills.",
-    "student_angle": "Worth applying if applying for venture capital or AI-specific roles, but research firm culture.",
-    "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-    "published": "Thu, 16 Jul 2026 20:07:14 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google Vids now lets you star in your own AI videos",
-    "ai_summary": "• Google adds AI avatars to Vids for personalized video creation and editing.\n• Gemini Omni tools enable video generation and editing from prompts and reference images.\n• Users can star in their own AI-powered videos with customized digital avatars.",
-    "student_angle": "Learning AI-powered tools can enhance job prospects in this rapidly evolving field.",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "published": "Thu, 16 Jul 2026 18:32:54 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "ai_summary": "• Roblox introduces \"Build\" feature, enabling users to create basic games with single text prompts.\n• This feature utilizes AI to generate game assets, levels, and gameplay mechanics instantly.\n• Potential for game creators to develop interactive experiences rapidly and efficiently is immense.",
-    "student_angle": "With gaming industry expansion, internship opportunities in game development and AI-powered tools may grow.",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "published": "Thu, 16 Jul 2026 18:22:06 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Oil giant BP shutters its corporate venture arm after 20 years",
-    "ai_summary": "• BP Ventures, the investment arm of oil giant BP, is shutting down after nearly 20 years.\n• The venture arm reported lackluster returns, citing a shift in priorities and market conditions.\n• The exact impact of the shutdown on BP's overall operations remains unclear.",
-    "student_angle": "This is a significant development, potentially impacting energy sector careers, but not directly affecting entry-level job availability.",
-    "link": "https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/",
-    "published": "Thu, 16 Jul 2026 17:37:03 +0000",
+    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+    "ai_summary": "• Astronomers discover an atmosphere on a distant Earth-like planet in habitable zone of a star.\n• This discovery fuels hopes of finding extraterrestrial life and expands our knowledge of planetary formation.\n• Researchers used advanced spectroscopic techniques to detect the atmospheric gases.",
+    "student_angle": "Learn about advanced spectroscopic techniques to enhance your understanding of data analysis in astronomy.",
+    "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+    "published": "Fri, 17 Jul 2026 14:06:13 +0000",
     "category": "Industry News",
     "tags": "Data Science"
   },
   {
+    "source": "HackerNews",
+    "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+    "ai_summary": "• Moonstone is a modern, cross-platform Lua runtime and package manager written in Zig.\n• It supports multiple platforms, including Windows, macOS, and Linux.\n• Moonstone is designed for speed and scalability with a small binary size.",
+    "student_angle": "Worth learning for those interested in embedded systems and low-level programming.",
+    "link": "https://moonstone.sh/",
+    "published": "Sat, 18 Jul 2026 01:18:15 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+    "ai_summary": "• Isomorphic Labs' newly released Drug Design Engine builds upon previous AI-driven breakthroughs.\n• This advancement has potential applications in accelerated medicine discovery and improved efficacy.\n• By leveraging AI and ML, the Engine minimizes trial-and-error methods in drug development.",
+    "student_angle": "This technology shows innovative application of AI, worth exploring for those interested in ML and its real-world implications.",
+    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+    "published": "Fri, 17 Jul 2026 23:26:35 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+    "ai_summary": "• TP-Link Kasa smart cameras leaked home GPS coordinates through unauthenticated UDP for six years.\n• Vulnerability was discovered, and TP-Link responded by providing fixes and security patches.\n• Issue exposed homes to potential tracking and unauthorized access.",
+    "student_angle": "None, this is a cautionary tale highlighting potential security risks in IoT devices.",
+    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+    "published": "Fri, 17 Jul 2026 21:42:43 +0000",
+    "category": "Industry News",
+    "tags": "Security, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "I Started a \"Dirt Notebook\"",
+    "ai_summary": "• The author started a \"Dirt Notebook\" project to build a low-tech personal data tracking system with a paper notebook.\n• Using the notebook for data tracking allows the author to manually enter and review information.\n• The \"Dirt Notebook\" is a simple, low-cost alternative to digital tools for data tracking.",
+    "student_angle": "",
+    "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+    "published": "Sat, 18 Jul 2026 01:12:13 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Learning a few things about running SQLite",
+    "ai_summary": "• SQLite is a lightweight, serverless, self-contained database management system for local storage.\n• SQLite is widely used in applications and frameworks that require a robust database solution.\n• SQLite supports SQL syntax, transactions, views, and triggers for complex queries and data manipulation.",
+    "student_angle": "Learning SQLite is worth your time, as its versatility and ease of use make it a valuable skill for software development careers.",
+    "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+    "published": "Fri, 17 Jul 2026 17:45:41 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Data Science"
+  },
+  {
     "source": "TechCrunch",
-    "title": "Uber’s $14.8B Delivery Hero deal would nearly double its global footprint",
-    "ai_summary": "• Uber to nearly double its global footprint with $14.8B all-stock Delivery Hero deal.\n• Acquisition creates one of the world's largest food-delivery platforms outside China.\n• Increased global presence for Uber expands its potential market and opportunities.",
-    "student_angle": "This deal may lead to increased internships in global expansion and cloud development roles within Uber's organization.",
-    "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/",
-    "published": "Thu, 16 Jul 2026 17:12:00 +0000",
+    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+    "ai_summary": "• The Australian startup ecosystem is heating up with Stripe x Startup Battlefield.\n• Global press, investors, and the tech community will be present at Stripe Tour Sydney.\n• One startup secures automatic entry to TechCrunch Disrupt in San Francisco.",
+    "student_angle": "Worthwhile to follow for potential internships with participating startups.",
+    "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+    "published": "Fri, 17 Jul 2026 23:08:00 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "ai_summary": "• Vertu sells AI agent for $6,880, raising questions about luxury AI's value proposition.\n• Review of the device highlights mixed results in everyday AI tasks and battery life.\n• Expert opinions question Vertu's AI technology and its worth for non-executives and entrepreneurs.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "published": "Fri, 17 Jul 2026 22:55:09 +0000",
+    "category": "Industry News",
+    "tags": "Company Updates, AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "ai_summary": "• Databricks reaches $188 billion valuation, solidifying its position in AI landscape.\n• Company shifts focus from data processing to AI model development and deployment.\n• Research on cost-effective open-weight AI models can benefit software engineering projects.",
+    "student_angle": "Databricks is worth considering for AI-related internships given its focus on ML and recent valuation.",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "published": "Fri, 17 Jul 2026 22:12:56 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The Zoom hack that says, ‘Don’t record me’",
+    "ai_summary": "• Zoom's new feature prevents users from being recorded without consent.\n• This feature aims to enhance user privacy in virtual meetings and events.\n• Users can now toggle the recording option individually in Zoom meetings.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "published": "Fri, 17 Jul 2026 21:20:47 +0000",
+    "category": "Industry News",
+    "tags": "Security, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "ai_summary": "• Agility Robotics to open new training center in Fremont, California for its Digit robots.\n• The center will provide training and development opportunities for the company's robotics team.\n• New facility located in Silicon Valley, near Tesla's headquarters, a key player in the automotive industry.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "published": "Fri, 17 Jul 2026 20:19:49 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "ai_summary": "• India's smartphone sales decline indicates shifting consumer preferences driven by AI technology.\n• Companies must adapt corporate strategies to accommodate the growing influence of AI and ML.\n• AI-driven innovation is changing pricing, demand, and product offerings in the consumer electronics market.",
+    "student_angle": "The slowdown in the smartphone market may lead to fewer entry-level job openings in related fields.",
+    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "published": "Fri, 17 Jul 2026 20:09:27 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Tech Trends"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
+    "ai_summary": "• Apple and Google ordered to remove 'nudify' apps from their app stores.\n• Apps violated California state law, prompting a call for removal by San Francisco City Attorney.\n• Tech giants to take action against violating apps on their platforms.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+    "published": "Fri, 17 Jul 2026 19:49:53 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+    "ai_summary": "• Valar Atomics, a nuclear startup, is reportedly seeking new funding at a $6 billion valuation.\n• The potential deal involves complex, multi-stage funding rounds to mask entry prices.\n• This development reflects a growing trend in startup financing.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+    "published": "Fri, 17 Jul 2026 19:22:00 +0000",
     "category": "Industry News",
     "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-    "ai_summary": "• Beehiiv, a newsletter platform, introduces AI Copilot for user growth analysis.\n• The AI tool allows publishers to optimize their content strategy with data-driven insights.\n• Subscribers can now chat with each other in the Beehiiv community.",
-    "student_angle": "Internship opportunities in newsletter development are not prominent but may grow with emerging platforms.",
-    "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-    "published": "Thu, 16 Jul 2026 17:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML, Product & PM"
+    "title": "I replaced my space heater and ceiling fan with one Dyson appliance",
+    "ai_summary": "• Dyson's Hot+Cool HF1 offers quiet, year-round heating and cooling with bladeless design.\n• Easy controls and quiet operation make it ideal for various home and office settings.\n• Combines space heater and ceiling fan functions into one sleek appliance.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/07/17/i-replaced-my-space-heater-and-ceiling-fan-with-one-dyson-appliance/",
+    "published": "Fri, 17 Jul 2026 18:00:17 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "X cracks down on creators who steal content",
-    "ai_summary": "• X to deploy Grok AI for enhanced content theft detection and original creator payouts.\n• Platform will penalize engagement bait posts in a bid to improve authenticity and user experience.\n• X cracks down on content thieves to promote fairness, originality, and creator rewards.",
-    "student_angle": "THIS IS NOT A JOBS NEWS ARTCLUE BUT USE GROK A/I FOR INTERNSHIP PRACTICES",
-    "link": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-    "published": "Thu, 16 Jul 2026 16:40:36 +0000",
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "ai_summary": "• Apple sues OpenAI for allegedly misusing trade secrets, citing over 400 former Apple employees.\n• OpenAI reportedly eyes an IPO amidst the lawsuit, with the company's response still unclear.\n• The lawsuit's impact on OpenAI's future remains uncertain, with various stakeholders closely watching developments.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "published": "Fri, 17 Jul 2026 17:45:46 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Content Moderation"
+    "tags": "AI & ML, Security"
   }
 ]
