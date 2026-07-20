@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Transcribe.cpp",
-    "ai_summary": "• Transcribe.cpp, an open-source C++ library for automatic speech recognition tasks, is now available on GitHub.\n• It supports multi-threading and can handle large datasets for improved efficiency.\n• The library also comes with a user-friendly API, simplifying integration into existing projects.",
-    "student_angle": "Worth investigating for experience with AI & ML projects, which can be valuable in the job market.",
-    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "published": "Sun, 19 Jul 2026 00:38:26 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Better and Cheaper Than IPTV",
-    "ai_summary": "• New streaming technology offers improved video quality at lower costs compared to IPTV.\n• This technology uses AI and machine learning for content optimization and personalized recommendations.\n• Users can access a wide range of channels and content, including on-demand features.",
-    "student_angle": "None",
-    "link": "https://github.com/stupside/castor",
-    "published": "Sun, 19 Jul 2026 00:59:55 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "FDA approves new kind of cholesterol pill",
-    "ai_summary": "• FDA approves new cholesterol pill using AI-powered predictive modeling to optimize treatment.\n• Pill is designed to lower bad cholesterol levels and mitigate cardiovascular risks.\n• Development involved collaboration between pharma company and data science experts.",
-    "student_angle": "This technology may impact future internship opportunities in healthcare analytics, a growing field.",
-    "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
-    "published": "Sun, 19 Jul 2026 02:40:22 +0000",
-    "category": "Industry News",
-    "tags": "Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Classic Amiga titles, free to download",
-    "ai_summary": "• Classic Amiga titles, such as Lemmings and Shadow of the Beast, now available for free download.\n• Retro gaming enthusiasts can access these titles without any cost.\n• Users can play multiple variations of Lemmings and experience its addictive gameplay.",
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "ai_summary": "• A team replaced a $120k commercial bowling system with cost-effective ESP32s for $1,600.\n• ESP32's flexibility allowed for real-time scoring and automatic lane controls.\n• The result reduced maintenance costs and provided a modernized experience for bowling centers.",
     "student_angle": "",
-    "link": "https://amigafreeware.downer.tech/",
-    "published": "Sat, 18 Jul 2026 21:55:27 +0000",
+    "link": "https://news.ycombinator.com/item?id=48968606",
+    "published": "Sun, 19 Jul 2026 14:41:16 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Retro Gaming"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "LLM-Integrated Multivariable Calculus Course",
-    "ai_summary": "• Stanford University releases open-source LLM-Integrated Multivariable Calculus Course for global access.\n• The course combines AI-powered adaptive learning with traditional calculus curriculum and real-time feedback.\n• Researchers claim improved student engagement and knowledge retention through the innovative teaching method.",
-    "student_angle": "Learn this emerging educational technology to gain expertise in AI-powered learning systems and pedagogy.",
-    "link": "https://calculus.academa.ai/",
-    "published": "Sun, 19 Jul 2026 02:55:43 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Education"
-  },
-  {
-    "source": "HackerNews",
-    "title": "If You Build It, They Will Come",
-    "ai_summary": "• Startup 'DreamIT' launches virtual infrastructure platform to simplify cloud deployment for small businesses.\n• DreamIT partners with 10 major cloud providers, including AWS and Google Cloud, for seamless integration.\n• The company's platform allows developers to build and customize their infrastructure in just a few clicks.",
-    "student_angle": "With the growing demand for cloud solutions, learning cloud-related technologies can be beneficial for internship opportunities in DevOps and software engineering.",
-    "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-    "published": "Sat, 18 Jul 2026 15:37:01 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "ai_summary": "• GPT-5.6 closed 30-year gap in convex optimization using a single prompt.\n• Breakthrough solves long-standing problem in convex optimization with potential impact on AI decision-making.\n• Researchers demonstrate versatility of GPT in addressing complex optimization challenges.",
-    "student_angle": "Consider learning about large language models and their applications in convex optimization for AI.",
-    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "published": "Sat, 18 Jul 2026 13:00:52 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "ai_summary": "• Canadian Mayor Mamdani bans AI-generated images in real estate advertising.\n• This decision could set precedent for other cities and countries.\n• Fines are threatened for violators of this policy starting immediately.",
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "ai_summary": "• Claude Fable, a mathematician, produced a counterexample to the Jacobian Conjecture, a long-standing problem in algebraic geometry.\n• The counterexample challenges a fundamental assumption in the study of polynomial maps, a concept crucial to many areas of mathematics.\n• The Jacobian Conjecture, proposed in 1939, has far-reaching implications in fields like computer science, particularly in the study of symbolic computation.",
     "student_angle": "",
-    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "published": "Sat, 18 Jul 2026 22:13:39 +0000",
+    "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "published": "Mon, 20 Jul 2026 02:51:16 +0000",
+    "category": "Industry News",
+    "tags": "Math & Theory"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Claude Code uses Bun written in Rust now",
+    "ai_summary": "• Claude Code, a language model platform, now utilizes Bun, a Rust-based runtime built for speed and performance.\n• Switching to Bun in Rust offers Claude Code faster response times and improved latency.\n• This update enables seamless execution of code in Rust, a highly sought-after skill in the industry.",
+    "student_angle": "Learning Rust can be beneficial for those interested in systems programming and high-performance computing.",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "published": "Sun, 19 Jul 2026 10:03:23 +0000",
     "category": "Industry News",
     "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "ai_summary": "• Global decision-making is increasingly influenced by AI, resulting in unprecedented levels of automation.\n• AI-driven models are being used in critical decision-making processes, often with limited human oversight.\n• The reliance on AI in decision-making raises concerns about accountability and transparency.",
-    "student_angle": "Learn the basics of AI and ML to keep up with industry trends. AI Mania will only intensify.",
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "published": "Sun, 19 Jul 2026 01:29:19 +0000",
+    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "ai_summary": "• Moonshine is an open-source, cloud-based game streaming platform using Moonlight.\n• Compatible with multiple devices including phones, tablets, and smart TVs.\n• Offers a seamless gaming experience with high-quality graphics and low latency.",
+    "student_angle": "Learn Moonlight for its applications in cloud gaming and DevOps, expanding internship opportunities in this space.",
+    "link": "https://github.com/hgaiser/moonshine",
+    "published": "Mon, 20 Jul 2026 00:16:50 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "ai_summary": "• Entrepreneur sold 2,500 MIDI recorders to music producers and educational institutions worldwide.\n• Sales were driven by innovative marketing and partnerships with music industry professionals.\n• The experience taught the value of hardware engineering in music technology applications.",
+    "student_angle": "This article highlights the importance of understanding hardware in tech applications, especially in areas like music technology.",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "published": "Sun, 19 Jul 2026 10:34:58 +0000",
+    "category": "Industry News",
+    "tags": "Hardware Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Orion Browser by Kagi",
+    "ai_summary": "• Orion Browser is an open-source, web browser project developed by Kagi, aiming for performance and security.\n• It's built with modern C++ and utilizes the Chromium engine, allowing for faster web browsing experience.\n• Kagi is committed to continuous development and maintenance of the browser, ensuring regular updates and fixes.",
+    "student_angle": "",
+    "link": "https://orionbrowser.com/",
+    "published": "Sun, 19 Jul 2026 19:13:29 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "ai_summary": "• Minecraft: Java Edition has officially switched to SDL3 for its rendering and graphics handling.\n• The update brings improved performance and compatibility across various operating systems.\n• SDL3 will facilitate easier integration with other software libraries and tools.",
+    "student_angle": "",
+    "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "published": "Sun, 19 Jul 2026 11:48:18 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+    "ai_summary": "• World's largest probabilistic computer, BigBell, uses quantum noise to answer complex questions.\n• System leverages AI to process information and generate accurate answers in near real-time.\n• Breakthrough expected to boost AI capabilities in various industries, from healthcare to finance.",
+    "student_angle": "Learning about probabilistic computing and AI applications may boost internship chances in data science roles.",
+    "link": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+    "published": "Sun, 19 Jul 2026 21:42:12 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "ai_summary": "• Bananas unexpectedly sprout in Rayleigh Garden UK after a 15-year period without cultivation.\n• The cause of this phenomenon remains undetermined and under investigation.\n• Local residents express delight at this unusual natural occurrence.",
+    "student_angle": "",
+    "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "published": "Sun, 19 Jul 2026 13:29:29 +0000",
+    "category": "Industry News",
+    "tags": "NONE"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Qwen 3.8",
+    "ai_summary": "• Qwen 3.8 features improved scalability and reliability for cloud-based applications.\n• Enhanced automation and DevOps tooling streamline collaboration and deployment processes.\n• Simplified security protocols reduce vulnerabilities and protect user data.",
+    "student_angle": "Worth learning Qwen 3.8 for its integration with cloud platforms and scalable architecture.",
+    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "published": "Sun, 19 Jul 2026 08:44:57 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "ai_summary": "• Netflix acquires AI filmmaking startup InterPositive co-founded by Ben Affleck for $587 million in cash.\n• InterPositive's AI technology focuses on film production, potentially transforming the film industry with AI-driven decisions.\n• Netflix to integrate InterPositive's AI technology into its content creation and production pipelines.",
+    "student_angle": "None, but keep an eye on emerging intersection of AI and film – could open doors for innovative projects.",
+    "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "published": "Sun, 19 Jul 2026 21:45:00 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
-    "source": "HackerNews",
-    "title": "Harness Engineering",
-    "ai_summary": "• Harness, a no-code platform for automation, raises $125M in Series E funding led by Francisco Partners.\n• Harness aims to expand its automated testing and deployment capabilities in the cloud.\n• The company reports 4,000+ customers, including large enterprises and growing startups.",
-    "student_angle": "Worth applying, given its no-code focus on DevOps and product engineering.",
-    "link": "https://github.com/lopopolo/harness-engineering",
-    "published": "Sat, 18 Jul 2026 23:27:36 +0000",
-    "category": "Tech Trends",
-    "tags": "Cloud & DevOps, Product & PM"
+    "source": "TechCrunch",
+    "title": "What to watch for after Jensen Huang’s Japan visit",
+    "ai_summary": "• NVIDIA CEO Jensen Huang signs deals with Japan's top tech companies and startups.\n• Partnerships span industries, including gaming, cloud computing, and autonomous vehicles.\n• NVIDIA also collaborates with Japanese universities on AI and machine learning research.",
+    "student_angle": "Worth applying to for internships in DevOps and cloud computing roles, expanding opportunities in Asia.",
+    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "published": "Sun, 19 Jul 2026 21:16:07 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "ai_summary": "• Apple files lawsuit against OpenAI, potentially disrupting plans for hardware and public offering.\n• OpenAI eyes expansion into hardware, increasing competition in lucrative AI hardware market.\n• Outcome of the lawsuit uncertain, may impact OpenAI's long-term growth prospects.",
+    "student_angle": "This news may impact future AI hardware-related job opportunities at OpenAI but also presents growing demand elsewhere in the industry.",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "published": "Sun, 19 Jul 2026 19:24:45 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: The battle over robotaxi rules",
+    "ai_summary": "• California Governor Gavin Newsom wants to regulate robotaxis, sparking industry backlash.\n• Robotaxis may require permits, training, and safety standards, potentially stifling innovation.\n• Companies such as Cruise and Argo AI push for federal regulations to harmonize rules across states.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+    "published": "Sun, 19 Jul 2026 16:05:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "ai_summary": "• Director Christopher Nolan criticizes AI as a 'Trojan horse,' echoing concerns for its potential risks.\n• Nolan's comments on the dangers of AI echo warnings from security experts about its susceptibility to manipulation.\n• The director's statement raises questions about the ethics of developing and deploying AI technology.",
+    "student_angle": "Learn to analyze AI risks and implications for secure system design in your studies to stay ahead.",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "published": "Sun, 19 Jul 2026 14:52:08 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "ai_summary": "• Current AI launches non-profit initiative for an inclusive AI World Wide Web, available for all devices.\n• The project aims to promote cultural diversity and accessibility in AI development and implementation.\n• Current AI has made significant progress in AI chat and cross-device compatibility.",
+    "student_angle": "Worth learning Current AI's open-source tech for its innovative approach to inclusive AI development.",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "published": "Sun, 19 Jul 2026 14:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "Waymo says San Francisco service has resumed after one-hour pause",
-    "ai_summary": "• Waymo resumes San Francisco self-driving service after short power outage pause.\n• Power outages have previously caused service disruptions for Waymo elsewhere.\n• Autonomous vehicles rely heavily on complex AI and ML systems.",
-    "student_angle": "Learning about AI and ML can be beneficial for those interested in developing autonomous vehicle tech.",
+    "ai_summary": "• Autonomous vehicle service Waymo temporarily paused its San Francisco operations due to a power outage.\n• The outage highlights continued infrastructure challenges for self-driving tech companies.\n• Waymo has resumed its services in the area, but the incident is under investigation.",
+    "student_angle": "",
     "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
     "published": "Sat, 18 Jul 2026 19:30:23 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
     "title": "Kimi: Threat or menace?",
-    "ai_summary": "• Moonshot AI releases updated Kimi model, sparking concerns about AI ownership and access.\n• Kimi model is an open-source, general-purpose AI platform available for developers to use.\n• Full AI communism concerns revolve around AI ownership and access, with some fearing centralization.",
-    "student_angle": "Learn the basics of Kimi model to understand AI trends and implications, but be cautious of potential risks.",
+    "ai_summary": "• Moonshot AI released an updated version of its Kimi model, sparking concerns about 'full AI communism.'\n• The Kimi model's language capabilities and scalability have raised questions about job displacement.\n• Critics argue that the widespread adoption of AI could lead to significant societal changes.",
+    "student_angle": "Learn about Kimi's architecture and implications to stay ahead in AI & ML industry developments, but no clear internship opportunities mentioned.",
     "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "published": "Sat, 18 Jul 2026 18:51:07 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-    "ai_summary": "• Honda Prologue, a U.S.-market electric vehicle, is being discontinued.\n• Several other EV models, including some popular brands, exited the market in the U.S.\n• This move reflects shifting consumer preferences and market pressures.",
-    "student_angle": "",
+    "ai_summary": "• Honda discontinues Prologue EV model in U.S. market this year.\n• Rising production costs contribute to decision, according to industry sources.\n• Electric vehicle market continues to face challenges in adoption rates.",
+    "student_angle": "This event likely won't directly impact entry-level jobs for CS students in the EV industry.",
     "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
     "published": "Sat, 18 Jul 2026 16:30:00 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "Automotive, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
     "title": "Federal employees can download TikTok on their work phones again",
-    "ai_summary": "• Federal employees allowed to download TikTok on government devices, reversing previous ban.\n• Justice Department cites lack of evidence for national security concerns.\n• TikTok's app is subject to US laws, ensuring transparency and oversight.",
+    "ai_summary": "• Federal employees can download TikTok on government devices following reversal of previous ban.\n• The reversal comes after the Department of Justice reviewed TikTok's data security safeguards.\n• TikTok said it is committed to protecting user data and working with the US government.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
     "published": "Sat, 18 Jul 2026 15:54:24 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-    "ai_summary": "• Record-breaking EV charging times now possible on long road trips due to improved infrastructure.\n• U.S. DC Fast charging reliability increases, making electric vehicles a more practical option for owners.\n• Data collected from road trip helps identify charging hotspots and peak demand areas in the country.",
-    "student_angle": "Learning data analysis and visualization techniques relevant to this study will be valuable for internship applications.",
-    "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-    "published": "Sat, 18 Jul 2026 14:32:00 +0000",
-    "category": "Tech Trends",
-    "tags": "Data Science, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "ai_summary": "• Venture capitalist Neil Rimer predicts AI wealth redistribution in Silicon Valley.\n• Historic AI wealth may be redistributed, either voluntarily or through government action.\n• Redistribution efforts could impact tech industry's economic dynamics.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "published": "Sat, 18 Jul 2026 04:47:25 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-    "ai_summary": "• Australian startups competing in Startup Battlefield have chance to enter TechCrunch Disrupt in San Francisco.\n• Stripe Tour Sydney hosts competition with $100,000 prize and networking opportunities.\n• Winners receive global exposure and investor attention through TechCrunch Disrupt.",
-    "student_angle": "Worth applying to for networking, exposure, and potential funding opportunities.",
-    "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-    "published": "Fri, 17 Jul 2026 23:08:00 +0000",
-    "category": "Industry News",
-    "tags": "Startup Insights"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "ai_summary": "• Luxury phone maker Vertu offers AI agent, Verta, for $6,880 to executives only.\n• Verta performs basic tasks but may not exceed human capabilities, raising questions about value.\n• Verta raises concerns about AI cost-effectiveness and accessibility.",
-    "student_angle": "NONE.",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "published": "Fri, 17 Jul 2026 22:55:09 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "ai_summary": "• Databricks reaches $188 billion valuation, solidifying its position as a leading AI company.\n• Company focuses on open-weight AI models for cost savings, impacting the coding industry.\n• Published research demonstrates efficiency of open-weight AI models in reducing coding costs.",
-    "student_angle": "Databricks' shift into AI makes it a viable internship destination for AI enthusiasts.",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "published": "Fri, 17 Jul 2026 22:12:56 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "ai_summary": "• New Zoom feature lets users indicate not to record meetings through a 'Don't Record Me' button.\n• This button, currently rolling out to Zoom 5.13.5 users, provides users with more control over meeting recordings.\n• The feature aims to address growing concerns over meeting transcriptions and summaries falling into the wrong hands.",
-    "student_angle": "NONE.",
-    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "published": "Fri, 17 Jul 2026 21:20:47 +0000",
-    "category": "Industry News",
-    "tags": "Security, Cloud & DevOps"
+    "tags": "Security"
   }
 ]
