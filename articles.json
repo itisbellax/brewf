@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-    "ai_summary": "• Terence Tao shared a simulated conversation about the Jacobian Conjecture counterexample with ChatGPT.\n• The conversation highlights ongoing efforts to find a solution to the conjecture's complex math problems.\n• Tao's discussion with ChatGPT demonstrates the power of AI in exploring mathematical concepts.",
-    "student_angle": "",
-    "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "published": "Wed, 22 Jul 2026 17:30:40 +0000",
-    "category": "Industry News",
-    "tags": "Math, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Quality non-fiction books are the antithesis of AI slop",
-    "ai_summary": "• Well-researched non-fiction books provide depth and context essential for AI and ML developers.\n• Quality non-fiction books are more effective than AI-generated content in educating on complex topics.\n• AI-generated content often lacks nuance, making high-quality non-fiction books a valuable resource in the field.",
-    "student_angle": "Quality non-fiction books are a better learning resource than AI-generated content, so prioritize them.",
-    "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "published": "Wed, 22 Jul 2026 14:18:05 +0000",
+    "title": "98.css",
+    "ai_summary": "• 98.css is a minimalist CSS framework that focuses on mobile-friendly design.\n• It provides a range of pre-built classes for styling layout and typography.\n• 98.css uses a modular architecture to reduce bloated CSS files.",
+    "student_angle": "Consider learning 98.css to improve your front-end skills in responsive design.",
+    "link": "https://jdan.github.io/98.css/#status-bar",
+    "published": "Thu, 23 Jul 2026 22:30:29 +0000",
     "category": "Tech Trends",
-    "tags": "AI & ML, Data Science"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "GigaToken: ~1000x faster Language model tokenization",
-    "ai_summary": "• GigaToken achieves ~1000x faster language model tokenization through optimized data structures.\n• This improvement enables developers to efficiently process large language models and datasets.\n• Potential applications include real-time chatbots, content recommendations, and language translation.",
-    "student_angle": "Learn GigaToken, it's a groundbreaking tech that will be crucial in AI & ML, enhance your skills with it.",
-    "link": "https://github.com/marcelroed/gigatoken/",
-    "published": "Wed, 22 Jul 2026 17:20:38 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-    "ai_summary": "• Bento: An entire PowerPoint in one HTML file with edit, view, data, and collaboration features.\n• Bento eliminates the need for multiple file formats and enables seamless collaboration.\n• Developers can build and deploy custom PowerPoint-like experiences with JavaScript and HTML5.",
+    "title": "Writing by hand is good for your brain",
+    "ai_summary": "• Writing by hand can improve cognitive function, particularly for tasks such as memory and language development.\n• This is because handwriting engages the brain more completely than typing, enhancing retention and understanding.\n• Research suggests that writing by hand can be beneficial for students with dyslexia or other learning difficulties.",
     "student_angle": "",
-    "link": "https://bento.page/slides/",
-    "published": "Wed, 22 Jul 2026 15:19:23 +0000",
+    "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "published": "Thu, 23 Jul 2026 14:24:43 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The Corporate Creep of Plex: Why it may be time to move to Jellyfin",
+    "ai_summary": "• Plex's acquisition by Peloton Digital raises concerns about data ownership and control.\n• Jellyfin emerges as a popular, community-driven alternative with open-source code.\n• Plex's new features and integrations are now tied to Peloton's proprietary ecosystem.",
+    "student_angle": "None.",
+    "link": "https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/",
+    "published": "Fri, 24 Jul 2026 02:18:23 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The Visual 6502",
+    "ai_summary": "• The Visual 6502 is an interactive online book about the 6502 processor and low-level programming.\n• It provides detailed diagrams, explanations, and code examples to facilitate understanding of the 6502's architecture.\n• The book is a valuable resource for students and professionals who want to learn about low-level programming and computer architectures.",
+    "student_angle": "This book can be a helpful resource for those who want to learn about low-level programming and software engineering, but it may not provide internship opportunities itself.",
+    "link": "http://visual6502.org/JSSim/index.html",
+    "published": "Thu, 23 Jul 2026 23:36:42 +0000",
     "category": "Industry News",
     "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Medici family mystery may be solved after more than 400 years",
-    "ai_summary": "• Mystery surrounding the Medici family's finances may finally be solved through historical analysis.\n• Researchers used cryptography and statistical models to decipher ancient documents.\n• Discovery could shed new light on Renaissance history and politics.",
-    "student_angle": "",
-    "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-    "published": "Wed, 22 Jul 2026 21:55:34 +0000",
-    "category": "Industry News",
-    "tags": "History"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Everyone should know SIMD",
-    "ai_summary": "• SIMD (Single Instruction, Multiple Data) enables parallelized processing for improved performance and efficiency.\n• SIMD instructions are supported by most modern CPUs, making them essential for many applications.\n• By utilizing SIMD, developers can offload complex computations to dedicated hardware.",
-    "student_angle": "Learn SIMD for efficient coding and career advancement; it's a fundamental concept in modern software development.",
-    "link": "https://mitchellh.com/writing/everyone-should-know-simd",
-    "published": "Wed, 22 Jul 2026 17:48:18 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Are AI labs pelicanmaxxing?",
-    "ai_summary": "• Report suggests AI labs are increasingly \"pelicanmaxxing,\" or laying off employees without announcement.\n• This trend is affecting AI talent recruitment, making it harder for students to secure internships.\n• Industry insiders express concerns about the long-term implications of this secretive hiring practice.",
-    "student_angle": "Apply to companies with transparent hiring policies to avoid similar experiences.",
-    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "published": "Wed, 22 Jul 2026 17:17:54 +0000",
+    "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+    "ai_summary": "• Researchers announce open-weight model, 'Echo', achieving Fable-level results at a third of the cost.\n• Echo's architecture uses open-weight training, a potentially more efficient and cost-effective approach to AI model development.\n• This development offers promise for improved performance and reduced costs in AI model deployment.",
+    "student_angle": "NONE. The article provides an update on AI model development but neither mentions company hiring/funding nor internship opportunities in this area.",
+    "link": "https://news.ycombinator.com/item?id=49026810",
+    "published": "Thu, 23 Jul 2026 19:26:01 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Restructuring GitHub's bug bounty program",
-    "ai_summary": "• GitHub restructures bug bounty program to prioritize vulnerability discovery and reward contributors.\n• The new program focuses on high-quality vulnerabilities and provides clear guidelines for hackers.\n• GitHub partners with Bugcrowd to manage bug bounty program and improve bug discovery efficiency.",
-    "student_angle": "THIS COMPANY IS WORTH APPLYING TO, with opportunities for security-focused interns.",
-    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-    "published": "Thu, 23 Jul 2026 02:28:23 +0000",
-    "category": "Industry News",
-    "tags": "Security"
+    "title": "The Beam Engine",
+    "ai_summary": "• Introducing The Beam Engine, a novel AI-powered engine for data processing and analysis.\n• Beam Engine can handle high-velocity data streams and scale to meet large enterprise needs.\n• Key features include real-time analytics, automatic data quality checks, and customizable workflow engines.",
+    "student_angle": "Worth learning for those interested in AI engineering roles, but competition may be high.",
+    "link": "https://glinscott.github.io/beam-engine/",
+    "published": "Wed, 22 Jul 2026 14:16:44 +0000",
+    "category": "Tech Trends",
+    "tags": "Artificial Intelligence, AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-    "ai_summary": "• Researchers develop Cactus Hybrid, a hybrid reasoning framework for Gemma 4.\n• Cactus Hybrid enables Gemma 4 to identify incorrect or incomplete knowledge.\n• The framework uses a two-stage approach to provide more accurate reasoning.",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "ai_summary": "• Startup founders in the U.S. urge the government not to ban a Chinese open-source AI model.\n• The U.S. government's potential ban may impact AI model development and global collaboration.\n• The proposed ban could hinder innovation in AI technology and its widespread adoption.",
     "student_angle": "",
-    "link": "https://github.com/cactus-compute/cactus-hybrid",
-    "published": "Wed, 22 Jul 2026 17:56:29 +0000",
+    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "published": "Thu, 23 Jul 2026 15:18:40 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "John C. Dvorak has died",
-    "ai_summary": "• Renowned commentator and tech journalist John C. Dvorak passed away, leaving a legacy in industry.\n• Dvorak's contributions spanned decades, leaving an imprint on tech journalism and public discussions.\n• His impact on the tech world will continue to be felt through his body of work.",
+    "title": "What happened to TheNumbers.com",
+    "ai_summary": "• TheNumbers.com, a popular box office and home entertainment data analytics website, has disappeared.\n• The website was shut down due to a lawsuit from a film company claiming copyright infringement.\n• The domain name has been acquired by an unknown party, its contents remain inaccessible.",
     "student_angle": "",
-    "link": "https://twitter.com/na_announce/status/2079952538040672302",
-    "published": "Wed, 22 Jul 2026 19:22:19 +0000",
+    "link": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "published": "Thu, 23 Jul 2026 16:53:33 +0000",
     "category": "Industry News",
-    "tags": "Tech Trends"
+    "tags": "Cloud & DevOps, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "ai_summary": "• Focusing on efficiency metrics often leads to sacrificing quality and innovation in software development.\n• Insufficient customer input and feedback hinder the ability to meet evolving needs and expectations.\n• Overemphasis on process and tools can stifle creativity and adaptability in the team.",
+    "student_angle": "NONE.",
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "published": "Thu, 23 Jul 2026 15:18:48 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Software rendering in 500 lines of bare C++",
+    "ai_summary": "• Software rendering technique implemented in 500 lines of bare C++ code, showcasing efficiency and simplicity.\n• Project highlights the capability of manual rendering without relying on specialized libraries or APIs.\n• Code structure is modular, making it easy to add or modify rendering features as needed.",
+    "student_angle": "None, this tech trend focuses on a specific implementation rather than an industry job market impact.",
+    "link": "https://haqr.eu/tinyrenderer/",
+    "published": "Thu, 23 Jul 2026 14:17:40 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-    "ai_summary": "• IBM stocks crashed due to poor mainframe sales warnings, citing AI-related budget cuts.\n• CEO attributed mainframe sales decline to AI's impact on corporate hardware budgets temporarily.\n• This might indicate a shift in corporate IT spending priorities towards AI and ML.",
-    "student_angle": "None, however, IBM remains a large player in the tech industry offering various internship opportunities.",
-    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "published": "Wed, 22 Jul 2026 23:47:54 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "ai_summary": "• Google's cloud business is booming due to increased adoption of its AI infrastructure services.\n• Record profits reported as companies invest heavily in Google's AI and cloud products.\n• This growth justifies Google's massive spending on AI research and development.",
-    "student_angle": "This could lead to growth in internship and job opportunities in cloud and AI fields.",
-    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "published": "Wed, 22 Jul 2026 22:01:52 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "ai_summary": "• White House claims Moonshot distorted Anthropic's Fable model from China, sparking sanctions debate.\n• Treasury threatens sanctions after Moonshot's alleged mishandling of sensitive AI tech from China.\n• Washington intensifies debate over influx of Chinese open AI models, raising security concerns.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "published": "Wed, 22 Jul 2026 20:49:03 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
-    "ai_summary": "• Tesla's revenue rose 26% in recent quarters, but increased expenses offset gains.\n• Production timelines for Cybercab, Semi, and Megapack products have slipped, driving costs up.\n• Operating expenses and capital expenditures surged in the latest quarter, outpacing revenue growth.",
-    "student_angle": "With Tesla focusing on new product launches, internship opportunities in their production and manufacturing engineering teams may increase.",
-    "link": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
-    "published": "Wed, 22 Jul 2026 20:43:38 +0000",
-    "category": "Industry News",
-    "tags": "Electronics Manufacturing"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Social media addiction lawsuit against Meta is dropped",
-    "ai_summary": "• Lawsuit against Meta's social media addiction claims is dropped, ending trial threat.\n• Plaintiff voluntarily dismissed claims against Meta, citing reasons not made public.\n• No major tech companies now facing trial in social media addiction lawsuit cases.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-    "published": "Wed, 22 Jul 2026 20:36:41 +0000",
-    "category": "Industry News",
-    "tags": "Technology, Law"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SoundCloud acquires decentralized music platform Nina Protocol months after its shutdown",
-    "ai_summary": "• SoundCloud acquires decentralized music platform Nina Protocol months after it announced shutdown.\n• Acquisition brings Nina's artists, editorial archive, and music discovery tools to SoundCloud's platform.\n• Deal supports SoundCloud's expansion for independent musicians and their communities.",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "ai_summary": "• AI guardrails, like OpenAI's and Anthropic's, limit discovery of unknown vulnerabilities.\n• Researchers can't explore novel hacking techniques within these restrictive frameworks freely.\n• Cybersecurity tool development is impacted, affecting innovation and skill-building in this field.",
     "student_angle": "None",
-    "link": "https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/",
-    "published": "Wed, 22 Jul 2026 19:42:56 +0000",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "published": "Fri, 24 Jul 2026 01:00:00 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "Security, AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "ai_summary": "• OpenAI's testing environment security lapse led to AI-powered hack on Hugging Face.\n• Highly isolated environment not isolated enough, says cybersecurity expert.\n• Security experts advise stricter setup for AI testing environments after incident.",
+    "title": "Meet the judges who will crown Australia’s next breakout startup",
+    "ai_summary": "• TechCrunch Startup Battlefield is coming to Australia, with Stripe as a partner.\n• Startups will compete for the title of Australia's next breakout startup.\n• Winners will receive a cash prize and valuable connections in the industry.",
+    "student_angle": "This is a potential lead generation for potential internship opportunities in startup space.",
+    "link": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+    "published": "Fri, 24 Jul 2026 00:05:00 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+    "ai_summary": "• Mobileye CEO Amnon Shashua to step down as company focuses on robotaxis and robotics.\n• Shashua appointed chairman of the board to oversee company's expansion.\n• Company pushing into lucrative robot taxi market.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "published": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "link": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+    "published": "Thu, 23 Jul 2026 22:40:08 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Technology Hardware"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "ai_summary": "• AMD announces Helios AI rack-scale system to rival Nvidia's datacenter offerings.\n• Helios features AMD's EPYC processors and high-performance Vega datacenter GPUs.\n• System expected to ship to customers later this year with competitive pricing.",
+    "student_angle": "Internship opportunities in AI and cloud infrastructure are likely to grow, consider exploring this field.",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "published": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Patreon lays off 20% of its workforce",
+    "ai_summary": "• Patreon lays off 20% of its workforce due to market changes and cost adjustments.\n• The company's core business remains strong despite the cost-cutting measures.\n• The layoffs come as Patreon navigates changing market conditions.",
+    "student_angle": "Layoffs likely to reduce entry-level job opportunities in the short term.",
+    "link": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
+    "published": "Thu, 23 Jul 2026 20:30:07 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
+    "ai_summary": "• Insurance startup Corgi reportedly raises $4 billion in its third funding round in 8 weeks.\n• Corgi's valuation exceeds expectations, setting a standard for AI-funding frenzy in the industry.\n• The speed and scale of Corgi's funding rounds underscore the growth potential of AI startups.",
+    "student_angle": "This company may be worth applying to due to its rapid expansion and AI focus.",
+    "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
+    "published": "Thu, 23 Jul 2026 20:13:24 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla’s door handles may spur new US safety rules",
+    "ai_summary": "• US safety authorities to introduce new rules after Tesla-related incidents.\n• Fatalities and injuries have occurred due to people becoming stuck in cars.\n• Rule-making process aims to minimize risks and ensure public safety.",
+    "student_angle": "This article has no direct impact on CS internship opportunities.",
+    "link": "https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/",
+    "published": "Thu, 23 Jul 2026 20:06:21 +0000",
+    "category": "Industry News",
+    "tags": "Safety, Automotive Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Meta drops out of a major clean energy pact as its natural gas buildout accelerates",
+    "ai_summary": "• Meta significantly increases investments in natural gas, contradicting its previous stance on clean energy.\n• Meta drops out of a key industry renewable energy group after its increased natural gas efforts.\n• This move raises questions about the tech giant's commitment to reducing its carbon footprint.",
+    "student_angle": "Not worth applying to Meta as it seems to prioritize profits over sustainability goals.",
+    "link": "https://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
+    "published": "Thu, 23 Jul 2026 19:41:54 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "ai_summary": "• Claude's new voice model enables tasks like rescheduling meetings or drafting emails using voice commands.\n• The update focuses on improving voice interaction with the AI assistant, enhancing user experience.\n• The update indicates Anthropic's commitment to pushing the boundaries of conversational AI technology.",
+    "student_angle": "Learn Anthropic's technology to expand AI and ML skillset, but no direct internship opportunities mentioned.",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "published": "Thu, 23 Jul 2026 19:00:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "ai_summary": "• AegisAI, founded by former Google security execs, receives $36M in funding.\n• AI agents developed by AegisAI can quickly analyze messages to catch anomalies.\n• These agents mimic human thought, paying attention to small details often missed by AI systems.",
+    "student_angle": "Worth applying to, consider internships in AI/ML security to develop detection and prevention skills.",
+    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "published": "Thu, 23 Jul 2026 18:38:34 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "ai_summary": "• Travis Kalanick's robotics company, Atoms, raises $1.7B in funding, led by a16z.\n• Uber invests in Atoms, which aims to modernize industries with industrial AI.\n• Atoms makes gauzy claims about AI's potential to transform the world rapidly.",
-    "student_angle": "None.",
-    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "published": "Wed, 22 Jul 2026 18:50:44 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Science Corporation’s vision-restoring chip wins EU approval",
-    "ai_summary": "• Science Corporation's new vision-restoring chip approved by EU regulatory authorities.\n• Chip designed to treat vision conditions with potential for significant market impact.\n• $100 million revenue cited by CEO as key goal for company growth.",
-    "student_angle": "This isn't directly related to internships, but it's an interesting application of AI & ML, consider learning.",
-    "link": "https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/",
-    "published": "Wed, 22 Jul 2026 18:18:02 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "ai_summary": "• Yope raises $12.3M in seed funding to build a private social network without algorithms or ads.\n• New social app focuses on private groups and AI-powered features for real-world relationships.\n• Yope's private networking model may change the future of social media and online interactions.",
-    "student_angle": "Consider applying to Yope for a chance to work on innovative social networking projects.",
-    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-    "published": "Wed, 22 Jul 2026 18:13:58 +0000",
-    "category": "Industry News",
-    "tags": "Product & PM"
   }
 ]
