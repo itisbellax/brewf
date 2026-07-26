@@ -1,118 +1,188 @@
 [
   {
     "source": "HackerNews",
-    "title": "Claude Opus 5",
-    "ai_summary": "• Claude Opus 5 is an AI model for generating high-quality, realistic music.\n• The model leverages a large dataset to learn music patterns and structures.\n• Users can input their ideas and emotions to influence the generated music.",
-    "student_angle": "This innovative AI technology has internship applications in creative industries and product development.",
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "published": "Fri, 24 Jul 2026 16:57:41 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Postgres LISTEN/NOTIFY actually scales",
-    "ai_summary": "• Postgres LISTEN/NOTIFY allows thousands of subscribers to receive notifications in real-time.\n• Scaled to thousands of active connections, making it a reliable choice for messaging systems.\n• Outperforms existing solutions in terms of speed and latency, making it ideal for high-performance applications.",
-    "student_angle": "This tech showcases scalable messaging capabilities; consider learning it for real-time data handling.",
-    "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "published": "Fri, 24 Jul 2026 19:05:53 +0000",
+    "title": "JetZero",
+    "ai_summary": "• JetZero, a new electric aviation startup, raises $200 million in funding to develop commercial e-airplanes.\n• The funds will be used to accelerate production and certification of JetZero's first commercial e-airplane model.\n• The company's cutting-edge technology combines electric propulsion with advanced AI-powered pilot assist systems.",
+    "student_angle": "Worth applying to - JetZero is actively hiring interns in software engineering and AI/ML roles.",
+    "link": "https://www.jetzero.aero",
+    "published": "Sun, 26 Jul 2026 02:55:50 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-    "ai_summary": "• Taylor Farms allegedly tried to delay recall due to Cyclospora outbreak in 2018 salads.\n• White House intervened, leading to a swift recall of over 300 products.\n• No immediate impact on consumer products recalls regulations has been reported.",
+    "title": "Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
+    "ai_summary": "• A developer has created a free, no-signup map of over 16,000 US golf courses.\n• The project leverages geospatial data to provide an interactive mapping experience.\n• It can be used for golf course analysis and tourism purposes.",
+    "student_angle": "Learn this technology to understand geospatial data analysis and visualization for potential internship opportunities in data science.",
+    "link": "https://golfcoursebrowser.com/",
+    "published": "Sun, 26 Jul 2026 02:22:26 +0000",
+    "category": "Industry News",
+    "tags": "Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "An ESP32 based plane radar for my desk",
+    "ai_summary": "• Build a functional plane radar for your desk using ESP32 microcontrollers and open-source radar software.\n• This project combines microcontrollers, software development, and radar technology to create a mini radar system.\n• Customizable design and open-source code allow for endless experimentation and innovation possibilities.",
+    "student_angle": "This project showcases innovative uses of IoT and microcontrollers. Learning ESP32 and microcontroller programming can be beneficial for IoT development roles.",
+    "link": "https://blog.ktz.me/esp32-plane-radar/",
+    "published": "Sun, 26 Jul 2026 02:35:43 +0000",
+    "category": "Tech Trends",
+    "tags": "IoT, Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Humans Haven't Stopped Evolving",
+    "ai_summary": "• Recent studies suggest that humans continue to undergo genetic changes at an accelerated rate.\n• Factors such as environmental adaptability contribute to ongoing human evolution.\n• Evolutionary changes may also influence disease susceptibility and response to new drugs.",
     "student_angle": "",
-    "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-    "published": "Sat, 25 Jul 2026 02:54:36 +0000",
-    "category": "Industry News",
-    "tags": "Company Updates, Product & PM"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-    "ai_summary": "• Sperm whales have been observed blowing bubbles to achieve restful, vertical sleep.\n• Researchers have discovered a unique sleep pattern among these deep-sea mammals.\n• Bubble-blowing might aid whales in conserving energy and staying comfortable.",
-    "student_angle": "",
-    "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "published": "Fri, 24 Jul 2026 23:13:18 +0000",
-    "category": "Industry News",
-    "tags": "Marine Biology"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "ai_summary": "• Opus 5 leads Artificial Analysis Intelligence Leaderboard with impressive performance metrics.\n• This achievement solidifies Opus 5's position as a top player in the AI industry.\n• The company's success attracts investors and talent, driving innovation and growth.",
-    "student_angle": "This achievement is a great indicator of growth in the AI industry; consider applying for internships with AI-focused companies.",
-    "link": "https://artificialanalysis.ai/models",
-    "published": "Fri, 24 Jul 2026 19:45:10 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "ai_summary": "• Security camera's login page exposed GitHub admin token, compromising user and camera security.\n• Vulnerability found due to camera's poor security practices and failure to secure API tokens.\n• Incident highlights importance of securing sensitive data in IoT devices.",
-    "student_angle": "NONE, focus on learning secure coding practices for a career in software security.",
-    "link": "https://hhh.hn/hanwha-github-token/",
-    "published": "Fri, 24 Jul 2026 11:54:41 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "ai_summary": "• Simulated closure of the Strait of Hormuz on real oil trade data to study impact on global markets.\n• Utilized actual oil import and export data from countries reliant on Middle Eastern oil.\n• Analyzed effects on crude oil prices, trade imbalances, and economic instability.",
-    "student_angle": "",
-    "link": "https://globaloilnetwork.staffinganalytics.io/",
-    "published": "Thu, 23 Jul 2026 12:31:21 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "If coding has been solved, why does software keep getting worse?",
-    "ai_summary": "• Despite advances in coding, software complexity and bugs persist due to dynamic system needs.\n• Modern software often has to integrate with various tools, leading to compatibility issues and bugs.\n• Poor user experience can result from outdated design principles and changing user behaviors over time.",
-    "student_angle": "Learn Agile methodologies to adapt to changing software needs and work in an iterative environment.",
-    "link": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-    "published": "Fri, 24 Jul 2026 09:08:17 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "ai_summary": "• Nvidia, Microsoft, Meta warn against overregulation impacting future open-weight model developments.\n• Overregulation may hinder innovation in AI and machine learning research and applications.\n• Tech giants stress importance of balancing regulation with industry growth and innovation potential.",
-    "student_angle": "",
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "published": "Fri, 24 Jul 2026 13:32:30 +0000",
+    "link": "https://www.harvardmagazine.com/research/harvard-human-evolution-genes-selective-pressure",
+    "published": "Sun, 26 Jul 2026 03:09:46 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Kimi K3 exploited the latest Redis server",
-    "ai_summary": "• Researchers discovered a critical vulnerability in the latest Redis server, dubbed Kimi K3.\n• An exploit was successfully carried out, leading to potential data leakage and server crashes.\n• A patch for the vulnerability is now available, and users are urged to update immediately.",
-    "student_angle": "None",
-    "link": "https://twitter.com/fried_rice/status/2080059356322918777",
-    "published": "Thu, 23 Jul 2026 17:10:02 +0000",
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "ai_summary": "• Inflect-Micro-v2 is the latest AI model with 9.36M parameters, showcasing improved voice capabilities.\n• This model is designed to be more efficient and scalable for various applications, including voice assistants.\n• Inflect-Micro-v2 can now support a comprehensive range of voices, including accent variations and tones.",
+    "student_angle": "This technological advancement may contribute to growing demand for ML engineers in voice AI development.",
+    "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "published": "Sun, 26 Jul 2026 00:36:30 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "ai_summary": "• Context engineers can now directly build knowledge graphs for Claude 5 models to improve contextual understanding.\n• These models utilize large amounts of data to create knowledge graphs without explicit user direction.\n• Knowledge graphs provide a way to better contextualize input and improve overall model performance.",
+    "student_angle": "",
+    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "published": "Sat, 25 Jul 2026 20:42:35 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Systems and Delays",
+    "ai_summary": "• Study on queueing theory reveals how systems respond to random delays and bursts of traffic.\n• Researchers found that delays can be mitigated by optimizing server architecture and response times.\n• Experts warn that neglecting infrastructure design can lead to cascading failures and downtime.",
+    "student_angle": "",
+    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "published": "Sun, 26 Jul 2026 00:37:30 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Clinical failure rates over the decades: yikes",
+    "ai_summary": "• High clinical failure rates in AI and ML have increased steadily over recent decades.\n• Many models are not replicable or reliable, limiting real-world applications.\n• Researchers stress the need for transparency and rigorous testing methods.",
+    "student_angle": "None. Focus on developing transferable software engineering skills.",
+    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "published": "Sat, 25 Jul 2026 22:57:17 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Cloudflare's new AI traffic options for customers",
+    "ai_summary": "• Cloudflare introduces AI-driven traffic management options for customers.\n• New features include smart routing, security analysis, and real-time traffic optimization.\n• AI-powered insights improve customer performance and application availability.",
+    "student_angle": "This AI technology integration could lead to growing internship opportunities in cloud-based DevOps positions.",
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "published": "Sat, 25 Jul 2026 22:50:49 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Security, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Git rebase -I is not that scary",
+    "ai_summary": "• Rebase your Git workflow with confidence using interactive rebasing, a more precise tool.\n• Avoid merge conflicts with rebase -i, allowing for smooth codebase revisions.\n• Manage Git history with ease, perfecting your software development process.",
+    "student_angle": "Learning Git rebase -i can significantly boost your problem-solving skills and productivity in coding projects.",
+    "link": "https://cachebag.sh/journal/interactive-rebasing/",
+    "published": "Sun, 26 Jul 2026 00:37:54 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "ai_summary": "• Monday.com joins list of tech companies citing AI for significant layoffs this year.\n• 20 other tech companies have similarly blamed AI for layoff decisions.\n• Significant layoffs across tech industry highlight broader impact of technological change.",
+    "student_angle": "Layoffs may not immediately affect entry-level job availability, but industry contraction may in the long term.",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "published": "Sun, 26 Jul 2026 01:30:00 +0000",
+    "category": "Industry News",
+    "tags": "Tech Trends"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+    "ai_summary": "• Warner Bros. files lawsuit against Amazon, alleging executive poaching.\n• Lawsuit targets enforceability of restrictive covenants in California employment agreements.\n• Poaching allegations may challenge norms in tech industry hiring practices.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+    "published": "Sat, 25 Jul 2026 20:55:11 +0000",
+    "category": "Industry News",
+    "tags": "Corporate Law, Business"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The hacker who humiliated spyware makers and was never caught",
+    "ai_summary": "• Phineas Fisher is a pseudonymous hacker believed to have pulled off high-profile hacks.\n• Fisher targets companies involved in surveillance, including spyware makers Hacking Team and FinFisher.\n• Despite the severity of the hacks, Fisher remains at large and unidentified.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+    "published": "Sat, 25 Jul 2026 20:24:14 +0000",
     "category": "Industry News",
     "tags": "Security"
   },
   {
     "source": "TechCrunch",
+    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "ai_summary": "• Elon Musk's tunneling startup, The Boring Company, is reportedly seeking new funding at $20 billion valuation.\n• Potential funding round could be one of the largest in tech, according to reports.\n• Company aims to expand its electric high-speed transportation network.",
+    "student_angle": "Limited product and PM roles might be available directly at The Boring Company, but related internships may open.",
+    "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+    "published": "Sat, 25 Jul 2026 19:23:32 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+    "ai_summary": "• Kalshi requests removal of Netflix documentary trailer citing defamation and misinformation.\n• Kalshi accuses the trailer of containing fabricated documents and false statements.\n• The 'Prediction Games' documentary explores the prediction market space.",
+    "student_angle": "NONE.",
+    "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+    "published": "Sat, 25 Jul 2026 16:46:46 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "ai_summary": "• Workshops on 'Avoiding AI' attract massive interest, pushing libraries to host multiple sessions.\n• Participants learn to opt-out of online tracking, avoid deepfakes and AI-generated content.\n• Libraries aim to empower attendees with digital literacy, enabling them to navigate AI world more effectively.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "published": "Sat, 25 Jul 2026 16:00:00 +0000",
+    "category": "Industry News",
+    "tags": "Artificial Intelligence, AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "ai_summary": "• A single fallen power line exposed widespread vulnerabilities in data centers' grid disruption responses.\n• Data centers often lack backup power systems and communication infrastructure to handle grid failures.\n• Companies are working to implement better backup systems to prevent disruptions.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "published": "Sat, 25 Jul 2026 13:05:00 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "ai_summary": "• OpenAI releases a keypad powered by the company's AI technology for creative purposes.\n• Keypad is expected to offer AI-driven shortcuts and suggestions for coding and other tasks.\n• Some users may find the keypad's AI-driven functions overly complex and restrictive.",
-    "student_angle": "Don't bother - internship opportunities related to AI keypads are unlikely to arise.",
+    "ai_summary": "• OpenAI releases AI keypad for developers to access its AI tools through simple keyboard shortcuts.\n• Device allows seamless interaction with AI technology, making coding more efficient for some users.\n• However, the keypad might be overwhelming for those unfamiliar with AI integration.",
+    "student_angle": "None.",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "published": "Sat, 25 Jul 2026 00:23:11 +0000",
-    "category": "Tech Trends",
+    "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "TechCrunch",
     "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-    "ai_summary": "• SpaceX launches Starlink V3 satellites on second successful Starship flight.\n• The flight experienced another booster failure, re-igniting concerns about engine reliability.\n• Company continues to push boundaries of space technology, despite setbacks.",
+    "ai_summary": "• SpaceX launched V3 Starlink satellites on Starship V3 flight, marking progress in satellite deployment.\n• The mission was partially successful, despite issues with booster's rocket engine relighting.\n• Booster failure could indicate ongoing challenges in reusable rocket technology.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
     "published": "Fri, 24 Jul 2026 23:25:47 +0000",
@@ -122,81 +192,11 @@
   {
     "source": "TechCrunch",
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "ai_summary": "• Prentis, a new AI lab co-founded by Reid Hoffman and Mark Pincus, is in talks to raise $100M.\n• The lab focuses on automating routine tasks, potentially outpacing coding as AI's biggest use case.\n• Reid Hoffman and Mark Pincus co-founded Prentis, leveraging their expertise in AI and entrepreneurship.",
-    "student_angle": "None",
+    "ai_summary": "• Prentis AI lab co-founded by Reid Hoffman and Mark Pincus reportedly seeking $100M in funding.\n• The neolab is focused on automating routine computer tasks, a growing AI use case.\n• This investment could lead to increased demand for AI and ML talent in future.",
+    "student_angle": "Potentially beneficial for AI and ML internship opportunities in future.",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "published": "Fri, 24 Jul 2026 22:25:58 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-    "ai_summary": "• TechCrunch Disrupt 2026 introduces Smart Money Stage focusing on fintech, payments, and AI innovations.\n• Stage brings together industry leaders and startups to explore emerging trends in fintech and AI.\n• Event showcases cutting-edge technologies shaping the future of finance and commerce.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-    "published": "Fri, 24 Jul 2026 22:10:00 +0000",
-    "category": "Industry News",
-    "tags": "Fintech, AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-    "ai_summary": "• Vietnam proposes restrictions on social media for kids, citing cyberbullying concerns.\n• Australia led the ban with an aim to reduce social media pressures and risks on young users.\n• Other countries may follow suit in regulating online platforms for minors.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-    "published": "Fri, 24 Jul 2026 21:15:00 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Waymo reportedly mulling a breakup with Uber",
-    "ai_summary": "• Waymo and Uber's partnership contract reportedly ends in May 2028.\n• The two companies are allegedly discussing a breakup of their agreement.\n• Waymo focuses on autonomous vehicles technology while Uber emphasizes ride-hailing services.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-    "published": "Fri, 24 Jul 2026 20:43:35 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Robotics"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-    "ai_summary": "• Volkswagen engineers allegedly used insider information to buy Rivian stock before joint venture announcement.\n• Indictment unsealed Friday, highlighting potential security risks in corporate collaborations.\n• Prosecutors investigate misuse of confidential information in a high-profile industry partnership.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-    "published": "Fri, 24 Jul 2026 19:56:23 +0000",
-    "category": "Industry News",
-    "tags": "Security, Company Updates"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "ai_summary": "• Cognition acquires Poke to enhance conversational style in AI assistants.\n• Acquisition reflects growing importance of user interaction models in AI.\n• Cognition seeks to leverage Poke's interaction model in future AI projects.",
-    "student_angle": "Learning conversational AI could increase job prospects in AI development and user experience.",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "published": "Fri, 24 Jul 2026 18:07:32 +0000",
-    "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-    "ai_summary": "• A U.S. citizen has been accused of wiping his phone data at the U.S. border using a 'duress' password.\n• Border authorities claimed the citizen gave them the passcode, but the citizen disputes this in court.\n• The case raises questions about constitutional rights at U.S. borders in digital age privacy.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-    "published": "Fri, 24 Jul 2026 17:53:30 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-    "ai_summary": "• Anduril may raise funding round at $100B valuation, surpassing 3x last year's mark.\n• Funding talks reportedly initiated by the defense technology company Anduril.\n• Reuters cites anonymous sources confirming the valuation estimate.",
-    "student_angle": "Worth applying to for security-focused projects and research, given their innovative defense tech work.",
-    "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-    "published": "Fri, 24 Jul 2026 17:33:19 +0000",
-    "category": "Industry News",
-    "tags": "Security"
   }
 ]
