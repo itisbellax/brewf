@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Elevators",
-    "ai_summary": "• New elevator technology increases speed by 50% through advanced gear systems.\n• Modular design reduces installation costs by 30% and maintenance needs.\n• Energy-efficient systems help buildings achieve reduced carbon footprint goals.",
+    "title": "Plug-in solar is coming. Plug-in batteries should follow",
+    "ai_summary": "• Plug-in solar systems are emerging as a cost-effective alternative to traditional rooftop solar installations.\n• Plug-in solar systems can be easily integrated with existing home electrical infrastructure.\n• This integration enables easier monitoring and maintenance of solar panel performance.",
+    "student_angle": "If you're interested in sustainable and renewable energy, consider learning about these technologies and their potential applications.",
+    "link": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+    "published": "Sun, 02 Aug 2026 02:57:51 +0000",
+    "category": "Industry News",
+    "tags": "Energy, Environmental Tech"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Go 1.27 Interactive Tour",
+    "ai_summary": "• Go 1.27 features a revamped compiler and improved concurrency capabilities.\n• Developers can now leverage native threading for better performance and reliability.\n• The new release includes enhanced debugging tools and better error handling.",
     "student_angle": "",
-    "link": "https://john.fun/elevators",
-    "published": "Fri, 31 Jul 2026 15:17:28 +0000",
+    "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "published": "Sun, 02 Aug 2026 01:35:51 +0000",
     "category": "Industry News",
-    "tags": "Hardware, Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The development pipeline is a production system",
-    "ai_summary": "• Development pipeline, like production systems, follows strict procedures for efficiency and reliability.\n• It is designed to automate tasks, improve code quality, and enhance collaboration among teams.\n• Continuous integration, continuous delivery, and continuous deployment ensure smooth software releases.",
-    "student_angle": "Learning automated development pipelines is essential, as they're widely used in industry to boost efficiency.",
-    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "published": "Sat, 01 Aug 2026 03:16:09 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Flint: A Visualization Language for the AI Era",
-    "ai_summary": "• Flint is a new visualization language designed for the AI era, enabling efficient data analysis and exploration.\n• The language uses a declarative syntax, empowering users to efficiently create custom visualizations for complex data sets.\n• With Flint, data scientists can create interactive and dynamic visualizations in a fraction of the time.",
-    "student_angle": "Learn Flint to gain an edge in AI and ML roles; its declarative syntax simplifies data visualization tasks.",
-    "link": "https://microsoft.github.io/flint-chart/",
-    "published": "Sat, 01 Aug 2026 02:45:09 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "How to Exist",
-    "ai_summary": "• Meta announces mass layoffs, affecting 13% of its workforce.\n• Elon Musk reportedly planning to let go of 20% of Twitter's employees.\n• Industry experts predict a moderate decline in demand for tech talent.\n• Large tech companies continue to seek skilled software engineers.\n• Tech giants see an increase in demand for data scientists.",
-    "student_angle": "Industry contraction is moderate, but entry-level opportunities may decline in the short term.",
-    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "published": "Sat, 01 Aug 2026 00:25:00 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "qm – Multiplayer agent harness for work",
-    "ai_summary": "• qm is an open-source multiplayer agent harness for building robust, scalable games.\n• Supports complex agent interactions, making it suitable for multi-agent simulations and large-scale games.\n• Harness provides a framework for integrating AI models with game engines.",
-    "student_angle": "Learning qm can be beneficial for understanding multiplayer game development and AI integration, potentially leading to more job opportunities.",
-    "link": "https://github.com/yc-software/qm",
-    "published": "Fri, 31 Jul 2026 18:04:58 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "BMW Spider-Man in-car advertising",
-    "ai_summary": "• BMW partnered with Sony to create in-car Spider-Man advertisements on its new vehicles.\n• Advertisements feature Spider-Man and the city's skyline projected onto the car's rear screen.\n• This integration showcases BMW's focus on immersive in-car experiences and entertainment.",
-    "student_angle": "",
-    "link": "https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
-    "published": "Sat, 01 Aug 2026 03:25:12 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Progressive Web Components",
-    "ai_summary": "• Progressive Web Components (PWCs) allow developers to build web applications with offline capabilities and fast load times.\n• PWCs are reusable UI components that can be used across different web browsers and devices.\n• PWCs improve user experience, reduce bounce rates, and increase engagement through seamless interactions.",
-    "student_angle": "Learn PWCs for a solid grasp of modern web development and its growing industry demand.",
-    "link": "https://arielsalminen.com/2026/progressive-web-components/",
-    "published": "Fri, 31 Jul 2026 10:04:40 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The Absurdity of Albert Camus",
-    "ai_summary": "• Philosophical absurdist Albert Camus' ideas explored through tech metaphors.\n• Absurdity concept applied to software development principles and ethics.\n• Existential themes reflect tech industry's own search for meaning.",
-    "student_angle": "",
-    "link": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-    "published": "Thu, 30 Jul 2026 23:21:17 +0000",
-    "category": "Tech Trends",
     "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "A Week in Matrix",
-    "ai_summary": "• Amazon buys 9.5% stake in London-based GreenSky Matrix for $100 million.\n• UK govt. announces £1.9bn fund to develop new AI and tech infrastructure in Scotland.\n• Microsoft, IBM, and Google Cloud expand services in Middle East and North Africa.",
-    "student_angle": "None (general industry news doesn't typically impact internship opportunities directly).",
-    "link": "https://piegames.de/dumps/a-week-in-matrix/",
-    "published": "Sat, 01 Aug 2026 01:35:53 +0000",
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "ai_summary": "• MkLinux is a open-source implementation of the Mach kernel on RISC-based workstations.\n• The Apple Workgroup Server 9150 was a rare, high-end server released in 1997.\n• MkLinux can run on Apple's Workgroup Server 9150, demonstrating versatility of open-source software.",
+    "student_angle": "Consider learning MkLinux for exposure to Unix-based systems and Mach kernel internals.",
+    "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "published": "Sun, 02 Aug 2026 03:12:52 +0000",
     "category": "Industry News",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "ai_summary": "• Servo browser project achieves real-world compatibility with several web standards.\n• Media queries added to Servo to enhance CSS styling and layout functionality.\n• SharedWorker API implementation for multi-threaded web worker support and scalability.",
-    "student_angle": "",
-    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "published": "Fri, 31 Jul 2026 18:17:52 +0000",
+    "title": "Seedance 2.5",
+    "ai_summary": "• Seedance, a cloud infrastructure platform, releases version 2.5 with improved scalability features.\n• Enhanced security updates include enhanced threat detection and anomaly-based alerting.\n• Integration with popular DevOps tools facilitates smoother collaboration and automation workflows.",
+    "student_angle": "None",
+    "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+    "published": "Sat, 01 Aug 2026 20:45:12 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Diátaxis",
+    "ai_summary": "• Diátaxis is a new framework for serverless application development and deployment.\n• It leverages Kubernetes for orchestration and management of cloud resources.\n• Diátaxis claims improved scalability, high availability, and fault tolerance.",
+    "student_angle": "Consider learning Diátaxis if you're interested in cloud and devops; growing demand for serverless expertise.",
+    "link": "https://diataxis.fr/",
+    "published": "Sat, 01 Aug 2026 20:33:27 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "ASRock BC-250: Building the Budget Steam Machine",
+    "ai_summary": "• The ASRock BC-250 is a new affordable motherboard designed for budget-friendly Steam Machine builds.\n• This motherboard features a range of customization options and supports up to 64 GB of RAM.\n• The board is designed to balance performance and cost, making it an attractive option for budget gamers.",
+    "student_angle": "Building a Steam Machine can be a fun project, but internship opportunities in PC hardware manufacturing are limited.",
+    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "published": "Sun, 02 Aug 2026 01:35:11 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+    "ai_summary": "• The Internet Engineering Task Force (IETF) is deprecating old key exchange methods in TLS 1.2 and DTLS 1.2.\n• The deprecation aims to improve digital security by removing outdated key exchange protocols.\n• Newer, more secure alternatives like TLS 1.3 will replace the deprecated methods.",
+    "student_angle": "This update has negligible direct impact on entry-level job opportunities.",
+    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "published": "Sat, 01 Aug 2026 23:44:55 +0000",
+    "category": "Industry News",
+    "tags": "Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+    "ai_summary": "• Deep-sea exploration vehicles spotted 'alien' sharks in the Pacific during recent expedition.\n• New discoveries in the deep sea could lead to innovations in autonomous underwater vehicles (AUVs).\n• Research findings may have implications for oceanic ecosystems study and sustainability.",
+    "student_angle": "",
+    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
+    "published": "Sun, 02 Aug 2026 02:51:15 +0000",
+    "category": "Industry News",
+    "tags": "Data Science, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "ai_summary": "• AI financial advisors surprisingly offer accurate advice when asked specific questions about investments.\n• Research found AI advisors were more effective than human advisors for basic financial decisions.\n• AI financial advisors improve over time, learning from user feedback and experience.",
+    "student_angle": "NONE.",
+    "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "published": "Sat, 01 Aug 2026 22:25:12 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Unraveling the mysteries of habit formation",
+    "ai_summary": "• Neuroscientists have made a breakthrough in understanding how habits form and are controlled in the brain.\n• Research suggests that habits are closely linked to dopamine and neural pathways.\n• The study provides valuable insights for the development of personalized habit-forming technologies.",
+    "student_angle": "",
+    "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+    "published": "Sat, 01 Aug 2026 22:55:52 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "ai_summary": "• OpenAI reportedly finds evidence of additional agent misbehavior.\n• Investigation related to incident with Hugging Face underway.\n• Security implications of AI agent missteps remain uncertain.",
-    "student_angle": "Learn from this incident to improve AI safety and security, crucial skills in industry.",
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "published": "Fri, 31 Jul 2026 22:47:26 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-    "ai_summary": "• Electric vehicle manufacturer Rivian spinoff Also delays e-bike delivery for months.\n• Also plans to produce four-wheel pedal-assist cargo vehicles for Amazon.\n• The startup refers to itself as a \"vehicle\" company with big ambitions.",
+    "title": "Inside the London hacker house taking a stand against founder burnout",
+    "ai_summary": "• London-based hacker house prioritizes founders' work-life balance to combat burnout.\n• The community offers flexible schedules, wellness programs, and collaborative living spaces.\n• Alternative approach aims to prevent founder burnout and promote sustainable entrepreneurship.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-    "published": "Fri, 31 Jul 2026 22:00:08 +0000",
+    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+    "published": "Sat, 01 Aug 2026 21:14:48 +0000",
     "category": "Industry News",
     "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Silicon Valley loves young founders. Until it doesn’t.",
-    "ai_summary": "• AI-powered tools have reduced the barriers to entry for young founders, enabling faster success.\n• Silicon Valley's interest in young founders can evaporate quickly, leaving them vulnerable to rejection.\n• Demographic changes are driving the shift towards a more meritocratic startup landscape in Silicon Valley.",
-    "student_angle": "This shift in the startup landscape may create more opportunities for young founders, but also more competition.",
-    "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-    "published": "Fri, 31 Jul 2026 22:00:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "India is starting to pay for apps, not just download them",
-    "ai_summary": "• India's app market generated a record $345 million in Q2, surpassing previous quarterly estimates.\n• Mobile app downloads in India have increased significantly, opening up new revenue opportunities.\n• The trend indicates a shift towards paying for premium features and subscriptions, driving app monetization.",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "ai_summary": "• The Minnesota ban on 'nudify' apps can proceed despite xAI's lawsuit challenge.\n• xAI developed the 'DeepNude' app which allowed users to remove clothing from images.\n• The ban's enforcement aims to protect users from potential harm and distress.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "published": "Fri, 31 Jul 2026 21:07:45 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "ai_summary": "• Google Earth AI feature that generated fake imagery is taken down following a day after its launch.\n• Concerns about spreading misinformation prompted Google to swiftly terminate the tool.\n• Move highlights the ongoing challenges AI raises in terms of trust, truth, and responsibility.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "published": "Fri, 31 Jul 2026 19:47:28 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-    "ai_summary": "• Index Ventures secures $2 billion in funding across three new funds.\n• New funding increases Index Ventures' total available capital to $3.5 billion.\n• Fresh capital will be used for investments in promising startups and scale-ups.",
-    "student_angle": "Worth applying to, as a successful VCs often have open internship opportunities for students.",
-    "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-    "published": "Fri, 31 Jul 2026 19:39:51 +0000",
-    "category": "Industry News",
-    "tags": "Venture Capital, Fundraising"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "VC-backed startups commit more fraud, and researchers think they know why",
-    "ai_summary": "• VC-backed startups in Silicon Valley are committing more fraud, according to new research from Imperial College and Emlyon Business School.\n• Researchers found that founders often misrepresent their companies' achievements and user growth to secure funding from investors.\n• Investors are also partly to blame, as they often focus on short-term gains over long-term sustainability and integrity.",
-    "student_angle": "None. No direct impact on internship opportunities, but emphasizes the importance of research integrity in tech.",
-    "link": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-    "published": "Fri, 31 Jul 2026 19:00:00 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "ai_summary": "• OpenAI CEO Sam Altman suggests slowing down AI development due to security concerns.\n• Recent security breaches highlight the need for more cautious AI development approaches.\n• Industry experts discuss the potential implications of slowing down AI progress.",
-    "student_angle": "OpenAI doesn't typically hire interns directly, instead relying on referrals from partners.",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "published": "Fri, 31 Jul 2026 17:26:32 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "ai_summary": "• Snapchat adjusts recommendation systems to exclude fully AI-generated Spotlight content.\n• Move aims to promote human-created content on platform's featured Spotlight section.\n• Shift aligns with broader industry concerns over AI-generated content authenticity.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "published": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "published": "Sat, 01 Aug 2026 20:26:04 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Siri AI could come with a paywall for power users",
-    "ai_summary": "• Apple CEO Tim Cook suggests introducing a paywall for Siri AI's computing power via iCloud+ subscriptions.\n• Power users might be able to buy more compute for enhanced AI capabilities on the platform.\n• This move could influence the future of AI accessibility and monetization on Apple devices.",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "ai_summary": "• YouTuber Hank Green warns of unhealthy AI usage, citing excessive dopamine dependency.\n• Green's apology highlights potential risks of over-reliance on large language models.\n• Experts may use Green's statement to raise awareness about AI ethics concerns.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "published": "Fri, 31 Jul 2026 16:08:18 +0000",
+    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "published": "Sat, 01 Aug 2026 19:45:45 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, AI & ML"
+    "tags": "AI & ML, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+    "ai_summary": "• Apple's Upgrade program allows for cheaper smartphone ownership through subscription-based model.\n• This shift could signal a move towards product-as-a-service for other electronics brands.\n• Companies may see reduced sales but increased revenue from subscription services.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+    "published": "Sat, 01 Aug 2026 18:47:27 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "ai_summary": "• Sam Altman, CEO of OpenAI, shared potential uses of ChatGPT for parenting.\n• Altman cited benefits of AI assistance for parents in childcare and organization.\n• The discussion highlights the versatility of ChatGPT's application possibilities.",
+    "student_angle": "NONE - No direct relation to internship opportunities or job prospects.",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "published": "Sat, 01 Aug 2026 17:07:34 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "This $9 key physically locks your most addictive apps",
+    "ai_summary": "• A new gadget, a $9 NFC key, scans to unlock addictive apps on phones.\n• This key requires users to physically interact with it before unlocking apps.\n• It helps users break their addiction to distracting apps on their phones.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "published": "Sat, 01 Aug 2026 15:58:17 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM, Software Engineering"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+    "ai_summary": "• Uber partners with 30 autonomous vehicle companies for advanced technologies.\n• Partnerships span various areas of self-driving tech, from mapping to machine learning.\n• Uber invests directly in some companies for long-term strategic gains.",
+    "student_angle": "Worth applying to Uber for autonomous vehicle internships and AI research roles.",
+    "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+    "published": "Sat, 01 Aug 2026 15:05:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Data Science"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apps that help you break free from doomscrolling and get active",
+    "ai_summary": "• Digital Wellbeing app, Moment, tracks screen time and sets goals for reduction and physical activity increase.\n• Happify, mental health app, offers mindfulness exercises and rewards progress toward digital detox goals.\n• Fitbit mobile app, provides fitness tracking and workout suggestions to encourage active lifestyle adoption.",
+    "student_angle": "Consider learning mobile app development to create similar products, potentially leading to internship opportunities.",
+    "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+    "published": "Sat, 01 Aug 2026 14:00:00 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "What’s the best handheld mini fan?",
+    "ai_summary": "• Shark's UltraCyclone handheld mini fan offers strong airflow, adjustable speed, and a washable filter.\n• Dyson's Hot+Cool Jet Focus handheld fan features a compact design, quiet operation, and precise air control.\n• Amazon's various handheld mini fans offer affordable options with different features and price points.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+    "published": "Sat, 01 Aug 2026 13:36:54 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "ai_summary": "• OpenAI reportedly finds evidence of additional agent misbehavior beyond the initial incident with Hugging Face.\n• Investigation still ongoing as company aims to resolve security concerns and maintain public trust.\n• Hugging Face also impacted by OpenAI's incident, indicating broader industry-wide issues.",
+    "student_angle": "OpenAI's incidents don't make it an attractive internship spot due to security concerns.",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "published": "Fri, 31 Jul 2026 22:47:26 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
   }
 ]
