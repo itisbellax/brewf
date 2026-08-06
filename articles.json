@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "libexpat now funded by the City of Munich for up to 6 months",
-    "ai_summary": "• libexpat now receives funding from the City of Munich, supporting up to 6 months of development.\n• This funding aims to improve the parser library and its integration with various systems.\n• libexpat's new financial backing may attract more contributors and developers to the project.",
-    "student_angle": "Depending on your interests, consider learning libexpat for hands-on experience with parser libraries.",
-    "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "published": "Tue, 04 Aug 2026 23:18:12 +0000",
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "ai_summary": "• Nashville uses eminent domain to block data center near zoo due to neighborhood concerns.\n• Data center would have occupied 17-acre site, sparking fears of increased power consumption.\n• Neighborhood opposition highlights growing public scrutiny of large infrastructure projects.",
+    "student_angle": "None.",
+    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "published": "Thu, 06 Aug 2026 02:15:14 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "ai_summary": "• GenAI won't replace human software engineers; it supplements their work with automation and efficiency improvements.\n• Software engineering requires more creativity and innovation than simple coding; AI tools enhance the process.\n• AI can help detect and prevent bugs in software development but doesn't eliminate the need for human testers.\n• The increasing use of AI in software development requires engineers to understand AI fundamentals and adaptability.\n• AI and machine learning tools can help streamline the coding process, freeing engineers for high-level tasks.\n• GenAI's capabilities in automation can help improve software efficiency but may decrease certain entry-level job demands.\n• GenAI models can also improve error detection and provide predictive maintenance for software applications.\n• The growing importance of GenAI in software engineering means continuous learning is essential for software engineers' careers.",
-    "student_angle": "This trend suggests you should learn AI fundamentals and adaptability to stay competitive in software engineering.",
-    "link": "https://queue.acm.org/detail.cfm?id=3807963",
-    "published": "Tue, 04 Aug 2026 23:50:52 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Pi's Minimalism Is Its Advantage",
-    "ai_summary": "• Pi is a cloud-based, open-source software focused on minimalism and ease of use.\n• Its simple interface makes it an attractive alternative to complex cloud platforms.\n• Pi is developed with a microservices architecture, promoting scalability and flexibility.",
-    "student_angle": "This news doesn't directly impact internship opportunities, but learning minimalistic approaches to software development might be beneficial for building efficient systems.",
-    "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "published": "Tue, 04 Aug 2026 22:22:12 +0000",
+    "title": "Discovery Loop",
+    "ai_summary": "• Discovery Loop launched 'Intern Connect', a platform for interns to share experiences and get placed in top tech companies.\n• The platform provides resources, mentorship opportunities, and networking chances for students and recent graduates.\n• Discovery Loop partnered with 50 top tech firms to increase internship opportunities and talent sourcing.",
+    "student_angle": "This platform can be a valuable resource for finding top internship opportunities, making it worth a look.",
+    "link": "https://www.discoveryloop.com/",
+    "published": "Wed, 05 Aug 2026 16:19:44 +0000",
     "category": "Industry News",
     "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "ai_summary": "• Mistral's Shieldstral is a 3B open-weights model for multimodal moderation, supporting multiple data types and languages.\n• This model aims to improve AI moderation by incorporating various data formats, including images, videos, and text.\n• Shieldstral has been designed for flexible, on-premise deployment and customization for specific use cases.",
-    "student_angle": "This innovation demonstrates the growth of AI & ML in moderation, suggesting increasing internship opportunities in this area.",
-    "link": "https://mistral.ai/news/shieldstral/",
-    "published": "Tue, 04 Aug 2026 16:36:05 +0000",
+    "title": "Zed DeltaDB",
+    "ai_summary": "• Open-source DeltaDB storage engine provides real-time analytics and data insights through machine learning algorithms.\n• Optimized for cloud environments, offering high-performance scalability and data reliability.\n• Supports concurrent writes and reads, enabling seamless collaboration and data sharing.",
+    "student_angle": "Worth exploring Zed's internship programs for cloud and software engineering opportunities.",
+    "link": "https://zed.dev/deltadb",
+    "published": "Wed, 05 Aug 2026 18:52:54 +0000",
     "category": "Company Updates",
+    "tags": "Cloud & DevOps, Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "ai_summary": "• Demis Hassabis steps down as Google DeepMind CEO, becomes Chairman of the Board.\n• Jeff Dean, AI leader, leaves Google after 17 years, reportedly for a new venture.\n• Google DeepMind now part of Google Research, with unclear organizational changes.",
+    "student_angle": "This shift may bring new project opportunities, worth applying to for AI internships.",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "published": "Wed, 05 Aug 2026 16:05:31 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The title cards in Blade Runner are amazing",
+    "ai_summary": "• Blade Runner title cards are iconic and influence film typography.\n• Synthetik, the font used, adds to the film's dystopian atmosphere.\n• Designer Douglas Trumbull's vision revolutionized title card design.",
+    "student_angle": "",
+    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "published": "Wed, 05 Aug 2026 21:29:23 +0000",
+    "category": "Tech Trends",
+    "tags": "Visual Computing, Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "LLMs won't break symmetric crypto",
+    "ai_summary": "• Large Language Models (LLMs) are ineffective in breaking symmetric encryption algorithms.\n• Brute-force attacks still pose a significant threat to symmetric crypto systems.\n• No LLM yet demonstrated capability to crack widely used symmetric encryption keys.",
+    "student_angle": "Learning about current AI & ML developments, including attacks on LLMs, is beneficial for security-focused internships.",
+    "link": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+    "published": "Thu, 06 Aug 2026 01:39:06 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Muse Code and Muse Spark 1.2",
+    "ai_summary": "• Muse Code, a coding assistant tool, receives updates with Muse Spark 1.2.\n• New features include improved AI-powered code completion and suggestions.\n• Seamless integration with Muse Code's existing code editor functionality enhances user experience.",
+    "student_angle": "With more emphasis on AI-driven tools, learning coding assistants like Muse Spark's updated features can be beneficial for enhancing efficiency in coding tasks.",
+    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "published": "Wed, 05 Aug 2026 19:15:52 +0000",
+    "category": "Industry News",
     "tags": "Software Engineering, AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "ai_summary": "• IP leaks in WebKit affect proxy browsers, allowing trackers to access user IP addresses.\n• DNS leaks also discovered, compromising user privacy in WebKit-based browsers and iCloud Private Relay.\n• Vulnerabilities found in WebKit's DNS resolution and TCP/IP connection handling.",
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "ai_summary": "• Researchers successfully trained open models to beat GPT-5.6 Sol on retrieval tasks.\n• New approach achieves impressive results while reducing costs by 100 times compared to competitors.\n• Advancements in open-source AI models are making them more accessible to developers and researchers.",
+    "student_angle": "Consider learning this open model to stay up-to-date with AI advancements and potential internship opportunities.",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "published": "Wed, 05 Aug 2026 18:18:56 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "ai_summary": "• Hobby programmers raise concerns about Large Language Model (LLM) usage hindering creative expression.\n• Fear of over-reliance on AI-powered tools threatens unique perspectives and skills in hobby communities.\n• Born Against, a community, argues that LLM usage can lead to a loss of individuality.",
     "student_angle": "",
-    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "published": "Tue, 04 Aug 2026 23:31:46 +0000",
+    "link": "https://blog.fogus.me/llm/born-against.html",
+    "published": "Wed, 05 Aug 2026 18:37:49 +0000",
     "category": "Industry News",
-    "tags": "Security, Web Development"
+    "tags": "Software Engineering, AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
-    "ai_summary": "• Retail investors turn to 3x leverage after 2x products are restricted or halted by exchanges.\n• Rising volatility in markets contributes to surge in interest for leveraged trading products globally.\n• Regulatory restrictions target high-risk 2x products to mitigate potential market disruptions, investor losses.",
-    "student_angle": "",
-    "link": "https://www.asiae.co.kr/en/article/2026080416131786841",
-    "published": "Wed, 05 Aug 2026 01:34:26 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "ai_summary": "• DuckDB, an embedded relational database, now supports Clojure programming language.\n• This integration provides developers with SQL capabilities and data analysis tools.\n• DuckDB allows for fast, local data processing on laptops or desktops.",
-    "student_angle": "Learning DuckDB and its Clojure interface may enhance entry-level data science and DevOps skills for internship opportunities.",
-    "link": "https://techascent.com/blog/just-ducking-around.html",
-    "published": "Tue, 04 Aug 2026 22:09:43 +0000",
-    "category": "Industry News",
-    "tags": "Data Science, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "ai_summary": "• Researchers propose simple algorithm to generate diverse skin tones using color space manipulation.\n• Algorithm's ability to simulate various ethnic skin tones may improve AI accuracy and inclusivity.\n• Researchers aim to increase diversity of AI-generated avatars and enhance user trust.",
-    "student_angle": "If exploring AI & ML for internship applications, learning skin tone generation techniques may be beneficial.",
-    "link": "https://toneyalexander.github.io/inclusive-color-space/",
-    "published": "Tue, 04 Aug 2026 15:16:22 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-    "ai_summary": "• Zigbee and Matter over Thread comparison reveals Matter's lower latency and faster data transfer rates.\n• Study highlights Matter's improved scalability and reliability due to its mesh networking capabilities.\n• Results show Matter's lower power consumption and reduced interference in densely populated IoT environments.",
-    "student_angle": "",
-    "link": "https://arxiv.org/abs/2603.04221",
-    "published": "Wed, 05 Aug 2026 00:10:37 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
-    "ai_summary": "• Maple-Preview achieves impressive performance on a single iPhone.\n• Ternary 20B MoE model processes 120 tokens per second.\n• Breakthrough in mobile AI capabilities demonstrated.",
-    "student_angle": "None. However, research experience with AI & ML is valuable in today's CS job market.",
-    "link": "https://deepgrove.ai/maple-preview",
-    "published": "Tue, 04 Aug 2026 19:44:55 +0000",
+    "title": "Prime Agent: A self-improving RLM agent",
+    "ai_summary": "• Prime Agent is a self-improving RLM agent that continuously updates and refines its decision-making processes.\n• The agent uses reinforcement learning to adapt to new tasks and situations, improving overall performance.\n• Prime Agent is designed for real-world applications, including customer service and recommendation systems.",
+    "student_angle": "Worth learning; understanding self-improving AI agents can help with AI engineering internships.",
+    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "published": "Wed, 05 Aug 2026 21:11:57 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-    "ai_summary": "• Elon Musk dominates SpaceX's first earnings call by making even bigger promises than executives.\n• Musk exaggerates the capabilities of SpaceX's Starlink and other projects, impressing investors.\n• Executives Bret Johnsen and Gwynne Shotwell offer initial projections, but Musk escalates expectations.",
+    "title": "Get up to $400 off your TechCrunch Disrupt 2026 pass until Friday",
+    "ai_summary": "• TechCrunch Disrupt 2026 pass now discounted by up to $400 for this week only.\n• $100 off on top of the current discounted pricing for founder, investor, or attendee passes.\n• Offer valid until this Friday for TechCrunch Disrupt 2026.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-    "published": "Tue, 04 Aug 2026 22:30:58 +0000",
+    "link": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "published": "Wed, 05 Aug 2026 22:55:43 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
+    "tags": "Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-    "ai_summary": "• Lucid Motors' new CEO outlines four key priorities to turnaround the company.\n• Successful launch of midsize EV and opening of Saudi factory are top objectives.\n• Robotaxis and cost-cutting to the tune of $1.4B in cash savings are crucial.",
-    "student_angle": "Lucid Motors may not be a top choice, but understanding EV tech could be useful in DevOps roles.",
-    "link": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-    "published": "Tue, 04 Aug 2026 22:24:00 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-    "ai_summary": "• TechCrunch has partnered with Moscone West hotels to offer discounted room rates for Disrupt attendees.\n• Deals are available for attendees booking their rooms through the official website.\n• Discounts range from 10% to 30% depending on hotel type and room availability.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-    "published": "Tue, 04 Aug 2026 22:18:30 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "ai_summary": "• SpaceX purchases $329M worth of Tesla Megapacks, showcasing interconnectedness of Elon Musk's companies.\n• Tesla's Megapack technology is designed for large-scale energy storage and grid stability.\n• This deal could have implications for renewable energy and sustainable infrastructure development.",
-    "student_angle": "This development might create opportunities in renewable energy infrastructure and grid management.",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "published": "Tue, 04 Aug 2026 21:07:26 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-    "ai_summary": "• SpaceX's revenue doubled due to a $20 million deal with Anthropic and Google compute services.\n• Starlink satellite internet service also contributed to the revenue growth.\n• First quarterly earnings since SpaceX went public in June showed impressive financial success.",
+    "title": "Nikita Bier steps down as X’s head of product",
+    "ai_summary": "• Nikita Bier steps down as head of product at X, citing a \"24/7 job\".\n• Bier took the role over a year ago to oversee X's product development.\n• No reason provided for Bier's departure from the company.",
     "student_angle": "None",
-    "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-    "published": "Tue, 04 Aug 2026 20:36:30 +0000",
+    "link": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+    "published": "Wed, 05 Aug 2026 21:30:50 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
-    "ai_summary": "• Electronic Frontier Foundation warns app developers about third-party code collecting location data.\n• Users grant permission for app access but unknowingly share sensitive location data with advertisers.\n• Third-party code may not be disclosed to developers, potentially violating user trust.",
-    "student_angle": "Be cautious when using third-party code in app development; verify its implications on user data.",
-    "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
-    "published": "Tue, 04 Aug 2026 20:26:53 +0000",
+    "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+    "ai_summary": "• Travis Kalanick's robotics startup Atoms acquires former Uber finance chief as CFO.\n• Startup plans to use funds to further develop its autonomy technology in robotics.\n• Atoms taps into network of investors for future investments, potentially including Uber.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+    "published": "Wed, 05 Aug 2026 21:26:40 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Security"
+    "tags": "Software Engineering, AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "ai_summary": "• Z.ai's open-weight GLM-5.2 model approaches frontier AI capabilities.\n• SaferAI report highlights lack of key safety mitigations in current models.\n• Fears of safety gap between governance and powerful open models rise.",
-    "student_angle": "Learn about AI safety considerations, but be cautious of working with highly complex open models.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "published": "Tue, 04 Aug 2026 20:05:26 +0000",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "ai_summary": "• Meta introduces Muse Code, an AI agent designed to handle complex tasks in large code bases.\n• The agent aims to reduce coding time and improve code quality with its advanced AI capabilities.\n• Muse Code will likely support various programming languages and frameworks in the future.",
+    "student_angle": "This technology launch boosts internship opportunities in AI & ML and software engineering, worth exploring.",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "published": "Wed, 05 Aug 2026 21:21:28 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Security"
+    "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "ai_summary": "• Anthropic partners with AI cloud startup Volta in $10B deal, expanding cloud presence.\n• Partnership will enable more efficient AI model training and deployment in the cloud.\n• Volta's cloud infrastructure will facilitate Anthropic's AI growth and expansion.",
-    "student_angle": "This deal may lead to more internship opportunities in AI cloud infrastructure.",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "published": "Tue, 04 Aug 2026 19:48:40 +0000",
+    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+    "ai_summary": "• OpenAI accused of not hiring U.S. citizens before sponsoring green-card applications for employees.\n• DOJ gains oversight of OpenAI's employee sponsorships to ensure U.S. citizen hiring attempts.\n• Investigation may lead to tightened regulations for tech companies sponsoring overseas work visas.",
+    "student_angle": "Avoid applying to OpenAI for internships due to current scrutiny and possible industry-wide changes.",
+    "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "published": "Wed, 05 Aug 2026 21:05:37 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, AI & ML"
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "ai_summary": "• Wrinkles app combines AI with audio tour guides to reveal hidden local history.\n• iOS and Android users can access Wrinkles for immersive experiences.\n• The app utilizes data science to curate stories from various historical sources.",
-    "student_angle": "This innovative product showcases AI & ML applications in real-world scenarios, worth learning for exposure.",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "published": "Tue, 04 Aug 2026 19:34:34 +0000",
+    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+    "ai_summary": "• Moove raises $250M to expand autonomous vehicle fleet management business.\n• Moove plans to own, not just manage, Waymo robotaxis in the future.\n• Investment will be used to scale up operations and expand its network.",
+    "student_angle": "No clear internship opportunities or tech skills required mentioned; not a good fit for interns.",
+    "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "published": "Wed, 05 Aug 2026 20:50:45 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, AI & ML, Data Science"
+    "tags": "AI & ML, Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
-    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-    "ai_summary": "• Nvidia forms Open Secure AI Alliance with over 120 companies to defend against AI agents.\n• Alliance releases proposals for securing against AI threats, indicating industry-wide response.\n• Nvidia spearheads effort to regulate AI security, demonstrating leadership in emerging tech.",
-    "student_angle": "This development might create opportunities for AI/ML and security researchers, worth exploring.",
-    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "published": "Tue, 04 Aug 2026 19:28:49 +0000",
+    "title": "How Lightspeed found its newest hire … via Instagram DM",
+    "ai_summary": "• Lightspeed Partners Josh Machiz and Claire Zau discuss growing social media presence.\n• Podcast \"Lightwork\" explores venture capital and tech industry conversations.\n• Partners share strategies behind their successful Instagram DM outreach tactic.",
+    "student_angle": "Consider applying to Lightspeed for valuable venture capital experience.",
+    "link": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+    "published": "Wed, 05 Aug 2026 20:48:56 +0000",
     "category": "Industry News",
-    "tags": "AI & ML, Security"
+    "tags": "Venture Capital, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why Lightspeed is going all-in on creator-led venture capital",
+    "ai_summary": "• Venture capital firms turn to creators to build trust with next-gen founders.\n• Lightspeed Partners hires Claire Zau, a seed investor with a large social media following.\n• Acquisition trend grows as Lightspeed follows a16z and OpenAI in creator-led investments.",
+    "student_angle": "If interested in product management, Lightspeed may be worth considering for internships.",
+    "link": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+    "published": "Wed, 05 Aug 2026 20:48:54 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "ai_summary": "• Klaviyo acquires Elias Torres' Agency, a reunion for tech founders and a strategic move for the e-commerce company.\n• Torres joins as CPO to lead AI agents, focusing on improving customer experience through AI technology.\n• The acquisition aims to boost Klaviyo's capabilities in leveraging AI for e-commerce and customer engagement.",
+    "student_angle": "Klaviyo might offer internships related to AI and e-commerce; research and apply as relevant positions open up.",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "published": "Wed, 05 Aug 2026 20:05:00 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "ai_summary": "• Top Google AI researchers, including Jeff Dean, leave to form an AI startup.\n• The startup aims to accelerate scientific discovery using AI technologies.\n• Google loses key talent amid AI research competition.",
+    "student_angle": "Learning about innovative AI applications like this one can give you a competitive edge in the job market.",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "published": "Wed, 05 Aug 2026 19:30:19 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
   }
 ]
