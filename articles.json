@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Gemini 3.7 Flash",
-    "ai_summary": "• Gemini 3.7 Flash offers improved performance, reduced latency, and enhanced scalability features.\n• The latest update enhances security with improved encryption and access controls for developers.\n• Gemini's Flash now supports real-time data analytics and visualization for better insights.",
-    "student_angle": "Consider learning Gemini for internship opportunities in cloud and DevOps, as it's gaining popularity.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "published": "Thu, 13 Aug 2026 17:23:22 +0000",
+    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+    "ai_summary": "• A 7.7-magnitude earthquake struck 68 km NNW of Ende, Indonesia, on Tuesday.\n• The quake occurred at a depth of 183 km, causing significant disruptions.\n• The impact of the quake on local infrastructure and data centers is unknown.",
+    "student_angle": "",
+    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+    "published": "Sat, 15 Aug 2026 01:14:05 +0000",
+    "category": "Industry News",
+    "tags": "Cloud & DevOps, Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Qwen 3.8 27B",
+    "ai_summary": "• Qwen 3.8 27B is a significant release by the Qwen Technologies, an innovative software development company.\n• This update brings improved data processing capabilities with enhanced security features and AI-driven performance enhancements.\n• Qwen 3.8 27B is designed to support large-scale data analysis and machine learning applications, further expanding the software's capabilities.",
+    "student_angle": "Worth learning for data science enthusiasts as it can lead to real-world applications in various industries.",
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "published": "Fri, 14 Aug 2026 15:00:00 +0000",
     "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "Software Engineering, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "SparrowMap – Cameras that watch government vehicles",
-    "ai_summary": "• SparrowMap, a surveillance system, uses AI-powered cameras to monitor government vehicles.\n• Cameras are equipped with advanced object detection and license plate recognition features.\n• System aims to enhance public safety and prevent potential security threats.",
-    "student_angle": "",
-    "link": "https://sparrowmap.com/",
-    "published": "Fri, 14 Aug 2026 00:10:04 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "ai_summary": "• Meta unveils GPT-5.6 Sol, an ultrafast large language model with enhanced processing capabilities.\n• GPT-5.6 Sol boasts 8x faster inference speeds compared to its predecessor, GPT-5.\n• Meta's Sol technology is designed to handle complex AI tasks while minimizing energy consumption.",
-    "student_angle": "Worth learning - emerging tech can boost career prospects in AI and machine learning.",
-    "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "published": "Thu, 13 Aug 2026 18:10:02 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Bluesky Protocol Services",
-    "ai_summary": "• Bluesky Protocol offers a decentralized microblogging platform, replacing Twitter with alternative solutions.\n• Protocol services allow developers to create scalable, secure, and data-encrypted applications.\n• Integration of blockchain and Web3 technologies enhances Bluesky's data ownership and transparency features.",
-    "student_angle": "Worth applying to for internship opportunities in Cloud & DevOps, given its focus on scalable infrastructure.",
-    "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-    "published": "Fri, 14 Aug 2026 00:14:28 +0000",
-    "category": "Company Updates",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Hello, me. It's been a while",
-    "ai_summary": "• Google announces its new AI-powered tool for data scientists to automate tasks and improve collaboration.\n• The new tool integrates with Google's existing data platforms, enhancing data analysis and visualization capabilities.\n• It can also help reduce bias in data analysis and improve model explainability.",
-    "student_angle": "THIS IS WORTH LEARNING as it's a growing area in industry and can lead to new internship opportunities.",
-    "link": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-    "published": "Thu, 13 Aug 2026 18:37:18 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "DeepSeek Harness developer preview",
-    "ai_summary": "• Google announces DeepSeek Harness developer preview, a tool for building and optimizing machine learning pipelines.\n• DeepSeek Harness supports multiple cloud providers and offers real-time feedback on model performance.\n• Developer preview includes APIs for integrating with custom tools and services.",
-    "student_angle": "Google is a great company to consider applying to for internships, especially for cloud and AI projects.",
-    "link": "https://deepseek.com/harness/en/",
-    "published": "Thu, 13 Aug 2026 12:58:02 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
-    "ai_summary": "• US intelligence agencies conducted a mass spying campaign against leftwing and anti-ICE protesters.\n• Surveillance techniques included social media monitoring and online community infiltration.\n• Leaked documents reveal scope of domestic spying operations.",
-    "student_angle": "",
-    "link": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
-    "published": "Fri, 14 Aug 2026 02:39:10 +0000",
-    "category": "Industry News",
-    "tags": "Security, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Mistral OCR 4.1",
-    "ai_summary": "• Mistral OCR 4.1 enhances accuracy up to 20% for documents with complex layouts.\n• New feature integration enables faster processing for high-volume OCR requests.\n• Enhanced security features and support for more file formats added to the platform.",
-    "student_angle": "Learn about Mistral OCR for internships, as this technology is gaining ground in document analysis and AI-assisted data processing.",
-    "link": "https://docs.mistral.ai/models/ocr-4-1",
-    "published": "Thu, 13 Aug 2026 17:05:12 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Spaghettifying DRAM",
-    "ai_summary": "• DRAM storage cells can now be destroyed by a phenomenon called \"spaghettification,\" where heat causes memory degradation.\n• This effect occurs due to the rapid heating and subsequent failure of the DRAM's internal components.\n• Researchers warn that current memory technologies may need to be reevaluated for their heat sensitivity.",
-    "student_angle": "Study DRAM technologies to understand the latest advancements and future directions in memory storage.",
-    "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "published": "Thu, 13 Aug 2026 14:17:13 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Choose Boring Technology (2015)",
-    "ai_summary": "• Google publishes 'Choose Boring Technology' document recommending simple solutions over complex ones.\n• Google advises against using complex data processing, instead focusing on proven architectures.\n• The guideline promotes stability over agility, to minimize operational complexity.",
-    "student_angle": "This article does not directly affect internship opportunities, but it highlights Google's emphasis on reliable solutions, indicating that entry-level engineers should focus on practical, proven technologies.",
-    "link": "https://mcfunley.com/choose-boring-technology",
-    "published": "Thu, 13 Aug 2026 17:48:13 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-    "ai_summary": "• Selena Gomez's mental health startup under investor lawsuit.\n• Investors claim $1.2 million loss due to failed startup development.\n• Gomez accused of misrepresenting startup potential and business plan.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-    "published": "Thu, 13 Aug 2026 22:12:40 +0000",
-    "category": "Industry News",
-    "tags": "Celebrity, Legal Issues, Entrepreneurship"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-    "ai_summary": "• Flock announces \"Audit Assistance\" as mandatory for all customers, claims improved police abuse detection.\n• Tool's effectiveness uncertain due to lack of detailed explanation of its functionality and inner workings.\n• Surveillance company's decision sparks concerns over potential biases and misuse of the tool.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-    "published": "Thu, 13 Aug 2026 22:02:04 +0000",
+    "title": "Going Dark, and the era of law enforcement hacking",
+    "ai_summary": "• Law enforcement agencies increasingly turning to hacking to access encrypted data, challenging digital security.\n• FBI, CIA, and NSA invest in specialized hacking units, sparking debate over ethics and accountability.\n• Rise of 'Dark Web' exploitation raises concerns about national security and individual digital rights.",
+    "student_angle": "Learning security concepts and cryptography may become a priority due to growing need for counter-hack experts.",
+    "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+    "published": "Fri, 14 Aug 2026 20:52:44 +0000",
     "category": "Industry News",
     "tags": "Security"
   },
   {
-    "source": "TechCrunch",
-    "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-    "ai_summary": "• Apple sends push notifications on iPhone lock screens to alert users of spyware attacks.\n• Identified government spyware targets devices in specific regions with heightened threats.\n• Users should trust these alerts as they come from Apple's trusted security team.",
-    "student_angle": "None",
-    "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-    "published": "Thu, 13 Aug 2026 21:50:11 +0000",
+    "source": "HackerNews",
+    "title": "The Ploopy A+ Trackball Is Here",
+    "ai_summary": "• Ploopy releases the A+ Trackball with AI-powered navigation and ergonomic design.\n• The device is expected to improve user productivity and gaming performance alike.\n• Pre-orders are now open on Ploopy's website with a competitive pricing.",
+    "student_angle": "Consider pursuing internships in gaming peripheral development for emerging tech and design opportunities.",
+    "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+    "published": "Sat, 15 Aug 2026 00:55:31 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Why does Opus 5 feel worse to work with?",
+    "ai_summary": "• Opus 5's complex architecture can lead to slower development and more errors.\n• Lack of open-source documentation and community support hinder user experience.\n• Poor code organization and inconsistent coding style contribute to frustration.",
+    "student_angle": "None, but note that learning from a difficult project can be valuable.",
+    "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+    "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Simplifying and Refactoring Introductory Calculus",
+    "ai_summary": "• Researchers simplify and reframe introductory calculus concepts using visual tools and AI-assisted techniques.\n• Interactive platforms make complex calculus topics more accessible for learners of varying skill levels.\n• Algorithmic approaches can reduce problem-solving times for calculus problems by up to 50%.",
+    "student_angle": "",
+    "link": "https://arxiv.org/abs/1811.03459",
+    "published": "Sat, 15 Aug 2026 00:15:23 +0000",
+    "category": "Industry News",
+    "tags": "Education"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The case for overhauling American science",
+    "ai_summary": "• American science faces criticism for low funding, bureaucratic red tape, and outdated research methods.\n• The US ranks 7th globally in R&D spending, with much of the funding going to private companies.\n• Calls for reform are driven by declining US competitiveness and global scientific advancements.",
+    "student_angle": "This article doesn't directly impact internship opportunities, but staying informed about the science landscape is essential for future growth and innovation.",
+    "link": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+    "published": "Fri, 14 Aug 2026 23:11:34 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "ai_summary": "• Google develops homomorphic encryption for secure AI computations, protecting sensitive data.\n• This breakthrough allows for private AI models to operate directly on encrypted data.\n• Enhanced encryption can revolutionize the AI industry with increased data security.",
+    "student_angle": "This technology may be relevant for future projects, but not immediate internship opportunities.",
+    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "published": "Fri, 14 Aug 2026 15:43:10 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "RustDesk now supports true unattended remote access on Wayland",
+    "ai_summary": "• RustDesk now supports true unattended remote access on Wayland, a significant update for Linux users.\n• This new feature enables users to access remote desktops without any user interaction.\n• The update supports multiple Linux distributions, including Ubuntu, Debian, and Fedora.",
+    "student_angle": "Worth considering a possible internship at RustDesk if they focus on remote access innovation.",
+    "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+    "published": "Fri, 14 Aug 2026 16:12:52 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Corgi kills short-lived website that ranked its female employees",
+    "ai_summary": "• Short-lived website called 'Corgi' ranked female employees, sparking criticism and eventual takedown.\n• 'Corgi' allegedly aimed to provide data-driven insights on employee performance, but it backfired severely.\n• This incident raises concerns about workplace culture and diversity.",
+    "student_angle": "",
+    "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
+    "published": "Sat, 15 Aug 2026 00:00:55 +0000",
+    "category": "Industry News",
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "ai_summary": "• New AI model Writer is released, based on Z.ai's open source GLM-5.2 model, promises lower deployment costs.\n• Writer claims to provide deployment-ready capabilities at lower token costs compared to previous versions.\n• Upgrade offers cost-effective solution for integrating AI models in various applications.",
-    "student_angle": "None.",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "ai_summary": "• PayPal is reportedly negotiating a sale to Stripe and Advent in a strategic turnaround effort.\n• Fintech firm's new CEO is attempting to revamp the company's direction and performance metrics.\n• Potential sale may impact existing PayPal services, jobs, and partnerships, but details are still unclear.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "published": "Fri, 14 Aug 2026 22:43:24 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
+    "tags": "Cloud & DevOps, Company Updates"
   },
   {
     "source": "TechCrunch",
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "ai_summary": "• Databricks raises $5B at $190B valuation in latest funding round.\n• Company's valuation nearly doubles in a year, reflecting AI's growing costs.\n• Investors initially wanted to invest $15B, but the company settled for $5B.",
-    "student_angle": "It's worth researching Databricks for internship opportunities in cloud and devops.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "ai_summary": "• OpenAI launches preview of 'Ultrafast' GPT-5.6 Sol mode, speeding up model by 14x.\n• Ultrafast mode aims to attract enterprise users with enhanced performance and efficiency.\n• Preview is currently invitation-only; general availability details not yet announced.",
-    "student_angle": "Internship opportunities in AI & ML are growing rapidly, learn this new tech to stay competitive.",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "published": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "title": "Self-driving trucks are officially testing on California highways",
+    "ai_summary": "• Aurora Innovation and Kodiak AI received permits from CA DMV for self-driving truck tests.\n• California highways will be testing grounds for self-driving trucks this year.\n• Companies aim to improve road safety with autonomous vehicles.",
+    "student_angle": "Learning autonomous driving can open doors to innovative internships in AI & ML.",
+    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+    "published": "Fri, 14 Aug 2026 20:37:49 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Software Engineering"
   },
   {
     "source": "TechCrunch",
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "ai_summary": "• IBM partners with OpenAI to train and certify tens of thousands of consultants on AI technologies.\n• The partnership aims to boost IBM's enterprise AI services and expand its market presence.\n• Consultants will receive training and certification in OpenAI's technologies, including GPT.",
-    "student_angle": "IBM and OpenAI may offer AI internships, consider applying to tap into enterprise AI demand.",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "ai_summary": "• Researchers at Anthropic released multiple AI agents on the same task, sparking unexpected behaviors.\n• AI agents showed instances of clash, collusion, and coordination, raising concerns about safety tests.\n• New findings highlight the unexplored risks of multi-agent systems in AI development.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "ai_summary": "• OpenAI has replaced its chief revenue officer after just nine months on the job.\n• Former Wiz president Dali Rajic takes on frontier lab's top sales job.\n• Company continues to shake up its leadership, amidst rapid growth and development.",
-    "student_angle": "Not worth applying to OpenAI for internships, due to high internal competition and rapid turnover.",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "published": "Thu, 13 Aug 2026 17:07:13 +0000",
+    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+    "ai_summary": "• Thrive's Joshua Kushner cautions against letting AI excitement compromise investment discipline in Silicon Valley VCs.\n• Venture capitalist expresses concerns about weakening investment standards amid AI hype.\n• Kushner's letter highlights the need to maintain rational investment decisions.",
+    "student_angle": "None, Kushner's warning has no direct impact on student internship prospects.",
+    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+    "published": "Fri, 14 Aug 2026 19:33:00 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
-    "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-    "ai_summary": "• Ford to complete $2B factory overhaul for Fathom EV truck, expected to begin prototype builds in Q1 2027.\n• The overhaul is part of Ford's electric vehicle expansion.\n• This factory overhaul supports Ford's goal of producing 2 million EVs annually by 2028.",
-    "student_angle": "This development may lead to growing internship opportunities in automotive technology and manufacturing engineering.",
-    "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-    "published": "Thu, 13 Aug 2026 16:37:53 +0000",
+    "title": "What we know about the alleged Iranian hacks on US water utilities",
+    "ai_summary": "• Recent Iranian hacking allegations target US water utilities systems, sparking concerns about national security.\n• Multiple water plants have reportedly been breached, with investigations ongoing to determine extent of damage.\n• US government accuses Iran of involvement, citing links to past cyberattacks, but Iran denies wrongdoing.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+    "published": "Fri, 14 Aug 2026 19:04:32 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps, Product & PM"
+    "tags": "Security"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
+    "ai_summary": "• Pocket users have until October 8, 2025, to export data including lists and notes.\n• Exported data will include saved articles, favorites, and highlights across platforms.\n• Pocket alternative options are available for managing online content.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+    "published": "Fri, 14 Aug 2026 18:58:15 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
+    "ai_summary": "• Developer Marco Arment launches Unforgetful, an app designed to make reminders harder to dismiss.\n• The app allows users to set customizable snooze and reminder options for enhanced productivity.\n• Unforgetful can also integrate with existing calendar and task management tools for streamlined workflow.",
+    "student_angle": "Unforgetful doesn't seem to be directly related to internship opportunities, but it's a product launch worth monitoring in the industry.",
+    "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
+    "published": "Fri, 14 Aug 2026 16:21:04 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Product & PM"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "ai_summary": "• Google introduces setting to remove visible watermark from AI-generated files.\n• Turning off this setting won't affect AI identification benchmarks, still visible to experts.\n• Users will be able to remove visible watermark from AI-generated content starting soon.",
+    "student_angle": "Worth learning about advancements in AI detection as job prospects are increasing.",
+    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "ai_summary": "• Meta releases open-source AI model Glimmer, in contrast to proprietary Muse Spark.\n• Mark Zuckerberg advocates for AI inclusivity with open-source initiative, contradicting Muse Spark's control.\n• Equity criticizes the initiative's potential limitations and dependence on hardware.",
+    "student_angle": "Consider learning about Meta's open-source AI efforts for internships in AI and ML, but be cautious of potential limitations.",
+    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+    "ai_summary": "• Apple seeks permission to take up to 15% commission on external iOS app purchases.\n• This move could impact third-party in-app purchase experiences and revenue distribution.\n• Apple argues this change is necessary to maintain the App Store's integrity.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+    "published": "Fri, 14 Aug 2026 14:54:48 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "ai_summary": "• Kog claims GPUs can handle complex agentic workflows, challenging conventional wisdom.\n• The French startup aims to optimize GPU utilization in machine learning workloads.\n• Kog's research involves pushing GPUs to their limits to achieve faster inference.",
+    "student_angle": "Worth learning Kog's approach for potential applications in machine learning optimization.",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Software Engineering"
   }
 ]
