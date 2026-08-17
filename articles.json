@@ -1,129 +1,169 @@
 [
   {
     "source": "HackerNews",
-    "title": "Semaglutide linked to lower predicted dementia risk",
-    "ai_summary": "• A study suggests that Semaglutide, a medication, may lower the predicted risk of dementia.\n• Researchers found a potential link between Semaglutide treatment and reduced dementia risk in older adults.\n• The study's findings offer insights into novel treatments for dementia, a growing concern in aging populations.",
+    "title": "The Life and Death of Direct File [pdf]",
+    "ai_summary": "• Google shuts down Direct File [pdf], an experimental cloud storage platform developed for Google Drive.\n• Users will be migrated to Drive's existing system with no changes to their storage capacity.\n• The demise of Direct File [pdf] marks the end of a six-year experiment in cloud service development.",
     "student_angle": "",
-    "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-    "published": "Sat, 15 Aug 2026 15:58:53 +0000",
+    "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+    "published": "Mon, 17 Aug 2026 00:17:57 +0000",
     "category": "Industry News",
-    "tags": "Health Tech, AI & ML"
+    "tags": "Software Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Cultivating a state of mind where new ideas are born (2023)",
-    "ai_summary": "• Researchers propose a neural network framework for generating novel product ideas based on existing concepts.\n• The framework utilizes natural language processing and collaborative filtering techniques to create innovative products.\n• Early results show promising outcomes with increased user satisfaction and marketability.",
-    "student_angle": "Consider exploring the framework for potential internship opportunities in AI-powered product development.",
-    "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
-    "published": "Sat, 15 Aug 2026 20:54:11 +0000",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+    "ai_summary": "• Qwen 3.8 27B boasts impressive performance, with optimized code and efficient memory management.\n• The new version introduces numerous bug fixes and stability improvements, enhancing overall usage experience.\n• However, users report an increased tendency for the software to overthink problems, leading to unnecessary complexity.",
+    "student_angle": "Consider learning this framework if you're interested in software engineering, but be aware of the potential pitfalls.",
+    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "published": "Sun, 16 Aug 2026 23:45:09 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering, Product & PM"
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "ai_summary": "• AI-driven drug discovery uses machine learning algorithms to predict efficacy and potential side effects of new compounds.\n• Researchers and pharmaceutical companies are leveraging AI to analyze large datasets and accelerate the discovery process.\n• AI's accuracy and speed help reduce the time, cost, and resources required to develop new medicines.",
-    "student_angle": "This technology represents a rapidly growing area of research, making it worthwhile for students to learn AI and ML principles for future opportunities in the field.",
-    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+    "title": "Rhombus 1.1 is now available",
+    "ai_summary": "• Rhombus 1.1 now supports improved collaboration features for teams and remote work scenarios.\n• New user interface enhancements improve overall user experience with Rhombus.\n• Enhanced security measures include 2FA and multi-factor authentication protection.",
+    "student_angle": "Apply to Rhombus if you are interested in working on collaborative software projects, a growing internships area.",
+    "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "published": "Mon, 17 Aug 2026 00:48:21 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+    "ai_summary": "• A third-world embedded engineer weighs in on the RISC-V architecture, expressing concerns about its adoption rate.\n• The engineer believes that RISC-V's complexity and lack of industry support hinder widespread adoption.\n• This perspective offers a nuanced view of the RISC-V ecosystem, challenging assumptions about its potential.",
+    "student_angle": "Considering the low adoption rate, it's debatable whether RISC-V is worth the time to learn, but exploring alternative CPU architectures can be valuable for understanding system design principles.",
+    "link": "https://rvembedded.com/blog_post/12/",
+    "published": "Sun, 16 Aug 2026 17:01:07 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Embedded Systems"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Claude: System Prompts",
+    "ai_summary": "• Claude is an AI system that generates human-like text responses to prompts from users.\n• Claude can be integrated into various applications and systems as a conversational AI interface.\n• Claude's development involves a range of AI technologies including natural language processing and machine learning.",
+    "student_angle": "",
+    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "published": "Sun, 16 Aug 2026 12:48:21 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+    "ai_summary": "• AGI-64 emulator brings Sierra adventure games to Commodore 64 retro console.\n• Users can experience classic games on original hardware with improved graphics.\n• The emulator adds AGI-64 functionality to Commodore 64 for retro gaming enthusiasts.",
+    "student_angle": "",
+    "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+    "published": "Mon, 17 Aug 2026 01:45:36 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Reticulum – Decentralized Mesh Network",
+    "ai_summary": "• Reticulum is an open-source mesh network that enables decentralized, peer-to-peer communication.\n• It provides a scalable and secure way to connect devices without relying on centralized infrastructure.\n• Reticulum is built on top of blockchain technology for added security and transparency.",
+    "student_angle": "Consider learning Reticulum for a future career in decentralized systems and cloud computing, as it's a growing area.",
+    "link": "https://reticulum.network/",
+    "published": "Sun, 16 Aug 2026 23:59:10 +0000",
+    "category": "Tech Trends",
+    "tags": "Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Protobuf has LSP support. You're welcome",
+    "ai_summary": "• Protocol Buffers (protobuf) now supports Language Server Protocol (LSP), enabling improved developer experience.\n• LSP support allows for features like code completion, diagnostics, and code refactoring within protobuf files.\n• This update is available in version 4.21.0 and onwards, ensuring wider adoption across the industry.",
+    "student_angle": "Learn this framework as it's widely adopted in industry projects and will be beneficial for entry-level jobs.",
+    "link": "https://buf.build/blog/protobuf-lsp",
+    "published": "Sun, 16 Aug 2026 18:48:27 +0000",
+    "category": "Industry News",
+    "tags": "Software Engineering, Cloud & DevOps"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The federal keyword lists that canceled billions in research funding",
+    "ai_summary": "• US federal agencies canceled billions in research funding due to misuse of keywords in proposals.\n• Projects using forbidden keywords such as \"social justice\" and \"equity\" were denied funding.\n• Funding was canceled for grants worth billions, affecting research institutions nationwide.",
+    "student_angle": "",
+    "link": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+    "published": "Mon, 17 Aug 2026 00:14:10 +0000",
     "category": "Industry News",
     "tags": "AI & ML, Data Science"
   },
   {
     "source": "HackerNews",
-    "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-    "ai_summary": "• Mic Drop is a real-time multiplayer karaoke game for social entertainment.\n• Players can sing together in groups and compete with each other.\n• The game features a dynamic ranking system and leaderboards.",
-    "student_angle": "",
-    "link": "https://www.micdrop.gg/",
-    "published": "Sun, 16 Aug 2026 00:46:29 +0000",
+    "title": "The AI Credit Resale Economy",
+    "ai_summary": "• AI credits can be bought and sold on new digital marketplaces, similar to carbon credits.\n• This emerging economy is led by companies like Stability AI and Moonshot.\n• Potential applications include AI model ownership and data ownership in the metaverse.",
+    "student_angle": "None",
+    "link": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "published": "Sun, 16 Aug 2026 14:44:55 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": "Software Engineering, AI & ML, Data Science"
   },
   {
-    "source": "HackerNews",
-    "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-    "ai_summary": "• New at-home tick test can diagnose Lyme Disease more effectively than current methods.\n• The non-invasive test uses artificial intelligence to analyze tick saliva for infection markers.\n• Potential to revolutionize Lyme Disease diagnosis, especially in areas with high prevalence.",
-    "student_angle": "",
-    "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-    "published": "Sat, 15 Aug 2026 14:04:49 +0000",
+    "source": "TechCrunch",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "ai_summary": "• Stripe reportedly acquires AI gateway startup OpenRouter for $7B+ in a major M&A deal.\n• Acquisition positions Stripe as a key player in AI-enabled payment processing and financial services.\n• OpenRouter's CEO describes startup as \"Stripe for AI\", indicating a focus on AI-driven payments.",
+    "student_angle": "Consider applying to Stripe, especially if interested in AI-driven financial services and product management roles.",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "published": "Sun, 16 Aug 2026 20:57:04 +0000",
     "category": "Industry News",
-    "tags": "Healthcare, Biotechnology"
+    "tags": "Software Engineering, AI & ML"
   },
   {
-    "source": "HackerNews",
-    "title": "Abdominal fat predicts heart disease risk better than BMI",
-    "ai_summary": "• Study reveals abdominal fat measurement as a stronger predictor of heart disease risk than BMI.\n• This new metric could lead to improved health assessments and personalized interventions.\n• Researchers emphasize the importance of measuring body fat distribution in clinical settings.",
-    "student_angle": "",
-    "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-    "published": "Sat, 15 Aug 2026 21:14:34 +0000",
+    "source": "TechCrunch",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "ai_summary": "• Mark Zuckerberg's vision for an AI-driven future has sparked skepticism among tech experts.\n• Critics argue Facebook's approach to AI is narrow and lacks transparency.\n• Experts question whether Zuckerberg's AI plans align with Facebook's business interests.",
+    "student_angle": "None.",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "published": "Sun, 16 Aug 2026 20:32:01 +0000",
     "category": "Industry News",
-    "tags": "Data Science"
+    "tags": "Software Engineering, AI & ML"
   },
   {
-    "source": "HackerNews",
-    "title": "Tea5767-Radio-Tuner",
-    "ai_summary": "• The Tea5767-Radio-Tuner is an open-source digital radio tuner implemented in VHDL and FPGA.\n• The tuner has a high level of integration with an LCD and buttons for user interface.\n• The design offers flexibility and modularity in terms of configuration and implementation.",
-    "student_angle": "",
-    "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-    "published": "Sat, 15 Aug 2026 23:54:35 +0000",
+    "source": "TechCrunch",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "ai_summary": "• Anthropic CEO Dario Amodei denies painting an overly pessimistic picture of AI development.\n• AI backlash seen as a crisis of trust rather than a safety issue, according to Amodei.\n• Anthropic focuses on developing more transparent and explainable AI systems to address trust concerns.",
+    "student_angle": "Worth keeping an eye on, could lead to more transparency-focused AI internships.",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "published": "Sun, 16 Aug 2026 16:53:51 +0000",
     "category": "Industry News",
-    "tags": "Tech Trends"
+    "tags": "AI & ML, Software Engineering"
   },
   {
-    "source": "HackerNews",
-    "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-    "ai_summary": "• Super El Niño event reaches record severity, expected to impact global climate patterns.\n• Climate model forecasts indicate worsening effects on North America and Australia.\n• Scientists warn of severe droughts and heavy rainfall in various regions.",
-    "student_angle": "",
-    "link": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
-    "published": "Sat, 15 Aug 2026 19:20:51 +0000",
+    "source": "TechCrunch",
+    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+    "ai_summary": "• Electric air taxi service Eve Urban Air Mobility unveiled its eVTOL prototype for urban transportation.\n• Eve partnered with Embraer to develop the aircraft's production and commercialization strategy.\n• The partnership aims to revolutionize urban air mobility with sustainable and efficient transportation solutions.",
+    "student_angle": "None",
+    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+    "published": "Sun, 16 Aug 2026 16:04:00 +0000",
     "category": "Industry News",
-    "tags": "Data Science, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "RISC-V: They Should Have Known Better",
-    "ai_summary": "• RISC-V is an open-source instruction set architecture (ISA) gaining traction in the tech industry.\n• Its architecture reduces licensing costs, offering more flexibility for hardware developers and makers.\n• Major tech companies like Google, Amazon, and IBM are adopting RISC-V-based systems.",
-    "student_angle": "While RISC-V adoption may lead to new hardware development opportunities, its impact on entry-level jobs in the software industry remains limited for now.",
-    "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-    "published": "Fri, 14 Aug 2026 12:50:56 +0000",
-    "category": "Tech Trends",
-    "tags": "Cloud & DevOps, Software Engineering"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Tracking down a Zsh history data loss bug",
-    "ai_summary": "• Investigation of Zsh history data loss reveals bug in savehistory function.\n• Researchers identify cause as incorrect argument order, leading to lost commands.\n• Temporarily fixing bug requires editing /etc/zsh/ functions or using zmodload.",
-    "student_angle": "",
-    "link": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-    "published": "Sat, 15 Aug 2026 21:39:09 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": "Cloud & DevOps"
   },
   {
     "source": "TechCrunch",
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "ai_summary": "• Woman's claim highlights concerns about AI tools exploiting user data for malicious purposes.\n• Incident involves Grok, a photo editing AI tool, allegedly used for explicit image manipulation.\n• Alleged abuse of AI tools raises red flags for online safety and community protection.",
+    "ai_summary": "• Woman claims her stepfather used AI tool Grok to create explicit imagery from childhood photo.\n• Raises concerns about misuse of AI technology for child exploitation and abuse content.\n• Grok's technology is designed to transform images with AI but faces scrutiny for its misuse.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "published": "Sat, 15 Aug 2026 21:29:19 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML, Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "ai_summary": "• Anthropic’s Claude AI model will feature new watermarks to detect misuse and protect intellectual property.\n• The watermarks can be hidden from casual viewers, but AI-powered tools can likely detect them.\n• Researchers are concerned that the code implementing the watermarks might leak online and compromise AI development.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "published": "Sat, 15 Aug 2026 18:58:39 +0000",
     "category": "Industry News",
     "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "ai_summary": "• Anthropic will use advanced algorithms to embed invisible watermarks in Claude's AI outputs.\n• Watermarks can potentially be detected with AI forensics, making edited outputs traceable.\n• Claude's code will be modified to incorporate watermarking capabilities without compromising performance.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "TechCrunch",
     "title": "SpaceX officially closes its Cursor acquisition",
-    "ai_summary": "• SpaceX acquires AI coding startup Cursor to boost its development capabilities.\n• Acquisition expected to enhance SpaceX's space exploration and mission efficiency.\n• Financial details of the deal remain undisclosed at this time.",
-    "student_angle": "This acquisition may open up opportunities in AI and ML for SpaceX interns.",
+    "ai_summary": "• SpaceX announces completion of Cursor acquisition, enhancing AI capabilities.\n• Acquisition aims to accelerate development of AI-driven technologies for space exploration.\n• Financial terms of the deal remain undisclosed despite successful transfer of ownership.",
+    "student_angle": "SpaceX acquiring Cursor means increased AI research opportunities, worth exploring for internships.",
     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "published": "Sat, 15 Aug 2026 16:30:00 +0000",
     "category": "Industry News",
@@ -132,71 +172,31 @@
   {
     "source": "TechCrunch",
     "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "ai_summary": "• Monitor account activity for unusual login locations and login times.\n• Check account notifications for suspicious activity or unauthorized changes.\n• Verify two-factor authentication to prevent unauthorized access.",
-    "student_angle": "",
+    "ai_summary": "• Regularly check account login activity, suspicious email, and notification alerts on AI platforms.\n• Verify account recovery methods are up-to-date, including email, password, and two-factor authentication.\n• Monitor account password and security token for unexpected login or access from unfamiliar locations.",
+    "student_angle": "Regularly monitoring AI account security can help prevent breaches, vital for internships in this field.",
     "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
     "published": "Sat, 15 Aug 2026 16:10:00 +0000",
     "category": "Industry News",
-    "tags": "Security, AI & ML"
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
     "title": "Every fusion startup that has raised over $100M",
-    "ai_summary": "• Fusion startups raised a total of $7.1 billion to date, with some receiving over $100 million in funding.\n• Top-funding fusion startups include Commonwealth Fusion Systems, General Fusion, and Lockheed Martin's fusion branch.\n• This trend in investment indicates significant interest in developing commercial nuclear fusion capabilities.",
-    "student_angle": "Consider internships at top-funded fusion startups for hands-on experience in cutting-edge energy tech.",
+    "ai_summary": "• Companies like Commonwealth Fusion Systems, Lockheed Martin, and General Fusion have raised over $100M each for fusion tech.\n• Funding reached at $7.1 billion, with a focus on a few prominent players disrupting traditional energy markets.\n• Companies like Tokamak Energy and First Light Fusion also securing substantial investments for commercializing fusion energy.",
+    "student_angle": "These successful companies may offer limited internship opportunities due to high competition and selectivity.",
     "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
     "published": "Sat, 15 Aug 2026 13:15:20 +0000",
     "category": "Industry News",
-    "tags": "Energy Tech"
+    "tags": "Energy & Sustainability"
   },
   {
-    "source": "TechCrunch",
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "ai_summary": "• PayPal reportedly in talks to be sold to Stripe and Advent, its new CEO attempts to turn the company around.\n• Potential sale could significantly impact the fintech industry, possibly leading to changes in market competition and partnerships.\n• The negotiations are ongoing as the new PayPal CEO seeks to revitalize the company's growth and profitability.",
-    "student_angle": "None, focus on general fintech internships not specific to PayPal for better job prospects.",
-    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "published": "Fri, 14 Aug 2026 22:43:24 +0000",
-    "category": "Industry News",
-    "tags": "Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Self-driving trucks are officially testing on California highways",
-    "ai_summary": "• Self-driving trucks from Aurora Innovation and Kodiak AI begin testing on California highways.\n• Both companies obtained permits from the California Department of Motor Vehicles.\n• Autonomous trucks test safety and efficiency on public roads.",
+    "source": "The Verge",
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "ai_summary": "• OpenAI reportedly disbanded its preparedness team in the past month, according to FT.\n• The team was responsible for assessing model risks and developing mitigation strategies.\n• Responsibility for risk assessment now falls on other teams within the company.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-    "published": "Fri, 14 Aug 2026 20:37:49 +0000",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "published": "2026-08-16T17:32:56-04:00",
     "category": "Industry News",
-    "tags": "AI & ML, Software Engineering"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "ai_summary": "• Thrive's founder Joshua Kushner warns against letting AI excitement compromise investment discipline.\n• He emphasizes the importance of maintaining a balanced approach to AI investments.\n• Kushner stresses the need for caution amidst growing AI hype in Silicon Valley.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-    "published": "Fri, 14 Aug 2026 19:33:00 +0000",
-    "category": "Industry News",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "What we know about the alleged Iranian hacks on US water utilities",
-    "ai_summary": "• Reports of hacker activity targeting US water plants, allegedly by Iranian government actors.\n• Systems vulnerabilities remain undisclosed due to ongoing investigations.\n• Water plant staff reported no disruptions or physical harm from the alleged attacks.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
-    "published": "Fri, 14 Aug 2026 19:04:32 +0000",
-    "category": "Industry News",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Read-it-later app Pocket shut down — here are the best alternatives",
-    "ai_summary": "• Pocket, a popular read-it-later app, is shutting down on October 8, 2025.\n• Users have until then to export saved articles and other items.\n• Alternatives like Instapaper and Read Later are options for users.",
-    "student_angle": "The demise of a popular app affects its users but does not directly impact entry-level job prospects for CS students.",
-    "link": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
-    "published": "Fri, 14 Aug 2026 18:58:15 +0000",
-    "category": "Industry News",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "tags": "AI & ML, Security"
   }
 ]
