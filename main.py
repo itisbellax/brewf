@@ -62,7 +62,9 @@ if __name__ == "__main__":
         files_to_add.append(podcast_path)
 
     # Pull latest remote changes first to avoid diverged-history push failures
+    subprocess.run(["git", "stash", "--include-untracked"], cwd=CWD)
     subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
+    subprocess.run(["git", "stash", "pop"], cwd=CWD)
 
     subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
     result = subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)

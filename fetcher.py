@@ -1,7 +1,12 @@
+import ssl
+import certifi
 import feedparser
 import re
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+
+# macOS Python doesn't ship with root certs; patch the default SSL context
+ssl._create_default_https_context = lambda: ssl.create_default_context(cafile=certifi.where())
 
 def strip_html(text):
     return re.sub(r"<[^>]+>", "", text).strip()

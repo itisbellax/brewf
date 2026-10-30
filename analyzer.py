@@ -33,7 +33,7 @@ STUDENT TAKE: (Follow these rules strictly:
 Keep it under 20 words. Do not start with "As a CS student".)"""
 
     response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
+        model="qwen/qwen3.8-27b",
         messages=[{"role": "user", "content": prompt}],
     )
     text = response.choices[0].message.content.strip()
@@ -62,13 +62,19 @@ def process_all():
     articles = get_unprocessed()
     print(f"Processing {len(articles)} articles...")
     for i, (article_id, title, summary) in enumerate(articles):
-        try:
-            category, tags, bullets_text, student_angle = analyze_article(title, summary)
-            update_ai_fields(article_id, bullets_text, student_angle, category, tags)
-            print(f"[{i+1}/{len(articles)}] {title[:60]}")
-            time.sleep(1)
-        except Exception as e:
-            print(f"Error on article {article_id}: {e}")
+        for attempt in range(3):
+            try:
+                category, tags, bullets_text, student_angle = analyze_article(title, summary)
+                update_ai_fields(article_id, bullets_text, student_angle, category, tags)
+                print(f"[{i+1}/{len(articles)}] {title[:60]}")
+                time.sleep(1)
+                break
+            except Exception as e:
+                if "429" in str(e) and attempt < 2:
+                    time.sleep(15)
+                else:
+                    print(f"Error on article {article_id}: {e}")
+                    break
 
 if __name__ == "__main__":
     process_all()
