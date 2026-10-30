@@ -56,19 +56,19 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Podcast generation skipped: {e}")
 
-    # Commit articles + podcast together
-    files_to_add = ["articles.json"]
-    if podcast_path and os.path.exists(podcast_path):
-        files_to_add.append(podcast_path)
+    # Git commit+push is handled by GitHub Actions when running in CI
+    if os.getenv("CI"):
+        print("Done.")
+    else:
+        files_to_add = ["articles.json"]
+        if podcast_path and os.path.exists(podcast_path):
+            files_to_add.append(podcast_path)
 
-    # Pull latest remote changes first to avoid diverged-history push failures
-    subprocess.run(["git", "stash", "--include-untracked"], cwd=CWD)
-    subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
-    subprocess.run(["git", "stash", "pop"], cwd=CWD)
+        subprocess.run(["git", "stash", "--include-untracked"], cwd=CWD)
+        subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
+        subprocess.run(["git", "stash", "pop"], cwd=CWD)
 
-    subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
-    result = subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
-    # returncode 0 = committed, 1 = nothing to commit (already up to date)
-    # push regardless so GitHub Pages always gets the latest
-    subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
-    print("Done.")
+        subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
+        subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
+        subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
+        print("Done.")
