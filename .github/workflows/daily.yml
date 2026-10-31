@@ -5,6 +5,9 @@ on:
     - cron: "0 14 * * *"  # 9:00 AM EDT (UTC-5 winter / UTC-4 summer — adjust cron offset seasonally)
   workflow_dispatch:       # allow manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
