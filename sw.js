@@ -1,6 +1,6 @@
 // BREWF service worker — offline support + installable PWA.
 // Bump CACHE when shipping changes so old caches get cleared on activate.
-const CACHE = 'brewf-v1';
+const CACHE = 'brewf-v2';
 const SHELL = [
   './',
   './index.html',
