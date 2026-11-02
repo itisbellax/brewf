@@ -83,13 +83,9 @@ if __name__ == "__main__":
         if podcast_path and os.path.exists(podcast_path):
             files_to_add.append(podcast_path)
 
-        subprocess.run(["git", "stash", "--include-untracked"], cwd=CWD)
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=CWD)
-        subprocess.run(["git", "stash", "pop"], cwd=CWD)
-        # Resolve any conflicts in data files by keeping our generated version
-        for f in files_to_add:
-            subprocess.run(["git", "checkout", "--ours", f], cwd=CWD)
-
+        # Always base the commit on latest remote, but keep our freshly generated files
+        subprocess.run(["git", "fetch", "origin", "main"], cwd=CWD)
+        subprocess.run(["git", "reset", "--mixed", "origin/main"], cwd=CWD)
         subprocess.run(["git", "add"] + files_to_add, cwd=CWD)
         subprocess.run(["git", "commit", "-m", "chore: daily article refresh"], cwd=CWD)
         subprocess.run(["git", "push", "origin", "main"], cwd=CWD)
