@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime, timedelta
 from fetcher import fetch_articles
+import sqlite3
 from db import init_db, save_articles, DB_PATH, get_all_processed
 from analyzer import process_all
 
@@ -19,15 +20,33 @@ def cleanup_old_articles():
     print(f"Cleaned up {deleted} articles older than {KEEP_DAYS} days")
 
 def export_to_json():
-    articles = get_all_processed()
-    data = [
-        {
-            "source": a[0], "title": a[1], "ai_summary": a[2],
-            "student_angle": a[3], "link": a[4], "published": a[5],
-            "category": a[6], "tags": a[7]
-        }
-        for a in articles
-    ]
+    # Prefer fully-processed articles; fall back to raw RSS articles if Groq failed
+    processed = get_all_processed()
+    if processed:
+        data = [
+            {
+                "source": a[0], "title": a[1], "ai_summary": a[2],
+                "student_angle": a[3], "link": a[4], "published": a[5],
+                "category": a[6], "tags": a[7]
+            }
+            for a in processed
+        ]
+    else:
+        conn = sqlite3.connect(DB_PATH)
+        rows = conn.execute(
+            "SELECT source, title, summary, link, published "
+            "FROM articles ORDER BY fetched_at DESC LIMIT 20"
+        ).fetchall()
+        conn.close()
+        data = [
+            {
+                "source": r[0], "title": r[1],
+                "ai_summary": "• " + (r[2] or r[1]),
+                "student_angle": "", "link": r[3], "published": r[4],
+                "category": "Industry News", "tags": ""
+            }
+            for r in rows
+        ]
     with open("articles.json", "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"Exported {len(data)} articles to articles.json")
