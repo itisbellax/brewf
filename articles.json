@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-    "ai_summary": "• Aggregates programming books mentioned in Hacker News comments.\n• Allows users to filter and sort community-recommended titles.\n• Simplifies discovering reliable technical literature for developers.",
-    "student_angle": "Not directly relevant to internships, but useful for finding high-quality study resources.",
-    "link": "https://hackerbooks.org",
-    "published": "Sun, 01 Nov 2026 15:58:28 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Product & PM"
+    "title": "Astra can read and write weights to improve Qwen",
+    "ai_summary": "• Astra can read and write weights to improve Qwen",
+    "student_angle": "",
+    "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "published": "Mon, 02 Nov 2026 18:21:28 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-    "ai_summary": "• Comic illustrates the historical origins and initial development of the BSD operating system family.\n• Focuses on the collaborative academic roots that defined early Unix communities at UC Berkeley.\n• Highlights the cultural and technical milestones separating BSD from proprietary Unix variants.",
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "ai_summary": "• Show HN: Subvocal – Talk to your computer without making noise",
     "student_angle": "",
-    "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-    "published": "Mon, 02 Nov 2026 01:59:38 +0000",
+    "link": "https://news.ycombinator.com/item?id=50340088",
+    "published": "Mon, 02 Nov 2026 17:16:17 +0000",
     "category": "Industry News",
-    "tags": "Software Engineering"
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Ask HN: Which TV do you recommend for privacy?",
-    "ai_summary": "• Community seeks TV recommendations with minimal data collection.\n• Privacy concerns drive users away from standard smart TVs.\n• Suggestions focus on non-connected models or strict privacy modes.",
+    "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+    "ai_summary": "• BYD sold more EVs last month than the US did all quarter, topping 300,000",
     "student_angle": "",
-    "link": "https://news.ycombinator.com/item?id=50328896",
-    "published": "Sun, 01 Nov 2026 19:35:27 +0000",
-    "category": "Tech Trends",
-    "tags": "Security"
+    "link": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+    "published": "Mon, 02 Nov 2026 21:38:49 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-    "ai_summary": "• Researchers identified the cause of recurring 60-second power grid fluctuations.\n• The mystery involved complex interactions within global electrical transmission networks.\n• Understanding this helps improve grid stability and reliability for all users.",
+    "title": "US boy names that became girl names and vice versa",
+    "ai_summary": "• US boy names that became girl names and vice versa",
     "student_angle": "",
-    "link": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-    "published": "Sat, 31 Oct 2026 11:53:47 +0000",
-    "category": "Tech Trends",
-    "tags": "Data Science"
+    "link": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+    "published": "Mon, 02 Nov 2026 16:34:36 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "OccupySaaS",
-    "ai_summary": "• SaaS platforms increasingly integrate democratized tools for user-generated applications.\n• Transitioning from mere tenant usage to active platform development within SaaS.\n• Reduces infrastructure overhead while maintaining enterprise-grade security and compliance.",
-    "student_angle": "Learning low-code orchestration within SaaS ecosystems boosts versatility for cloud and backend roles.",
-    "link": "https://occupysaas.com/",
-    "published": "Mon, 02 Nov 2026 00:17:27 +0000",
-    "category": "Tech Trends",
-    "tags": "Cloud & DevOps"
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "ai_summary": "• Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "student_angle": "",
+    "link": "https://momentic.ai/",
+    "published": "Mon, 02 Nov 2026 17:05:25 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Trigger.dev customer environment variables exposed",
-    "ai_summary": "• Trigger.dev compromised, exposing sensitive customer environment variables and API keys to attackers.\n• Developers must rotate compromised credentials and audit logs for unauthorized access immediately.\n• Serves as a critical reminder of the risks in third-party deployment platforms.",
-    "student_angle": "Critical for DevOps roles; highlight secure environment variable handling and credential rotation in interviews.",
-    "link": "https://trigger.dev/blog/security-incident-nov-2026",
-    "published": "Mon, 02 Nov 2026 01:09:16 +0000",
+    "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+    "ai_summary": "• Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+    "student_angle": "",
+    "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+    "published": "Mon, 02 Nov 2026 16:25:26 +0000",
     "category": "Industry News",
-    "tags": "Security, Cloud & DevOps"
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-    "ai_summary": "• OmniDiff is an open-source, high-performance content-aware Git diff tool.\n• Written in Rust, emphasizing speed and memory safety for CLI utilities.\n• Focuses on efficient, context-aware code comparison for developers.",
+    "title": "If you love a website, back it up",
+    "ai_summary": "• If you love a website, back it up",
     "student_angle": "",
-    "link": "https://github.com/ivankovic/omnidiff",
-    "published": "Sun, 01 Nov 2026 13:02:30 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering, Cloud & DevOps"
+    "link": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+    "published": "Mon, 02 Nov 2026 13:25:35 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Mathematics has changed. Let's act like it",
-    "ai_summary": "• Modern math shifts toward abstraction, critical for advanced algorithm design in tech roles.\n• Curriculum reform aims to align theoretical foundations with contemporary computational reality.\n• Emphasizes practical application of complex models over traditional rote calculus memorization.",
+    "title": "Egoless Mathematics in the AI Era",
+    "ai_summary": "• Egoless Mathematics in the AI Era",
     "student_angle": "",
-    "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-    "published": "Sun, 01 Nov 2026 18:28:42 +0000",
-    "category": "Tech Trends",
-    "tags": "Data Science, Software Engineering"
+    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "published": "Mon, 02 Nov 2026 18:54:44 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-    "ai_summary": "• Novel approach mathematically proves and validates the Platonic Representation Hypothesis using JEPAs.\n• Enhances joint embedding architectures to align representations with universal semantic concepts.\n• Demonstrates improved robustness and generalization capabilities in large-scale representation learning tasks.",
-    "student_angle": "Worth studying this to understand advanced self-supervised learning trends for AI research internships.",
-    "link": "https://arxiv.org/abs/2610.39302",
-    "published": "Sun, 01 Nov 2026 13:24:49 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "ai_summary": "• OpenAI considers rebranding data centers as 'AI compute campuses' to improve public perception.\n• The strategy addresses widespread community opposition to building large-scale data infrastructure.",
+    "title": "Ask HN: Who is hiring? (November 2026)",
+    "ai_summary": "• Ask HN: Who is hiring? (November 2026)",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "published": "Sun, 01 Nov 2026 21:55:23 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "ai_summary": "• Tech CEOs often display tone-deaf behaviors regarding AI benefits.\n• Equity podcast examines why executive statements miss the mark for employees.\n• Focus shifts from high-level strategy to human impact of automation.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+    "link": "https://news.ycombinator.com/item?id=50338728",
+    "published": "Mon, 02 Nov 2026 16:01:37 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
-    "source": "TechCrunch",
-    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-    "ai_summary": "• A new, larger wave of autonomous vehicles is emerging globally.\n• Artificial intelligence plays a central and expanding role in transportation innovation.\n• The sector is experiencing significant momentum for future mobility solutions.",
-    "student_angle": "Explore AV-specific ML applications, as the booming industry drives high demand for specialized engineering interns.",
-    "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-    "published": "Sun, 01 Nov 2026 17:04:00 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Binance resumes withdrawals following $6.3 billion breach",
-    "ai_summary": "• Binance resumes withdrawals after a massive $6.3 billion security breach was discovered.\n• The exchange has successfully recovered and covered 95% of the stolen digital assets.\n• This incident highlights critical vulnerabilities in high-profile cryptocurrency exchange infrastructure.",
+    "source": "HackerNews",
+    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+    "ai_summary": "• Sneaking into the auditorium for the Windows 2000 launch rehearsal",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-    "published": "Sun, 01 Nov 2026 16:20:10 +0000",
-    "category": "Company Updates",
-    "tags": "Security"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-    "ai_summary": "• Google launched Pixel 11 Pro Fold, focusing on structural durability.\n• The device boasts a sturdy rectangular form factor.\n• Foldable market competition is intensifying with new rivals.",
-    "student_angle": "Foldable hardware internships are niche and shrinking; focus on core software engineering roles instead.",
-    "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-    "published": "Sun, 01 Nov 2026 15:00:00 +0000",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+    "published": "Mon, 02 Nov 2026 18:12:48 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
-    "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-    "ai_summary": "• Everbloom launches renoa, described as the first new fiber developed in 25 years.\n• The material offers a familiar tactile experience while representing a significant industry innovation.\n• This launch marks a major milestone in sustainable textile technology and manufacturing.",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "ai_summary": "• RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-    "published": "Sun, 01 Nov 2026 14:00:00 +0000",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "published": "Mon, 02 Nov 2026 22:14:50 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
-    "title": "Data centers are now a midterm issue, even in Brooklyn",
-    "ai_summary": "• Data centers became the central topic at a Brooklyn midterm party five days before Election Day.\n• Conversations in local politics consistently circled back to AI infrastructure concerns and impacts.\n• The proximity of data centers has shifted community sentiment and political discourse toward tech accountability.",
+    "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+    "ai_summary": "• German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-    "published": "Sun, 01 Nov 2026 02:22:10 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Cloud & DevOps"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "ai_summary": "• Apple’s leadership states they prioritize practical utility over shipping AI features just for novelty.\n• This strategy signals a focus on fully integrated, high-quality user experiences rather than rushed releases.\n• The company aims to differentiate itself by ensuring AI capabilities solve specific customer problems.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "published": "Sat, 31 Oct 2026 21:41:00 +0000",
-    "category": "Company Updates",
-    "tags": "AI & ML, Product & PM"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "ai_summary": "• November 4 event at Boston’s SoWa Power Station focuses on meaningful networking and actionable startup insights.\n• TechCrunch Founder Summit aims to provide connections that can change the trajectory of your idea or venture.\n• Early registration required before prices increase at the door, ensuring access to packed networking opportunities.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "published": "Sat, 31 Oct 2026 21:36:07 +0000",
+    "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+    "published": "Mon, 02 Nov 2026 19:45:54 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "ai_summary": "• NAACP lawsuit against SpaceX-owned xAI over Clean Air Act violations moves forward.\n• Data center pollution claims form the core of the legal challenge.\n• Judge allows the environmental lawsuit to proceed in federal court.",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "ai_summary": "• The website builder said that the job losses are part of a broader restructuring of its organization.",
     "student_angle": "",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "published": "Mon, 02 Nov 2026 19:25:59 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
+    "tags": ""
   },
   {
-    "source": "The Verge",
-    "title": "NASA hopes the commercial space industry can help save Hubble",
-    "ai_summary": "• Hubble faces reentry in early-to-mid 2030s due to orbital decay from gravity.\n• NASA solicits commercial proposals to boost Hubble’s orbit for continued operation.\n• Collaboration aims to extend the lifespan of the iconic space telescope.",
+    "source": "TechCrunch",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "ai_summary": "• The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
     "student_angle": "",
-    "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-    "published": "2026-11-01T16:09:21-05:00",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "published": "Mon, 02 Nov 2026 19:19:17 +0000",
     "category": "Industry News",
-    "tags": "Cloud & DevOps"
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+    "ai_summary": "• The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+    "published": "Mon, 02 Nov 2026 19:11:49 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "ai_summary": "• Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+    "published": "Mon, 02 Nov 2026 17:54:11 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "ai_summary": "• Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+    "published": "Mon, 02 Nov 2026 17:49:41 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+    "ai_summary": "• SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+    "published": "Mon, 02 Nov 2026 16:44:48 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "ai_summary": "• Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "published": "Mon, 02 Nov 2026 16:30:00 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "ai_summary": "• Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "student_angle": "",
+    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "published": "Mon, 02 Nov 2026 16:23:21 +0000",
+    "category": "Industry News",
+    "tags": ""
   }
 ]
