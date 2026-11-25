@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
+    "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "ai_summary": "• Reverse-engineered Windows Loudness Equalization algorithm details\n• Ported the implementation to use PipeWire audio server\n• Enables standard Windows-style audio normalization on Linux",
+    "student_angle": "Interesting audio development niche, but unlikely to be a primary internship focus area.",
+    "link": "https://github.com/xoxorwr/pw-loudness-eq",
+    "published": "Wed, 25 Nov 2026 11:34:25 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+    "ai_summary": "• Google publishes research papers on integer factorization and discrete logarithms using advanced methods.\n• Work focuses on Cogentic algorithms, advancing cryptographic analysis and security verification techniques.\n• These publications highlight the intersection of AI-driven research and fundamental mathematical problems.",
+    "student_angle": "Learn these cryptographic fundamentals to strengthen security knowledge and stand out in algorithmic interviews.",
+    "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "published": "Wed, 25 Nov 2026 13:33:07 +0000",
+    "category": "Tech Trends",
+    "tags": "Security, AI & ML"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "ai_summary": "• A curated collection of professionally recorded button click sounds for developers.\n• Provides high-quality audio assets to enhance user interface interactions.\n• Useful resource for improving the tactile feedback feel in digital applications.",
+    "student_angle": "",
+    "link": "https://buttons.joshwcomeau.com/",
+    "published": "Wed, 25 Nov 2026 03:23:07 +0000",
+    "category": "Tech Trends",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "ai_summary": "• Research claims tight Θ(n^2.25) bound for matrix multiplication, challenging previous Strassen complexity.\n• This theoretical advance settles decades of debate in computational algebra and algorithmic complexity theory.\n• No practical implementation details provided, focusing entirely on the mathematical proof of the bound.",
+    "student_angle": "",
+    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "published": "Wed, 25 Nov 2026 01:19:26 +0000",
+    "category": "Tech Trends",
+    "tags": "Data Science"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "ai_summary": "• Sandboxed AI models can exchange information through shared inference server metadata.\n• This side-channel capability poses significant private data leakage risks in cloud deployments.\n• Demonstrates the need for stricter isolation in multi-tenant AI infrastructure environments.",
+    "student_angle": "Learn secure AI infrastructure; cloud security skills are critical for modern ML ops internships.",
+    "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "published": "Wed, 25 Nov 2026 02:34:21 +0000",
+    "category": "Industry News",
+    "tags": "AI & ML, Security"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Getting old Java phones online again",
+    "ai_summary": "• Reviving obsolete Java ME phones by connecting them to the internet today.\n• Demonstrates the potential for emulating legacy mobile environments in modern contexts.\n• Highlights the enduring utility of the Java programming language in niche, low-power systems.",
+    "student_angle": "",
+    "link": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+    "published": "Tue, 24 Nov 2026 13:14:37 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "ai_summary": "• Classic GPU demos from Nvidia and ATI now run directly in web browsers.\n• Project showcases preservation of historical graphics technology and driver interfaces.\n• Demonstrates the potential for running legacy hardware emulation via modern web standards.",
+    "student_angle": "",
+    "link": "https://gpu-demo-gallery.pages.dev/",
+    "published": "Wed, 25 Nov 2026 04:31:48 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "ai_summary": "• iOS Safari typically locks rendering to 60 FPS, limiting perceived web app smoothness compared to native apps.\n• Developers can bypass this by using requestAnimationFrame or WebAssembly to unlock higher frame rates.\n• Achieving 120 FPS on ProMotion displays makes web interactions feel significantly more native-like.",
+    "student_angle": "Learn WebAssembly and high-performance web rendering techniques; key skills for competitive frontend internship roles.",
+    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "published": "Wed, 25 Nov 2026 03:04:37 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Hazel (YC W24) Is Hiring a Product Designer",
+    "ai_summary": "• Y Combinator W24 startup Hazel is actively recruiting a Product Designer.\n• This role focuses on shaping the user experience for their platform.\n• Excellent opportunity for design-focused students seeking startup experience.",
+    "student_angle": "Worth applying to; YC companies use roles to find interns and offer high exposure.",
+    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+    "published": "Wed, 25 Nov 2026 12:00:34 +0000",
+    "category": "Company Updates",
+    "tags": "Product & PM"
+  },
+  {
+    "source": "HackerNews",
     "title": "Ternary Bonsai 2.5 27B",
-    "ai_summary": "• Ternary Bonsai 2.5 27B",
+    "ai_summary": "• New 27-billion parameter model released under the Ternary Bonsai 2.5 series.\n• Likely utilizes ternary quantization techniques for significant computational efficiency gains.\n• Pushes boundary for smaller, more accessible large language model architectures.",
     "student_angle": "",
     "link": "https://prismml.com/news/bonsai-2-5-27b",
     "published": "Tue, 24 Nov 2026 20:08:03 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Tech Trends",
+    "tags": "AI & ML"
   },
   {
-    "source": "HackerNews",
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-    "ai_summary": "• GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "TechCrunch",
+    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+    "ai_summary": "• Flipkart CEO Kalyan Krishnamurthy steps down amid ongoing IPO uncertainty and business restructuring.\n• Balaji Thiagarajan, product and tech chief, will co-lead the company until a successor is appointed.\n• Leadership transition highlights strategic shifts as Flipkart navigates its path toward a public listing.",
     "student_angle": "",
-    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "published": "Tue, 24 Nov 2026 21:02:22 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+    "published": "Wed, 25 Nov 2026 13:08:19 +0000",
+    "category": "Company Updates",
+    "tags": "Product & PM"
   },
   {
-    "source": "HackerNews",
-    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-    "ai_summary": "• Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "source": "TechCrunch",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "ai_summary": "• Jensen Huang faces congressional inquiries regarding a romantic relationship with an alleged chip smuggler.\n• Nvidia's board is also questioning the CEO about this controversial personal connection.\n• These allegations raise serious concerns about corporate governance and compliance within Nvidia.",
     "student_angle": "",
-    "link": "https://news.ycombinator.com/item?id=50634426",
-    "published": "Tue, 24 Nov 2026 20:44:15 +0000",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "published": "Wed, 25 Nov 2026 13:00:00 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "AI & ML, Security"
   },
   {
-    "source": "HackerNews",
-    "title": "Active intrusion campaign against Check Point security management servers",
-    "ai_summary": "• Active intrusion campaign against Check Point security management servers",
+    "source": "TechCrunch",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "ai_summary": "• Yale expert Jensen Huang’s return Nvidia CEO board member creates huge legal and liability concerns.\n• Critics argue Nvidia chips aid US adversaries, questioning its status as a national industrial champion.\n• Market optimism over Huang's return ignores mounting lawsuits and potential historic personal director liability.",
     "student_angle": "",
-    "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-    "published": "Tue, 24 Nov 2026 16:32:17 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+    "category": "Company Updates",
+    "tags": "AI & ML"
   },
   {
-    "source": "HackerNews",
-    "title": "Gödel Enigma",
-    "ai_summary": "• Gödel Enigma",
+    "source": "TechCrunch",
+    "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+    "ai_summary": "• Trump suggests pardoning Nvidia CEO Jensen Huang is a possible option.\n• Legal scrutiny continues over Alice Huang and alleged Chinese intelligence ties.\n• Allegations involve illegal diversion of Nvidia chips to China.",
     "student_angle": "",
-    "link": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
-    "published": "Tue, 24 Nov 2026 08:16:02 +0000",
+    "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+    "published": "Wed, 25 Nov 2026 00:10:27 +0000",
     "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "Calculate how many mesh radio nodes your city needs",
-    "ai_summary": "• Calculate how many mesh radio nodes your city needs",
-    "student_angle": "",
-    "link": "https://meshcoveragecalculator.lalala.ing/",
-    "published": "Mon, 23 Nov 2026 09:46:57 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-    "ai_summary": "• From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-    "student_angle": "",
-    "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-    "published": "Tue, 24 Nov 2026 19:40:43 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "Heart attack and stroke risk detectable decades in advance",
-    "ai_summary": "• Heart attack and stroke risk detectable decades in advance",
-    "student_angle": "",
-    "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-    "published": "Tue, 24 Nov 2026 21:51:21 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "2035 came early",
-    "ai_summary": "• 2035 came early",
-    "student_angle": "",
-    "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-    "published": "Tue, 24 Nov 2026 06:30:33 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "Jetty Pro",
-    "ai_summary": "• Jetty Pro",
-    "student_angle": "",
-    "link": "http://hypercritical.co/2026/11/23/jetty-pro",
-    "published": "Tue, 24 Nov 2026 16:23:02 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
     "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "ai_summary": "• It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-    "student_angle": "",
+    "ai_summary": "• Huang rejects succession plans, arguing formality creates unnecessary organizational hierarchy.\n• Nvidia suffered significant operational issues recently due to the founder's absence.\n• Critics view the stance as risky given current executive dependency challenges.",
+    "student_angle": "Irrelevant to internships; no direct hiring impact.",
     "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
     "published": "Tue, 24 Nov 2026 22:27:52 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "ai_summary": "• The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "ai_summary": "• Jensen Huang apologized to staff, citing personal struggles and gratitude for a second chance.\n• The Nvidia founder thanked the White House during an all-hands meeting for his support.\n• This admission highlights intense personal pressure facing top tech CEOs amid high stakes.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
     "published": "Tue, 24 Nov 2026 21:48:27 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "Even the best AI agents struggle with everyday life",
-    "ai_summary": "• As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "ai_summary": "• New benchmark reveals advanced AI models fail reliably at everyday tasks.\n• AI assistants often struggle with safety and potential side effects in daily use.\n• Current systems introduce new problems while attempting to solve routine life challenges.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
     "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Tech Trends",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "ai_summary": "• Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "ai_summary": "• Walmart integrates Black Friday deals directly into Meta’s AI shopping agent, Muse.\n• Customers can discover and purchase offers through conversational AI interactions.\n• Strategic partnership merges e-commerce inventory with generative AI platform capabilities.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
     "published": "Tue, 24 Nov 2026 21:32:38 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Tech Trends",
+    "tags": "AI & ML, Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "ai_summary": "• The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-    "student_angle": "",
+    "ai_summary": "• Maple secured $5.3M funding to develop encryption-focused AI products for data privacy.\n• Architecture prevents the company from accessing user data, ensuring strict confidentiality.\n• Focus on verifiable privacy positions Maple as a leader in secure AI development.",
+    "student_angle": "Worth applying to; niche security AI offers strong entry-level opportunities amid high privacy demand.",
     "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
     "published": "Tue, 24 Nov 2026 21:19:52 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
     "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-    "ai_summary": "• Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+    "ai_summary": "• Dozens of oil and chemical tankers suffered cyberattacks in recent weeks.\n• Iran is the primary suspect behind these coordinated maritime hacking incidents.\n• The attacks highlight growing risks for critical chemical shipping infrastructure.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
     "published": "Tue, 24 Nov 2026 21:09:04 +0000",
     "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "ai_summary": "• Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "published": "Tue, 24 Nov 2026 18:30:42 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "TechCrunch",
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "ai_summary": "• The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "published": "Tue, 24 Nov 2026 18:02:59 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-    "ai_summary": "• The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-    "published": "Tue, 24 Nov 2026 17:44:34 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-    "ai_summary": "• Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-    "student_angle": "",
-    "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-    "published": "Tue, 24 Nov 2026 17:29:09 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "tags": "Security"
   }
 ]
