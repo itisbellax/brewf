@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "1Password Security Incident",
-    "ai_summary": "• 1Password Security Incident",
-    "student_angle": "",
-    "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
-    "published": "Wed, 25 Nov 2026 17:18:26 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+    "ai_summary": "• Nextcloud launches a native desktop application for Office suite.\n• Users can access collaborative editing features locally on their machines.\n• This update enhances offline capabilities for open-source productivity tools.",
+    "student_angle": "Growing interest in open-source cloud office stacks may create internship opportunities.",
+    "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+    "published": "Thu, 26 Nov 2026 11:50:49 +0000",
+    "category": "Company Updates",
+    "tags": "Cloud & DevOps, Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "Much shorter version of GRH Lean verification from Anthropic",
-    "ai_summary": "• Much shorter version of GRH Lean verification from Anthropic",
+    "title": "Intel One Mono font",
+    "ai_summary": "• Intel launches new developer-focused monospaced font called Intel One Mono.\n• Designed for improved readability and aesthetics in code editors and terminals.\n• Part of Intel's broader effort to enhance its developer ecosystem and branding.",
     "student_angle": "",
-    "link": "https://github.com/lsernau/grh-lean",
-    "published": "Wed, 25 Nov 2026 21:48:10 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "link": "https://github.com/intel/intel-one-mono",
+    "published": "Thu, 26 Nov 2026 10:11:01 +0000",
+    "category": "Company Updates",
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
     "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-    "ai_summary": "• Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-    "student_angle": "",
+    "ai_summary": "• Explores the overwhelming scale of current technological shifts.\n• Highlights the unprecedented momentum in the tech landscape.\n• Emphasizes the rapid pace of modern industry evolution.",
+    "student_angle": "Yes, key AI trends define top internship roles; learn core ML fundamentals to catch employer attention.",
     "link": "https://scottaaronson.blog/?p=10379",
     "published": "Wed, 25 Nov 2026 19:11:27 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Tech Trends",
+    "tags": "AI & ML"
   },
   {
     "source": "HackerNews",
-    "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-    "ai_summary": "• A few questions for the guy who went snorkeling in a Home Depot retention pond",
+    "title": "1Password Security Incident",
+    "ai_summary": "• 1Password disclosed a significant security incident involving potential data breach.\n• Credentials and secret URLs may have been exposed to attackers.\n• Users recommended to rotate passwords and enable hardware key 2FA immediately.",
     "student_angle": "",
-    "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-    "published": "Wed, 25 Nov 2026 15:14:32 +0000",
+    "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "published": "Wed, 25 Nov 2026 17:18:26 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "Security"
   },
   {
     "source": "HackerNews",
-    "title": "The New York Times tells photographers not to use the latest Photoshop",
-    "ai_summary": "• The New York Times tells photographers not to use the latest Photoshop",
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "ai_summary": "• Unix source code was secretly photocopied by students for two decades.\n• This informal distribution shaped early Linux development and Unix lineage.\n• It highlights how open collaboration outpaced commercial IP protection.",
     "student_angle": "",
-    "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "published": "Thu, 26 Nov 2026 05:12:59 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering"
+  },
+  {
+    "source": "HackerNews",
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "ai_summary": "• NYT advises photographers to avoid current Photoshop updates due to controversial AI features.\n• This guidance highlights significant industry pushback against mandatory AI integration in creative tools.\n• The move reflects growing tension between traditional media ethics and rapid technological implementation.",
+    "student_angle": "",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
     "published": "Wed, 25 Nov 2026 21:18:02 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "AI & ML, Product & PM"
   },
   {
     "source": "HackerNews",
-    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-    "ai_summary": "• Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-    "student_angle": "",
-    "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-    "published": "Wed, 25 Nov 2026 20:35:50 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "ai_summary": "• Minipg compiles PostgreSQL into a single executable file.\n• Simplifies development environments by removing complex server installations.\n• Reduces deployment friction for projects requiring specific database versions.",
+    "student_angle": "Learn it to streamline local dev environments and understand database distribution concepts.",
+    "link": "https://progrium.github.io/minipg/",
+    "published": "Thu, 26 Nov 2026 03:00:48 +0000",
+    "category": "Tech Trends",
+    "tags": "Database Engineering, Cloud & DevOps"
   },
   {
     "source": "HackerNews",
-    "title": "Defang Security Incident",
-    "ai_summary": "• Defang Security Incident",
+    "title": "Collection of preserved UI style guides",
+    "ai_summary": "• Archived UI style guides offer insights into historical design patterns and industry evolution.\n• Students can study these resources to understand how user interface standards have shifted over time.\n• Provides a reference library for comparing modern design principles against legacy frameworks.",
     "student_angle": "",
-    "link": "https://defang.io/blog/post/security-incident-november-2026/",
-    "published": "Wed, 25 Nov 2026 21:47:16 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "link": "https://aresluna.org/ui-style-guides/",
+    "published": "Thu, 26 Nov 2026 00:40:00 +0000",
+    "category": "Tech Trends",
+    "tags": "Software Engineering, Product & PM"
   },
   {
     "source": "HackerNews",
-    "title": "Slow Ubuntu security response times",
-    "ai_summary": "• Slow Ubuntu security response times",
+    "title": "Head of Software Engineering – NOX Metals",
+    "ai_summary": "• NOX Metals is recruiting a Head of Software Engineering.\n• This is a senior leadership role requiring significant engineering management experience.\n• The position focuses on building and directing the company's software infrastructure teams.",
     "student_angle": "",
-    "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-    "published": "Wed, 25 Nov 2026 20:38:00 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "link": "https://news.ycombinator.com/item?id=50654353",
+    "published": "Thu, 26 Nov 2026 12:00:00 +0000",
+    "category": "Company Updates",
+    "tags": "Software Engineering"
   },
   {
     "source": "HackerNews",
-    "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-    "ai_summary": "• 72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
-    "student_angle": "",
-    "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
-    "published": "Wed, 25 Nov 2026 20:35:39 +0000",
-    "category": "Industry News",
-    "tags": ""
-  },
-  {
-    "source": "HackerNews",
-    "title": "The polynomial Hirsch conjecture is false [pdf]",
-    "ai_summary": "• The polynomial Hirsch conjecture is false [pdf]",
-    "student_angle": "",
-    "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-    "published": "Wed, 25 Nov 2026 17:34:34 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "title": "Moat: Your OpenRouter Replacement",
+    "ai_summary": "• Moat positions as an alternative to OpenRouter for managing large language model API routes.\n• Focuses on simplifying access to various AI models via a unified interface.\n• Targets developers seeking flexibility and cost-efficiency in integrating diverse LLMs.",
+    "student_angle": "Learn it to understand LLM routing, a growing niche in AI infrastructure engineering.",
+    "link": "https://commandcode.ai/moat",
+    "published": "Thu, 26 Nov 2026 06:32:48 +0000",
+    "category": "Tech Trends",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-    "ai_summary": "• The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "ai_summary": "• S&P may downgrade Nvidia due to governance and 'key man' risks.\n• Proposed downgrade would lower rating to AA-, the fourth-highest tier.\n• Creditors question long-term stability despite strong market performance.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
     "published": "Wed, 25 Nov 2026 22:44:32 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "FCC approves SpaceX plan to put AI data centers in space",
-    "ai_summary": "• The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+    "ai_summary": "• FCC approved SpaceX's plan to deploy AI data centers in orbit.\n• Regulatory concerns about science research were dismissed as outside FCC jurisdiction.\n• This approval paves the way for orbital computing infrastructure deployment.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
     "published": "Wed, 25 Nov 2026 20:56:44 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "Cloud & DevOps, AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-    "ai_summary": "• OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "ai_summary": "• OpenAI consolidates ChatGPT Chat and Work features under a single, unified usage meter.\n• Heavy users will face stricter limits sooner due to the combined resource consumption.\n• This change reflects OpenAI's strategy to manage infrastructure costs while expanding enterprise capabilities.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "published": "Wed, 25 Nov 2026 20:03:27 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "AI & ML, Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-    "ai_summary": "• Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "ai_summary": "• Jensen Huang potentially violated Nvidia's code of conduct.\n• Corporate culture missteps may impact employee retention.\n• Internal trust issues could affect team stability.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
     "published": "Wed, 25 Nov 2026 19:54:57 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Company Updates",
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-    "ai_summary": "• The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+    "ai_summary": "• Cybertruck became the fastest-selling used truck last month.\n• It averaged 39.1 days on the market before sale.\n• This is significantly faster than the 65.5-day average for all trucks.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
     "published": "Wed, 25 Nov 2026 19:54:32 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "Product & PM"
   },
   {
     "source": "TechCrunch",
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-    "ai_summary": "• Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "ai_summary": "• Dario Amodei rejects claims he favors surrendering human agency to AI.\n• This pushback occurs as rivals accuse him of prioritizing AI autonomy.\n• Leading AI firms are increasingly automating their own research and model development.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
     "published": "Wed, 25 Nov 2026 19:44:24 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "AI & ML"
   },
   {
     "source": "TechCrunch",
     "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
-    "ai_summary": "• The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "ai_summary": "• 1Password confirmed hackers accessed internal systems via compromised employee credentials.\n• Customer passwords remain secure, though some customer-related information was exposed.\n• Attackers gained access through a single breached corporate account on the network.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
     "published": "Wed, 25 Nov 2026 18:49:52 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Security",
+    "tags": "Security"
   },
   {
     "source": "TechCrunch",
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-    "ai_summary": "• New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "ai_summary": "• New York bans AI chatbot toys for five years due to safety concerns.\n• Research reveals exposure to inappropriate content and emotional development risks.\n• Regulatory action highlights significant safety failures in consumer AI products.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
     "published": "Wed, 25 Nov 2026 18:11:46 +0000",
-    "category": "Industry News",
-    "tags": ""
+    "category": "Tech Trends",
+    "tags": "AI & ML, Security"
   },
   {
     "source": "TechCrunch",
     "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-    "ai_summary": "• U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+    "ai_summary": "• Former CEO charged with defrauding ransomware victims by secretly paying hackers.\n• Prosecutors allege he paid hackers directly while billing victims significantly higher amounts.\n• This case highlights serious ethical and legal risks in cybersecurity crisis management.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
     "published": "Wed, 25 Nov 2026 17:36:51 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "Security"
   },
   {
     "source": "TechCrunch",
     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-    "ai_summary": "• The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "ai_summary": "• State AGs challenge Character.AI bankruptcy sale involving private user chats.\n• Sale includes sensitive data from over 21 million U.S. accounts.\n• Data from 2.1 million minor registered accounts is included.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
     "published": "Wed, 25 Nov 2026 17:35:58 +0000",
     "category": "Industry News",
-    "tags": ""
+    "tags": "AI & ML, Security"
   }
 ]
