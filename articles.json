@@ -1,202 +1,202 @@
 [
   {
     "source": "HackerNews",
-    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-    "ai_summary": "• New deterministic algorithm solves discrete log in subexponential time.\n• Advances theoretical cryptography beyond traditional exponential time bounds.\n• Impacts the long-term security of public-key cryptographic systems.",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "ai_summary": "• Credit card skimming scripts using WebRTC found on popular shopping sites",
     "student_angle": "",
-    "link": "https://eprint.iacr.org/2026/3020.pdf",
-    "published": "Fri, 27 Nov 2026 12:08:51 +0000",
-    "category": "Tech Trends",
-    "tags": "Security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Kimi for Science: More scientific ideas, made possible",
-    "ai_summary": "• Kimi helps researchers generate more scientific ideas using AI capabilities.\n• Aimed at making complex scientific discovery processes more accessible.\n• Demonstrates practical AI application in advancing scientific research.",
-    "student_angle": "Learn AI-assisted research tools to stay competitive as AI integrates into scientific workflows.",
-    "link": "https://www.kimi.ai/news/kimi-for-science-program",
-    "published": "Fri, 27 Nov 2026 12:03:11 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Data Science"
-  },
-  {
-    "source": "HackerNews",
-    "title": "The group chat where your AI talks behind your back",
-    "ai_summary": "• AI agents now communicate privately in group chats, mimicking human social dynamics.\n• This behavior raises significant ethical questions about transparency and user trust.\n• Developers must design guardrails to prevent unauthorized or malicious agent interactions.",
-    "student_angle": "Learn multi-agent systems; it is a critical emerging skill for advanced AI roles.",
-    "link": "https://construct22.com/",
-    "published": "Fri, 27 Nov 2026 06:44:34 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "AI made self-hosting fun again",
-    "ai_summary": "• AI automates complex server configuration, reducing manual setup friction.\n• Natural language interfaces simplify infrastructure management for beginners.\n• Local AI integration makes private data hosting more accessible.",
-    "student_angle": "Learn it; AI-enhanced DevOps skills boost your resume for cloud and infrastructure roles significantly.",
-    "link": "https://janlukas.blog/posts/ai-self-hosting",
-    "published": "Thu, 26 Nov 2026 21:47:45 +0000",
-    "category": "Tech Trends",
-    "tags": "Cloud & DevOps, AI & ML"
-  },
-  {
-    "source": "HackerNews",
-    "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-    "ai_summary": "• New York and California adopt new age verification laws for digital platforms in 2025.\n• Tech companies must implement robust age-gating mechanisms to comply with state regulations.\n• Failure to comply with these new rules may result in significant legal penalties.",
-    "student_angle": "",
-    "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-    "published": "Fri, 27 Nov 2026 12:43:40 +0000",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "published": "Fri, 27 Nov 2026 15:40:31 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "US Air Force's cloud computing platform hacked",
-    "ai_summary": "• US Air Force cloud platform breached, compromising sensitive military data.\n• Attack highlights critical vulnerabilities in government cloud infrastructure.\n• Incident emphasizes urgent need for robust security protocols.",
-    "student_angle": "Learn cloud security best practices now, as enterprise demand for secure DevOps skills is surging.",
-    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-    "published": "Fri, 27 Nov 2026 12:54:11 +0000",
-    "category": "Tech Trends",
-    "tags": "Security, Cloud & DevOps"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
-    "ai_summary": "• Mental health counseling reduces the likelihood of protesting behaviors.\n• Reported decrease in protest likelihood ranges from 34% to 39%.\n• Study highlights significant behavioral impact of counseling interventions.",
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "ai_summary": "• Convex skills send the user's app idea to a remote server without telling them",
     "student_angle": "",
-    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-    "published": "Fri, 27 Nov 2026 13:01:02 +0000",
+    "link": "https://github.com/convex/convex-backend-skill/issues/64",
+    "published": "Fri, 27 Nov 2026 18:02:45 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-    "ai_summary": "• Highlights Kamil Khan Mumtaz's prominent architectural status within Pakistan's domestic professional sphere.\n• Contrasts his high local reputation with his significantly lower visibility in international markets.\n• Illustrates the disparity between domestic acclaim and global professional recognition for Pakistani talent.",
+    "title": "Citroën Hydraulic System",
+    "ai_summary": "• Citroën Hydraulic System",
     "student_angle": "",
-    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "published": "Thu, 26 Nov 2026 21:08:05 +0000",
+    "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+    "published": "Fri, 27 Nov 2026 03:10:19 +0000",
     "category": "Industry News",
-    "tags": "none"
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-    "ai_summary": "• Browser extension automatically reloads YouTube pages to skip advertisements entirely.\n• Uses simple scripting logic to detect ad playback triggers for rapid reloading.\n• High-utility tool for users seeking uninterrupted viewing experiences on streaming platforms.",
+    "title": "Michael Nielsen took down his book on neural nets",
+    "ai_summary": "• Michael Nielsen took down his book on neural nets",
     "student_angle": "",
-    "link": "https://github.com/antonpictures/youtube-punisher",
-    "published": "Thu, 26 Nov 2026 17:36:47 +0000",
-    "category": "Tech Trends",
-    "tags": "Software Engineering"
+    "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+    "published": "Fri, 27 Nov 2026 19:31:01 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "HackerNews",
-    "title": "AMD-specific fork of llama.cpp",
-    "ai_summary": "• AMD creates specific fork optimizing llama.cpp for Radeon GPU performance.\n• Enables efficient local LLM inference on AMD hardware without proprietary software.\n• Bridges gap between open-source AI models and non-NVIDIA consumer hardware.",
-    "student_angle": "Learn it to demonstrate AMD compute skills, a growing niche differentiator for ML roles.",
-    "link": "https://devnull.land/amd-specific-llama-cpp",
-    "published": "Thu, 26 Nov 2026 17:11:29 +0000",
-    "category": "Tech Trends",
-    "tags": "AI & ML, Software Engineering"
+    "title": "The AT&T Unix PC (3B1) VM",
+    "ai_summary": "• The AT&T Unix PC (3B1) VM",
+    "student_angle": "",
+    "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "published": "Fri, 27 Nov 2026 19:40:33 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "ai_summary": "• Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "student_angle": "",
+    "link": "https://bouncemarket.minhanhday.com/",
+    "published": "Fri, 27 Nov 2026 15:01:50 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "HackerNews",
+    "title": "False computer-checked proofs",
+    "ai_summary": "• False computer-checked proofs",
+    "student_angle": "",
+    "link": "https://cr.yp.to/proofs/falseccp.html",
+    "published": "Fri, 27 Nov 2026 15:26:09 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "HackerNews",
+    "title": "First images of the impact of DART asteroid deflection experiment",
+    "ai_summary": "• First images of the impact of DART asteroid deflection experiment",
+    "student_angle": "",
+    "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+    "published": "Thu, 26 Nov 2026 17:24:37 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "HackerNews",
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "ai_summary": "• Show HN: DragDropMath – Learn math by feel",
+    "student_angle": "",
+    "link": "https://dragdropmath.com/",
+    "published": "Fri, 27 Nov 2026 17:56:28 +0000",
+    "category": "Industry News",
+    "tags": ""
+  },
+  {
+    "source": "HackerNews",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "ai_summary": "• States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "student_angle": "",
+    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "published": "Fri, 27 Nov 2026 19:42:25 +0000",
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "TechCrunch",
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-    "ai_summary": "• Nvidia pauses server shipments to four Southeast Asian countries.\n• Move driven by stricter U.S. export controls targeting Chinese tech firms.\n• Manufacturing partners instructed to halt deliveries immediately.",
-    "student_angle": "Indicates tighter AI hardware regulations, potentially reducing regional internship opportunities in chip distribution.",
+    "ai_summary": "• Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "student_angle": "",
     "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
     "published": "Thu, 26 Nov 2026 20:03:54 +0000",
     "category": "Industry News",
-    "tags": "AI & ML"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
     "title": "Is Alice Huang a spy or not?",
-    "ai_summary": "• Central claim: Alice Huang, former Megaspeed exec, is a Chinese spy.\n• Claim remains unproven within the broader Nvidia scandal context.\n• Intersection of corporate governance and alleged geopolitical espionage.",
+    "ai_summary": "• The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
     "published": "Thu, 26 Nov 2026 20:00:00 +0000",
     "category": "Industry News",
-    "tags": "Security"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
     "title": "X finally gets parental controls after 20 years",
-    "ai_summary": "• X implements parental controls for teenage users after two decades.\n• Features allow guardians to manage content exposure and privacy settings.\n• Moves follow widespread criticism regarding the platform's impact on minors.",
+    "ai_summary": "• Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
     "published": "Thu, 26 Nov 2026 19:31:50 +0000",
-    "category": "Company Updates",
-    "tags": "Product & PM"
+    "category": "Industry News",
+    "tags": ""
   },
   {
     "source": "TechCrunch",
     "title": "A month with the iPhone Duo has changed how I use my phone",
-    "ai_summary": "• Apple's foldable iPhone Duo significantly improves digital reading experiences for users.\n• The device helps users break mindless scrolling habits through specific design choices.\n• Daily smartphone routines shift toward more intentional and balanced usage patterns.",
+    "ai_summary": "• From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
     "student_angle": "",
     "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
     "published": "Thu, 26 Nov 2026 17:00:00 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "TechCrunch",
     "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-    "ai_summary": "• GTA VI launch dominated entertainment simultaneously with Anthropic's public market entry.\n• Success highlights the enduring value of painstaking human craftsmanship in gaming.\n• The event challenges the narrative that algorithmic efficiency is the ultimate industry virtue.",
-    "student_angle": "GTA VI’s success signals strong demand for high-fidelity game development roles and creative engineering internships.",
+    "ai_summary": "• On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "student_angle": "",
     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
     "published": "Thu, 26 Nov 2026 16:00:00 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
-    "source": "The Verge",
-    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-    "ai_summary": "• AI-powered DIY Android widgets simplify real-time data access for users.\n• Features like bus arrival alerts reduce manual app navigation.\n• Vibe-coding trend lowers barriers for custom mobile development.",
+    "source": "TechCrunch",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "ai_summary": "• The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
     "student_angle": "",
-    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-    "published": "2026-11-27T09:00:00-05:00",
-    "category": "Tech Trends",
-    "tags": "AI & ML"
-  },
-  {
-    "source": "The Verge",
-    "title": "This gaming mouse should be a Logitech-killer, but it has one big flaw",
-    "ai_summary": "• Keychron G6 HE targets Logitech premium segment at half the price.\n• Magnetic Hall effect switches enable adjustable click depth and haptic feedback.\n• Review highlights a significant flaw limiting its potential as a true competitor.",
-    "student_angle": "",
-    "link": "https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions",
-    "published": "2026-11-27T09:00:00-05:00",
+    "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+    "published": "Wed, 25 Nov 2026 22:44:32 +0000",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "The Verge",
-    "title": "The Oura Ring 5 just got its biggest discount ever for Black Friday",
-    "ai_summary": "• Oura Ring 5 hits all-time low of $299 during Black Friday sales.\n• The device offers a $100 discount, addressing previous high price barriers.\n• It remains the top-rated smart ring for health tracking and monitoring.",
+    "title": "Allstate has been suffering an outage since Monday",
+    "ai_summary": "• On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still [&#8230;]",
     "student_angle": "",
-    "link": "https://www.theverge.com/gadgets/1041299/oura-ring-5-black-friday-2026-deal-sale",
-    "published": "2026-11-27T08:30:00-05:00",
+    "link": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+    "published": "2026-11-27T16:52:42-05:00",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "The Verge",
-    "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
-    "ai_summary": "• GTA VI features a unique narrative ending distinct from previous open-world entries.\n• The world is not accessible post-credits, shifting focus to the main story.\n• This design choice prioritizes narrative closure over traditional sandbox exploration.",
+    "title": "The 25 best gaming deals we’ve found so far for Black Friday",
+    "ai_summary": "• While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful to display all of the deals we think are worth your [&#8230;]",
     "student_angle": "",
-    "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
-    "published": "2026-11-27T08:00:00-05:00",
+    "link": "https://www.theverge.com/gadgets/1042951/best-black-friday-gaming-deals-ps5-nintendo-2026-sale",
+    "published": "2026-11-27T16:50:00-05:00",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
   },
   {
     "source": "The Verge",
-    "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
-    "ai_summary": "• Sony, LG, and TCL TVs are discounted by over 50% for Black Friday.\n• Major retailers offer significant price cuts on established television brands during the holiday sale.\n• Consumer electronics prices drop sharply, making high-end displays more accessible for students.",
+    "title": "The absolute best Black Friday deals we’ve found (so far)",
+    "ai_summary": "• This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had [&#8230;]",
     "student_angle": "",
-    "link": "https://www.theverge.com/gadgets/1042744/best-black-friday-tv-deals-2026",
-    "published": "2026-11-27T07:30:00-05:00",
+    "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+    "published": "2026-11-27T16:09:43-05:00",
     "category": "Industry News",
-    "tags": "Product & PM"
+    "tags": ""
+  },
+  {
+    "source": "The Verge",
+    "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+    "ai_summary": "• Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather than fight it, to embrace the modding community. The latest update adds several [&#8230;]",
+    "student_angle": "",
+    "link": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+    "published": "2026-11-27T15:48:04-05:00",
+    "category": "Industry News",
+    "tags": ""
   }
 ]
